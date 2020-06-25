@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:55Z</Created>
+  <LastSaved>2020-05-26T09:48:55Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="269.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="569.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="250.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Status Effects</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Stunned_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Stunned</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Étourdi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Stunned_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Stun interrupts and prevents targets from acting or moving for a short period of time.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">L'Étourdissement interrompt les cibles et les empêche de se déplacer pendant quelques instants.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Poisoned_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Poisoned</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Empoisonné</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Poisoned_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Poison deals Toxic Damage over time to the target.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Le Poison inflige des dégâts Toxiques sur le temps à la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Burning_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burning</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Brûle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Burning_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burning deals Fire Damage over time both to the target and those around it.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Les Brûlures inflige des dégâts sur le temps à la cible et autour de la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Frozen_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Frozen</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gelé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Frozen_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Freeze prevents target from acting or moving.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Le Gel empêche la cible d'agir et de se déplacer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Bleeding_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Saigne</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Bleeding_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bleed deals Rend Damage over time.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Le Saignement inflige des dégâts sur la durée.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Shocked_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Shocked</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Électrocuté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Shocked_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Shock deals Lightning Damage over time. Additional damage can occur if several characters afflicted with shock stay close together.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">L'Électrocution inflige des dégâts au fil du temps. Des dégâts supplémentaires peuvent se produire si plusieurs ennemis subissant l'Électrocution restent proches.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Affaibli</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Weakness reduces the Damage dealt by the target.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Faiblesse réduit les dégâts infligés par la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Stasis_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Stasis</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Stase</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Stasis_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Stasis slows every movement of the target.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">La Stase ralentit tous les mouvements de la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Curse</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Curse increases the Damage taken by the target.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Malédiction augmente les dégâts subis par la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DBNO</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_PressSpaceToRevive</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hold Space for second wind\n%1/%2 Revive Tokens Remaining</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maintenez Espace pour activer second souffle\n%1/%2 Chance(s) restante(s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ClicToReviveAlly</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Click to assist</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Cliquez pour l'aider</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_press_x_to_give_up</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hold X to Give up</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maintenez la touche X pour abandonner</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>25</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

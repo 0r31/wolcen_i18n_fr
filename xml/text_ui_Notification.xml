@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:55Z</Created>
+  <LastSaved>2020-05-26T09:48:55Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="336.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="470.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.3125">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Friendlist</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_HasComeOnline</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;is now Online&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;est en ligne&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_HasComeOffline</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;is now Offline&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;est en ligne&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_SentFriendRequest</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#afafaf&quot;&gt;%1 sent you a Friend Request&lt;/Font&gt; &lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#afafaf&quot;&gt;%1 vous a envoyé une demande d'ami&lt;/Font&gt; &lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt; </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_AcceptedFriendRequest</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;Accepted your Friend Request&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;a accepté votre demande d'ami&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_GroupInvitationSentTo</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#afafaf&quot;&gt;Group Invite has been sent to &lt;/Font&gt; &lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#afafaf&quot;&gt;Une invitation à rejoindre le groupe a été envoyée à &lt;/Font&gt; &lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt; </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_DeclinedGroupInvitation</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;Declined your Group Invitation&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;a refusé votre invitation à rejoindre le groupe&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_LeftTheGroup</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;Left the Group&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;a quitté le groupe&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_JoinedTheGroup</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;Joined the Group&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;a rejoint le groupe&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_FriendRequestSentTo</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#afafaf&quot;&gt;Friend Request Sent to &lt;/Font&gt;&lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#afafaf&quot;&gt;Demande d'ami envoyée à &lt;/Font&gt;&lt;Font color=&quot;#ffffff&quot;&gt;%1&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_Invitation</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Friend Invitation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Invitation d'ami</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_IsInvitingYou</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Is Inviting you</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">vous invite</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_YouWereKickedFromGroup</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;You've been kicked&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;Vous avez été renvoyé du groupe.&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_notif_WasKicked</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;has been kicked&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;%1 &lt;/Font&gt;&lt;Font color=&quot;#afafaf&quot;&gt;a été renvoyé du groupe.&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.3125">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dyes/Skins</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ci_notif_newskinunlocked</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">New Skin Unlocked</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Nouveau modèle débloqué</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ci_notif_newtintunlocked</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">New Dye Unlocked</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Nouvelle teinture débloquée</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

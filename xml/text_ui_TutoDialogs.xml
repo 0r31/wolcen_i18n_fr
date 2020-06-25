@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:56Z</Created>
+  <LastSaved>2020-05-26T09:48:56Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="153" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="310.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="430.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">QUESTS/STEPS LABELS</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs0_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 1/14] Soldier of Fortune mode: Mandates&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;In this game mode you will have to work with the Host of the Purple Phoenix to handle Mandates and Expeditions as a bounty hunter. Talk to “Dashing” Eugene on the right of the screen, he will get you started on your first mandate and reward you upon quest completion.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 1/14] Mode Soldat de Fortune: Mandats&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;Dans ce mode de jeu, vous devez travailler avec les Hôtes du Phénix Pourpre pour accomplir des mandats et des expéditions en tant que chasseur de prime. Parlez à Eugene &quot;Le Fringant&quot; sur la droite de l'écran, il vous donnera votre premier mandat et vos récompenses lorsque vous aurez accompli vos missions.&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="120">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs1_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 2/14] Core Combat Mechanics&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Weapon combos:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; There is a different attack combo per weapon type&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Melee-dash:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Melee characters can automatically dash on a foe every 5s. Toggled via the HUD (F)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Use skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Up to 5 abilities can be and added to the skill bar (1, 2, 3, 4, and RIGHT CLICK)&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 2/14] Mécaniques de combat&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Combos:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Chaque type d'arme a différents combos d'attaques.&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Ruée:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Les personnages en mêlée peuvent se ruer sur les ennemis toutes les 5s. Activée via (F)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Compétence:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; 5 compétences max peuvent être mises dans la barre d'action (1, 2, 3, 4, et CLIC DROIT)&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs1_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 3/14] Health Management&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Health:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; If your health pool reaches 0 you are out of combat&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potions:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Use one of your two potions to help you in combat (Q W). Replenish them by killing foes&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potion types:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; There are Health, Rage and Willpower potions&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 3/14] Gestion de la Vie&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Vie:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Si votre vie atteint 0, vous ne pourrez plus vous battre&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potions:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Utilisez une de vos potions pour vous aider en situation de combat(Q W). Rechargez-les en tuant des ennemis&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Types de potions:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Il y a des potions de Vie, Rage, et Volonté.&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="120">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs2_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 4/14] Leveling up in Wolcen&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Basic progression:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Each level grants you 1 of each attribute, max health and health regeneration&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Customize attributes:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; You earn 10 more points to distribute in the Character Sheet (C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Passive skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; And 1 passive point to spend in the Passive Skill Tree (P)&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 4/14] Les niveaux&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Progression:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Chaque niveau vous octroie 1 point de caractéristique, de vie, et de régénération de vie&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Caractéristiques:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vous gagnez 10 points à distribuer dans votre Feuille de Personnage(C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Compétences passives:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Et 1 point à dépenser dans la Porte des Destins(P)&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs3_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 5/14] Dodge Rolling&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Dodge roll:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Allows you to evade dangerous attacks in the cursor direction (SPACE BAR)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stamina points:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; A roll consumes a stamina point. A character starts with 4 points&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stamina regeneration:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Stamina points regenerate quickly over time&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 5/14] Roulade&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Roulade:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vous permet d'esquiver des attaques dangereuses vers la direction du curseur (ESPACE)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Points d'Endurance:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; La roulade consomme un point d'Endurance. Le personnage débute avec 4.&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Régénération d'Endurance:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; L'Endurance se régénère d'elle-même.&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs3_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 6/14] Resource Opposition System&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Resources:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Spells consume Willpower while Attacks skills use Rage&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Opposition:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; When Willpower is used it is transferred over time to the Rage amount and vice-versa&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Transfer Time:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Resources are unusable for a short time while they transfer&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 6/14] Opposition de Ressources&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Ressources:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Les Sorts consomment de la Volonté, les Attaques consomment de la Rage&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Opposition:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Quand la Volonté est utilisée, elle est transférée dans la Rage, et vice-versa&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Temps de transfert:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Les Ressources en transfert ne peuvent être dépensées temporairement.&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="108">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs4_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 7/14] New Combat Skills&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Loot new skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Kill foes and loot items containing skills. They are called Enneracts&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Learning:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; In the inventory (I) use the Enneract to learn its skill (RIGHT CLICK on it)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Buying skill levels:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Sell them to Demetra and gain Primordial Affinity to level up your skills&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 7/14] Compétences&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Obtenir une nouvelle compétence:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Tuez des ennemis pour looter des Enneracts&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Apprentissage:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dans l'inventaire (I), apprenez l'Enneract avec un Clique Droit&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Acheter des niveaux:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vendez les Enneracts à Demetra contre de l'Affinité Primordiale pour acheter des niveaux de compétence&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="119.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs4_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 8/14] Skills upgrades&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Skill experience:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Skills in your action bar will gain experience when you do&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;New effects:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Every five skill levels, you unlock a new talent option for it&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Skill customization:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Adapt your skills to fit your playstyle and try new combos.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 8/14] Amélioration de compétence&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Expérience:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Les compétences dans votre barre d'action gagnent de l'expérience avec vous&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Modificateurs:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Tous les 5 niveaux, vous débloquez un nouveau modificateur.&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Personnalisation:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Adaptez vos compétences à votre style de jeu et expérimentez&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="122.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs5_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 9/14] Status Ailments&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Damage types:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; All damage types except Physical have a chance to inflict an additional effect&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Status ailment chance:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Increase the chances with the Wisdom attribute, passives and gear&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Status ailment resistance:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Likewise, enemies can inflict these same effects on you&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 9/14] Afflictions&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Types de Dégâts&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Tous les types de dégâts(sauf Physiques) infligent un effet supplémentaire&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Chance d'Affliction:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Augmentez vos chances avec de la Sagesse, des passifs, et de l'équipement&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Résistance:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Les ennemis peuvent également vous infliger ces effets&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs6_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 10/14] Unlocked “Expedition mode” with Alexander Ivakin&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Full random:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; In this mode, environments and foes are totally shuffled. Beware of new synergies&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Six levels challenge:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Increased difficulty from level to level, each finishing with a boss fight&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Limited town portal:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Defeat a level boss to have the option to stop the expedition for a reward&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 10/14] Débloquer le &quot;Mode Expédition&quot; avec Alexander Ivakin&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Aléatoire:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dans ce mode, les ennemis et l'environnement sont aléatoires.&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Six niveaux de donjon:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Difficulté augmentée à chaque niveau. Un Boss vous attend à la fin de chaque aile&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Portail en ville:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vous devez vaincre un Boss de niveau pour pouvoir retourner en ville et être récompensé&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs7_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 11/14] Character Sheet&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stats bundles:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Each Attribute groups bonuses useful for most playstyles&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Damage bonuses:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Your three main attributes give bonus damage according to their ranking&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Detailed Character Sheet:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Click on “Show details” to know more about in-depth statistics&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 11/14] Feuille de Personnage&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Caractéristiques:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Chaque caractéristique a des bonus utiles pour la plupart des styles de jeu&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Bonus aux dégâts:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vos trois caractéristiques principales offrent des dégâts en plus basés sur leur rang&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Détails:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Cliquez sur &quot;Détails&quot; pour un aperçu détaillé de vos facultés&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs8_Title</Data></Cell>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="255">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs8_Content</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tips 12/14] Passive Skill Tree&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Class freedom:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Create your own path starting from the center&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Points allocation:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; If you have points to spend, permanently select one node to gain its effect(s)&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Major nodes:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; These offer stronger effects that can change the game rules permanently. Try to fetch as many as possible&lt;/Font&gt;\n\n&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tips 13/14] Rotating Circles&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Multiple starts:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; You are free to start back from the tree center and explore different paths simultaneously&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Rotate rings to create new paths:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Click on a ring on the left panel and rotate it with arrows to reveal new possibilities&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Connected nodes:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Eligible nodes must always be connected to the center or to an already chosen node. Non-eligible nodes that result from a ring rotation will be temporarily turned off until they are connected again&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tips 12/14] Porte des Destins&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Classe Libre:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Tracez votre propre chemin en partant du centre&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Points:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Si vous avez des points à dépenser, sélectionnez et validez un nœud pour bénéficier de ses effets&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Nœuds Majeurs:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Ils offrent des effets plus puissants et peuvent changer les règles de façon permanente&lt;/Font&gt;\n\n&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tips 13/14] Cercles rotatifs&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Exploration:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Vous êtes libres de repartir du début et explorer différents chemins simultanément&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Tournez les anneaux pour ouvrir de nouveaux chemins:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Cliquez sur un anneau du panneau de gauche et faites-le tourner avec les flèches pour débloquer d'autres possibilités&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Nœud connectés:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Les nœud doivent toujours être reliés au centre ou à un nœud déjà sélectionné. Les nœuds qui ne sont pas connectés seront désactivés jusqu'à ce que la connexion soit rétablie&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="135">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_TutoDialogs9_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 14/14] Active Skill Tree&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Skill improvement:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Every 5 skill levels you unlock a new effect that you can activate&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Additional effect:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; When your skill reaches level 15 you can activate up to two skill effects&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Freedom to try:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Skill points can be reallocated on the fly at no cost&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 14/14] Compétences Actives&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Amélioration:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vous débloquez deux nouveaux modificateurs tous les 5 niveaux de compétence&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Effet supplémentaire:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vous gagnez un point de modificateur à chaque niveau de compétence&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Liberté d'expérimenter:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Vous pouvez réassigner vos points à la volée&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beginner Tutorial</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Tutoriel nouveau joueur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_0_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Basic Movement&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Mouvement Basique&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_0_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Left-Click&lt;/font&gt; to walk around. Head North and &lt;font color=&quot;#c5b14d&quot;&gt;left-click&lt;/font&gt; on the ladder to climb up the cliff.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Utilisez &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIC GAUCHE&lt;/b&gt;&lt;/font&gt; pour vous déplacer. Allez au nord et utilisez &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIC GAUCHE&lt;/b&gt;&lt;/font&gt; pour monter l'échelle à la falaise.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_1_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Basic Attacks&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Attaques basiques&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_1_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Watch out, there are dangerous enemies up ahead. &#10;&#10;To defeat them, &lt;font color=&quot;#c5b14d&quot;&gt;Left-Click&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Méfiez-vous ! De dangereux ennemis se trouvent plus loin.&#10;&#10;Pour les vaincre, &lt;font color=&quot;#c5b14d&quot;&gt;Clique gauche&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_2_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Dodging&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Esquiver&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_2_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;Space&lt;/font&gt; to dodge roll.\n\nUse dodge rolls to avoid taking damage and re-position.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;Espace&lt;/font&gt; pour utiliser la roulade.\n\nUtilisez la roulade pour éviter de prendre des dégâts et vous repositionner.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Prologue_Tuto_2_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Dodge rolls require &lt;font color=&quot;#9cba7b&quot;&gt;stamina points&lt;/font&gt;, which are recovered over time.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">La roulade nécessite des &lt;font color=&quot;#9cba7b&quot;&gt;points d'endurance&lt;/font&gt;, qui sont restaurés progressivement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_0_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Items&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Objets&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_0_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; to pick up items.\n\nCheck out your inventory by pressing&lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Clique Gauche&lt;/font&gt; pour ramasser des objets.\n\nAccédez à votre inventaire en appuyant sur&lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_0_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;RIGHT-CLICK&lt;/font&gt; to pick up items. Check out your inventory by pressing&lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.\n\nEquip new weapons and armor by dragging it to its respective slot.\n\nCompare new items with equipped items by hovering over the new item. </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE GAUCHE&lt;/font&gt; pour ramasser des objets. Consultez votre inventaire en appuyant sur&lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.\n\nÉquipez de nouvelles armes et armures en faisant glisser l'objet dans l'emplacement approprié.\n\nComparez les nouveaux objets avec les objets équipés en passant votre souris sur le nouvel objet. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_1_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Potions&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Potions&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_1_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Low on health? Press &lt;font color=&quot;#c5b14d&quot;&gt;Q&lt;/font&gt; to use your &lt;font color=&quot;#b22023&quot;&gt;Health&lt;/font&gt; Potion.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vos points de vie sont bas ? Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;Q&lt;/font&gt; pour utiliser votre &lt;font color=&quot;#b22023&quot;&gt;Potion de vie&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_1_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Potions refill as you defeat enemies.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les potions regagnent des charges lorsque vous tuez des ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_2_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Skills&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Compétences&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_2_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">To use a skill, &lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Pour utiliser une compétence, &lt;font color=&quot;#c5b14d&quot;&gt;Clique Droit&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_2_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Skills require either &lt;font color=&quot;#948ec6&quot;&gt;Willpower&lt;/font&gt; or &lt;font color=&quot;#cb5316&quot;&gt;Rage&lt;/font&gt; to be cast.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les compétences nécessitent de la &lt;font color=&quot;#948ec6&quot;&gt;Volonté&lt;/font&gt; ou de la &lt;font color=&quot;#cb5316&quot;&gt;Rage&lt;/font&gt; pour être utilisées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_3_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Types of Skills&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Types de Compétences&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_3_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">The types of skills you can cast are based on the weapon you are wielding</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les compétences que vous pouvez utiliser sont déterminées par l'arme que vous portez</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_3_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Consult your Active Skills by pressing &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt;.  </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Consultez vos Compétences Actives en appuyant sur &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt;.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_4_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Character Sheet&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Feuille de Personnage&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_4_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; to open your character sheet.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; pour ouvrir votre feuille de personnage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_4_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Assign points to the 4 different attributes. Each attribute affects different aspects of your character.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Répartissez vos points parmi 4 caractéristiques différentes. Chaque caractéristique affecte différents aspects de votre personnage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_5_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Passive Skills&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Compétences Passives&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Svriir_Tuto_5_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;P&lt;/font&gt; to open your Passive Skill Tree and assign skill points. </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;P&lt;/font&gt; pour ouvrir la Porte des Destins et assigner des points de compétence. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_1_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;The World of Wolcen&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Le Monde de Wolcen&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_1_p1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;M&lt;/font&gt; to access the world map. Select a waypoint to teleport to that location.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;M&lt;/font&gt; pour accéder à la carte de la région. Sélectionnez un Point de passage pour vous téléporter dessus.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_1_p2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;T&lt;/font&gt; to use the town portal to return to Stormfall. </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;T&lt;/font&gt; pour créer un portail de Téléportation vers Stormfall. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_2_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Merchants&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Marchands&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_2_p1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Left-Click&lt;/font&gt; on items in the store to buy them.\n\n&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; on items in your inventory to sell them.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Utilisez le &lt;font color=&quot;#c5b14d&quot;&gt;Clique Gauche&lt;/font&gt; en magasin pour acheter des objets.\n\nUtilisez le &lt;font color=&quot;#c5b14d&quot;&gt;Clique Droit&lt;/font&gt; sur les objets de votre inventaire pour les vendre.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_2_p2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">New items are available for purchase every 15 minutes.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Le stock des objets est réinitialisé toutes les 15 minutes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_3_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Demetra's Shop&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Boutique de Demetra&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_3_p1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can trade an Enneract with Demetra for Primordial Affinity, which is used to level up skills at her shop.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vous pouvez échanger un Enneract contre de l'Affinité Primordiale chez Demetra, ce qui vous permettra également d'améliorer vos compétences dans sa boutique.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_3_p2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Increasing the level of a skill unlocks spell modifiers. Press &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt; to open the Active Skills menu.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Augmenter le niveau d'une compétence débloque des modificateurs de compétences. Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt; pour ouvrir le menu des Compétences Actives.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Stormfall_Tuto_3_p3</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Skills can also level up while being used in combat. </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les compétences gagnent également de l'expérience en combat. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Farmsteads_Tuto_1_Title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;Enneracts&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;Enneracts&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Farmsteads_Tuto_1_p1</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You have received an Enneract, an ancient magical device.\n\n&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; the Enneract in your inventory to learn a new skill.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vous avez reçu un Enneract, un dispositif magique antique.\n\nFaites &lt;font color=&quot;#c5b14d&quot;&gt;Clique Droit&lt;/font&gt; sur l'Enneract dans votre inventaire pour apprendre une nouvelle Compétence Active.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Farmsteads_Tuto_1_p2</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; the Enneract in your inventory to learn a new skill.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Clique Droit&lt;/font&gt; sur l'Enneract dans votre inventaire pour apprendre une nouvelle Compétence Active.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_test_tutorial_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dodging and Dashing</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">La Roulade et la Ruée</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_test_tutorial_content</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;When wielding a melee weapon, you will automatically dash to an enemy when attacking them. This dash has a cooldown.\n\nPress &lt;font color=&quot;#c5b14d&quot;&gt;Space&lt;/font&gt; to dodge roll. Each dodge roll requires a &lt;font color=&quot;#9cba7b&quot;&gt;stamina point&lt;/font&gt;, which are recovered over time.&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;Si vous portez une arme de mêlée, vous pouvez vous Ruer automatiquement sur l'ennemi lorsque vous cliquez dessus. La Ruée a un temps de recharge.\n\nAppuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;Espace&lt;/font&gt;pour faire une roulade. La roulade nécessite un &lt;font color=&quot;#9cba7b&quot;&gt;point d'Endurance&lt;/font&gt;, qui se recharge sur le temps.&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_1_title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Basic Movement</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Mouvement de base</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_1_content</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEFT-CLICK&lt;/b&gt;&lt;/font&gt; to walk around. Head North and &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEFT-CLICK&lt;/b&gt;&lt;/font&gt; on the ladder to climb up the cliff.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIQUE GAUCHE&lt;/b&gt;&lt;/font&gt; pour vous déplacer. Allez au Nord et faites &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIQUE GAUCHE&lt;/b&gt;&lt;/font&gt; sur l'échelle pour monter sur la falaise.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_2_title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Basic Combat</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Combat Basique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="120">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_2_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEFT-CLICK&lt;/b&gt;&lt;/font&gt; enemies to Attack them. When wielding a &lt;font color=&quot;#72c6db&quot;&gt;Melee Weapon&lt;/font&gt;, you will automatically &lt;font color=&quot;#72c6db&quot;&gt;Dash Attack&lt;/font&gt; enemies. This dash has a cooldown.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/font&gt; to &lt;font color=&quot;#72c6db&quot;&gt;Dodge Roll&lt;/font&gt;. &lt;font color=&quot;#72c6db&quot;&gt;Dodge Rolls&lt;/font&gt; have a small window of invulnerability. &lt;font color=&quot;#72c6db&quot;&gt;Dodge Rolls&lt;/font&gt; require &lt;font color=&quot;#9cba7b&quot;&gt;Stamina&lt;/font&gt; points, which are recovered over time.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt; to unleash a powerful electric attack.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Utilisez &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIC GAUCHE&lt;/b&gt;&lt;/font&gt; pour Attaquer les ennemis. Quand vous avez une &lt;font color=&quot;#72c6db&quot;&gt;Arme de Corps à Corps&lt;/font&gt; équipée, vous ferez automatiquement une &lt;font color=&quot;#72c6db&quot;&gt;Attaque de Ruée&lt;/font&gt; sur les ennemis. Cette ruée a une délai de récuperation. \n\n• Utilisez &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LA BARRE D'ESPACE&lt;/b&gt;&lt;/font&gt; pour faire une &lt;font color=&quot;#72c6db&quot;&gt;Roulade&lt;/font&gt;. Les &lt;font color=&quot;#72c6db&quot;&gt;Roulades&lt;/font&gt; vous offrent un moment d'invulnérabilité. Les &lt;font color=&quot;#72c6db&quot;&gt;Roulades&lt;/font&gt; consomment des points d'&lt;font color=&quot;#9cba7b&quot;&gt;Endurance&lt;/font&gt;, qui se récupèrent au fil du temps. Utilisez &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIC DROIT&lt;/b&gt;&lt;/font&gt; pour lancer une attaque éléctrique puissante.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_3_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Health and Potions</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vie et Potions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_3_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• You are low on &lt;font color=&quot;#f03a3d&quot;&gt;Health&lt;/font&gt;. If you run out of &lt;font color=&quot;#f03a3d&quot;&gt;Health&lt;/font&gt;, you will go down.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/font&gt; to use your &lt;font color=&quot;#f03a3d&quot;&gt;Health Potion&lt;/font&gt; to heal up. &lt;font color=&quot;#72c6db&quot;&gt;Potions&lt;/font&gt; refill as you defeat enemies</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous n'avez plus beaucoup de &lt;font color=&quot;#b22023&quot;&gt;Vie&lt;/font&gt;. S'il ne vous reste plus de &lt;font color=&quot;#b22023&quot;&gt;Vie&lt;/font&gt;, vous perdrez connaissance.\n\n• Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/font&gt; pour boire de la &lt;font color=&quot;#72c6db&quot;&gt;Potion&lt;/font&gt; de &lt;font color=&quot;#b22023&quot;&gt;Vie&lt;/font&gt;. Les &lt;font color=&quot;#72c6db&quot;&gt;Potions&lt;/font&gt; rechargent quand vous éliminez les ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_4_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Skills</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Compétences</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_4_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• To use a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt;, &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt;. &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; require either &lt;font color=&quot;#948ec6&quot;&gt;Willpower&lt;/font&gt; or &lt;font color=&quot;#cb5316&quot;&gt;Rage&lt;/font&gt; to be cast.\n\n• The types of &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; you can cast are based on your equipped &lt;font color=&quot;#72c6db&quot;&gt;Weapon&lt;/font&gt;. Consult your &lt;font color=&quot;#72c6db&quot;&gt;Active Skills&lt;/font&gt; by pressing &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Utilisez &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;Clic Droit&lt;/b&gt;&lt;/font&gt; pour lancer une &lt;font color=&quot;#72c6db&quot;&gt;Compétence&lt;/font&gt;. Les &lt;font color=&quot;#72c6db&quot;&gt;Compétences&lt;/font&gt; requièrent la &lt;font color=&quot;#948ec6&quot;&gt;Volonté&lt;/font&gt; ou la &lt;font color=&quot;#cb5316&quot;&gt;Rage&lt;/font&gt; pour les jeter. \n\n• Les types de &lt;font color=&quot;#72c6db&quot;&gt;Compétences&lt;/font&gt; que vous pouvez utiliser sont basés sur &lt;font color=&quot;#72c6db&quot;&gt;l'Arme&lt;/font&gt; que vous brandissez. Vous pouvez consulter vos &lt;font color=&quot;#72c6db&quot;&gt;Compétences Actives&lt;/font&gt; en appuyant sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_5_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Levelling Up</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Passer au Niveau Supérieur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_5_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• By killing the monsters of Wolcen, you have grown in power and gained a level.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; to open your &lt;font color=&quot;#72c6db&quot;&gt;Character Sheet&lt;/font&gt;. Assign points to the 4 different &lt;font color=&quot;#72c6db&quot;&gt;Attributes&lt;/font&gt;. Each &lt;font color=&quot;#72c6db&quot;&gt;Attribute&lt;/font&gt; affects different aspects of your character.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; to open your &lt;font color=&quot;#72c6db&quot;&gt;Passive Skill Tree&lt;/font&gt; and assign &lt;font color=&quot;#72c6db&quot;&gt;Skill Points&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous êtes passé au niveau supérieur. \n\n• Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; pour ouvrir votre &lt;font color=&quot;#72c6db&quot;&gt;Feuille de personnage&lt;/font&gt;. Distribuez les points aux 4 &lt;font color=&quot;#72c6db&quot;&gt;Attributs&lt;/font&gt;. Chaque &lt;font color=&quot;#72c6db&quot;&gt;Attribut&lt;/font&gt; affecte les aspects distincts de votre personnage.\n\n• Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; pour ouvrir la &lt;font color=&quot;#72c6db&quot;&gt;Roue des Destins&lt;/font&gt; et attribuez les &lt;font color=&quot;#72c6db&quot;&gt;Points de Compétences Passives&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_6_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The World of Wolcen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Le Monde de Wolcen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_6_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;M&lt;/b&gt;&lt;/font&gt; to access the &lt;font color=&quot;#72c6db&quot;&gt;World Map&lt;/font&gt;. Select a &lt;font color=&quot;#72c6db&quot;&gt;Waypoint&lt;/font&gt; to teleport to that location.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;M&lt;/b&gt;&lt;/font&gt; pour voir la &lt;font color=&quot;#72c6db&quot;&gt;Carte du Monde&lt;/font&gt;. Choisissez un &lt;font color=&quot;#72c6db&quot;&gt;Point de Passage&lt;/font&gt; pour y être téléporté.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_6_2_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Town Portal</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Portail de Téléportation en Ville</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_6_2_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;T&lt;/b&gt;&lt;/font&gt; to use the &lt;font color=&quot;#72c6db&quot;&gt;Town Portal&lt;/font&gt; to return to the &lt;font color=&quot;#72c6db&quot;&gt;Stormfall&lt;/font&gt; hub. You can return there whenever you need to and a &lt;font color=&quot;#72c6db&quot;&gt;Portal&lt;/font&gt; will bring you back.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;T&lt;/b&gt;&lt;/font&gt; pour utiliser le &lt;font color=&quot;#72c6db&quot;&gt;Portail de Ville&lt;/font&gt; pour revenir à &lt;font color=&quot;#72c6db&quot;&gt;Stormfall&lt;/font&gt;. Vous pouvez y accéder à tout moment et un &lt;font color=&quot;#72c6db&quot;&gt;Portail&lt;/font&gt; vous ramenera. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_7_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Break Bar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Barre d'Énergie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="147.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_7_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• Strong enemies are immune to crowd-control effects such as &lt;font color=&quot;#72c6db&quot;&gt;Stun&lt;/font&gt; or &lt;font color=&quot;#72c6db&quot;&gt;Freeze&lt;/font&gt;. Instead, hits that should inflict these effects deplete their &lt;font color=&quot;#72c6db&quot;&gt;Break Bar&lt;/font&gt;. Once their &lt;font color=&quot;#72c6db&quot;&gt;Break Bar&lt;/font&gt; has been fully depleted, the enemy will be &lt;font color=&quot;#72c6db&quot;&gt;Broken&lt;/font&gt; for a very short time, and take increased damage from all sources. Use that opportunity to inflict as much damage as you can!</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Les ennemis puissants sont insensibles aux contrôles de foule tels que &lt;font color=&quot;#72c6db&quot;&gt;Étourdissement&lt;/font&gt; ou &lt;font color=&quot;#72c6db&quot;&gt;Gel&lt;/font&gt;. Néanmoins, les dégâts que vous leur infligez font baisser leur &lt;font color=&quot;#72c6db&quot;&gt;Barre d'Énergie&lt;/font&gt;. Une fois que la barre est vide, les ennemis sont &lt;font color=&quot;#72c6db&quot;&gt;Sonnés&lt;/font&gt; pendant une courte période de temps, et subissent davantage de dégâts de toutes les sources. Utilisez cette opportunité pour infliger autant de dégâts que possible !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_9_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Enneracts and Skills</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Enneracts et Compétences</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_9_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• You are about to receive an &lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt;, an ancient magical device. &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt; the &lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt; in your &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt; to learn a new &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt;.\n\n• You can trade &lt;font color=&quot;#72c6db&quot;&gt;Enneracts&lt;/font&gt; with &lt;font color=&quot;#72c6db&quot;&gt;Demetra&lt;/font&gt; for &lt;font color=&quot;#8664aa&quot;&gt;&lt;b&gt;Primordial Affinity&lt;/b&gt;&lt;/font&gt;, which is used to level up &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; at her shop.\n\n• Increasing the level of a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt; unlocks &lt;font color=&quot;#72c6db&quot;&gt;Skill Modifiers&lt;/font&gt;. Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt; to open the &lt;font color=&quot;#72c6db&quot;&gt;Active Skills Menu&lt;/font&gt;.\n\n• &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; can level up while being used in combat.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous êtes au point de recevoir un &lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt;, un ancien appareil magique. &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;CLIC DROIT&lt;/b&gt;&lt;/font&gt; sur l'&lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt; dans votre &lt;font color=&quot;#72c6db&quot;&gt;Inventaire&lt;/font&gt; pour apprendre une nouvelle &lt;font color=&quot;#72c6db&quot;&gt;Compétence&lt;/font&gt;.\n\n• Vous pouvez échanger les &lt;font color=&quot;#72c6db&quot;&gt;Enneracts&lt;/font&gt; avec &lt;font color=&quot;#72c6db&quot;&gt;Demetra&lt;/font&gt; pour de l'&lt;font color=&quot;#8664aa&quot;&gt;&lt;b&gt;Affinité Primordiale&lt;/b&gt;&lt;/font&gt;, qu'on utilise pour faire passer les &lt;font color=&quot;#72c6db&quot;&gt;Compétences&lt;/font&gt; au niveau supérieur. Aux niveaux supérieurs vous débloquerez les &lt;font color=&quot;#72c6db&quot;&gt;Modificateurs de Compétences&lt;/font&gt;. Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt; pour ouvrir le &lt;font color=&quot;#72c6db&quot;&gt;Menu de Compétences Actives&lt;/font&gt;.\n\n • Les&lt;font color=&quot;#72c6db&quot;&gt;Compétences&lt;/font&gt; peuvent passer au niveau supérieur pendant le combat.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_8_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Gems</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Gemmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="64.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_8_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; are special items that, once socketed to another item, can add magical effects to it or your character. An item needs &lt;font color=&quot;#72c6db&quot;&gt;Sockets&lt;/font&gt; for &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; to be inserted into them. There are many &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; types to discover, and each one has a different effect depending on the &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt; type it is inserted into.\n\n• To insert a &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; into a &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt;, move the &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; into the &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt;. You can buy &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; from &lt;font color=&quot;#72c6db&quot;&gt;Zenefer Stark&lt;/font&gt; in the Stormfall market, and she even can remove &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; from their &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt; for a price.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Les &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt; sont des objets spéciaux qui vous permettent d'ajouter des effets magiques sur vos objets lorsqu'elles sont serties. Un objet doit disposer d'&lt;font color=&quot;#72c6db&quot;&gt;Châsse&lt;/font&gt; pour pouvoir y insérer des &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt;. Il existe plusieurs types de &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt;, et chacune offre des effets différents basés sur le type de &lt;font color=&quot;#72c6db&quot;&gt;Châsse&lt;/font&gt; où vous les sertissez\n\n.• Pour insérer une &lt;font color=&quot;#72c6db&quot;&gt;Gemme&lt;/font&gt;, faites-la glisser jusqu'à la &lt;font color=&quot;#72c6db&quot;&gt;Châsse&lt;/font&gt; souhaitée. Vous pouvez acheter des &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt; auprès de &lt;font color=&quot;#72c6db&quot;&gt;Zenefer Stark&lt;/font&gt; au marché de Stormfall. Elle propose également d'enlever les &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt; que vous avez déjà serties contre de l'or.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_10_title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Aspects d'Apocalypse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_10_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• In her last moments, Mizzeonth fully unlocked the sleeping potential within you, allowing you to embody the &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; of Primordial beings.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;F&lt;/font&gt; to open the Aspects of Apocalypse Selection window, then unlock the &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; you wish to use. Other &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; can be unlocked later in the game and can be switched at any time once unlocked.\n\n• Fill the &lt;font color=&quot;#72c6db&quot;&gt;Primordial Essence&lt;/font&gt; meter by killing monsters. Once it is full enough, press &lt;font color=&quot;#c5b14d&quot;&gt;R&lt;/font&gt; to transform. Your &lt;font color=&quot;#72c6db&quot;&gt;Primordial Essence&lt;/font&gt; depletes over time, when you use skills or when taking hits. When it is fully depleted, you will transform back into your human form.\n\nUse your &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; wisely, as it can help you out when overwhelmed by monsters.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Dans ses derniers instants, Mizzeonth a débloqué votre plein potentiel, vous permettant de vous transformer en &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; des Primordiaux.\n\n• Appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;F&lt;/font&gt; pour ouvrir la fenêtre de sélection des Aspects d'Apocalypse, et débloquez l'&lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; que vous souhaitez. D'autres &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; pourront être débloqués plus tard dans le jeu, et vous pourrez en changer à la volée.\n\n• Remplissez la jauge d'&lt;font color=&quot;#72c6db&quot;&gt;Essence Primordiale&lt;/font&gt; en tuant des monstres. Lorsqu'elle se remplit suffisamment, utilisez &lt;font color=&quot;#c5b14d&quot;&gt;R&lt;/font&gt; pour changer de forme. Votre &lt;font color=&quot;#72c6db&quot;&gt;Essence Primordiale&lt;/font&gt; se vide sur le temps, lorsque vous utilisez des compétences, ou lorsque vous prenez des coups. Lorsqu'elle est totalement vide, vous retournerez en forme humaine.\n\nUtilisez votre &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; avec sagesse, il peut vous être précieux lorsque vous êtes submergé.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_Tutorial_11_title</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Character Sheet</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Feuille de Personnage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105.75">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_Tutorial_11_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• All &lt;font color=&quot;#72c6db&quot;&gt;Attibutes&lt;/font&gt; increase by one when you level up. You are given 10 &lt;font color=&quot;#72c6db&quot;&gt;Attribute Points&lt;/font&gt; to assign freely with every level.\n\n• The 3 &lt;font color=&quot;#72c6db&quot;&gt;Attributes&lt;/font&gt; with the most points increase your overall damage output.\n\n• You can reset your &lt;font color=&quot;#72c6db&quot;&gt;Attribute Points&lt;/font&gt; and &lt;font color=&quot;#72c6db&quot;&gt;Passive Skill Points&lt;/font&gt; using &lt;font color=&quot;#efd373&quot;&gt;Gold&lt;/font&gt; and &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt; respectively.&lt;/Data&gt;&lt;/Cell&gt;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Toutes vos &lt;font color=&quot;#72c6db&quot;&gt;Caractéristiques&lt;/font&gt; augmentent d'un point lorsque vous gagnez un niveau. Vous pouvez également distribuer 10 points de &lt;font color=&quot;#72c6db&quot;&gt;Caractéristiques&lt;/font&gt; supplémentaires à chaque niveau.\n\n• Les 3 &lt;font color=&quot;#72c6db&quot;&gt;Caractéristiques&lt;/font&gt; les plus élevées augmentent vos dégâts globaux.\n\n• Vous pouvez réinitialiser vos &lt;font color=&quot;#72c6db&quot;&gt;Caractéristiques&lt;/font&gt; contre des &lt;font color=&quot;#efd373&quot;&gt;pièces d'or&lt;/font&gt;, et vos points de &lt;font color=&quot;#72c6db&quot;&gt;Compétences Passives&lt;/font&gt; contre de l'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt;.&lt;/Data&gt;&lt;/Cell&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_12_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Gate of Fates</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Roue du Destin</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_12_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• You are given 1 &lt;font color=&quot;#72c6db&quot;&gt;Passive Skill Points&lt;/font&gt; each time you level up, up to a total of 89, and 2 additional points are unlockable through the Champion of Stormfall game mode. Assign your &lt;font color=&quot;#72c6db&quot;&gt;Points&lt;/font&gt; and then &lt;font color=&quot;#72c6db&quot;&gt;Confirm&lt;/font&gt; them.\n\n• You can turn the &lt;font color=&quot;#72c6db&quot;&gt;Gate of Fates&lt;/font&gt; using the ring interface, allowing you to mix and match nodes freely. </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous recevez 1 &lt;font color=&quot;#72c6db&quot;&gt;Point de Compétence Passive&lt;/font&gt; à chaque niveau jusqu'à un total de 89 et 2 points additionnels à débloquer en mode Champion de Stormfall. Attribuez les &lt;font color=&quot;#72c6db&quot;&gt;Points&lt;/font&gt; et puis appuyez sur le bouton &lt;font color=&quot;#72c6db&quot;&gt;Confirmer&lt;/font&gt; à gauche. \n\n• Vous pouvez faire tourner la &lt;font color=&quot;#72c6db&quot;&gt;Roue des Destins&lt;/font&gt; dans l'interface d'anneaux, qui vous permet personaliser l'évolution de l'Arbre de Compétences Passives.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_13_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ASM and Modifiers</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Modificateurs de Compétences</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="168">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Tutorial_13_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• This is the &lt;font color=&quot;#72c6db&quot;&gt;Active Skills Modifier&lt;/font&gt; window. All of the &lt;font color=&quot;#72c6db&quot;&gt;Active Skills&lt;/font&gt; you know are accessed here, where they can be dragged to any slot in your &lt;font color=&quot;#72c6db&quot;&gt;Skill Bar&lt;/font&gt;.\n\n• You can also activate various &lt;font color=&quot;#72c6db&quot;&gt;Modifiers&lt;/font&gt; for each &lt;font color=&quot;#72c6db&quot;&gt;Active Skill&lt;/font&gt;, which will change or enhance their behavior, depending on their rank. Each &lt;font color=&quot;#72c6db&quot;&gt;Modifier&lt;/font&gt; has an associated cost, so only a limited amount of them can be active at the same time. Up to 16 &lt;font color=&quot;#72c6db&quot;&gt;Modifiers&lt;/font&gt; can be unlocked by increasing the &lt;font color=&quot;#72c6db&quot;&gt;Skill Level&lt;/font&gt;.\n\n• It might even be possible to create copies of a skill so each can be modified differently...</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici le &lt;font color=&quot;#72c6db&quot;&gt;Panneau de Compétences&lt;/font&gt;. Toutes les &lt;font color=&quot;#72c6db&quot;&gt;Compétences Actives&lt;/font&gt; que vous apprenez sont accessibles depuis ce panneau et peuvent être glissées dans votre &lt;font color=&quot;#72c6db&quot;&gt;Barre d'Action&lt;/font&gt;.\n\n• Vous pouvez également activer des &lt;font color=&quot;#72c6db&quot;&gt;Modificateurs&lt;/font&gt; pour chaque &lt;font color=&quot;#72c6db&quot;&gt;Compétence Active&lt;/font&gt;, ce qui améliorera ou modifiera les effets de la compétence. Vous pouvez débloquer jusqu'à 16 &lt;font color=&quot;#72c6db&quot;&gt;Modificateurs&lt;/font&gt; en augmentant le &lt;font color=&quot;#72c6db&quot;&gt;Niveau de la Compétence&lt;/font&gt;\n\n• Vous pourrez également dupliquer des compétences en fin de jeu pour les modifier différemment.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="28.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_14_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Jeweler and Unsocketing</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Joaillerie et dessertissage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_14_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• Zanafer Stark, the &lt;font color=&quot;#72c6db&quot;&gt;Jeweler&lt;/font&gt;, can remove any &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; currently socketed to an Item, if you can pay the price.\n\nShe also sells &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; too.\n\nFor the right price, she can even reroll the socket types of your items.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Zanafer Stark, la &lt;font color=&quot;#72c6db&quot;&gt;Joaillière&lt;/font&gt;, peut enlever des &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt; serties dans un objet contre des pièces d'or.\n\nElle vend également des &lt;font color=&quot;#72c6db&quot;&gt;Gemmes&lt;/font&gt; et vous permet de modifier les &lt;font color=&quot;#72c6db&quot;&gt;Châsses&lt;/font&gt; des objets éligibles contre de l'or.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="35.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_15_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Archivist</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Archiviste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_15_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• This is Demetra’s shop, also known as the &lt;font color=&quot;#72c6db&quot;&gt;Archivist&lt;/font&gt;. She can take &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt; you have harvested from Enneracts to increase the &lt;font color=&quot;#72c6db&quot;&gt;Level&lt;/font&gt; of &lt;font color=&quot;#72c6db&quot;&gt;Active Skills&lt;/font&gt; you have learned.\n\n• She can also sell you &lt;font color=&quot;#72c6db&quot;&gt;Enneracts&lt;/font&gt; for &lt;font color=&quot;#72c6db&quot;&gt;Gold&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici la boutique de l'&lt;font color=&quot;#72c6db&quot;&gt;Archiviste&lt;/font&gt; Demetra. Elle peut manipuler l'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt; que vous récoltez depuis les Enneracts pour augmenter le &lt;font color=&quot;#72c6db&quot;&gt;Niveau&lt;/font&gt; d'une &lt;font color=&quot;#72c6db&quot;&gt;Compétence Active&lt;/font&gt; que vous avez apprise.\n\n• Elle peut également vous vendre des &lt;font color=&quot;#72c6db&quot;&gt;Enneracts&lt;/font&gt; contre des &lt;font color=&quot;#72c6db&quot;&gt;pièces d'or&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="40.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_16_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Inventaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_16_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• This is your &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt;. Any &lt;font color=&quot;#72c6db&quot;&gt;Item&lt;/font&gt; you pick up will end up here. You can &lt;font color=&quot;#c5b14d&quot;&gt;LEFT-CLICK&lt;/font&gt; on an item to move it, or &lt;font color=&quot;#c5b14d&quot;&gt;RIGHT-CLICK&lt;/font&gt; to equip it. To discard an item to the ground, move the &lt;font color=&quot;#72c6db&quot;&gt;Item&lt;/font&gt; outside of the &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt; window.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici votre &lt;font color=&quot;#72c6db&quot;&gt;Inventaire&lt;/font&gt;. Les &lt;font color=&quot;#72c6db&quot;&gt;Objets&lt;/font&gt; que vous ramassez finissent ici. Vous pouvez utiliser le &lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE GAUCHE&lt;/font&gt; pour enlever un objet ou le &lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE DROIT&lt;/font&gt; pour l'équiper. Pour jeter un objet au sol, déplacez le hors de la fenêtre d'&lt;font color=&quot;#72c6db&quot;&gt;Inventaire&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_17_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ethereal Reagents</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Réactifs Éthérés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_17_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• You have just been given your first &lt;font color=&quot;#72c6db&quot;&gt;Ethereal Reagent&lt;/font&gt;. These are used to make alterations to the current &lt;font color=&quot;#72c6db&quot;&gt;Magic Effects&lt;/font&gt; on any items you may have. There are four different &lt;font color=&quot;#72c6db&quot;&gt;Reagents&lt;/font&gt;, each having their own effect on the &lt;font color=&quot;#72c6db&quot;&gt;Magic Effect&lt;/font&gt; of your items.\n\n• Each &lt;font color=&quot;#72c6db&quot;&gt;Reagent&lt;/font&gt; comes in Normal and Legendary versions; Normal &lt;font color=&quot;#72c6db&quot;&gt;Reagents&lt;/font&gt; can only be used on Rare or Magic items; Legendary &lt;font color=&quot;#72c6db&quot;&gt;Reagents&lt;/font&gt; only on Legendary items.\n\n• To use a Reagent on an item, &lt;font color=&quot;#c5b14d&quot;&gt;RIGHT-CLICK&lt;/font&gt; on the &lt;font color=&quot;#72c6db&quot;&gt;Reagent&lt;/font&gt;  you wish to use, and then &lt;font color=&quot;#c5b14d&quot;&gt;LEFT-CLICK&lt;/font&gt; on the item of your choice to trigger its effect.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous avez reçu votre premier &lt;font color=&quot;#72c6db&quot;&gt;Réactif Éthéré&lt;/font&gt;. Cet objet vous permet d'appliquer des modification aux &lt;font color=&quot;#72c6db&quot;&gt;Effets Magiques&lt;/font&gt; des objets. Il existe 4 types de &lt;font color=&quot;#72c6db&quot;&gt;Réactifs&lt;/font&gt; avec leurs propres modifications sur les &lt;font color=&quot;#72c6db&quot;&gt;Effets Magiques&lt;/font&gt;.\n\n• Chaque &lt;font color=&quot;#72c6db&quot;&gt;Réactif&lt;/font&gt; existe en version Normale et Légendaire; Un &lt;font color=&quot;#72c6db&quot;&gt;Réactif&lt;/font&gt; Normal ne s'applique que sur un objets Magique ou Rare; Un &lt;font color=&quot;#72c6db&quot;&gt;Réactif&lt;/font&gt; Légendaire ne s'applique sur sur les objets Légendaires.\n\n• Pour utiliser un Réactif, utilisez le &lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE GAUCHE&lt;/font&gt; sur le &lt;font color=&quot;#72c6db&quot;&gt;Réactif&lt;/font&gt; puis faites un &lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE DROIT&lt;/font&gt; sur l'objet que vous souhaitez modifier.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_18_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Dyes</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Teintures</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_18_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• You have used your first &lt;font color=&quot;#72c6db&quot;&gt;Dye&lt;/font&gt;. To use it on an armor piece, open the &lt;font color=&quot;#72c6db&quot;&gt;Cosmetic Inventory&lt;/font&gt; by pressing &lt;font color=&quot;#c5b14d&quot;&gt;B&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous avez acquis votre première &lt;font color=&quot;#72c6db&quot;&gt;Teinture&lt;/font&gt;. Pour l'appliquer sur une pièce d'armure, ouvrez l'&lt;font color=&quot;#72c6db&quot;&gt;Inventaire Cosmétique&lt;/font&gt; en appuyant sur &lt;font color=&quot;#c5b14d&quot;&gt;B&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_19_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Cosmetic Inventory</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Inventaire Cosmétique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_19_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• This is the &lt;font color=&quot;#72c6db&quot;&gt;Cosmetic Inventory&lt;/font&gt;. Here, you can apply armor &lt;font color=&quot;#72c6db&quot;&gt;Dyes&lt;/font&gt; that you have learned for a fee. To do that, select the &lt;font color=&quot;#72c6db&quot;&gt;“Dyes”&lt;/font&gt; tab, select which armor section you want to dye on the right panel, and then select which colors you would like to apply to each &lt;font color=&quot;#72c6db&quot;&gt;Color Slot&lt;/font&gt;.\n\n• You can also change the &lt;font color=&quot;#72c6db&quot;&gt;Skin&lt;/font&gt; of any item you have equipped to the &lt;font color=&quot;#72c6db&quot;&gt;Skin&lt;/font&gt; of another item. Available &lt;font color=&quot;#72c6db&quot;&gt;Skins&lt;/font&gt; are listed on the left, under the &lt;font color=&quot;#72c6db&quot;&gt;“Skins”&lt;/font&gt; tab. Any new item you pick up for the first time will be unlocked as a &lt;font color=&quot;#72c6db&quot;&gt;Skin&lt;/font&gt; for all your characters, so pay attention!\n\n•To open the &lt;font color=&quot;#72c6db&quot;&gt;Cosmetic Inventory&lt;/font&gt; again, press &lt;font color=&quot;#c5b14d&quot;&gt;B&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici l'&lt;font color=&quot;#72c6db&quot;&gt;Inventaire Cosmétique&lt;/font&gt;. Vous pouvez y appliquer des &lt;font color=&quot;#72c6db&quot;&gt;Teintures&lt;/font&gt; que vous avez apprises contre un certain montant. Pour cela, sélectionnez la pièce d'armure sur laquelle vous souhaitez appliquer une couleur sur le panneau de droite, sélectionnez l'onglet &lt;font color=&quot;#72c6db&quot;&gt;&quot;Teintures&quot;&lt;/font&gt; sur le panneau de gauche, choisissez l'un des emplacements de couleur et sélectionnez la &lt;font color=&quot;#72c6db&quot;&gt;Teinture&lt;/font&gt; dans la liste des couleurs disponibles.\n\n• Vous pouvez également changer le &lt;font color=&quot;#72c6db&quot;&gt;Modèle&lt;/font&gt; d'armure ou d'arme équipée depuis l'onglet &lt;font color=&quot;#72c6db&quot;&gt;Modèles&lt;/font&gt;. Lorsque vous ramassez un modèle d'objet pour la première fois, il est débloqué en tant que &lt;font color=&quot;#72c6db&quot;&gt;Modèle&lt;/font&gt; pour tous vos personnages.\n\n• Pour ouvrir l'&quot;Inventaire Cosmétique&quot;, appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&quot;B&quot;&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_20_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Duplicating Skills</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Dupliquer des Compétences</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_20_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• Welcome back to the &lt;font color=&quot;#72c6db&quot;&gt;Archivist&lt;/font&gt; window. Now that one of your &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; has reached the appropriate level, you can begin to create further duplicates of your &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt;. To duplicate a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt;, simply open its leveling tab and click &lt;font color=&quot;#72c6db&quot;&gt;&quot;Duplicate&quot;&lt;/font&gt; once you have the necessary resources.\n\n• Duplicating your &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; allows you to assign different modifiers to each duplicate, allowing you to tailor each of your &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; to deal with different kinds of scenarios. Note that each duplicate of a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt; will level independently from the other duplicates you own.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Ravis de vous revoir chez l'&lt;font color=&quot;#72c6db&quot;&gt;Archiviste&lt;/font&gt;. Maintenant que l'une de vos &lt;font color=&quot;#72c6db&quot;&gt;Compétences&lt;/font&gt; a atteint le niveau approprié, vous pouvez commencer à la dupliquer. Pour dupliquer une &lt;font color=&quot;#72c6db&quot;&gt;Compétence&lt;/font&gt;, ouvrez-la dans le Panneau des Compétences et cliquez sur &lt;font color=&quot;#72c6db&quot;&gt;&quot;Dupliquer&quot;&lt;/font&gt; si vous disposez des ressources nécessaires.\n\n• Dupliquer vos &lt;font color=&quot;#72c6db&quot;&gt;Compétences&lt;/font&gt; vous permet d'assigner des Modificateurs différents à chaque duplicata et vous préparer à faire face à d'autres scénarios avec une même &lt;font color=&quot;#72c6db&quot;&gt;Compétence&lt;/font&gt;. Prenez note que chaque duplicata d'une &lt;font color=&quot;#72c6db&quot;&gt;Compétence&lt;/font&gt; dispose de son propre niveau.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_21_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Loot pickup and Inventory opening</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Butin et Inventaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_21_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;LEFT-CLICK&lt;/font&gt; on an item to transfer it to your &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt;. Open your &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt; by pressing &lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE GAUCHE&lt;/font&gt; pour ramasser un objet et le placer dans votre &lt;font color=&quot;#72c6db&quot;&gt;Inventaire&lt;/font&gt;. Ouvrez votre &lt;font color=&quot;#72c6db&quot;&gt;Inventaire&lt;/font&gt; en appuyant sur &lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_22_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Fast Travel</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Voyage Rapide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Tutorial_22_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• &lt;font color=&quot;#72c6db&quot;&gt;Fast Travel&lt;/font&gt; allows you to quickly travel to any &lt;font color=&quot;#72c6db&quot;&gt;Waypoint&lt;/font&gt; that you have unlocked.\n\n•  To &lt;font color=&quot;#72c6db&quot;&gt;Fast Travel&lt;/font&gt; to an unlocked &lt;font color=&quot;#72c6db&quot;&gt;Waypoint&lt;/font&gt;, enter the &lt;font color=&quot;#72c6db&quot;&gt;World Map&lt;/font&gt; and click on the &lt;font color=&quot;#72c6db&quot;&gt;Waypoint&lt;/font&gt; you wish to travel to. This will tranport you instantly to the other &lt;font color=&quot;#72c6db&quot;&gt;Waypoint&lt;/font&gt;, but unlike the &lt;font color=&quot;#72c6db&quot;&gt;Town Portal&lt;/font&gt;, using &lt;font color=&quot;#72c6db&quot;&gt;Fast Travel&lt;/font&gt; will not leave a &lt;font color=&quot;#72c6db&quot;&gt;Portal&lt;/font&gt; that allows you to return to your previous location.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• &lt;font color=&quot;#72c6db&quot;&gt;Le Voyage Rapide&lt;/font&gt; vous permet de vous téléporter instantanément vers n'importe quel &lt;font color=&quot;#72c6db&quot;&gt;point de passage&lt;/font&gt; que vous avez déverrouillé.\n\n•  Pour &lt;font color=&quot;#72c6db&quot;&gt;Voyager Rapidement&lt;/font&gt; vers un &lt;font color=&quot;#72c6db&quot;&gt;Point de Passage&lt;/font&gt; déverrouillé, ouvrez la &lt;font color=&quot;#72c6db&quot;&gt;Carte du Monde&lt;/font&gt; et cliquez sur le &lt;font color=&quot;#72c6db&quot;&gt;Point de Passage&lt;/font&gt; vers lequel vous souhaitez aller. Ceci vous transportera instantanément à ce &lt;font color=&quot;#72c6db&quot;&gt;Point de Passage&lt;/font&gt;, mais contrairement au &lt;font color=&quot;#72c6db&quot;&gt;Portail de Téléportation en Ville&lt;/font&gt;, utiliser le &lt;font color=&quot;#72c6db&quot;&gt;Voyage Rapide&lt;/font&gt; ne laissera pas de &lt;font color=&quot;#72c6db&quot;&gt;Portail&lt;/font&gt; permettant le retour vers votre position initiale.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ENDGAME TUTS</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_CityBuilding_WelcomeToEndgame_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Welcome to Champion of Stormfall</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Bienvenue au Champion de Stormfall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="77.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_CityBuilding_WelcomeToEndgame_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Congratulations, you have completed all three acts of Wolcen’s campaign. The last 6 months since the events at the Conflux have been a blur, and now it seems that the noble houses of Stormfall have seen fit to appoint you the Regent of their city.\n\n• As Regent, you will manage the city of Stormfall and continue to grow your character’s strength and abilities. To begin your duty, talk to &lt;font color=&quot;#72c6db&quot;&gt;Thunderblade Zalahir&lt;/font&gt; or press &lt;font color=&quot;#c5b14d&quot;&gt;N&lt;/font&gt; to open the &lt;font color=&quot;#72c6db&quot;&gt;Stormfall Overview Screen&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Félicitations, vous avez terminé les trois premiers actes de la campagne de Wolcen. Nous sommes 6 mois plus tard, et vous avez visiblement été nommé Régent de Stormfall par les maisons nobles.\n\nEn tant que Régent, vous devez gérer la cité de Stormfall et vous pouvez également continuer à augmenter les capacités de votre personnage. Pour exercer votre pouvoir, parlez au &lt;font color=&quot;#72c6db&quot;&gt;Foudrelame Zalahir&lt;/font&gt; ou appuyez sur &lt;font color=&quot;#c5b14d&quot;&gt;&quot;N&quot;&lt;/font&gt;pour ouvrir le panneau de &lt;font color=&quot;#72c6db&quot;&gt;Gestion de Stormfall&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_CityBuilding_WelcomeInCMUI_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stormfall Overview Screen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Panneau de Gestion de Stormfall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_CityBuilding_WelcomeInCMUI_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Stormfall Overview Screen&lt;/font&gt;. From here, you can access various &lt;font color=&quot;#72c6db&quot;&gt;Buildings&lt;/font&gt;. Each &lt;font color=&quot;#72c6db&quot;&gt;Building&lt;/font&gt; can unlock various gameplay features like a fifth skill slot, more personal stash tabs, your final &lt;font color=&quot;#72c6db&quot;&gt;Aspect of Apocalypse&lt;/font&gt;, and more.\n\n• To access a &lt;font color=&quot;#72c6db&quot;&gt;Building&lt;/font&gt;, simply click on its corresponding icon. Once within a &lt;font color=&quot;#72c6db&quot;&gt;Building&lt;/font&gt; , you will need to launch a &lt;font color=&quot;#72c6db&quot;&gt;Construction Project&lt;/font&gt; to unlock its functions. To help you understand what these functions are, each building has a &lt;font color=&quot;#72c6db&quot;&gt;Tutorial&lt;/font&gt; that can be accessed by clicking the &lt;font color=&quot;#72c6db&quot;&gt;Question Mark&lt;/font&gt; icon in the top right corner of each &lt;font color=&quot;#72c6db&quot;&gt;Building's&lt;/font&gt; window.\n\n• At the moment, the &lt;font color=&quot;#72c6db&quot;&gt;Stormfall Palace&lt;/font&gt; is already constructed, and you will need to complete &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; there if you are to unlock the &lt;font color=&quot;#72c6db&quot;&gt;Construction Projects&lt;/font&gt; of each &lt;font color=&quot;#72c6db&quot;&gt;Building&lt;/font&gt;. Open the &lt;font color=&quot;#72c6db&quot;&gt;Stormfall Palace&lt;/font&gt; window now by clicking on its icon.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici le panneau de &lt;font color=&quot;#72c6db&quot;&gt;Gestion de Stormfall&lt;/font&gt;. D'ici, vous pouvez accéder à plusieurs &lt;font color=&quot;#72c6db&quot;&gt;Bâtiments&lt;/font&gt;. Chaque &lt;font color=&quot;#72c6db&quot;&gt;Bâtiment&lt;/font&gt; vous permet de débloquer du contenu de jeu comme un cinquième emplacement de compétence, des onglets de banque, votre dernier &lt;font color=&quot;#72c6db&quot;&gt;Aspect d'Apocalypse&lt;/font&gt;, et plus encore.\n\n• Vous devez lancer un &lt;font color=&quot;#72c6db&quot;&gt;Projet de Construction&lt;/font&gt; pour accéder aux fonctionnalités d'un &lt;font color=&quot;#72c6db&quot;&gt;Bâtiment&lt;/font&gt;. Pour le moment, le &lt;font color=&quot;#72c6db&quot;&gt;Palace de Stormfall&lt;/font&gt; est disponible et vous pouvez accéder à ses fonctionnalités immédiatement. Ouvrez le &lt;font color=&quot;#72c6db&quot;&gt;Palace de Stormfall&lt;/font&gt; en cliquant sur son icône.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_CityHall_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Palace Projects</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Projets du Palace</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="96.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_CityHall_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• This is &lt;font color=&quot;#72c6db&quot;&gt;Stormfall Palace&lt;/font&gt;, your new home as Regent. From here, you can initiate &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; that will increase the city’s total &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt;, as well as the number of &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; you can have active at any one time. Every &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; needs a set amount of &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; to complete, so the more that is generated by Stormfall, the faster &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; will be completed.\n\n• Certain &lt;font color=&quot;#72c6db&quot;&gt;Palace Projects&lt;/font&gt; also need to be completed before you can initiate a &lt;font color=&quot;#72c6db&quot;&gt;Building Construction Project&lt;/font&gt;. For example, the &lt;font color=&quot;#72c6db&quot;&gt;Seekers Garrison&lt;/font&gt; requires you to invest in &lt;font color=&quot;#72c6db&quot;&gt;Training Facilities&lt;/font&gt; before it can be constructed. Go ahead and select the &lt;font color=&quot;#72c6db&quot;&gt;Training Facilities Project&lt;/font&gt;, and &lt;font color=&quot;#c5b14d&quot;&gt;LEFT-CLICK&lt;/font&gt; “Start Project” to begin. Active &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; will be listed on the top-left of the screen.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici le &lt;font color=&quot;#72c6db&quot;&gt;Palace de Stormfall&lt;/font&gt;, votre foyer en tant que Régent. Vous pouvez ici lancer des Projets qui augmenteront la &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; totale de la cité ou le nombre de &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; simultanés. Les &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; ont besoin de &lt;font color=&quot;#72c6db&quot;&gt;Production&lt;/font&gt; pour être terminés, et plus vous en générez avec la cité de Stormfall, plus vite vous pourrez terminer vos &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt;.\n\n• Certains &lt;font color=&quot;#72c6db&quot;&gt;Projets du Palace&lt;/font&gt; doivent être terminés avant de pouvoir lancer la &lt;font color=&quot;#72c6db&quot;&gt;Construction de Bâtiment&lt;/font&gt;. Par exemple, vous devez investir dans les &lt;font color=&quot;#72c6db&quot;&gt;Projets d'Infrastructures de Formation&lt;/font&gt; pour pouvoir accéder à la &lt;font color=&quot;#72c6db&quot;&gt;Caserne des Chercheurs&lt;/font&gt;. Sélectionnez les &lt;font color=&quot;#72c6db&quot;&gt;Projets d'Infrastructures de Formation&lt;/font&gt; et faites un &lt;font color=&quot;#c5b14d&quot;&gt;CLIQUE GAUCHE&lt;/font&gt; sur &quot;Démarrer&quot; pour le lancer. Les &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; actifs sont listés en haut à gauche de l'écran.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_IntroduceNPC1_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mandates Board</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Tableau des Mandats</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="54">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_IntroduceNPC1_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This is the &lt;font color=&quot;#72c6db&quot;&gt;Mandates Board&lt;/font&gt;, where you can start exploring simple dungeons for loot. Once you have accepted a &lt;font color=&quot;#72c6db&quot;&gt;Mandate&lt;/font&gt;, go through the portal to begin.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Voici le &lt;font color=&quot;#72c6db&quot;&gt;Tableau des Mandats&lt;/font&gt;, d'où vous pouvez lancer des missions simples de donjons pour obtenir des butins. Une fois que vous avez accepté un &lt;font color=&quot;#72c6db&quot;&gt;Mandat&lt;/font&gt;, prenez le portail qui s'ouvre juste à côté.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_IntroduceNPC2_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Expeditions Map</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Carte des Expéditions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="76.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_IntroduceNPC2_Content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• This is the &lt;font color=&quot;#72c6db&quot;&gt;Expeditions Map&lt;/font&gt;. Here, you can accept quests to explore difficult dungeons for greater rewards. Once an &lt;font color=&quot;#72c6db&quot;&gt;Expedition&lt;/font&gt; has started, you can only come back to Stormfall when reaching the end of a floor. Should you decide to continue, the dungeon will become more difficult, but the rewards will increase too.\n\n• You can further increase the difficulty and rewards by adding &lt;font color=&quot;#72c6db&quot;&gt;Area Modifiers&lt;/font&gt;. Click &lt;font color=&quot;#72c6db&quot;&gt;“Roll Area Modifiers”&lt;/font&gt; to add them to the &lt;font color=&quot;#72c6db&quot;&gt;Expedition&lt;/font&gt;. Add enough &lt;font color=&quot;#72c6db&quot;&gt;Area Modifiers&lt;/font&gt;, and you may get the opportunity to lure powerful enemies for even better rewards…\n\n• Finally, if you have a &lt;font color=&quot;#72c6db&quot;&gt;Special Mission&lt;/font&gt; item, use it here to access its destination.\n\nOnce you’ve selected your difficulty level, accept the quest and go through the portal to begin.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Voici la &lt;font color=&quot;#72c6db&quot;&gt;Carte des Expéditions&lt;/font&gt;. Vous pouvez ici accepter des quêtes pour explorer des donjons plus difficiles et recevoir de plus grandes récompenses. Lorsqu'une &lt;font color=&quot;#72c6db&quot;&gt;Expédition&lt;/font&gt; est lancée, vous ne pouvez revenir à Stormfall qu'en ayant terminé un niveau. Si vous décidez de continuer au niveau suivant, le donjon deviendra plus difficile, mais les récompenses deviendront également plus intéressantes.\n\n• Vous pouvez augmenter la difficulté de base en sélectionnant des &lt;font color=&quot;#72c6db&quot;&gt;Modificateurs de Zone&lt;/font&gt;. Cliquez sur &lt;font color=&quot;#72c6db&quot;&gt;&quot;Modificateurs de Zone&quot;&lt;/font&gt; pour en ajouter à l'Expédition. Si vous ajoutez suffisamment de &lt;font color=&quot;#72c6db&quot;&gt;Modificateurs de Zone&lt;/font&gt;, vous pourrez attirer des Immaculés pour recevoir de meilleures récompenses…\n\nPour finir, si vous avez un objet de &lt;font color=&quot;#72c6db&quot;&gt;Mission Spéciale&lt;/font&gt;, vous pouvez l'utiliser ici.\n\nUne fois votre niveau de difficulté sélectionné, acceptez la quête et passez le portail pour commencer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_FinishedFirstActivity_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">First Project Complete</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Premier Projet Terminé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="81">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_FinishedFirstActivity_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Congratulations, you have completed your first &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt;. Now that the &lt;font color=&quot;#72c6db&quot;&gt;Training Facilities&lt;/font&gt; have been completed, you can begin the &lt;font color=&quot;#72c6db&quot;&gt;Construction Project&lt;/font&gt; for the &lt;font color=&quot;#72c6db&quot;&gt;Seekers Garrison&lt;/font&gt;. Or, if you would like to construct a different building, click on its icon and find out which &lt;font color=&quot;#72c6db&quot;&gt;Palace Project&lt;/font&gt; needs to be completed, and then initiate that &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt;.\n\n• Once you are happy with the &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; you have initiated, complete an &lt;font color=&quot;#72c6db&quot;&gt;Activity&lt;/font&gt; (&lt;font color=&quot;#72c6db&quot;&gt;Mandates&lt;/font&gt; or &lt;font color=&quot;#72c6db&quot;&gt;Expeditions&lt;/font&gt;) to end a &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;, which will allocate your total &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; to each active &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Félicitations, vous avez terminé votre premier &lt;font color=&quot;#72c6db&quot;&gt;Projet&lt;/font&gt;. Maintenant que les &lt;font color=&quot;#72c6db&quot;&gt;Infrastructures de Formations&lt;/font&gt; sont accessibles, vous pouvez commencer le &lt;font color=&quot;#72c6db&quot;&gt;Projet de Construction&lt;/font&gt; pour la &lt;font color=&quot;#72c6db&quot;&gt;Caserne des Chercheurs&lt;/font&gt;. Si vous souhaitez construire un autre type de bâtiment, cliquez sur d'autres icônes pour voir ce qui vous intéresse et quel &lt;font color=&quot;#72c6db&quot;&gt;Projet du Palace&lt;/font&gt; permet de le débloquer. Une fois que vous êtes satisfait des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; en cours, terminez une &lt;font color=&quot;#72c6db&quot;&gt;Activité&lt;/font&gt;(&lt;font color=&quot;#72c6db&quot;&gt;Mandat&lt;/font&gt; ou &lt;font color=&quot;#72c6db&quot;&gt;Expédition&lt;/font&gt;) pour finir un &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt;, ce qui agrémentera tous vos projets actifs du total de &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; généré par la cité.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_SeekersGarrison_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Seekers Garrison</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Caserne des Chercheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="56.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_SeekersGarrison_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Seekers Garrison&lt;/font&gt;. Here you can start unique &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; called &lt;font color=&quot;#72c6db&quot;&gt;Seeker Expeditions&lt;/font&gt;. &lt;font color=&quot;#72c6db&quot;&gt;Seeker Expeditions&lt;/font&gt; send Seekers to different locations throughout the world of Wolcen. Each &lt;font color=&quot;#72c6db&quot;&gt;Seeker Expedition&lt;/font&gt; has a different kind of reward attached to it, related to the environment the Seekers will be exploring.\n\n• Note that &lt;font color=&quot;#72c6db&quot;&gt;Seeker Expeditions&lt;/font&gt; have a chance of failure. Some locations are harder to get to than others. Other locations require ships to get to, so you will need to build the &lt;font color=&quot;#72c6db&quot;&gt;Shipyard&lt;/font&gt; before you can access those.\n\n• New &lt;font color=&quot;#72c6db&quot;&gt;Seeker Expeditions&lt;/font&gt; are available each &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;.\n\nHave a look at your available &lt;font color=&quot;#72c6db&quot;&gt;Seeker Expeditions&lt;/font&gt; now.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Bienvenue dans la &lt;font color=&quot;#72c6db&quot;&gt;Caserne des Chercheurs&lt;/font&gt;. Vous pouvez ici lancer des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; uniques appelés &lt;font color=&quot;#72c6db&quot;&gt;Expéditions de Chercheurs&lt;/font&gt;. Les &lt;font color=&quot;#72c6db&quot;&gt;Expéditions de Chercheurs&lt;/font&gt; envoie des Chercheurs à différents endroits du monde de Wolcen. Chacune de ces Expéditions offre différents types de récompenses en fonction de l'environnement exploré par les Chercheurs.\n\n• Prenez note que les &lt;font color=&quot;#72c6db&quot;&gt;Expéditions de Chercheurs&lt;/font&gt; ont une chance d'échouer. Certains endroits sont plus difficiles d'accès que d'autres. Vous aurez également besoin de bateaux pour accéder à certains endroits, ce qui nécessitera de construire le &lt;font color=&quot;#72c6db&quot;&gt;Chantier Naval&lt;/font&gt;.\n\n Chaque nouveau &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt; débloque d'autres &lt;font color=&quot;#72c6db&quot;&gt;Expéditions de Chercheurs&lt;/font&gt;.\n\nJetez un oeil aux &lt;font color=&quot;#72c6db&quot;&gt;Expéditions de Chercheurs&lt;/font&gt; actuellement disponibles.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_TradeAssembly_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Trade Assembly</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Assemblée des Commerces</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="78.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_TradeAssembly_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Trade Assembly&lt;/font&gt;. Here can start unique &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; called &lt;font color=&quot;#72c6db&quot;&gt;Diplomatic Missions&lt;/font&gt;. These &lt;font color=&quot;#72c6db&quot;&gt;Missions&lt;/font&gt; dispatch Diplomats to different societies and cultures scattered throughout Wolcen. Each &lt;font color=&quot;#72c6db&quot;&gt;Mission&lt;/font&gt; has a different kind of reward attached to it, based on a key aspect of the culture your diplomats are visiting.\n\n• Keep in mind that &lt;font color=&quot;#72c6db&quot;&gt;Diplomatic Missions&lt;/font&gt; have a chance of failure. Some places are more difficult to get to, increasing the chance of failure. Other locations require ships to get to, so you will need to build a &lt;font color=&quot;#72c6db&quot;&gt;Shipyard&lt;/font&gt; before you can access those.\n\n• New &lt;font color=&quot;#72c6db&quot;&gt;Missions&lt;/font&gt; are available each &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;.\n\nTake a look at your available &lt;font color=&quot;#72c6db&quot;&gt;Missions now&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue à l'&lt;font color=&quot;#72c6db&quot;&gt;Assemblée des Commerces&lt;/font&gt;. Vous pouvez ici lancer des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; uniques appelés &lt;font color=&quot;#72c6db&quot;&gt;&quot;Missions Diplomatiques&quot;&lt;/font&gt;. Ces &lt;font color=&quot;#72c6db&quot;&gt;Missions&lt;/font&gt; envoient des diplomates dans différentes contrées et cultures du monde de Wolcen. Chaque &lt;font color=&quot;#72c6db&quot;&gt;Mission&lt;/font&gt; offre différents types de récompenses en fonction de la culture visitée par les diplomates.\n\nGardez à l'esprit que les &lt;font color=&quot;#72c6db&quot;&gt;Missions Diplomatiques&lt;/font&gt; ont une chance d'échouer. Certains endroits sont plus difficiles d'accès que d'autres, ce qui augmente les chances d'échec. D'autres endroits nécessiteront un bateau pour s'y rendre, vous devrez donc construire le &lt;font color=&quot;#72c6db&quot;&gt;Chantier Naval&lt;/font&gt; avant de pouvoir y accéder.\n\nChaque nouveau &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt; débloque d'autres &lt;font color=&quot;#72c6db&quot;&gt;Missions&lt;/font&gt;.\n\nJetez un oeil aux &lt;font color=&quot;#72c6db&quot;&gt;Missions Diplomatiques&lt;/font&gt; actuellement disponibles.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_DarkMarket_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Dark Market</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Le Marché Noir</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="92.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_DarkMarket_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Dark Market&lt;/font&gt;. Here, you can begin &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; that will allow you to procure improved versions of the items in your possession, obtain &lt;font color=&quot;#72c6db&quot;&gt;Reagents&lt;/font&gt;, and transform &lt;font color=&quot;#72c6db&quot;&gt;Reagents&lt;/font&gt; into their legendary counterparts. In order to access these &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt;, you will first need to establish their corresponding &lt;font color=&quot;#72c6db&quot;&gt;Contact&lt;/font&gt; in the &lt;font color=&quot;#72c6db&quot;&gt;Dark Market&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue au &lt;font color=&quot;#72c6db&quot;&gt;Marché Noir&lt;/font&gt;. Dans ces lieux, vous pouvez obtenir des versions améliorées des objets en votre possession, obtenir des &lt;font color=&quot;#72c6db&quot;&gt;Réactifs&lt;/font&gt;, et transformer des &lt;font color=&quot;#72c6db&quot;&gt;Réactifs&lt;/font&gt; pour qu'ils s'appliquent sur des objets légendaires. Pour accéder à ces améliorations, vous devez d'abord trouver leurs &lt;font color=&quot;#72c6db&quot;&gt;Contacts&lt;/font&gt; correspondants dans les &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; du &lt;font color=&quot;#72c6db&quot;&gt;Marché Noir&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_TransmutationForge_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Transmutation Forge</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Forge de Transmutation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_TransmutationForge_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Transmutation Forge&lt;/font&gt;. Here you can carry out &lt;font color=&quot;#72c6db&quot;&gt;Transmutation Projects&lt;/font&gt;; these &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; allow you to take an item from your inventory and transmute it into a random item of the same category, quality, and rarity once the &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; has been completed.\n\n• This means that weapons will only transmute into another weapon, and not an armor part or accessory; the transmuted item will also not be of the same type as the item you placed in the forge. For example, a dagger would not become another dagger.\n\n• To begin transmuting an item, drag the item you wish to transmute into the &lt;font color=&quot;#72c6db&quot;&gt;&quot;Insert Item&quot;&lt;/font&gt; slot and click &lt;font color=&quot;#72c6db&quot;&gt;&quot;Start Project&quot;&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue à la &lt;font color=&quot;#72c6db&quot;&gt;Forge de Transmutation&lt;/font&gt;. Vous pouvez ici lancer des &lt;font color=&quot;#72c6db&quot;&gt;Projets de Transmutation&lt;/font&gt; qui vous permettront de transformer un objet en un autre objet de la même catégorie, qualité, et rareté lorsque le &lt;font color=&quot;#72c6db&quot;&gt;Projet&lt;/font&gt; est terminé.\n\n• Cela signifie que ne pouvez pas transformer une arme en une pièce d'armure ou un accessoire par exemple; l'objet transmuté sera également différent du type d'objet que vous aurez mis dans la forge. Une dague ne pourra pas devenir une dague.\n\n• Pour lancer une transmutation, faites glisser l'objet que vous souhaitez transmuter dans l'emplacement &lt;font color=&quot;#72c6db&quot;&gt;&quot;Objet&quot;&lt;/font&gt; et cliquez sur &lt;font color=&quot;#72c6db&quot;&gt;&quot;Démarrer&quot;&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_Bank_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Diamond Bank</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Banque de Diamant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_Bank_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the Diamond Bank. Here you can begin &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; that will unlock additional tabs for your &lt;font color=&quot;#72c6db&quot;&gt;Stash&lt;/font&gt;.                                             .</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Bienvenue dans la &lt;font color=&quot;#72c6db&quot;&gt;Banque de Diamant&lt;/font&gt;. Dans ces lieux, vous pouvez lancer des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; qui débloqueront des &lt;font color=&quot;#72c6db&quot;&gt;Onglets de Banque&lt;/font&gt; supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_AnankisArtifact_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Anankis Artifact</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">L'Artéfact d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="71.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_AnankisArtifact_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Anankis Artifact&lt;/font&gt; window. Here, you can begin a Project to recover an &lt;font color=&quot;#72c6db&quot;&gt;Artifact&lt;/font&gt; discovered in Anankis. Doing so will unlock its power, giving you access to the final &lt;font color=&quot;#72c6db&quot;&gt;Aspect of Apocalypse&lt;/font&gt; unlock.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue dans l'&lt;font color=&quot;#72c6db&quot;&gt;Artéfact d'Anankis&lt;/font&gt;. Dans ces lieux, vous pouvez lancer un Projet qui vous permettra de récupérer un &lt;font color=&quot;#72c6db&quot;&gt;Artéfact&lt;/font&gt; découvert dans Anankis. Cela vous permettra d'exploiter son pouvoir et débloquer votre dernier &lt;font color=&quot;#72c6db&quot;&gt;Aspect d'Apocalypse&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_EnneractLab_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enneract Laboratory</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Laboratoire d'Enneracts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="62.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_EnneractLab_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Enneract Laboratory&lt;/font&gt;. Here, you can unlock the feature that will allow Demetra to duplicate your &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt;. Completing the first &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; allows you to duplicate any &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt; once. In order to duplicate a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt; a second time, you will have to upgrade the &lt;font color=&quot;#72c6db&quot;&gt;Enneract Laboratory&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue au &lt;font color=&quot;#72c6db&quot;&gt;Laboratoire d'Enneracts&lt;/font&gt;. Dans ces lieux, vous pouvez débloquer la possibilité de dupliquer une compétence chez &lt;font color=&quot;#72c6db&quot;&gt;Demetra&lt;/font&gt;. Terminer le premier &lt;font color=&quot;#72c6db&quot;&gt;Projet&lt;/font&gt; vous permettra de dupliquer une compétence une fois. Pour dupliquer une compétence une seconde fois, vous devrez améliorer le &lt;font color=&quot;#72c6db&quot;&gt;Laboratoire d'Enneract&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_SiphonChamber_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Siphon Chamber</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Chambre de Siphon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="76.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_SiphonChamber_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Siphon Chamber&lt;/font&gt;. After a period of calibration, this device allows Demetra to siphon &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt; from your body, and give you gold in return. Effectively, these &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; allow you to convert &lt;font color=&quot;#8664aa&quot;&gt;Primoridal Affinity&lt;/font&gt; into &lt;font color=&quot;#72c6db&quot;&gt;Gold&lt;/font&gt;. \n\nSelect how much &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt; you would like to convert into &lt;font color=&quot;#72c6db&quot;&gt;Gold&lt;/font&gt;, and begin the &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; to initiate the conversion process.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue dans la &lt;font color=&quot;#72c6db&quot;&gt;Chambre de Siphon&lt;/font&gt;. Après quelques calibrages, cette machine permet à Demetra de siphonner l'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt; dont vous disposez pour vous donner des pièces d'or en échange. Ces &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; vous permettront de convertir de l'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt; en &lt;font color=&quot;#72c6db&quot;&gt;Pièces d'Or&lt;/font&gt;.\n\nSélectionnez le montant d'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt; que vous souhaitez convertir, et lancez le &lt;font color=&quot;#72c6db&quot;&gt;Projet&lt;/font&gt; pour lancer la procédure de conversion.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_InjectorSeat_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Energy Instillator</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Instillateur d'Énergie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="86.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_WelcomeInBuilding_InjectorSeat_Content</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">• Welcome to the &lt;font color=&quot;#72c6db&quot;&gt;Energy Instillator&lt;/font&gt;. Once it has been calibrated, this device allows Demetra to transfer &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt; into your body. The amount of &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt; you receive is based upon how much &lt;font color=&quot;#72c6db&quot;&gt;Gold&lt;/font&gt; you offer her - think of it as a way of converting your &lt;font color=&quot;#72c6db&quot;&gt;Gold&lt;/font&gt; into &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt;.\n\n• Simply determine how much &lt;font color=&quot;#72c6db&quot;&gt;Gold&lt;/font&gt; you would like to convert into &lt;font color=&quot;#8664aa&quot;&gt;Primordial Affinity&lt;/font&gt;, and begin the &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; to initiate the conversion process.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Bienvenue dans l'&lt;font color=&quot;#72c6db&quot;&gt;Instillateur d'Énergie&lt;/font&gt;. Après quelques calibrages, cette machine permet à Demetra de transférer de l'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt; dans votre corps. Le montant d'&lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt; que vous recevez se base sur le montant de &lt;font color=&quot;#72c6db&quot;&gt;Pièces d'Or&lt;/font&gt; que vous lui offrez.\n\n• Choisissez le montant de &lt;font color=&quot;#72c6db&quot;&gt;Pièces d'Or&lt;/font&gt; que vous souhaitez convertir en &lt;font color=&quot;#8664aa&quot;&gt;Affinité Primordiale&lt;/font&gt;, et lancez le &lt;font color=&quot;#72c6db&quot;&gt;Projet&lt;/font&gt; pour démarrer le processus de conversion.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_OnCloseCMUI_Title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Completing a Turn</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Terminer un Tour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="88.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_CityBuilding_OnCloseCMUI_Content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">• You will need to complete a &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt; before your &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; is allocated to the &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt;. In order to complete a &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;, you will first need to successfully complete an &lt;font color=&quot;#72c6db&quot;&gt;Activity&lt;/font&gt; (&lt;font color=&quot;#72c6db&quot;&gt;Mandates&lt;/font&gt; or &lt;font color=&quot;#72c6db&quot;&gt;Expeditions&lt;/font&gt;). The harder the challenge, the more &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; will be added to your various &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt;. But fail, and the &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt; will not pass. \n\n• Go to the &lt;font color=&quot;#72c6db&quot;&gt;Mandates Board&lt;/font&gt; or the &lt;font color=&quot;#72c6db&quot;&gt;Expeditions Map&lt;/font&gt; now and select an &lt;font color=&quot;#72c6db&quot;&gt;Activity&lt;/font&gt; to undertake.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">• Vous devez terminer un &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt; avant que votre &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; s'applique à vos &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt;. Pour terminer un &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt;, vous devez terminer une &lt;font color=&quot;#72c6db&quot;&gt;Activité&lt;/font&gt;(&lt;font color=&quot;#72c6db&quot;&gt;Mandat&lt;/font&gt; ou &lt;font color=&quot;#72c6db&quot;&gt;Expédition&lt;/font&gt;). Plus la difficulté est élevée, plus vous ajouterez de &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; à vos &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt;. Si vous échouez, vous ne pourrez pas passer un &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt;.\n\n• Dirigez-vous vers le &lt;font color=&quot;#72c6db&quot;&gt;Tableau des Mandats&lt;/font&gt; ou la &lt;font color=&quot;#72c6db&quot;&gt;Carte des Expéditions&lt;/font&gt; pour lancer une &lt;font color=&quot;#72c6db&quot;&gt;Activité&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ENDGAME HELP</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_1_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Buildings</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Bâtiments</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_1_subtitle</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Buildings provide services</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les bâtiments offrent des services</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="64.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_1_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">&lt;font color=&quot;#72c6db&quot;&gt;Buildings&lt;/font&gt; give access to various features through &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt;. You must first start the &lt;font color=&quot;#72c6db&quot;&gt;Construction Project&lt;/font&gt; of a &lt;font color=&quot;#72c6db&quot;&gt;Building&lt;/font&gt; before you can access its other &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les &lt;font color=&quot;#72c6db&quot;&gt;Bâtiments&lt;/font&gt; vous donnent accès à divers contenus à travers des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt;. Vous devez d'abord lancer le &lt;font color=&quot;#72c6db&quot;&gt;Projet de Construction&lt;/font&gt; d'un &lt;font color=&quot;#72c6db&quot;&gt;Bâtiment&lt;/font&gt; avant de pouvoir accéder à d'autres &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_2_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Productivity</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Productivité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_2_subtitle</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Productivity helps complete Projects</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">La Productivité permet de terminer des Projets</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="73.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_2_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Every &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; requires a set amount of &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; to be completed. At the end of every &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;, Stormfall's &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; is allocated to each of your active &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt;.\n\nIncrease your base &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; by constructing &lt;font color=&quot;#72c6db&quot;&gt;Buildings&lt;/font&gt; and completing &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; in the &lt;font color=&quot;#72c6db&quot;&gt;Palace&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Tous les &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; nécessitent un certain montant de &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; pour être terminés. À la fin de chaque &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt;, la &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; de Stormfall est distribuée à tous les &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; actifs.\n\nAugmentez votre &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; de base en construisant des &lt;font color=&quot;#72c6db&quot;&gt;Bâtiments&lt;/font&gt; et en terminant des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; pour le &lt;font color=&quot;#72c6db&quot;&gt;Palace&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_3_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Projects</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Projets</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_3_subtitle</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Projects are key</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les Projets sont la clé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_3_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">You can see your active &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; and their progression on the left.\n\nOnce a &lt;font color=&quot;#72c6db&quot;&gt;Project&lt;/font&gt; has started, canceling it will not refund its base cost and you will have to start it over.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vous pouvez voir vos &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; actifs et leur progression sur la gauche.\n\nUne fois qu'un &lt;font color=&quot;#72c6db&quot;&gt;Projet&lt;/font&gt; est lancé, les ressources dépensées pour le lancer ne peuvent plus être récupérées, même en l'annulant.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_4_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Turns</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Les Tours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_4_subtitle</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Passing a Turn means progress</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Passer un Tour, c'est avancer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="54.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_4_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">A Turn is completed when successfully finishing an &lt;font color=&quot;#72c6db&quot;&gt;Activity&lt;/font&gt; from the &lt;font color=&quot;#72c6db&quot;&gt;Mandates Board&lt;/font&gt; or the &lt;font color=&quot;#72c6db&quot;&gt;Expeditions Map&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Un tour se termine lorsque vous complétez une &lt;font color=&quot;#72c6db&quot;&gt;Activité&lt;/font&gt; du &lt;font color=&quot;#72c6db&quot;&gt;Tableau des Mandats&lt;/font&gt; ou de la &lt;font color=&quot;#72c6db&quot;&gt;Carte des Expéditions&lt;/font&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_5_title</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Activities</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Activités</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_5_subtitle</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Play well to progress faster</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Jouez bien pour progresser plus vite</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="86.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cmuihelp_5_content</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Complete a &lt;font color=&quot;#72c6db&quot;&gt;Mandate&lt;/font&gt; from the &lt;font color=&quot;#72c6db&quot;&gt;Mandates Board&lt;/font&gt; or an &lt;font color=&quot;#72c6db&quot;&gt;Expedition&lt;/font&gt; from the &lt;font color=&quot;#72c6db&quot;&gt;Expeditions Map&lt;/font&gt; to end the &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;. The harder the challenge, the higher the &lt;font color=&quot;#72c6db&quot;&gt;Productivity&lt;/font&gt; bonus is at the end of the &lt;font color=&quot;#72c6db&quot;&gt;Turn&lt;/font&gt;, allowing you to complete &lt;font color=&quot;#72c6db&quot;&gt;Projects&lt;/font&gt; faster.\n\n\n\n\n\n&#10;&#10;&#10;</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Terminez un &lt;font color=&quot;#72c6db&quot;&gt;Mandat&lt;/font&gt; du &lt;font color=&quot;#72c6db&quot;&gt;Tableau des Mandats&lt;/font&gt; ou une &lt;font color=&quot;#72c6db&quot;&gt;Expédition&lt;/font&gt; de la &lt;font color=&quot;#72c6db&quot;&gt;Carte des Expéditions&lt;/font&gt; pour terminer un &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt;. Plus la difficulté est élevée, plus le bonus de &lt;font color=&quot;#72c6db&quot;&gt;Productivité&lt;/font&gt; est important à la fin du &lt;font color=&quot;#72c6db&quot;&gt;Tour&lt;/font&gt;. Cela vous permet de terminer des &lt;font color=&quot;#72c6db&quot;&gt;Projets&lt;/font&gt; plus rapidement.\n\n\n\n\n\n&#10;&#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_help</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Champion of Stormfall Help </Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Aide Champion de Stormfall </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>152</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

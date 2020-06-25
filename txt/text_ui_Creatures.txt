@@ -1,0 +1,234 @@
+ORIGINAL TEXT
+Carcasse
+Carcasse de Givre
+Carcasse Cuirassée
+Carcasse de Givre Cuirassée
+Carcasse de Massacreur
+Martyr Relevé
+Martyr de givre
+Cultiste du Dormeur
+Fanatique du Dormeur
+Tourmenteur de Givre
+Tourmenteur
+Réprouvé
+Dévoreur
+Zombie
+Zombie Cuirassé
+Zombie Massacreur
+Héros Réanimé
+Tourmenteur d'Âme
+Dévoreur
+Carcasse Fraiche
+Voile de Mort
+Âme Perdue
+Armure Primordiale Profanée
+Rejeton des Âmes
+Rejeton des Ombres
+Rejeton des Abysses
+Spectre
+Cauchemar
+Anomalie
+Gardien Primordial Profané
+Démon des Âmes
+Frère réanimé
+Hiérophante Réanimé
+Sorcier des Premiers Hommes Souillé
+Premier Homme Souillé
+Le Lambach
+Le Lambach
+Le Lambach
+Le Lambach
+Le Lambach
+Le Lambach
+Le Lambach
+Le Lambach
+Le Lambach
+Simulacre de Chair
+Démon de Chair
+Le Lambach
+Serre d'Astaroth
+Suppôt de Chair
+Le Lambach
+Zaälbezül, Bras d'Ashtaroth
+Amalgame expérimental
+Moissonneur
+Cultiste de l'Abérrant
+Fanatique de l'Abérrant
+Le Lambach
+Le Lambach
+Le Lambach
+Capsule de Clonage
+Infanterie de Tir Pacifiée
+Infanterie de Choc Pacifiée
+Purificateur Vétéran Pacifié
+Bête de Mortier Pacifiée
+Tireur d’Élite Pacifié
+Alastor Pacifié
+Exosquelette Châtieur Pacifié
+Cultiste du Prince Aveugle
+Fanatique du Prince Aveugle
+Esprit de Furie
+Chevalier de l'Aurore Pacifié
+Hiérophante Pacifié
+Frère Pacifié
+Frère Pacifié
+Rejeton de la Furie
+Instigateur de la Furie
+Jeune Svriir
+Svriir Omega
+Beta Hurleur
+Beta Cracheur
+Génitrice Beta
+Aile-Essaim Toxique
+Svriir Omega Féminin
+Svriir Alpha
+Svriir Alpha
+Jeune Svriir des Côtes
+Svriir Omega Féminin des Côtes
+Svriir Omega des Côtes
+Génitrice Beta de la Mer
+Hurleur Beta de la Mer
+Aile-Essaim Toxique des Côtes
+Svriir Cracheur des Côtes
+Jeune Svriir des Grottes
+Svriir Omega des Grottes
+Svriir Hurleur des Grottes
+Svriir Cracheur des Grottes
+Génitrice Svriir des grottes
+Svriir Alpha des Grottes
+Aile-Essaim Toxique des Grottes
+Svriir Omega Féminin des Grottes
+Svriir Déformé
+Mutilateur Déformé
+Contaminateur Déformé
+Alpha Svriir Sang-de-Feu
+Aile-Essaim Sang-de-Feu
+Oméga Svriir Sang-de-Feu
+Jeune Svriir Sang-de-Feu
+Svriir Oméga Féminin Sang-de-Feu
+Beta Hurleur Sang-de-Feu
+Génitrice Beta Sang-de-Feu
+Beta Cracheur Sang-de-Feu
+Maraudeur des Écorcheurs
+Archer Écorcheur
+Molosse de Guerre
+Molosse de Guerre en Armure
+Écorcheur Saboteur
+Écorcheur Piéton
+Écorcheur Maître du Chenil
+Écorcheur Briseur de Bouclier
+Écorcheur Maître de Guerre
+Devin Morosien
+Rôdeur de la Pénombre
+Archer Tribal
+Maraudeur Tribal
+Maître du Chenil Tribal
+Saboteur Tribal
+Briseur de Bouclier Tribal
+Champion des Ténèbres
+Grizzly Apprivoisé
+Ourson Apprivoisé
+Ombre d'Esprit
+Purificateur d'Infanterie de Choc
+Alastor
+Purificateur d'Infanterie de Tir
+Purificateur Tireur d’Élite
+Exosquelette Châtieur
+Gueule Sauveuse Bête de Mortier
+Purificateur Vétéran
+Justicar de la République
+Heimlock
+Armure Primordiale
+Anasareth
+Présage d'Opulence
+Présage de Grande Opulence
+Immaculé Ombrelame
+Fanatique Immaculé
+Clone de fanatique
+Immaculé Ombrelame
+Chasseur d'esprit Immaculé
+Sirkis, Fléau de la Tempête
+Pitié
+Yudaï, Murmure d'Anameterassü
+Edric, Justicar de la République
+Vhegguad, Sceau d'Anankis
+Sobok le Sauvage
+Borok
+Neiddrerym
+Toxine
+Naärlog
+Haaron le Moissonneur
+Deteron
+Carcasse de Pitié
+Janaris, Émissaire du Dormeur
+Pitié
+Maître de Toxicité Torémy
+Augustëa, Voyante des Ruines
+Cuisinier d'Augustëa
+Mazarra, Celle-Qui-Sait
+Ebberus le Conseiller
+Lann Majaran
+Cleg Majaran
+Simo Majaran
+Justicar Azenhal
+Nerukaï, Vision du Dormeur
+Pitié Réanimé
+Sinadrahel
+Lothaï, Écho du Dormeur
+Ulzerag, Gueule d'Ashtaroth
+Ydrael
+Expérience Pacifiée #P90
+Nikölas, Lance de l'Équilibre
+Halbanar, Instrument de Furie
+Marcaras, Instrument de Furie
+Hongeris, Instrument de Furie
+Garde de Stormfall
+Archer de Stormfall
+Conscrit Déserteur
+Archer Conscrit Déserteur
+Ours Grizzli
+Araneïs
+Alba Araneïs
+Parvus Araneïs
+Crystallus Araneïs
+Minuere Araneïs
+Vegrandis Araneïs
+Cobra Géant
+Sangsue Ailée
+Empalateur Volant
+Scarabée à Coquille de Fer
+Scorpion Imani
+Vipère des Grottes
+Vipère Géante
+Croc de Charogne Grouillant
+Femelle Alpha Ssilassa
+Szirak le Pestilentiel
+Snuffles, le Bon Toutou
+Golmuth, Écorcheur Philosophe
+P. Vincentus, Souffle d'Anulaï-Tai
+Celui-Qui-Souffre
+Archimage Jérémiah
+Reine Amadalah
+Mirion le Pyromane
+Eclipse le Hanteur d'Ombres
+Galaphöron
+Miré le Geôlier
+Ongle du Lambach
+Baiser du Lambach
+Sizalis, Terreur des Cieux
+Déclencheur du Lambach
+Façonneuse de Brume Malikia
+Eleazar, Hiérophante Muet
+Dard-de-Feu
+Mykle, Vers "Intrus"
+Allume-Feu
+Éthéraël l'Absolu
+La Graine d'Ashtaroth
+Grande Bertha
+Marbaras de la Tour Hurlante
+Sssircero l'Exil
+Cahin la 13ème Lance
+Galahein le Jamais-Vaincu
+Alastor #148
+Rejeton
+Cauchemar des Croquemorts

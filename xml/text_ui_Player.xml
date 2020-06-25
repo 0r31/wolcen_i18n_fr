@@ -1,0 +1,2170 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:58Z</Created>
+  <LastSaved>2020-05-26T09:48:58Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#FFE699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#FFE699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="404" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="387.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="456.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="229.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Character Creation Interface</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_character_creation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Character creation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Création de personnage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_body</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Body</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Corps</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_face</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Face</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Visage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_skin_color</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Skin color</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Couleur de peau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_body_type</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Body type</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Type de corps</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_muscular</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Muscular</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Musclé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_skinny</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Puny</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chétif</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_fat</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Fat</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Gros</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_thin</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Thin</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Mince</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_hair</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Hair</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Cheveux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_haircut</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe de cheveux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_hair_color</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Hair color</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Couleur des cheveux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_eyes</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eyes</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Yeux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_left_eye</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Left eye</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil gauche</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_right_eye</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Right eye</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil droit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_beard</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_beard_style</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard style</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Style de barbe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_beard_color</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard color</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Couleur de barbe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_saturation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Saturation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Saturation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_color</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Color</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Couleur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_match_colors</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Match colors</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Correspondance des couleurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_breast</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Chest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coffre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_title_nicknameTaken</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Name unavailable</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Nom indisponible</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_title_deleteCharacter</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Delete Character</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Supprimer le personnage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_nicknameTaken</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Désolé, le nom %1 est déjà pris. Veuillez choisir un autre nom.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_deleteCharacter</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Are you sure you want to delete %1? All your items and progression will be lost.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Êtes-vous sûr de vouloir supprimer %1 ? Tous vos objets et votre progression seront perdus.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_title_maxcharactercount</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Your Characters List is full.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre liste de personnage est pleine.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_maxcharactercount</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You cannot have more than %1 active characters.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas avoir plus de %1 personnages actifs.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Eye Customization</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 3</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 4</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 5</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 6</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 7</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 8</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 9</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 10</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Eye_11</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Eye 11</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Œil 11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hair Customization</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 3</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 4</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 5</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 6</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 7</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 8</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 9</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Haircut_10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Haircut 10</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coupe 10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Beard Customization</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 3</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 4</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 5</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 6</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 7</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 8</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 9</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Beard_10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Beard 10</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Barbe 10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Info Fields</Data></Cell>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_agility</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Agility</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Agilité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_agility_damage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bonus Damage from Agility</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus aux dégâts d'Agilité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentbleed</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentburn</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentcurse</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentfreeze</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Gel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentpoison</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Empoisonnement </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailments</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Ailments</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Afflictions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentshock</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Choc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentstasis</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Stase</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentstun</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailmentweakness</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Faiblesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailments_chances</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Ailments Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affliction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_allattributes_damage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Total Bonus Damage from Attributes</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus de dégâts apporté par les Attributs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attackcriticalchance_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Attack Critical Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Coup Critique des Attaques</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_allres</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">All Resistances Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Résistances Globales</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attackspeed</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Speed modifier (Melee)</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vitesse d'Attaque (Mêlée)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attackspeed_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Attack Speed Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Vitesse d'Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attackspeedbonus</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Attack Speed Bonus</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus de Vitesse d'Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attribute_primary</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Primary</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Primaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attribute_secondary</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Secondary</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Secondaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attribute_tertiary</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Tertiary</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tertiaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_attribute_quaternary</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Quaternary</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quaternaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleed</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Rend</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bessure Ouverte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleedscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'application</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleedchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d’infliger Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleeddamage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleedduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleeddurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleedtick</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Rate</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Fréquence de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_blockchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Block Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Blocage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_blockefficiency</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Block Efficiency</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Efficacité du Blocage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_blownawayresistance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Knock-down Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Renversement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_burnscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'application</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_burnchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'infliger Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_burndamage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts de Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_burnduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_burndurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée de Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_burntick</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Burn Rate</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Fréquence de Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_criticalchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Critical Chance (Weapons)</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Coup Critique (Armes)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_criticaldamage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Critical Damage (Weapons)</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts Critiques (Armes)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_cursescore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Application de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_cursechance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'infliger Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_curseduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_cursedurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_curseefficiency</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Efficiency</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Efficacité de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_cursepropagation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Propagation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Diffusion de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_curseradius</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Radius</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rayon de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_cursetick</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Curse Rate</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Fréquence de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_damage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dashrange</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Dash Range</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Portée de Ruée</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_defense</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Force Shield</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bouclier de Force</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_defenselocktimer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Force Shield Regeneration Delay</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Délai de Régénération</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_defenseregen</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Force Shield Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Montant de Régénération</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_defensivestats</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Survivability</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Survivabilité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dodgechance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Passive Dodge Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Esquive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_cs_dodgechance_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Dodge Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Chance d'Esquive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dotattackinflictchance_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Attack Ailment Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Affliction avec les Attaques</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dotspellinflictchance_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Spell Ailment Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Affliction avec les Sorts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dotresistchance_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Status Ailments Resilience Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Résistance aux Afflictions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dps</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Average Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts moyens</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_experience</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Experience</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Expérience</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_fearduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Fear Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée de Peur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ferocity</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Ferocity</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Férocité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ferocity_damage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bonus Damage from Ferocity</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus aux dégâts de Férocité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_fire</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Fire</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Feu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezescore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'application</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezechance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'infliger Gel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezeduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de Gel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezedurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée de Gel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_frenzyduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Frenzy Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée de Frénésie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_frost</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Frost</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Givre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_globesradius</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Health Globes Pickup Radius</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rayon de récupération de Globes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_goldfind</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Gold Find</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de trouver de l'Or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_goldradius</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Gold Pickup Radius</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rayon de récupération de l'Or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_health</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Health</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_healthregen</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Health Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Montant de Régénération</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_healthregenfrequency</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Health Regeneration Rate</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Fréquence de Régénération de Vie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_knockbackresistance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Knockback Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Renversement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_lifeleech_weapon</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Attack Life Leech</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Absorption de Vie des Attaques</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_lifeleech_spell</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Spell Life Leech</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Absorption de Vie des Sorts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_lightning</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Lightning</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_magicfind</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Magic Find</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Découverte Magique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_maxailments</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Max Ailments stacks</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Max. Application d'Affliction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_misc</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Miscellaneous</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Divers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_movespeed</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vitesse de Déplacement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_offensivestats</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Combat</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Combat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_physical</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Physical</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Physique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poison</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Toxic</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Toxique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisonscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisonchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisondamage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisonduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisondurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisontick</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Rate</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Fréquence d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_potions</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Potions</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Potions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_presence</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Presence</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Présence</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_rageconservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Rage Conservation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Conservation de Rage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ragegeneration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Rage on Hit</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rage par Coup</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_rageonhit</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Rage on Hit</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rage par coup</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_rageonkill</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Rage on Kill</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rage par Coup Fatal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ragePts</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Rage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_remainingpoints</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Remaining Attribute Points</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Points d'Attributs restants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resistance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Resistance types</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Types de Résistances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resistances</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Resistances</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resistances_elemental</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Elemental</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Élémentaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resistances_material</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Material</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Matérielle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resistances_primeval</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Occult</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Occulte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resource</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Resource</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ressource</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resourceGainPerHit</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">%1 per Hit : %2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">%1 par coup&#160;: %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_resourcepool</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Resource Pool</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ressources totales</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_sacred</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Sacred</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sacré</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shadow</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shadow</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Electrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d’Électrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockdamage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts d’Électrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée d’Électrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockdurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée d'Électrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shocktick</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Tick</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Fréquence d’Électrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_snareduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Snare Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée du Ralentissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_spellcastingspeed_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Spell Casting Speed Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Vitesse d'Incantation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_spellcriticalchance_score</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Spell Critical Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Coup Critique des Sorts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stamina</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stamina</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Endurance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_staminaregeneration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Régénération d'Endurance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasisscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'application</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasischance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'infliger Stase</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasisdurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Stasis Duration modifier</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasisduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de Stase</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasisefficiency</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis Efficiency</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Efficacité de Stase</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stunscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stunchance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stunduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée d'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stundurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée d'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stuninduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Resilience</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance à l'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stunresistance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance à l'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_toughness</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Toughness</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Robustesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_toughness_damage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bonus Damage from Toughness</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus aux dégâts de Robustesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_umbra</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Aether</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_umbrageneration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Willpower generated on Hit</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Volonté générée par coup</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_umbraregeneration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Willpower Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Régénération de Volonté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknessscore</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness Chance Score</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'application</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknesschance</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affaiblissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknessduration</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness Duration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée d'Affaiblissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknessdurationmod</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness Duration modifier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée d'Affaiblissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknessefficiency</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness Efficiency</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Efficacité d'Affaiblissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weapondamage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Weapon Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts de l'Arme</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_willpower</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Wisdom</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sagesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_willpowerPts</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Willpower</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Volonté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_willpower_damage</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Bonus Damage from Wisdom</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus aux dégâts de Sagesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_hide_adPanel</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Hide Details</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Masquer les détails</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_respec_attributes</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Reset Attributes for %1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Réinitialiser Attributs %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_respec_PST</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Reset Passives for %1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Réinitialiser Passifs %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reset_Csheet_title_popup</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Reset Attributes</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Réinitialiser Attributs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">not_enough_primordial_affinity</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Not enough Primordial Affinity</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pas assez d'Affinité Primordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_confirmation_to_reset_Csheet</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Are you sure you want to reset your attribute points?</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Êtes-vous sûr de vouloir réinitialiser vos Points d'Attribut ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reset_PST_title_popup</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Reset Gate of Fates</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Réinitialiser la Roue des Destins</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_confirmation_to_reset_PST</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Are you sure you want to reset your passive skill points?</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Êtes-vous sûr de vouloir réinitialiser vos Points de Compétence Passives ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">no_PST_point_to_reset</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">No passive skill points have been assigned.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez pas assigné de Point de Passif.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">no_attribute_point_to_reset</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">No attribute points have been assigned.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Aucun point d'attribut n'a été assigné.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">not_in_town</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">This action can only be performed in town.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Cette action ne peux être réalisée qu'en ville.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_show_adPanel</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Show Details</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Afficher les détails</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tooltips</Data></Cell>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_agility_bar_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Agility Gauge. This represents your investment into that Attribute compared to the expected value at your level.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Agilité. La jauge représente votre avancement avec cet Attribut par rapport à la valeur moyenne attendue à votre niveau.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_agility_damage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bonus Damage gained from the Attribute Points assigned to Agility</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les dégâts bonus gagnés avec les points d'Attributs en Agilité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_agility_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your total Agility. This Attribute determines your Attack Speed Score and Spell Casting Speed Score.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Agilité totale. Affecte les la Vitesse d'Attaque et la Vitesse d'Incantation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentbleed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Bleed Ailment Type. This Ailment deals Rend Damage to Targets over time and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Bleeding while afflicted with the Bleed Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Saignement. Cette Affliction inflige des dégâts0 de Type Blessure à vos cibles sur la durée, et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles Saignent tant qu'elles sont affectées par Saignement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentburn_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Burn Ailment Type. This Ailment deals Fire Damage to the initial Target over time and deals damage around it to up to 5 Targets. Targets are considered to be Burning while afflicted with the Burn Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Brûlure. Cette Affliction inflige des dégâts de Feu sur la durée à votre cible principale et à un maximum de 5 cibles à proximité de votre cible principale. Vos cibles Brûlent tant qu'elles sont affectées par Brûlure.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentcurse_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Curse Ailment Type. This Ailment increases the Damage received by Targets and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Cursed while afflicted with the Curse Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Malédiction. Cette Affliction augmente les dégâts reçus par vos cibles et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Maudites tant qu'elles sont affectées par Malédiction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentfreeze_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Freeze Ailment Type. This Ailment prevents Targets from moving or acting for a short time. Targets are considered to be Frozen while afflicted with the Freeze Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Gel. Cette Affliction empêche vos cibles de bouger ou d'agir pendant un court laps de temps. Les cibles sont Gelées tant qu'elles sont affectées par Gel.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentpoison_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Poison Ailment Type. This Ailment deal Toxic Damage to Enemies over time and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Poisoned while afflicted with the Poison Ailment</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Poison. Cette Affliction inflige des dégâts Toxiques à vos cibles sur la durée, et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Empoisonnées tant qu'elles sont affectées par Poison.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailments_chances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your chance to inflict Ailments with equipped Weapon(s)</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos chances d'infliger des Afflictions avec les armes équipées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailments_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your Status Ailments capacity, representing your ability to inflict extra Damage and conditions over time.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos capacités d'application des Afflictions. Représente votre aptitude à infliger des dégâts et afflictions supplémentaires sur le temps.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentshock_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Shock Ailment Type. This Ailment deals Lightning Damage to the initial Target over time, and deals additional Lightning Damage to other Shocked Targets around them. This Ailment can be stacked onto Targets up to your Maximum Ailment Stacks value. Targets are considered to be Shocked while afflicted with the Shock Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Choc. Cette Affliction inflige des dégâts de Type Foudre à la cible initiale sur la durée, et inflige des dégats Foudre additionnels aux Cibles Choquées autour d'elle. Cette Affliction peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Choquées tant qu'elles sont affectées par Choc.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentstasis_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Stasis Ailment Type. This Ailment decreases the Target's Movement, Attack, and Spell Casting Speeds and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Slowed while afflicted with the Stasis Ailment. </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Stase. Cette Affliction diminue le Mouvement, l'Attaque, et la Vitesse d'Incantation de la Cible, et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Lentes tant qu'elles sont affectées par Stase. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentstun_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Stun Ailment Type. This Ailment prevents the Target from moving or acting for a short time. Targets are considered to be Stunned while afflicted with the Stun Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Étourdissement. Cette Affliction empêche votre cible de bouger ou d'attaquer pendant un court laps de temps. Les cibles sont Étourdies tant qu'elles sont affectées par Étourdissement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentweakness_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Weakness Ailment Type. This Ailment decreases the Damage dealt by the Target and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Weakened while afflicted with the Weakness Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Faiblesse. Cette Affliction diminue les dégâts infligés par la Cible et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Affaiblies tant qu'elles sont affectées par Faiblesse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allattributes_damage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bonus Damage gained from the Attribute Points assigned. The Primary Attribute gives more Bonus Damage than the Secondary and so on.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bonus de Dégâts acquis grâce aux points d'Attributs. Votre Attribut Primaire(celui dans lequel vous avez le plus de points) vous donne un bonus de Dégâts supérieur à votre Attribut Secondaire, qui donne lui-même un bonus de Dégâts supérieur à l'Attribut Tertiaire.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allcriticalchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global modifier to your Critical Chance with all weapons and spells.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre modificateur global de Chance de Coup Critique d'Attaques et Compétences.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allcriticaldamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global modifier to your Critical Damage with all weapons and spells.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre modificateur global des dégâts Critiques d'Attaques et Compétences.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global modifier of your Resistance against main Damage Types.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre modificateur global de Résistance contre les principaux Types de Dégâts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attackcriticalchance_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Attack Critical Chance Score is a modifier applied to your Attack Critical Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué aux Chances de Coup Critique des Attaques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attackspeed_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Attack Speed Score is a modifier applied to your Attack Speed.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de Vitesse d'Attaque.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attackspeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global Speed modifier to your attacks with Melee Weapons.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de Vitesse d'Attaque avec les armes de mêlée.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attackspeedbonus_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Attack Speed Bonus is added to your Base Attack Speed, increasing your Total Attack Speed. Your Base Attack Speed is determined by your equipped Weapon.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Bonus de Vitesse d'Attaque est ajouté à votre Vitesse d'Attaque de base, ce qui augmente votre Vitesse d'Attaque Globale. Votre Vitesse d'Attaque de base dépend des armes équipées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attributesattackbonus_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The global Damage modifier from your 3 highest Attributes. It applies to your Attacks and Spells.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de vos trois Attributs ayant les scores les plus élevés. Ce modificateur s'applique aux Attaques et aux Sorts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rend Damage has a Chance to inflict the Bleed Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts de Blessure, offre une Chance d'infliger Saignement à la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleedchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to inflict Bleed with Rend Damage of any source.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos chances globales d'infliger Saignement avec des dégâts de Blessure.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleeddamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Bleed Damage determines how much Rend Damage is dealt to a Bleeding Enemy each time the Bleed Ailment ticks. The first displayed value corresponds to the Damage dealt to an Enemy by one Bleed stack and the second represents the Damage dealt by the maximum number of stacks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts infligés par Saignement à chaque itération. La première valeur correspond à une seule Affliction de Saignement. La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions de Saignement sur une cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleedduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Bleed Duration represents the duration that a Bleed stack you inflict will remain on an Enemy. This duration is reset when another Bleed stack is inflicted on an Enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détermine la durée de base de l'Affliction de Saignement sur la cible avant une itération. Cette durée est réinitialisée si vous appliquez un nouveau Saignement sur la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleeddurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Bleeding.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le modificateur global de la durée de Saignement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleedscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Bleed Chance Score is the main modifier that determines your Bleed Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score de Saignement modifie vos Chances d'Application de Saignement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_bleedtick_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Bleed Rate represents the delay between each tick of a Bleed stack.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le délai entre chaque itération de Saignement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_blockchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Block Chance determines how likely you are to Block incoming Damage. When Damage is Blocked, the Damage you receive is negated according to you Block Efficiency. Block Chance is usually gained by equipping a Shield.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détermine vos Chances de Blocage d'un coup qui vous est porté. Lorsqu'un coup est Bloqué, cela réduit les dégâts d'une attaque en se basant sur l'Efficacité du Blocage. Vous obtenez généralement des Chances de Blocage en portant un Bouclier.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_blockefficiency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Block Efficiency represents the percentage of Damage that will be negated from incoming Damage when you complete a Block.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Efficacité de Blocage. Elle représente le pourcentage de dégâts ignorés lorsque vous Bloquez.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_burnchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to inflict Burn with Fire Damage of any source.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos chances globales d'infliger Brûlure avec des dégâts de Feu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_burndamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Burn Damage determines how much Fire Damage is dealt to a Burning Target each time the Burn Ailment ticks. The first displayed value corresponds to the Damage dealt to an Enemy by one Burn stack and the second represents the Damage dealt by the maximum number of stacks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts de Feu infligés par Brûlure à chaque itération. La première valeur correspond à une seule Affliction de Brûlure. La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions de Brûlure sur une cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_burnduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Burn Duration determies the duration that a Burn stack you inflict will remain on an Enemy. This duration is reset when another Burn stack is inflicted on an Enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détermine la durée de base de l'Affliction de Brûlure sur la cible avant une itération. Cette durée est réinitialisée si vous appliquez une nouvelle Brûlure sur la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_burndurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Burning.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de la durée de Brûlure.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_burnscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Burn Chance Score is the main modifier that determines your Burn Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score de Brûlure modifie vos Chances d'Application de Brûlure.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_burntick_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Burn Rate represents the delay between each tick of a Burn stack.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le délai entre chaque itération de Brûlure.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_criticalchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Critical Chance with Weapons determines how likely you are to inflict a Critical Hit on an Enemy with a Basic Attack. Critical Hits deal Critical Damage in addition to the Damage dealt by a Weapon.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Chances de Coup Critique. Les Coups Critiques infligent des Dégâts Critiques en plus des dégâts infligés par vos Armes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_criticaldamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Critical Damage multiplier with Weapons. This determines how much Critical Damage you deal when inflicting a Critical Hit on an Enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre multiplicateur de Dégâts Critiques. Représente le montant de Dégâts Critiques infligés par les Coups Critiques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_cursechance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to inflict Curse with Shadow Damage of any source.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Chances d'infliger Malédiction avec des dégâts d'Ombre de toutes les sources.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_curseduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Curse Duration determines the default duration that a Curse stack will remain on an Enemy before it decays.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détermine la durée de base de l'Affliction de Malédiction sur la cible avant son expiration.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_cursedurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to the Curse Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de la durée de Malédiction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_curseefficiency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Curse Efficiency determines how much additional Damage a Cursed Enemy will receive per stack of the Curse Ailment that you have inflicted on them. The first displayed value corresponds to how much additional Damage an Enemy with one Curse stack will receive, and the second represents the additional Damage an Enemy with the maximum number of stacks will receive.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Efficacité de Malédiction détermine les Dégats additionnels subis par un Enemi Maudit par Application de l'Affliction Malédiction que vous leur avez infligé. La première valeur affichée correspond aux Dégats additionnels qui seront subis par un ennemi avec une application de Malédiction, et la deuxième représentera les Dégats additionnels qu'un Ennemi subira avec la quantité d'applications maximum.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_cursepropagation_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">The maximum amount of Status Ailments stacks that can be spread by the Curse Ailment each time it ticks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Cette ligne ne s'applique plus. Merci de nous le signaler si vous la voyez en jeu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_curseradius_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">The total spread Radius of the Curse Ailment you inflicts. Enemies within this range of the Curse source are eligible targets for the spreading of Status Ailments.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Cette ligne ne s'applique plus. Merci de nous le signaler si vous la voyez en jeu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_cursescore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Curse Chance Score is the main modifier that determines your Curse Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score d'Application de Malédiction est le modificateur principal pour vos Chances d'infliger Malédiction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_cursetick_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The delay between each tick of Status Ailment propagation from a Curse stack.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Délai entre chaque itération de la Malédiction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_damage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Weapon Damage is the base Damage dealt by your equipped Weapon(s).</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Dégâts de base avec les armes équipées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dashrange_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">The maximum Range of your Dash. A higher Range means that you will be able to engage enemies from longer distances.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">La portée maximum de votre Ruée. Une grande portée signifie que vous pourrez utiliser Ruée sur les ennemis de plus loin.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_default_transferttime_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Transfer time of rage into willpower and vice versa.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le temps de transfert de la Rage vers la Volonté, et vice versa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_defense_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your total Force Shield. This protects your Health from most Damage sources until it is empty. When the Force Shield Regeneration Delay is over, your Force Shield will be regenerated at the rate of your Force Shield Regeneration.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Valeur totale du Bouclier de Force. Protège votre Vie de la plupart des dégâts jusqu'à ce qu'il soit vide. À la fin du Délai de Régénération du Bouclier de Force, il est progressivement rétabli à la fréquence de votre Régénération de Bouclier de Force.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_defenselocktimer_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Force Shield Regeneration Delay represents the time it takes after receiving Damage for your Force Shield Regeneration to become active. Each time you receive Damage the Force Shield Regeneration Delay is reset.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Temps nécessaire sans subir de dégâts pour que la Régénération de Bouclier de Force s'active. Lorsque vous subissez des dégâts, le Délai de Régénération du Bouclier de Force est réinitialisé.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_defenseregen_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Force Shield Regeneration represents how much Force Shield is regenerated once your Force Shield Regeneration Delay is over.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quantité de Bouclier de Force que vous restaurez par seconde grâce à la Régénération du Bouclier de Force.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_defensivestats_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your basic Defensive capacities, representing your ability to reduce incoming Damage and avoid attacks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos capacités Défensives de base, représentant votre faculté à réduire les dégâts et à éviter les attaques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dodgechance_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Modifier applied to your Dodge Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué à vos Chances d'Esquive.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dodgechance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your total Passive Dodge Chance against all incoming attacks. Completing a Passive Dodge will completely ignore the effects of the incoming Damage, regardless of its Type.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre total de Chance d'Esquive. Esquiver ignore complètement les dégâts, quel que soit leur Type.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dotattackinflictchance_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Attack Ailment Chance Score is a modifier applied to your Attack Ailment Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué à vos Chances d'Affliction avec toutes les Attaques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dotresistchance_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Modifier applied to your Status Ailment Resilience.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué à votre Résistance aux Afflictions.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dotspellinflictchance_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Spell Ailment Chance Score is a modifier applied to your Spell Ailment Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué à vos Chances d'Affliction avec tous les Sorts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dps_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Average Damage is the average amount of Damage you deal per second with your equipped Weapon(s). This value is determined by your Weapon's Damage and your Attack Speed Score.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Taux de Dégâts moyens avec les armes équipées. Prend en compte leurs dégâts et leur Vitesse d'Attaque.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_experience_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Experience at your current Character Level. Reaching the Experience requirements for the next Level will raise your Character Level. You can gain Experience by killing Enemies and completing Quests.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Expérience au niveau actuel de votre personnage. Atteindre les prérequis d'Expérience pour le prochain niveau fera passer votre Personnage au prochain Niveau. Vous pouvez gagner de l'expérience en tuant des ennemis et en terminant des Quêtes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_fearduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Fear.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de la durée de Peur.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ferocity_bar_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Ferocity Gauge. This represents your investment into that Attribute compared to the expected value at your level.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre valeur de Férocité. La jauge représente votre avancement avec cet attribut par rapport à ce qui est attendu à votre niveau.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ferocity_damage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bonus Damage gained from the Attribute points assigned to Ferocity</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les dégâts bonus gagnés avec les points d'Attributs en Férocité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ferocity_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Ferocity determines your Attack Critical Chance Score and Spell Critical Chance Score.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Férocité totale. Affecte votre Régénération de Vie et le Score de Coup Critique des Attaques et des Sorts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_fire_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fire Damage has a Chance to inflict the Burn Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts de Feu ont une chance de base d'infliger Brûlure à la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_freezechance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to Freeze with Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos chances d'infliger Gel avec les dégâts de Givre.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_freezeduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Freeze Duration determines the default duration that an Enemy will remain Frozen when you have inflicted them with the Freeze Ailment.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de base du Gel.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_freezedurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Freezing.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée globale du Gel.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_freezescore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Freeze Chance Score is the main modifier that determines your Freeze Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score de Gel est le modificateur principal pour vos Chances d'infliger Gel.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_frenzyduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Frenzy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée globale appliqué à Frénésie.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_frost_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Frost Damage has a Chance to inflict the Freeze Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts de Givre ont une chance de base d'infliger Gel à la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_globesradius_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This Radius represents how close a Health Globe must be before you automatically pick it up.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le rayon total de récupération des globes autour de vous.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_goldfind_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Gold Find modifier. Increases the amount of looted Gold.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre modificateur de chance de trouver de l'or. Augmente le montant d'or obtenu sur les créatures.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_goldradius_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This Radius represents how close Gold must be before you automatically pick it up.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le rayon total de récupération de l'or autour de vous.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_health_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Maximum Health. Your Health is depleted when you receive Damage. If your Health is depleted completely, you will enter a Downed state, or be killed if you have no Revive Tokens remaining.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Points de Vie actuels. Vous en perdrez si les ennemis vous frappent, vous mourrez si ils tombent à 0.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_healthregen_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Health Regeneration represents the amount of Health regenerated per tick.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le montant de Points de Vie que vous récupérez à chaque itération de Régénération de Vie.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_healthregenfrequency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Time between each healing tick from your Health Regeneration and your Life Leech.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le temps écoulé entre chaque itération de votre Régénération de Vie ou de l'Absorption de Vie.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_lifeleech_spell_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Spell Life Leech represents how much of the Damage you deal with Spells fills your Life Leech Pool. The Life Leech Pool is consumed to restore your Health you when the your Health Regeneration ticks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le pourcentage de Dégâts absorbés par les Sorts pour remplir votre jauge d'Absorption de Vie. La Jauge d'Absorption de Vie est utilisée pour vous soigner quand votre Régénération de Vie se déclenche.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_lifeleech_weapon_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Attack Life Leech represents how much of the Damage you deal with Attacks fills your Life Leech Pool. The Life Leech Pool is consumed to restore your Health you when the your Health Regeneration ticks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le pourcentage de Dégâts absorbés par les Sorts pour remplir votre jauge d'Absorption de Vie. La Jauge d'Absorption de Vie est utilisée pour vous soigner quand votre Régénération de Vie se déclenche.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_lightning_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Lightning Damage has a Chance to inflict the Shock Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts de Foudre ont une chance de base d'infliger Électrocution à la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_magicfind_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Magic Find determines how likely you are to loot Uncommon Items.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de Découverte Magique. Augmente les chances de trouver des objets magiques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_maxailments_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Maximum Ailment Stacks represents the maximum number of each Ailment stack that you can inflict on a single Target. Each Ailment stacks independently up to this maximum value.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre valeur maximum d'Application d'Affliction représente le nombre maximum d'Applications de chaque Affliction que pouvez infliger à chaque Cible. Chaque Affliction s'applique de manière indépendante jusqu'à cette valeur maximale.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_misc_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Miscellaneous gameplay values which do not fall into one of the categories above.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Autre informations ne correspondant à aucune autre catégorie.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_movespeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your total Movement Speed.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Vitesse de Déplacement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_offensivestats_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your basic Offensive capacities, representing your ability to attack and perform Damage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos capacités Offensives de base, représentant votre faculté à attaquer et infliger des Dégâts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_physical_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Physical Damage is the default Damage Type dealt by Weapons.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts Physiques sont les dégâts de base pour tout type d'Arme.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poison_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Toxic Damage has a natural chance to inflict Poison which deal Toxic Damage over time to its target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts Toxiques ont une chance de base d'infliger Empoisonnement à la cible, infligeant des dégâts d'Empoisonnement sur la durée.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poisonchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to inflict Poison with Toxic Damage of any source.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos chances d'infliger Empoisonnement avec des dégâts Toxiques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poisondamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Poison Damage determines how much Toxic Damage is dealt to a Poisoned Target each time the Poison Ailment ticks. The first displayed value corresponds to the Damage dealt to an Enemy by one Poison stack and the second represents the Damage dealt by the maximum number of stacks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts infligés par Empoisonnement à chaque itération. La première valeur correspond à une seule Affliction d'Empoisonnement . La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions d'Empoisonnement sur une cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poisonduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Poison Duration represents the duration that a Poison stack you inflict will remain on an Enemy. This duration is reset when another Poison stack is inflicted on an Enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">La durée de base d'Empoisonnement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poisondurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Poisoning.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de durée d'Empoisonnement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poisonscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Poison Chance Score is the main modifier that determines your Poison Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score d'Empoisonnement est le modificateur principal pour vos Chances d'infliger Empoisonnement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_poisontick_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Poison Rate represents the delay between each tick of a Poison stack.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le délai entre chaque itération d'Empoisonnement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_presence_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Presence determines how easy it is for Enemies to see and track you. A normal value for Presence is 100%. Below that, you become harder to target and see. At 0%, you are Invisible. At values higher than 100%, you are easier to spot and track.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre niveau de Présence. Affecte la vitesse à laquelle les ennemis vous repèrent. Une valeur normale de Présence est 100%: en-dessous, vous devenez plus difficile à détecter. À 0%, vous êtes invisible. Au-dessus de 100%, vous êtes très facile à repérer et à traquer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">The delay before Willpower Regeneration restarts after gaining Rage. Rage Conservation is not triggered by spending Willpower or Rage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le délai avant que la Régénération de Volonté s'active après avoir gagné de la Rage. La Conservation de Rage n'est pas déclenchée par la dépense de Volonté ou de Rage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ragegeneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">The amount of Rage Points generated each time you hit an enemy with a Weapon (except Staves).</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le montant de Points de Rage générés à chaque fois que vous frappez un ennemi avec une Arme (Bâtons exclus)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_rageonhit_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The amount of Rage Points generated each time you are hit by an enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le montant de Points de Rage générés à chaque coup porté à un ennemi avec votre arme (sauf Bâtons).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_rageonkill_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The amount of Rage Points generated each time you kill an enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le montant de Points de Rage générés à chaque fois que vous tuez un ennemi (sauf avec un Bâton).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_remainingpoints_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your remaining Attribute Points. You earn Attribute Points each time you gain a Level, and you can use them to increase your Ferocity, Toughness, Agility and Wisdom.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos points d'Attributs restants. Vous gagnez des points en prenant des niveaux et vous pouvez les dépenser en Férocité, Robustesse, Agilité et Sagesse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resistance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your basic Resistances to main Damage types. A positive Resistance will negate part of the Damage you take from that type, depending on the Damage value and the source level.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Résistances aux types principaux de Dégâts. Une Résistance positive atténuera les dégâts que vous recevrez de ce type, selon la valeur des Dégâts et le niveau de l'ennemi.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resistances_elemental_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Elemental Resistances determine how much Damage is negated when receiving the Fire, Frost and Lightning Damage Types.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Résistances Élémentaires affectent les Résistances au Feu, au Givre, à la Foudre et à leurs Afflictions associées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resistances_material_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Material Resistances determine how much Damage is negated when receiving the Physical, Toxic and Rend Damage Types.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Résistances Matérielles affectent les Résistances Physiques, Toxiques, aux Blessures et à leurs Afflictions associées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resistances_primeval_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Occult Resistances determine how much Damage is negated when receiving the Aether, Sacred and Shadow Damage Types.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Résistances Occultes affectent les Résistances à l'Éther, au Sacré, à l'Ombre et à leurs Afflictions associées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resistances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your passive Resistances to a specific type of Damage. A negative Resistance means that you take more Damage of that type than usual.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Résistances passives à un type spécifique de Dégât. Une Résistance négative signifie que vous prendrez plus de dégâts de cette source.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resource_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your Resource statistics, representing how you generate Resources of all kinds: Rage, Willpower and Stamina.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos capacités de Ressources, représente la façon dont vous générez toutes les Ressources: Rage, Volonté, Endurance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_resourcepool_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Resource Pool represents the maximum Resource Points you have at your disposal for both Willpower and Rage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Ressources maximum disponibles en Volonté et en Rage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_sacred_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Sacred Damage has a Chance to inflict the Weakness Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégats Sacrés ont une Chance d'infliger l'Affliction Faiblesse à leur Cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shadow_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Shadow Damage has a Chance to inflict the Curse Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégats d'Ombre offrent une Chance d'infliger l'Affliction Malédiction à leur Cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shockchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to Shock with Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos chances globales d'infliger Électrocution avec les dégâts de Foudre.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shockdamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Shock Damage determines how much Lightning Damage is dealt to a Shocked Target each time the Shock Ailment ticks. The first displayed value corresponds to the Damage dealt to an Enemy by one Shock stack and the second represents the Damage dealt by the maximum number of stacks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Dégâts infligés par Électrocution à chaque itération. La première valeur correspond à une seule Affliction d'Électrocution. La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions d'Électrocutions sur une cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shockduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Shock Duration represents the duration that a Shock stack you inflict will remain on an Enemy. This duration is reset when another Shock stack is inflicted on an Enemy.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de base d'Électrocution.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shockdurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Shocking.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global de durée appliqué à Électrocution.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shockscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Shock Chance Score is the main modifier that determines your Shock Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score d'Électrocution est le modificateur principal pour vos Chances d'infliger Électrocution.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_shocktick_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Shock Rate represents the delay between each tick of a Shock stack.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le délai entre chaque itération d'Électrocution.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_snareduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Snare and Root.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée des pièges et enchevêtrements.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_spellcastingspeed_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Spell Casting Speed Score is a modifier applied to your Spell Casting Speed.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué à votre Vitesse d'Incantation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_spellcriticalchance_score_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Spell Critical Chance Score is a modifier applied to your Spell Critical Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué à vos Chances de Coup Critique des Sorts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stamina_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Stamina  represents the maximum number of Stamina Points available to you. Stamina Points allow you to Active Dodge.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le montant maximum d'Endurance disponible. Les points d'Endurance vous permettent d'utiliser la Roulade.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_staminaregeneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Stamina Regeneration represents the time it takes before a Stamina Point is regenerated after an Active Dodge has been completed.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Régénération d'Endurance représente le temps qu'il faut pour qu'un Point d'Endurance se regénère après une Roulade.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stasischance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to Apply Stasis with Aether Damage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Chances d'infliger Stase avec les Dégâts d'Éther.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stasisduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Stasis Duration represents the default duration that a Stasis stack will remain on an Enemy before it decays.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de base de la Stase.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stasisefficiency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Stasis Efficiency determines how much a Slowed Enemy's Movement, Attack, and Spell Casting Speeds are decreased per stack of the Stasis Ailment you have inflicted on them. The first displayed value corresponds to how much an Enemy with one Stasis stack is Slowed, and the second represents how much an Enemy with the maximum number of stacks is Slowed.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Efficacité de Stase détermine à quel point le Mouvement, l'Attaque, et la Vitesse d'Incantation de l'Ennemi Ralenti sont diminuées par application de Stase. La première valeur affichée correspond à la valeur de Ralentissement d'un Enemi avec une Application de Stase, et la deuxième représente la valeur de Ralentissement d'un Ennemi avec le nombre maximum d'Applications de Stase.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stasisscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Stasis Chance Score is the main modifier that determines your Stasis Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score de Stase est le modificateur principal pour vos Chances d'infliger Stase.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stunchance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to Stun.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Chances d'infliger Étourdissement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stunduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Stun Duration represents the default duration that an Enemy with the Stun Ailment will remain Stunned.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durée de base de l'Étourdissement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stundurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Stunning.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée globale d'Étourdissement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stunresistance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Stun Resistance. May give you a chance to completely ignore an incoming Stun.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Résistance aux Étourdissements. Peut vous donner une chance d'ignorer complètement un Étourdissement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_stunscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Stun Chance Score is the main modifier that determines your Stun Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score d'Étourdissement est le modificateur principal pour vos Chances d'infliger Étourdissement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_thorndamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your total Thorns Damage. Thorns are Physical Damage inflicted to enemies when they hit you and which pierce through their Protections.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_cs_thorndamage_tooltip n'est plus utilisé. Merci de signaler sa présence à Wolcen Studio si vous tombez dessus.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_thorndamagemod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global Damage modifier applied to your Thorns Damage.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_cs_thorndamagemod_tooltip n'est plus utilisé. Merci de signaler sa présence à Wolcen Studio si vous tombez dessus.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_bleed_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bleed Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_fire_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Burn Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Brûlure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_frost_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Freeze Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Gel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_lightning_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Shock Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Électrocution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_physical_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Stun Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Étourdissement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_poison_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Poison Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Empoisonnement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_sacred_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Weakness Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Faiblesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_Shadow_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Curse Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Malédiction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_umbra_statusailmentbasechance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Stasis Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Stase</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_ferocity_attackcriticalchance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Attack Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Coup Critique d'Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_ferocity_spellcriticalchance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Spell Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de Coup Critique de Sort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_toughness_allresistance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">All Resistances</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_agility_dodgechance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dodge Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Esquive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_agility_attackspeed_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vitesse d'Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_agility_spellcastingspeed_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Spell Casting Speed</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vitesse d'Incantation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotresistchance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ailment Resilience</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance aux Afflictions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotattackinflictchance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ailment Chance on Attack</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affliction sur une Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotspellinflictchance_score</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ailment Chance on Spell</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affliction sur un Sort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_physical_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Physical Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance Physique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_poison_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Toxic Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Toxique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_bleed_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rend Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance aux Blessures</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_fire_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fire Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Feu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_frost_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Frost Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Givre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_lightning_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Lightning Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance à la Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_umbra_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Aether Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance à l'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_sacred_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Sacred Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Sacré</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_shadow_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Shadow Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance à l'Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_toughness_bar_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Toughness Gauge. This represents your investment into that Attribute compared to the expected value at your level.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre montant de Robustesse. La jauge représente votre avancement avec cet attribut par rapport à ce qui est attendu à votre niveau.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_toughness_damage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bonus Damage gained from the Attribute Points assigned to Toughness</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les dégâts bonus gagnés avec les points d'Attributs en Robustesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_toughness_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your total Toughness. This Attribute determines your Maximum Health and Maximum Force Shield.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Robustesse totale. Affecte votre Vie Maximum et toutes vos Résistances.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_umbra_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Aether Damage has a chance to inflict the Stasis Ailment on its Target.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les dégâts d'Éther ont une chance d'infliger Stase à la cible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_umbracost_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">The global modifier to the Willpower cost of all your Spells. Lower costs are not necessary a positive thing depending on your playstyle, since they lower the amount of the opposite Resource generated.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur global du coût en Volonté de vos Sorts. La réduction de coût réduit également la génération de Rage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_umbrageneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The number of Willpower Points generated each time you hit an enemy with a Staff.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le nombre de Points de Volonté généré à chaque fois que vous touchez un ennemi avec un bâton.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_umbraregeneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Your Willpower Regeneration per second. It also represents the Rage you lose each second once the Rage Conservation delay is over.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Régénération de Volonté par seconde. Représente également la Rage que vous perdez chaque seconde après le Délai de Conservation de Rage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_weaknesschance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your total Chance to inflict Weakness with Sacred Damage of any source.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vos Chances d'infliger Faiblesse avec des dégâts de Sacré.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_weaknessduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Weakness Duration represents the default duration that a Weakness stack will remain on an Enemy before it decays.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">La durée de base de Faiblesse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_weaknessdurationmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The global duration modifier applied to Weakening.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur de durée globale appliqué à Faiblesse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_weaknessefficiency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Weakness Efficiency determines how much a Weakened Enemy's Damage is decreased per stack of the Weakness Ailment that you have inflicted on them. The first displayed value corresponds to the decrease in Damage dealt by Enemies with one Weakness stack, and the second represents the decrease in Damage dealt by Enemies with the maximum number of stacks.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">L'efficacité globale de Faiblesse. La première valeur correspond à une seule Affliction de Faiblesse, la seconde représente l'efficacité que vous pouvez obtenir avec votre maximum d'Afflictions de Faiblesse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_weaknessscore_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Weakness Chance Score is the main modifier that determines your Weakness Chance.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Score de Faiblesse est le modificateur principal pour vos Chances d'infliger Faiblesse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_weapondamage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Weapon Damage represents the Damage you deal in one hit with your equipped Weapon.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les dégâts moyens que vous infligez en un coup avec les armes équipées.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_willpower_bar_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Wisdom Gauge. This represents your investment into that Attribute compared to the expected value at your Level.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre score de Sagesse. La jauge représente votre avancement avec cet attribut par rapport à ce qui est attendu à votre niveau.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_willpower_damage_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bonus Damage gained from the Attribute Points assigned to Wisdom.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les dégâts bonus gagnés avec les points d'Attributs de Sagesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_willpower_tooltip</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your total Wisdom. This Attribute determines Attack Ailment Chance Score and your Spell Ailment Chance Score.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre Sagesse totale. Affecte votre Score de Résistance aux Afflictions et vos capacités à infliger des Afflictions avec les Attaques et les Sorts.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>403</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

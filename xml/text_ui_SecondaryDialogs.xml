@@ -1,0 +1,655 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:55Z</Created>
+  <LastSaved>2020-05-26T09:48:55Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Font ss:FontName="Arial" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="109" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="171.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="430.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="270"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">SARISEL DIALOGUES</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p1_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Fight with honor, impure one.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{Combattez avec honneur, l'impur.|Combattez avec honneur, l'impure.}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p1_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Halt! In the name of Sarisel, you must die.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Halte&#160;! Au nom de Sarisel, vous devez mourir.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p1_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Hail mortal, prepare to fight!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{Salut mortel, préparez-vous à combattre&#160;!|Salut mortelle, préparez-vous à combattre&#160;!}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p1_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Tainted mortal, I challenge you.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{Sale mortel, je vous mets au défi.|Sale mortelle, je vous mets au défi.}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p1_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">A promising foe! I hope you are prepared.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{Un ennemi prometteur&#160;! J'espère que vous êtes prêt.|Une ennemie prometteuse&#160;! J'espère que vous êtes prête.}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p2_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Stand and deliver, mortal.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{La bourse ou la vie, mortel.|La bourse ou la vie, mortelle.}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p2_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Prove your worth, feeble one.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Prouvez votre valeur, espèce de faible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p2_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Righteous zeal trumps any corruption!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un zèle bien dosé l'emporte sur la corruption&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p2_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Beacon of Purity, guide my lance!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Porteur de pureté, guide ma lance&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p2_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Prepare to be impaled!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L'empalement vous attend&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p3_1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Behold, my true potential!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le voilà, mon vrai potentiel&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p3_2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You are good, but I am better!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous êtes pas mal mais je vous surpasse&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p3_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">You want a real fight, I'll give you my best!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous voulez un vrai combat, je vais tout donner&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p3_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">An excellent bout, but you are still doomed to fail.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un excellent combat, mais vous ne connaîtrez que l'échec.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_charger_p3_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">You have proven your worth, now submit!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous avez prouvé votre valeur, maintenant rendez-vous&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">A creature of malice enters my domain.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une créature pleine de malveillance entre dans mon domaine.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Another stain on creation to be cleansed.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une autre tache de la création à nettoyer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">A diversion. I suppose I can spare the time.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une diversion. J'imagine que je peux gagner du temps.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">How it gawks with such ignorance. A pitiful creature.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Elle est vraiment restée bouche bée d'ignorance. Pitoyable créature.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">So many points of vulnerability, which one to choose...</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tellement de points de vulnérabilité, lequel choisir...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Such feeble quarry, a waste of my time.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une proie bien faiblarde, une vraie perte de temps.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Clumsy, predictable... Worthless.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">C'était maladroit, prévisible... sans valeur.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sever the neck, preserve the head.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coupez la tête et préservez-la.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_4</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">An unseen predator, I strike!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un prédateur invisible, je frappe&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_5</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Incapacitate, then execute.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Paralysez, puis achevez.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">You dare resist the hand of Purity?! Foul demon, you will be culled!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous osez résister à la main de la Pureté&#160;? Démon infecte, je vais vous abattre&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Another misstep, your folly will be your demise!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un autre faux pas, votre folie marquera votre fin&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">A foolish decision, you lost your right to a swift death.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une décision stupide, vous avez perdu votre droit à une mort rapide.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">The audacity of this one! Accept your fate, pathetic demonspawn!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Quelle audace&#160;! Acceptez votre destin, pathétique rejeton de satan&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">I will cut your skin into ribbons and sharpen my blades on your bones!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Je ferai des rubans de votre peau et j'aiguiserai mes lames sur vos os&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p1_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">As was forseen, the impure one stands before me.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{Comme prévu, l'impur se tient devant moi.|Comme prévu, l'impure se tient devant moi.}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p1_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Conflicted wanderer, what do you live for?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vagabond en conflit, quel est le but de votre vie&#160;?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p1_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">The stench of your spirit is inexcusable.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">La pestilence de votre esprit est inexcusable.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p1_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">As was foreseen, a wretched mutation.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Comme prévu, une bien misérable mutation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p1_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">A vestige of corruption, malformed and conflicted.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un vestige de corruption, malformée et confuse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p2_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Submit to your destiny, your fate is sealed.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Rendez-vous à votre destinée, votre destin est scellé.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p2_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">In your heart, darkness holds dominion, does it not?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dans votre cœur, les ténèbres dominent, n'est-ce pas&#160;?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p2_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Your mind is burdened with impure thoughts.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Votre esprit est encombré de pensées impures.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p2_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Come to me, and be cleansed of your profanity.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Venez à moi, que je vous purifie de votre blasphème.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p2_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Like the others of your kind, you shall return to dust.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tout comme les autres de votre espèce, vous retournerez à la poussière.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p3_1</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Your sins against creation weigh you down.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vos péchés contre la création vous accablent.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p3_2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Your efforts have revealed your potential, and exposed your weaknesses.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vos efforts ont révélé votre potentiel et exposé vos faiblesses.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p3_3</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">A resilient spirit, you will be remembered in death.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un esprit résilient, on se souviendra de vous dans la mort.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p3_4</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Your death is... inevitable.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Votre mort est... inévitable.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_sariseldialog_tracker_p3_5</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">My gaze pierces your every intention, you are condemned to eternal rest.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Je suis capable de vous percer à jour, votre sentence est le repos éternel.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>108</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

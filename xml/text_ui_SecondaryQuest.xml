@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:58Z</Created>
+  <LastSaved>2020-05-26T09:48:58Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="126" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="272.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="555"/>
+   <Column ss:AutoFitWidth="0" ss:Width="268.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Campaign Secondary content</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KCP_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cull All Evil</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éradiquer le Mal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Track Down Evil</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Traquez le Mal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bounty Hunting</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Chasse de Prime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Head Hunting</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Chasse à l'Homme</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KCP_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les ennemies de la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_OUTW_Trapper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Flayer Sappers&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Écorcheur Saboteurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Reaper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Specters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Spectres&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Halfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Soul Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Rejetons des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Tombbearer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Soul Tormentors&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Tourmenteurs d'Âme&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Spreader</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Harvesters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Moissonneurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_SVRI_Spawner</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Svriir Beta Spawners&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Génitrices Beta&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_SOUTW_Shaman</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Morosian Seers&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Devins Morosien&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_REPU_Sniper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Republican Railgunners&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Purificateur Tireurs d’Élite&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Sniper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Assimilated Republican Railgunners&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Tireurs d’Élite Assimilés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Halfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Flesh Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Suppôts de Chair&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Enforcer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Instigators&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Instigateurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Assassin</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Pacified Alastors&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Alastors Pacifiés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_REPU_Veteran</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Purifier Veterans&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Purificateur Vétérans&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Veteran</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Pacified Purifier Veterans&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Purificateur Vétérans Pacifiés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Cultist</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Cultists of Fury&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Cultistes du Prince Aveugle&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedHalfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill &quot;Galaphöron&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;Galaphöron&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_StepNameLabel_SVRI_NamedGiantSpawner</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill  &quot;Ssilassa&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;Ssilassa&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_StepNameLabel_OUTW_NamedAlphaWarhound</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill &quot;Snuffles the Good Doggie&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;Snuffle le Bon Toutou&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedLanternBearer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill &quot;Miré the Siphonner&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;Miré le Geôlier&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_StepNameLabel_COFE_NamedFleshZombie</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill &quot;The Lambach's Kiss&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le &quot;Baiser de Lambach&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedMiniSpecter</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill &quot;P. Vincentus, Breath of Anulaï-Tai&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;P. Vincentus, Souffle d'Anulaï-Tai&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_Cultist</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Cultist of the Aberrant&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Cultiste de l'Abérrant&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Halfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Soul Spawn&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Rejeton des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Reaper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Specter&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Spectre&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Cultist</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Cultist of the Sleeper&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Cultiste du Dormeur&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_OUTW_Brute</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Flayer Wallbreaker&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Écorcheur Briseur de Bouclier&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SVRI_AlphaPoison</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Alpha Svriir&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Svriir Alpha&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SVRI_AlphaFlesh</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Alpha Svriir&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Svriir Alpha&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_OUTW_Thug</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Flayer Warmaster&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Écorcheur Maître de Guerre&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SOUTW_Thug</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Twillight Champion&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Champion des Ténèbres&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_REPU_Assassin</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Alastor&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Alastor&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Priest</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Risen Hierophant&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Hiérophante Réanimé&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_ColossalBreeder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Experimental Amalgam&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Amalgame Expérimental&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_Priest</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Pacified Hierophant&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Hiérophante Pacifié&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Butcher</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Devourer&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Dévoreur&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SVRI_AlphaFire</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Fireblood Alpha Svriir&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Alpha Svriir Sang-de-Feu&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_Knight</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Aurora Knight&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Chevalier de l'Aurore&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_SiegeBeast</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Pacified Mortarbeast&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Bête de Mortier Pacifiée&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_Golgoth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Pacified Punisher Exoskeleton&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Exosquelette Châtieur Pacifié&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_REPU_Justicar</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Lord Justicar&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le &quot;Seigneur Justicar&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_DoF</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Demon of Flesh&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Démon de Chair&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_DoS</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Lord &quot;Demon of Souls&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Seigneur &quot;Démon des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_OUTW_Trapper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Flayer Sappers&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les &quot;Écorcheurs Saboteurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_COSS_Halfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Soul Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les &quot;Rejetons des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_SVRI_Spawner</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Beta Spawners&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les &quot;Génitrices Beta&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_Easy_StepNameLabel_COSS_Halfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Soul Spawn&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les &quot;Rejetons des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KOT_Easy_StepNameLabel_OUTW_Brute</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Flayer Wallbreaker&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;l'Écorcheur Briseur de Bouclier&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Endgame content</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KCP_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cull All Evil</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éradiquer le Mal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Track Down Evil</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Traquer le Mal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cleanse the Darkness</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Purger les Ténèbres</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_GDC_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Gold Rush!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ruée vers l'Or !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CDC_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You get a chest! And you get a chest!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Toi t'as un coffre ! Et toi t'as un coffre !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CCC_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fortune Favors the Bold!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">La Chance Sourit Aux Audacieux !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CR_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Treasure Room</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Salle Au Trésor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CCR_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Dead Man's Chests</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Coffre du Mort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bounty Hunting</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Chasse de Prime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_UB_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">In Loving Memory</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">À la Douce Mémoire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_EG_LBF_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Legions of Them</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Des Légions d'Eux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_Shared_StepNameLabel_Enter</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Portal</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Entrer Dans le Portail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_NPC1_StepNameLabel_Finish</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Mandates Board</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Retournez voir Eugène &quot;le Fringuant&quot; via le Tableau des Mandats</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_Consumable_StepNameLabel_Finish</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exit through the Portal</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sortez par le Portail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KCP_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les ennemis de la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_OTW_Thug</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Flayer War Masters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Ancien &quot;Écorcheur Maître de Guerre&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_OTWSB_Thug</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Twillight Champions&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Ancien &quot;Champion des Ténèbres&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COS_DoS</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Demons of Souls&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Démon des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFE_DoF</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Demons of Flesh&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Démons de Chair&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFY_Knight</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Pacified Aurora Knights&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Chevaliers de l'Aurore Pacifiés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFY_Golgoth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Punisher Exoskeletons&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Ancien &quot;Exosquelette Châtieur&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_REPU_Justicar</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Justicars&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Justicars&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRI_AlphaPoison</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Svriirs Alphas&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRIF_AlphaFire</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Svriirs Alpha&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_CALL_TaintedPrimoGuardian</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Tainted Primordial Guardians&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Gardiens Primordiaux Profanés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWF_Trapper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Flayer Sappers&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Écorcheur Saboteurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWSB_KennelMaster</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Kennel Master&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Ancien &quot;Maître de Chenil&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWSBW_Shaman</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Morosian Seers&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Devins Morosiens&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COST_Priest</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Risen Hierophants&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Hiérophantes Réanimés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSS_Halfbreed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Soul Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Rejetons des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSD_Tomberear</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Soul Tormentors&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Tourmenteurs d'Âme&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSU_Spiker</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Risen Martyrs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Martyrs Réanimés&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COW_Reaper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Specters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Spectres&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFLW_Spreader</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Harvesters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Moissonneurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFLVR_Sniper</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Railgunners&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Tireurs d'Élite&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFMSR_Colossalbreader</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Experimental Amalgams&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Amalgames Expérimentaux&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFLVT_Cultist</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Cultists of the Aberrant&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Cultistes de l'Abérrant&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_REPU_SiegeBeast</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Savior-Maw Mortarbeast&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Gueules Sauveuses Bêtes de Mortier&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFUT_Enforcer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Instigators&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Instigateurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFUR_Veteran</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Purifier Veterans&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Purificateurs Vétérans&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIP_Spitter</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Beta Spitters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Beta Cracheurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIW_Spawner</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Beta Spawners&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciennes &quot;Génitrices Beta&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIF_Spitter</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Fireblood Beta Spitters&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Beta Cracheurs Sang-de-Feu&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIFW_Screecher</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Beta Screechers&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Beta Hurleurs&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_CALL_Cultist</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Cultists of the Blind Prince&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Cultistes du Prince Aveugle&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_GDC_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill as many &quot;Wealth Omens&quot; as possible within the time limit.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer autant de &quot;Présages Opulents&quot; que possible dans le temps imparti.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CDC_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Loot as many chests as possible within the time limit.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Accéder à autant de coffres que possible dans le temps imparti.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CCC_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Loot as many cursed chests as possible within the time limit.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Accéder à autant de coffres maudits que possible dans le temps imparti.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CR_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Obtenir tout le butin et retourner voir Eugène &quot;le Fringuant&quot; via la Carte des Expéditions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_CCR_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Obtenir tout le butin et retourner voir Eugène &quot;le Fringuant&quot; via la Carte des Expéditions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Justicar</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Justicar&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Justicar&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Assassin</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Alastor&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Alastor&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Thug</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Flayer Warmaster&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Écorcheur Maître de Guerre&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_DoS</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Démon des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Butcher</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Devourer&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Dévoreur&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_PacifiedKnight</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Chevalier de l'Aurore Pacifié&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_PacifiedGolgoth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Pacified Punisher Exoskeleton&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Exosquelette Châtieur Pacifié&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_DoF</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Demon of Flesh&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Démon de Chair&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_SvriirAlphaPoison</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Dungon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Svriir Alpha&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Primo</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Tainted Primordial Guardian&quot; Dungon Boss</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer le Boss de Donjon &quot;Gardien Primordial Profané&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_UB_StepNameLabel_UberLambach</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Slay &quot;Uber Lambach&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer &quot;Uber Lambach&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_AlphaPoison</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Svriir Alpha&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Thug</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Flayer Warmaster&quot; summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur &quot;d'Écorcheur Maître de Guerre&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Assassin</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Penumbral Lurker&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Rôdeur de la Pénombre&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Butcher</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Devourer&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Dévoreur&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Corrupted_PrimordialGuardian</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Tainted Primordial Guardian&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de Donjon &quot;Gardien Primordial Profané&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_PacifiedGolgoth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Pacified Exoskeleton&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur &quot;d'Exosquelette Pacifié&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_DemonOfFlesh</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Demon of Flesh&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Démon de Chair&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_DemonOfSouls</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Démon des Âmes&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_JusticarElite</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Justicar&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Justicar&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Knight</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l'Invocateur de &quot;Chevaliers de l'Aurore Pacifiés&quot;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>125</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,2118 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:56Z</Created>
+  <LastSaved>2020-05-26T09:48:56Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Font ss:FontName="Arial" ss:Size="11" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Font ss:FontName="Arial" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0%"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="394" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="336.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="370.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Unlock for %1 gold</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Acheter pour %1 pièces d'or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BlockedHit</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Blocked</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bloqué</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_inv_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Inventaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Party Leader is Choosing an Adventure.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le Chef de Groupe choisit une Aventure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_start_quest_adventure_because_dungeon_adventure</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">A Mandate cannot be accepted during an ongoing Expedition.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un Mandat ne peut pas être accepté lorsqu'une Expédition est en cours.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_start_dungeon_adventure_because_quest_adventure</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">An Expedition cannot be launched during an ongoing Mandate.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une Expédition ne peut pas être lancée lorsqu'un Mandat est en cours.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_adventure_already_active</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">A Mandate is already ongoing.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un Mandat est déjà en cours.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_dungeon_adventure_already_active</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">An Expedition is already ongoing.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une Expédition est déjà en cours.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">not_enough_gold</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough gold.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pas assez d'or.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">not_enough_room_in_inventory</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough room in inventory.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pas assez de place dans l'inventaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Info_TeleportToFriend_TargetIsInADifferentGameplayArea</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot Teleport to your Ally while in different Areas during an Expedition.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas vous téléporter vers un Allié si vous êtes dans une autre zone pendant une Expédition.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_not_enough_room_in_chest</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough room in this chest panel.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez plus de place dans cet onglet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_you_cannot_replace_default_skills</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot replace default spells.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas remplacer les compétences par défaut.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_unable_to_equip_item_while_using_skill</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot equip an item while using a spell.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas équiper d'objet pendant l'incantation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_no_town_portal_here</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot use a town portal here.</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">Vous ne pouvez pas utiliser un portail de retour en ville dans cette zone.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_pst_not_available</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Passive Skill Tree is disabled.</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">La Roue des Destins est désactivée.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_NotEnoughMana</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough Willpower!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez pas assez de Volonté !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_NotEnoughRage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough Rage!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez pas assez de Rage !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_NotEnoughStamina</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough Stamina!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez pas assez d'Endurance !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_NotEnoughStacks</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough charges!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez plus de charge !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_NotEnoughApoResource</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough Primordial Essence!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pas assez d'Essence Primordiale !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_unable_equip_craft_element</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You cannot equip a crafting component.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas équiper un composant d'artisanat.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_StrReqNotMatching_Text</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Ferocity is too low to equip this item.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas assez de Férocité pour porter cet objet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_DexReqNotMatching_Text</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Agility is too low to equip this item.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas assez d'Agilité pour porter cet objet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_PowReqNotMatching_Text</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Wisdom is too low to equip this item.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas assez de Sagesse pour porter cet objet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_ConReqNotMatching_Text</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Toughness is too low to equip this item.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas assez de Robustesse pour porter cet objet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_LevelReqNotMatching_Text</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your level is too low to equip this item.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas le niveau pour porter cet objet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_inventory_cannotequiphere</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You cannot equip this item in this slot.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas mettre cet objet dans cet emplacement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_cannot_replace_used_skill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You cannot move a spell during its cooldown.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas déplacer un sort pendant son temps de recharge.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_cant_equip_unique_twice</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You cannot equip the same unique item twice.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas porter deux objets uniques du même type.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_SpellAlreadyKnown_Text</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You already know this spell.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous connaissez déjà cette compétence.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_require_target</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">This spell requires a valid target.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce sort nécessite une cible valide.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_skill_already_max_lvl</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">This spell is already at maximum level.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce sort est déjà au niveau maximum.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_not_enough_knowledge</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Not enough Primordial Affinity.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas assez d'Affinité Primordiale.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_can_not_sell_item_to_archivist</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You can not sell this item to the Archivist.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas vendre cet objet à l'Archiviste.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_skillcopy_alreadyunlocked</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">This duplicated skill has already been unlocked.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cette compétence dupliquée a déjà été débloquée.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_skillcopy_toolowlevel</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Original skill does not meet the level requirements.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">La compétence initiale n'a pas le niveau requis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_skillcopy_requireendgameproject</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">'Champion of Stormfall' Project required to duplicate skills.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le projet &quot;Champion de Stormfall&quot; est requis pour dupliquer une compétence.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_locked_chest_panel</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This inventory panel is locked.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce panneau d'inventaire est verrouillé.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cantswapitems</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot swap these items.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas permuter ces objets.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_stance_not_available_yet</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This weapons combination is not available yet.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cette combinaison d'arme n'est pas encore disponible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_gem_socketnotempty</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This gem socket is not empty.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Il y a déjà une gemme dans cet emplacement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_gem_cantsocketbasicinunique</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot put a basic gem into a Unique socket.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas mettre une gemme basique dans un emplacement de gemme unique.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_gem_cantsocketuniqueinbasic</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot put a Unique gem into a basic socket.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas mettre une gemme unique dans un emplacement de gemme basique.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_gem_levelprereqnotsatisfied</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The level of this item is too low for this gem.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le niveau d'objet est trop bas pour cette gemme.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_message_RequestTeleportToWaypoint_PlayerCannotTeleportRightNow</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot teleport right now.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas vous téléporter maintenant.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_message_RequestTeleportToWaypoint_TooCloseToTargetWaypoint</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You are too close to that Waypoint to teleport there.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous êtes trop près du Point de Passage pour vous téléporter.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_message_RequestTeleportToWaypoint_WaypointIsLocked</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This Waypoint has not been unlocked.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce Point de Passage est verrouillé.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_no_teleport_to_friend_here</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot teleport to your friend from here.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas rejoindre votre ami depuis cette zone.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_unable_to_unequip_item_while_using_skill</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot unequip an item while using a skill.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas déséquiper un objet lorsque vous utilisez une compétence.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_adventure_failed</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Adventure Failed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Aventure Échouée</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_adventure_failed</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your party has been defeated.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Votre groupe a été vaincu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_potion_notenoughcharge</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not enough potion charges.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous n'avez pas assez de charges sur votre potion.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_inactivity</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Inactivity warning.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Alerte d'inactivité.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_inactivity</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You will be kicked from the game for inactivity in %1 seconds.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous allez être déconnecté pour inactivité dans %1 secondes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_restartRequired</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Restart required</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Restart required</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_restartRequired</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Please restart the game to apply your changes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Please restart the game to apply your changes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_revive_when_nemesis_is_alive</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot revive while a Nemesis is alive</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas être ressuscité tant qu'un Nemesis est vivant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_sarisel_selection_warning</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Wrath of Sarisel</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Colère de Sarisel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_sarisel_selection_warning</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Warning! You are entering the Wrath of Sarisel. This game mode is best enjoyed as a multiplayer experience. Once you enter, you may not cancel the challenge. Are you ready?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Attention&#160;! Vous avez attisé la Colère de Sarisel. Ce mode de jeu est plus adapté au multijoueur. Une fois que vous serez entré, vous ne pourrez pas annuler le défi. Êtes-vous prêt&#160;?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_waypoint_is_locked</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This Waypoint has not been unlocked.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce Point de Passage n'a pas été débloqué.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_maximum_affix_count_reached</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot use this Reagent: maximum Magic Effect count reached.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas utiliser ce Réactif: nombre d'Effets Magiques maximum atteint.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_minimum_affix_count_reached</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot use this Reagent: minimum Magic Effect count reached.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas utiliser ce Réactif: nombre d'Effets Magiques minimum atteint.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_craft_incompatible_rarities</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot use this Reagent: Rarities are incompatible.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas utiliser ce composant: rareté incompatible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_craft_equipped_item</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot use Reagents on items that are currently equipped.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas utiliser de composant sur des objets équipés.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_no_affix_available_to_add</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot use this Reagent: no Magic Effects available to add.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas utiliser ce Réactif: pas d'Effet Magique éligible à l'ajout.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_can_only_craft_weapon_or_armor</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can only use Reagents on weapons or armors.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez utiliser les composants que sur les armes et armures.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_citybuilding_menu_unavailable_not_in_adventure_mode</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while in Story Mode.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas accéder à la Gestion de Stormfall en mode Histoire.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_citybuilding_menu_unavailable_not_in_town</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while outside of Stormfall.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas accéder à la Gestion de Stormfall en-dehors de la ville.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_citybuilding_menu_unavailable_ongoing_activity</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while an Expedition is active.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas accéder à la Gestion de Stormfall lorsqu'une Expédition est en cours.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_citybuilding_menu_unavailable_player_dead</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while you are dead.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas accéder à la Gestion de Stormfall si vous êtes mort.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_enneract_can_only_be_sold_to_an_archivist</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can only exchange Enneracts for Primordial Affinity.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez échanger les Enneracts que contre de l'Affinité Primordiale.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_leave_dungeon</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot leave at this time.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas partir pour le moment.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_unlocked_adventure_mode</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Champion of Stormfall Unlocked</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Champion de Stormfall débloqué</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_unlocked_adventure_mode</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Congratulations, you have completed Wolcen's campaign! The Champion of Stormfall game mode has been unlocked.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Félicitations, vous avez terminé la campagne de Wolcen ! Le mode de jeu Champion de Stormfall a été débloqué.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_playeronlinenotavailable</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Online Mode Unavailable</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mode en ligne indisponible</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_playeronlinenotavailable</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Online Mode is currently unavailable.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le mode en ligne est temporairement indisponible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_npc1_popup</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Purple Phoenix Mandate</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mandat du Phénix Pourpre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_npc1_popup</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Mandates are simple missions achieved in exchange of a reward.\nTaking a Mandate from the Mandate Board will open a portal. Do you wish to continue?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt;In the wake of recent events Stormfall remained considerably crippled and unable to properly defend its lands. Hiring the mercenary group known as the Host of the Purple Phoenix was one of the only measures that the Council of Houses managed to agree on now that Damaskus relinquished his throne.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les mandats sont des missions simples complétées en échange d'un récompense.\nPrendre un Mandat du Tableau des Mandats ouvrira un portail. Souhaitez-vous continuer ?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt;En raison des évènements passés Stormfall est considérablement handicapée et incapable de bien défendre ses terres. Recruter le groupe mercenaire qu'on appelle le Cercle du Phénix Pourpre était l'une des seules mesures sur laquelle le Conseil des Maisons ait pu s'accorder maintenant que Damaskus ait abdiqué son trône.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_createCharacterBeforeJoiningGroup</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Character Required</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Personnage requis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_createCharacterBeforeJoiningGroup</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You must create a character before joining a group.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous devez créer un personnage avant de pouvoir rejoindre un groupe.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_PlayerChest_UnlockThroughEndgame</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Further Stash tabs can be unlocked through the Champion of Stormfall game mode.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">D'autres onglets de banque peuvent être débloqués en mode de jeu Champion de Stormfall.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DyeAlreadyUnlocked</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You have already unlocked this Dye.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous avez déjà acquis cette teinture.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_not_enough_points</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot unlock an Aspects of Apocalypse without a Unlock Point.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas débloquer d'Aspect d'Apocalypse sans point dédié.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_not_possible_now</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Not accessible at this time.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pas encore disponible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_confirm_end_npc2_quest_content_no_deeper_delving</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Are you sure you want to leave this expedition and get back to Stormfall?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Êtes-vous sûr de vouloir quitter cette expédition et retourner à Stormfall ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_unexpectedchesterror</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Unexpected Stash Error</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Erreur de coffre inattendue</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_unexpectedchesterror</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">An unexpected error has occurred with your stash. Access has been restricted to prevent item loss. Please exit and start a new game to access your stash again.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une erreur inattendue s'est produite avec votre coffre. L'accès a été restreint pour éviter la perte d'objets. Merci de quitter et relancer le jeu pour accéder de nouveau à votre coffre.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_infuse_unavailable_desc</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Wrath of Sarisel is unavailable in this game mode</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Colère de Sarisel n'est pas disponible dans ce mode de jeu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ARCHIVIST</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_knowledge</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Primordial Affinity</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Affinité Primordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_archivist_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Archivist</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Archiviste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_level_up</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Level up</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Niveau supérieur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_skill_levelup</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Skill Level up</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Gain de niveau de compétence</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_archivist_header</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can sell your Enneract to the Archivist and earn Primordial Affinity. \nPrimordial Affinity can be used to increase your Skills' level.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez vendre vos Enneracts à l'Archiviste contre de l'Affinité Primordiale.\n L'Affinité Primordiale peut être utilisée pour augmenter vos niveaux de compétences.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_archivist_button_create_skill_copy</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Duplicate</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dupliquer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">JEWELER</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Jeweler</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Joaillier</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_itemhasnosocket</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">This item does not have a gem socket.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cet objet n'a pas d'emplacement de gemme.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_itemhasnogem</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">There is no gem to remove from this item.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Il n'y a pas de gemme à extraire de cet objet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_unsocketCost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gem removal cost</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coût d'extraction de gemme</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_unsocket</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Remove gem</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Extraire les gemmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_header</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can remove gems from your items and also re-roll your item sockets.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez enlever les gemmes de vos objets et reforger leurs emplacements de gemmes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_jeweler_reroll_sockets</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Re-roll Item Sockets</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Reforger emplacements de gemmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_socketRerollCost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Re-roll Cost</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coût de reforge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_socket_reroll_items_has_gems</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot re-roll item sockets one items that have gems socketed.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas reforger d'emplacement de gemme sur les objets gemmés.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_socket_reroll_cannot_have_sockets</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot re-roll item sockets on items that do not have sockets.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas reforger d'emplacement de gemme sur les objets qui ne peuvent pas en avoir.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_socket_reroll_sockets_locked</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot re-roll item sockets on items where the sockets are locked.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous ne pouvez pas reforger d'emplacement de gemme sur les objets où les emplacements sont bloqués.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_reset_sarisel_adventure_popup_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Confirm Reset</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Confirmer la réinitialisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_reset_sarisel_adventure_popup_content</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Are you sure you want to reset the expedition? All items on the ground will disappear.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Êtes-vous sûr de vouloir réinitialiser l'expédition&#160;? Tous les objets au sol disparaîtront.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_reset_sarisel_adventure_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Confirm Reset</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Confirmer la réinitialisation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_reset_sarisel_adventure_warning</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">All items on the ground will disappear.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tous les objets au sol disparaîtront.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_reset_sarisel_adventure_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Are you sure you want to reset the expedition?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Êtes-vous sûr de vouloir réinitialiser l'Expédition&#160;?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_eviscerator_impale_other_player</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your ally is trapped by an Untainted Shadowblade!\nAttack it to save them!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un allié est piégé par un Immaculé Ombrelame!\nAttaquez-le pour le sauver !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_eviscerator_impale_local_player</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You are trapped by an Untainted Shadowblade!\nAllies must attack it to save you!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous êtes piégé par un Immaculé Ombrelame!\nVos alliés doivent l'attaquer pour vous sauver !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_charger_killspawns</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">An Untainted Zealot has appeared!\nKill the clones to defeat it!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un Immaculé Fanatique est apparu!\nTuez ses clones pour le vaincre !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">A Reward Well-Earned</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une récompense bien méritée</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_StepLabel</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Open the Chest!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ouvrez le coffre&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_LeaveTheCoast_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Friendly Fire</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dégâts alliés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_LeaveTheCoast_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">As you ascend toward the surface, you hear the echoes of a nearby battle.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">En montant vers la surface, vous entendez les échos d’une bataille non loin.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_SvriirRaid_1_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Last Stand</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Baroud d'Honneur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_SvriirRaid_1_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The ground shakes as an enormous horde of Svriirs approaches the last Stormfall barricade that protects the way to the refugee camp. Sandor and his men are preparing for their final battle.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le terre tremble alors qu’une horde énorme de Svriirs approche la dernière barricade de Stormfall qui protège le camp de réfugiés. Sandor et ses soldats se préparent pour leur ultime bataille.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Bane of the Storm</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le Fléau de la Tempête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Despite the surrounding Soul Surges that chill the air, there is a very clear stream of warmth that emanates from this cave.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Malgré les Vagues d’Âmes qui refroidissent l’air, il y a un clairement un courant de chaleur qui vient de cette caverne.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">A Warm Welcome</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Accueil Chaleureux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Nothing like resting at the luxury inn of the Palace District to meet Valeria. The Laughing Sea Gal' knows how to welcome its customers, even in a city on the brink of chaos.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Rien de mieux que de se reposer à l’auberge de luxe du Quartier du Palais afin de rencontrer Valeria. La Mouette Rieuse sait comment accueillir ses clients, même quand la ville est au bord du chaos.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Battleborns</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nés de la Bataille</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You and Edric are almost through the Flayers' territory. Smoke rises from the Brotherhood of Dawn's camp; the Purifier's army shouldn't be far now.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous et Edric ont presque traversé le territoire des Écorcheurs. La fumée monte du camp de la Fraternité de l’Aube ; l’armée des Purificateurs ne doit pas être trop loin d’ici.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_UmbraRelay_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Whispers from Within</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Murmures de l'Esprit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_UmbraRelay_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">A majestic chamber lies ahead. What appears to be a dead end. As you approach, something ominous starts to stir from the depths of your consciousness.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Une chambre majestueuse est devant vous. Elle semble être une impasse. En approchant, une voix sombre se réveille dans les profondeurs de votre esprit.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_TPS_EdricAmbush_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">No Matter the Odds</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">En Toutes Circonstances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_TPS_EdricAmbush_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You finally reached the tainted Core of Anankis. Now you will have to find a way to stop it if Stormfall is to be saved.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous avez enfin atteint le Noyau d’Anankis souillé. Désormais vous aurez besoin de trouver une résolution avant qu’il ne détruise Stormfall.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Yudai_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fear No Evil</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ne Crains Aucun Mal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Yudai_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The clash against Yudaï is now unavoidable. He wishes to use you as a new vessel for his powers. This is no longer about heroism, the strength you must gather to prevail will have to come from the sheer will to survive.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L’affrontement contre Yudaï est inévitable. Il veut utiliser votre corps comme son nouvel hôte pour ses pouvoirs. Ce n’est plus une question d’héroïsme : la force que vous devez rassembler pour gagner a besoin de venir de la volonté de survivre.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Familiar Face</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un Visage Familier</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flayers Wildlings are mobilizing in the distance. Something is chasing after them.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Écorcheurs Sauvageons se mobilisent au loin. Quelque chose les chasse.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Plea</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L'Appel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Purifiers camp shouldn't be far now. There is little doubt that Maëlys is already on the way to 'welcome' you and Edric. You must reach Grand Inquisitor Heimlock and plead your case to cease the infighting about your supposed 'witchcraft'.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le camp des Purificateurs semble être proche maintenant. Il n’y a pas de doute que Maëlys se prépare déjà de vous ‘accueillir’. Vous devez atteindre Grand Inquisiteur Heimlock et donner votre point de vue afin d’arrêter les conflits internes au sujet de votre ‘sorcellerie’.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Frozen Bones</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Os Gélés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Sinister voices echo from the depths, chanting in unison. Doesn't sound like good news.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Des voix sinistres résonnent dans les profondeurs ; elles chantent à l’unisson. Cela ne peut-être un bon présage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Give Your Report</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Livrer Votre Rapport</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">After informing the Merchant-Prince in details about what's happening below Stormfall, he will share with you the position of Valeria that his scouts have retrieved.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 2]&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Après avoir informer le Prince-Marchand en détail des évènements sous Stormfall, il partagera avec vous l'emplacement de Valeria que ses éclaireurs ont trouvé.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter vous emménera vous et votre groupe au Chapitre 2]&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_MercyArena_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Begging for Mercy</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Demander Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_MercyArena_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Mercy seems to rule from this arena. To get Zima's help and break the Shadow-wall, you need to put him down. If legends about him are true, expect the worst.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pitié semble régner depuis cette arène. Pour obtenir l'aide de Zima et briser le Mur de Ténèbres, vous devez le terrasser. Si les légendes à son sujet son vraies, attendez-vous au pire.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Breaking the Spell</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Briser le Sortilège</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You arrive just in time to witness Zima breaking the shadow wall. Hopefully someone survived the onslaught on the other side…</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous arrivez juste à temps pour voir Zima écrouler le mur de ténèbres. Espérons que quelqu'un ait survécu l'assaut de l'autre côté…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_InnerSanctum_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Might of the Searing Song</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Grandeur du Chant Brûlant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_InnerSanctum_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Eos Gernese and his men need to carve their way back to the light, with your support, they now have a chance.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Eos Gernese et ses hommes doivent se tailler un chemin vers la lumière, avec votre aide, ils ont maintenant une chance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_VOS2Event_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Demonhunting</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Chasse au Démon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_VOS2Event_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The smell of sulphur mixes with dead flesh as you reach the point of origin of the undead tide. Maybe you should turn around.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L'odeur de soufre se mêle à la chair morte tandis que vous atteignez le point d'origine de la marée mort-vivante. Peut-être devriez-vous repartir.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_ForestClearing_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">First Contact</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Premier Contact</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_ForestClearing_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Valeria and you are journeying toward the recently razed city of Cordanon. What's the worst that could happen?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Valeria et vous voyagez vers la cité de Cordanon récemment rasée. Que pourrait-il arriver de pire ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_FleshCity_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Laments of Fury</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Lamentations de la Furie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_FleshCity_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cordanon's gates are in sight. A deep sense of foreboding invade your mind.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les portes de Cordanon sont en vue. Un mauvais pressentiment envahit votre esprit.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_LambachBossFight_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Lambach</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le Lambach</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_LambachBossFight_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">In order to get to the Helion's first piece, it's now time to face the Lambach and end its horrors… if that's even possible.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pour arriver au premier fragment du Hélion, il est temps de confronter le Lambach et mettre fin à ses horreurs… si c'est même possible.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_ACT2_to_ACT3_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Journey to the Vault of Truth</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Voyage vers la Cathédrale de la Vérité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_ACT2_to_ACT3_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Now that Gernese has the first piece of the Helion, you must journey north with the survivors of the Vault of Hope, to obtain the second piece and assemble the mythical weapon.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 3]&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Maintenant que Gernese détient le premier fragment du Hélion, vous devez partir vers le nord avec les survivants de la Cathédrale de l'Espoir, afin d'obtenir le second fragment et reconstituer l'arme mythique.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter vous emménera vous et votre groupe au Chapitre 3]&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_InnerSanctum_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Pacification</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pacification</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_InnerSanctum_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The second piece of the Helion should be in the sanctum. Given it hasn't been breached yet, it should be safe to proceed.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le second fragment du Hélion devrait être dans le sanctuaire. Étant donné qu'il n'a pas encore été enfreint, la voie devrait être libre.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_RW1_WW1_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Diversion</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">La Diversion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_RW1_WW1_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">For you to do your part and open the main gates of Crimson Keep, you will need the Daybreakers to do theirs, and attract Republican troops their way so that you may pass.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pour que vous puissiez jouer votre rôle et ouvrir les portes de Fort Carmin, il faudra que les Portejours jouent le leur, et attirent les troupes Républicaines de leur côté pour vous permettre de passer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_Trenches_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Battle Within</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">La Lutte Interne</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_Trenches_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Valeria and you will have to crush the reinforcements sent by the forces of Fury and use their portal to get up the remparts.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Valeria et vous devrez anéantir les renforts envoyer par les forces de la Furie et utiliser leur portail pour arriver aux remparts.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_TowerTop_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Gates of Crimson Keep</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Portes de Fort Carmin</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_TowerTop_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">As the power core charges up in energy, forces of Fury will surely try to sabotage it to prevent the opening of the main gate. If they succeed, Gernese and his men will be pinned down and crushed.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tandis que le noyau d'alimentation se charge d'énergie, les forces de la Furie tenteront sûrement de le saboter pour empêcher l'ouverture du portail. S'ils y arrivent, Gernese et ses hommes seront coincés et anéantis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_HeimlockBossFight_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fury's Ascent</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L'Ascension de la Furie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_HeimlockBossFight_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can hear familliar voices coming from behind. They made it. You are all in time to stop Ahriman's summoning before it even started. Victory is at hand.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous entendez des voix familières venir de l'arrière. Ils y sont arrivés. Vous êtes tous arrivés à temps pour arrêter l'invocation d'Ahriman avant même qu'elle ne commence. La victoire est proche.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_HA_ACT3_to_ACT4_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Closing the Abyssal Gate</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fermer le Portail Abyssal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_HA_ACT3_to_ACT4_text</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gernese is slowly closing the Abyssal gate. And yet, as he does so, something is intensifying on the other side. Time is running short. Fury is here.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will end the campaign and bring you back to main menu so that you can play the endgame mode: &quot;Champion of Stormfall&quot;.]&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Gernese ferme lentement le portail Abyssal. Et pourtant, pendant qu'il le fait, quelque chose s'accumule de l'autre côté. Le temps s'écoule. La Furie est là.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter mettra fin à la campagne et vous ramènera au menu principal afin de jouer au mode &quot;Champion de Stormfall&quot;.]&lt;/Font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_warning</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Warning! All party members will be teleported to the event area.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Attention! Tous les membres de la coterie seront téléportés à l'événement.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_launch_vote</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Launch Event</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Lancer l'Événement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_decline</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Decline</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Décliner</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cursed_chest</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cursed Chest</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coffre maudit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_kill_all_monsters</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Defeat all enemies to receive a reward.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tuez tous les ennemis pour recevoir une récompense.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_shrine_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Defeat a wave of enemies to gain their buff: </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Venez à bout de vagues d'ennemis pour gagner leur amélioration: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ExplosiveBarrel_ClassName</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Explosive Barrel</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tonneau explosif</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_altar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Shrine of Greed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Autel de Cupidité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_time</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Time Left: </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Temps restant : </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_altar_weapons</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Weapons Chest</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coffre d'Armes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_altar_armors</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Armors Chest</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coffre d'armures</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_altar_gems</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gems Chest</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coffre de Gemmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_altar_accessories</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Accessories Chest</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coffre d'Accessoires</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_greed_altar_dye</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dyes Chest</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coffre de Teintures</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_merchant_altar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fate-Adjucatrix Zeitgeist</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Adjudicatrix Fatidique Zeitgeist</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ui_merchant_dungeon_end</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Trade Shrine</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sanctuaire Commercial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_companion_altar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Companion Shrine</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pilier de Compagnon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_choice_altar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Offering Shrine</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pilier d'Offrande</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_choice_altar_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Offering Shrine</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pilier d'Offrande</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_choice_altar_name</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Altar Rewards</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Autel de Récompense</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_choice_altar_choose</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Choose an Item, others will be discarded</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Choisissez un objet, les autres objets seront jetés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_apoglobe_altar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Aspects of Apocalypse Shrine</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pilier d'Aspect d'Apocalypse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_buff_tooltip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gain this buff: </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Octroie le bonus :</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_GameplayIngredients_MonsterGenerator_Fury</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fury Hauntstone</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hantise de la Furie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_GameplayIngredients_MonsterGenerator_COS</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Souls Hauntstone</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hantise des Âmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_GameplayIngredients_LambachMouth</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">The Lambach</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le Lambach</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_GameplayIngredients_MonsterGenerator_Svriir</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Svriir Hauntstone</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hantise des Svriirs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_GameplayIngredients_MonsterGenerator_Wild</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Wild Hauntstone</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hantise Sauvage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ui_AIName_Cofe_Heart</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Corrupted Heart</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coeur Corrompu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ui_HeimlockPillar_Oblivion_ClassName</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Oblivion Faith Catalyst</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Catalyseur de Foi de l'Oubli</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ui_HeimlockPillar_Soul_ClassName</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Souls Faith Catalyst</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Catalyseur de Foi des Âmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ui_HeimlockPillar_Flesh_ClassName</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flesh Faith Catalyst</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Catalyseur de Foi Charnel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Area Modifiers</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Modificateurs de Zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_altar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can choose to add random modifiers to this area, increasing the difficulty. If you complete the area under these conditions, your loot drops will be more frequent and of higher rarity.\n\nDo you accept the challenge?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs de zone aléatoires à cette zone, ce qui augmente la difficulté. Si vous terminez le niveau dans ces conditions, vos butins seront plus fréquents et d'une rareté plus élevée.\n\nEst-ce que vous acceptez le défi&#160;?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_selection</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Modifiers</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Modificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_desc</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can choose to add random modifiers to this expedition, increasing the difficulty. If you complete it under these conditions, your loot drops will be more frequent and of higher rarity.\n\nDo you accept the challenge?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs à cette Expédition, augmentant la difficulté. Si vous la complétez sous ces conditions, vous aurez du butin plus fréquemment et de meilleur qualité.\n\nAcceptez vous le défi?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_bonuses</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Loot Bonuses from Modifiers</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bonus de Butin via Modificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_consumable</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Coming soon</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Prochainement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_choose</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Choose an Area Modifier to add</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Choisissez un Modificateur de Zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_item_rarity</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 Magic Find</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Découverte Magique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_item_quantity</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 Item Quantity</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Quantité d'Objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_accept</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Accept</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Accepter</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_refuse</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Refuse</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Refuser</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_altar_refuse</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Altar Confirmation</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Confirmation de l'Autel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_altar_refuse</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Are you sure you want to refuse the area modifiers? You can not revert this decision.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">{Êtes-vous sûr de vouloir refuser les modificateurs de zone&#160;?|Êtes-vous sûre de vouloir refuser les modificateurs de zone&#160;?} Vous ne pouvez pas revenir sur cette décision.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_unknown_modifier</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Unknown Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Modificateur inconnu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_modifiers_quit_warning</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Modifier Confirmation</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Confirmation de Modificateur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_modifiers_quit_warning</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">If you leave the Area Modifier menu, you will lose the selected modifiers for your Expedition. Gold and Primordial Affinity spent will be lost. Are you sure you want to leave?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Si vous quittez le menu des Modificateurs de Zone, vous n'accepterez aucun modificateur de zone. Vous ne pourrez plus y avoir accès. Souhaitez-vous vraiment quitter&#160;?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_something_is_lurking</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Untainted Halfbreeds lurk in the shadows</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Des Immaculés se cachent dans les ombres</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_infuse_map_cost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Lure Untainteds for %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ajout d'Immaculés : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_infuse_desc</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">If you accept multiple Area Modifiers, you have the option to take on the Wrath of Sarisel, allowing Untainteds to challenge you during the expedition. You will be rewarded at the end of the expedition instead of receiving loot drops.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Si vous acceptez plusieurs Modificateurs de Zone, vous aurez l'option de prendre &quot;La Colère de Sarisel&quot;, permettant à ses Immaculés de vous chasser pendant cette expédition. Vous serez récompensés à la fin de l'expédition à la place de recevoir du butin sur les ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_cost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Pay %1 for modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Modificateur : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_next</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Accept</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Accepter</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_roll_modifiers</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Roll Area Modifiers: %1 Gold</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ajout Modificateurs: %1 Or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_maximum_modifiers</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cannot add more modifiers</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Impossible d'ajouter d'autres modificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_target_monsters</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_target_elites</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Champion enemies have %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_target_lieutenants</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Specialist enemies have %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_target_trashs</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Underling enemies have %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_target_players</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Players have %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les joueurs ont %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_desc</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You can choose to add random modifiers to this expedition, increasing the difficulty. If you complete it under these conditions, your loot drops will be more frequent and of higher rarity.\n\nDo you accept the challenge?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs à cette Expédition, augmentant la difficulté. Si vous la complétez sous ces conditions, vous aurez du butin plus fréquemment et de meilleur qualité.\n\nAcceptez vous le défi?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">All Champion and Specialist tier Enemies receive an additional Boss Modifier.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ajoute un Modificateur de Boss aux Élites et Lieutenants.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistFire</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Fire Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance au Feu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistFrost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Frost Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance au Givre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistLighting</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Lightning Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance au Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistUmbra</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Aether Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance à l'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistSacred</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Sacred Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance au Sacré</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistShadow</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Shadow Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance à l'Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistRend</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Rend Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance aux Blessures</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistToxic</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Toxic Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance au Toxique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterResistPhysical</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies have %1 Physical Resistance</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 Résistance au Physique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_BuffAppliedCountPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Buffs Given</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bonus donnés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_close</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Close</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fermer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_DamageDealtPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Damage Dealt</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dégâts infligés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_DamageTakenPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Actual Damage Taken</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dégâts subis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_details</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">More Details</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Plus de détails</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_less_details</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fewer Details</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Moins de détails</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_HealToOthersPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Healing Done to Others</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Soin sur Alliés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_HighestHitPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Highest Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coup puissant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_NumberOfDeathsPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Deaths</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Morts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_NumberOfFriendlyRevivesPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Revives Given</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résurrection d'Alliés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_NumberOfMonstersKilled</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Enemies Killed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ennemis tués</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_NumberOfSariselKilled</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Untainteds Killed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Immaculés tués</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_NumberOfTimesInDBNOPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Times Downed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Temps à terre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_NumberOfElitesKilled</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Number of Champions Killed</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Champions tués</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_NumberOfCursedChestsOpened</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cursed Chests</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Coffres maudits</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_OverallHealPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Total Healing Done</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Total Soins effectués</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_playtime_field</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1m %2s</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1m %2s</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_PlaytimeInSeconds</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Playtime</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Temps de jeu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_rank</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rank Earned</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Rang</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_RawDamageTakenPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Raw Damage Taken</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dégâts subis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_rewards</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rewards Earned</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Récompenses</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_SelfHealPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Self-Healing</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Soin sur soi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_SkillUsedCountPerPlayer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Number of Skills Used</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nombre de compétences utilisées</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_TotalDeath</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Total Deaths</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Morts totales</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_victory</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">VICTORY!</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">VICTOIRE&#160;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_victory_screen_advanced_stats</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Advanced Stats</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Stats avancées</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_notif_TradeInvitation</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Trade Invitation</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Échanger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_notif_WantsToTrade</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">wants to trade</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 souhaite échanger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_not_enough_room_in_trade</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your trade window is already full</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Votre fenêtre de commerce est pleine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_title</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Trading</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Échange d'objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_YourOffer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Your Offer</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Votre offre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_OtherOffer</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1's Offer</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L'offre de %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_TradeRequestSentTo</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Trade request sent to %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Demande d'échange envoyée à %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_YouAreAlreadyTrading</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You are already trading with %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous négociez déjà avec %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_RecipientAlreadyTrading</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 is already trading with someone else</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 négocie déjà avec quelqu'un d'autre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_RecipientRequestTooFar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 is too far away to trade with</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 est trop loin pour échanger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_trading_RefusedTradeRequest</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 refused the trade request</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 a refusé la demande d'échange</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_SendTradeRequest</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Send trade request</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Requête d'échange d'objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_TradeCanceledTooFar</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Trade cancelled because you are too far away from %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">L'échange a été annulé car vous êtes trop loin de %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_SenderRequestDead</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Error: You may not send a trade request while dead</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Erreur: Vous ne pouvez pas envoyer de requête d'échange en étant mort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_trading_RecipientRequestDead</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Error: You may not send a trade request to a dead player</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Erreur: Vous ne pouvez pas envoyer de requête d'échange à un mort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_ic_right_click_to_trade_item</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to offer item for trade</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique-droit pour échanger un objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_click_to_buy</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Click to buy this item</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cliquez pour acheter cet objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_sell</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to sell</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour vendre cet objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_retrieve_item</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Left-click to pick up this item</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour ramasser cet objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_store_item</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to store this item</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour ranger cet objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_learn_skill</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to learn this skill or obtain Primordial Affinity if you already do</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour apprendre cette compétence</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_equip</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to equip this item</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour équiper cet objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_unsocket</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to remove gems from this item</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites un clique droit pour supprimer les gemmes de cet objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_sell_skill_for_knowledge</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to trade this Enneract for Primordial Affinity</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites un clique droit pour échanger cet Enneract contre de l'Affinité primordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ui_ic_right_click_to_select_reagent</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to select the Ethereal Reagent and left-click to apply it to an item</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique-droit pour sélectionner le Réactif Éthéré et clique-gauche pour l'appliquer à un objet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ui_ic_right_click_to_unlock_dye</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to consume this item and unlock the associated color in your collection</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique-droit pour consommer cet objet et ajouter la couleur associée à votre collection</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_drop_on_item_to_socket</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Drag this gem to an item with an empty socket</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites glisser cette gemme sur un objet avec une chasse vide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_elementalDamage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Elemental</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Élémentaire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_materialDamage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Material</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Matériel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_occultDamage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Occult</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Occulte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quality</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Quality</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Qualité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_fire</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Fire</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Feu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_frost</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Frost</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Givre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_lightning</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Lightning</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_physical</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Physical</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Physique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_rend</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Rend</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Blessure</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_sacred</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Sacred</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Sacré</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_shadow</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Shadow</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tootip_total_damage</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Total Damage : %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dégâts totaux: %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_toxic</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Toxic</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Toxique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_tooltip_damage_umbra</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1 Aether</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">XP at level</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">EXP au niveau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_damagereduction</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Damage reduction</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Réduction de dégâts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">level_up</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Level up</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Niveau supérieur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">You_have_reach_level</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">LEVEL</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">NIVEAU</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">dodge</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Dodge</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Esquive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_no_belt_slot_available</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">No belt slot available</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous n'avez pas d'emplacement de ceinture</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_during</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">during</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">pendant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_level</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Level</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Niveau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_mana</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Willpower</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Volonté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_rage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_apo_resource</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Primordial Essence</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Essence Primordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_stamina</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Stamina</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Endurance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Equipped</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Equipped</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Équipé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Requierement</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Requirements</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prérequis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_unlock</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Unlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Débloquer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_health</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Health</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Objectives</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Objectives</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Objectifs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_OK</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">OK</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">OK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_XPReward</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Experience</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Expérience</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_GoldReward</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gold</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pièces d'or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_gold</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gold</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pièces d'or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Reclaims</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Reclaims</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Reprises</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Weapons</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Weapons</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Armes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Consumables</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Consumables</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Consommables</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Mutations</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Mutations</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Mutations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Mercenaries</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Mercenaries</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Mercenaires</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_PassiveSkills</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Passive Skills</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Compétences passives</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ActiveSkills</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Active Skills</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Compétences actives</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Damage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AttackSpeed</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vitesse d'Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DodgeChance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dodge</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Esquive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_critical_damage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Critical Damage</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dégâts critiques</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Critical</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances de critique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_fire_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Fire Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Feu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_frost_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Frost Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance au Givre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_lightning_resistance</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Lightning Resistance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistance à la Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_MagicFind</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Magic Find</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Découverte magique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_GoldFind</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gold Find</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Découverte d'Or</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_character</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Character</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Personnage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Attributes</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Attributes</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Attributs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Strength</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ferocity</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Férocité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Dexterity</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Agility</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Agilité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Power</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Wisdom</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sagesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Constitution</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Toughness</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Robustesse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_remaining_points</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Remaining Points</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Points restants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_health_regen</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Health Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Régénération de Vie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_mana_regen</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Willpower Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Régénération de Volonté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_stamina_regeneration</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Régénération d'Endurance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_durability</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Durability</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Durabilité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_mana_cost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Willpower Cost</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coût en Volonté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_mana_generation</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Willpower Generation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Génération de Volonté</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_rage_cost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rage Cost</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coût en Rage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_rage_generation</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rage Generation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Génération de Rage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_stamina_cost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Stamina Cost</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coût en Endurance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_LevelUp</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Level Up!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Niveau supérieur !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_startBounty</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Start Bounty!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Commencez la prime !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BountyCraft</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bounty</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_you_are_dead</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You Are Dead</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous êtes mort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_revive_in_town</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Return to town</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Retourner en ville</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_revive_here</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Respawn</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Revivre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_revive</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Return to last checkpoint</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dernier point de contrôle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_revive_while_in_combat</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">You cannot Revive while Allies are in Combat</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas ranimer des alliés pendant le combat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_attack_speed</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vitesse d'Attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_range</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Range</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Distance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_HoldToSkipCutscene</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Hold Space to skip cutscene</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Maintenez la Barre Espace pour passer la cinématique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_non_critical_damage_percent</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 Non-Critical Damage dealt</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">%1 Dégâts non-critiques</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_non_dot_damage_percent</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%1 Non-Ailment Damage dealt</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">%1 Dégâts hors-affliction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_no_effect</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Invulnerable</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Invulnérable</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ui_kill</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Kill</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tuer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_revive_at_checkpoint</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Revive at Checkpoint</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Revivre au point de contrôle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_avoid</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Avoid</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Évite</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_apocalyptic_resource_cost</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Primordial Essence Cost</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Coût en Essence Primordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_broken</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Broken</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Brisé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>393</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

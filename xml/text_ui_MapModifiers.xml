@@ -1,0 +1,667 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:49:01Z</Created>
+  <LastSaved>2020-05-26T09:49:01Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="111" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="269.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="569.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="333"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">MAP MODIFIERS</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion and Specialist Enemies receive an additional Boss Modifier.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ajoute un Modificateur de Boss aux Champions et Spécialistes ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_soulexplosion</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chance for Enemies to Explode upon Death.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont une chance d'exploser à leur mort.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_randomExplosion</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explosions occur randomly while in Combat.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Des explosions peuvent survenir aléatoirement en combat.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_resurectSimilar</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chance for Enemies to spawn weak Enemies upon Death.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont une chance de faire apparaître des ennemis plus faibles à leur mort.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_explosiononplayer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explosions will pursue you at regular intervals.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Des explosions vous poursuivront à intervalles réguliers.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterResistAll</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">+%1 to Enemies' All Resistance Score.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 aux Scores de Résistances des ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterResistElemental</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">+%1 to Enemies' Elemental Resistance Score.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 au Score de Résistance Élémentaire des ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterResistOccult</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">+%1 to Enemies' Occult Resistance Score.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 au Score de Résistance Occulte des ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterResistMaterial</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">+%1 to Enemies' Material Resistance Score.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 au Score de Résistance Matérielle des ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageFire</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts de Feu supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageFire</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts de Feu supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageFire</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts de Feu supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageFire</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts de Feu supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageFrost</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts de Froid supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageFrost</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts de Froid supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageFrost</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts de Froid supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageFrost</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts de Froid supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageLighting</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts de Foudre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageLightning</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts de Foudre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageLightning</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts de Foudre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageLightning</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts de Foudre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageUmbra</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts d'Éther supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageUmbra</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts d'Éther supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageUmbra</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts d'Éther supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageUmbra</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts d'Éther supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageSacred</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts de Sacré supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageSacred</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts de Sacré supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageSacred</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts de Sacré supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageSacred</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts de Sacré supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageShadow</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts d'Ombre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageShadow</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts d'Ombre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageShadow</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts d'Ombre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageShadow</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts d'Ombre supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_monsterDamageRend</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts de Blessure supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashDamageRend</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts de Blessure supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantDamageRend</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts de Blessure supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteDamageRend</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts de Blessure supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterDamageToxic</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts Toxiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashDamageToxic</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts Toxiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantDamageToxic</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts Toxiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteDamageToxic</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts Toxiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterDamagePhysical</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis infligent +%1 dégâts Physiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashDamagePhysical</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis infligent +%1 dégâts Physiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_modifier_LieutenantDamagePhysical</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis infligent +%1 dégâts Physiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteDamagePhysical</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis infligent +%1 dégâts Physiques supplémentaires.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_lessManaRegen</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">-%1 Willpower Regeneration.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 Régénération de Volonté.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_lessStaminaRegen</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">-%1 Stamina Regeneration.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 Régénération d'Endurance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_lessRageGen</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">-%1 Rage Regeneration.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 Régénération de Rage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterCriticalResistance</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies receive -%1 Damage from Critical Hits.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis subissent -%1 dégâts des Coups Critiques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterDotResistance</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies receive -%1 Damage from Ailments.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis subissent -%1 dégâts des Afflictions.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_projDamageDistance</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Up to -%1 Enemy Projectile Attack Damage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 dégâts supplémentaires maximum des projectiles ennemis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monstersSpeed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Vitesse de Déplacement des ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashesSpeed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Vitesse de Déplacement des Serviteurs ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantsSpeed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Vitesse de Déplacement des Spécialistes ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_ElitesSpeed</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Vitesse de Déplacement des Champions ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monstersHealth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Movement Health</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Points de Vie des ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashesHealth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Movement Health</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Points de Vie des Serviteurs ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantsHealth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Movement Health</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Points de Vie des Spécialistes ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_ElitesHealth</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have +%1 Movement Health</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">+%1 Points de Vie des Champions ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monstersLessCC</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Crowd Control effects are -%1 effective on Enemies</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 à l'efficacité du Contrôle de Foule sur les ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashesLessCC</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Crowd Control effects are -%1 effective on Underling Enemies</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 à l'efficacité du Contrôle de Foule sur les Serviteurs ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantsLessCC</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Crowd Control effects are -%1 effective on Specialist Enemies</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 à l'efficacité du Contrôle de Foule sur les Spécialistes ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_ElitesLessCC</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Crowd Control effects are -%1 effective on Champion Enemies</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">-%1 à l'efficacité du Contrôle de Foule sur les Champions ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterBurnOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Burn on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont +%1 chances d'infliger Brûlure au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_TrashBurnOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Burn on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 chances d'infliger Brûlure au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantBurnOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Burn on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 chances d'infliger Brûlure au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterShockOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Shock on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 chance d'infliger Électrocution au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashShockOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Shock on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 chances d'infliger Électrocution au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantShockOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Shock on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 chances d'infliger Électrocution au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteShockOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have +%1 Chance to inflict Shock on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont +%1 chances d'infliger Électrocution au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterPoisonOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Poison on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 chance d'infliger Poison au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashPoisonOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Poison on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 chances d'infliger Poison au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantPoisonOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Poison on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 chances d'infliger Poison au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_ElitePoisonOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have +%1 Chance to inflict Poison on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont +%1 chances d'infliger Poison au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterBleedOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Bleed on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 chance d'infliger Saignement au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashBleedOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Bleed on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 chances d'infliger Saignement au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantBleedOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Bleed on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 chances d'infliger Saignement au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterWeaknessOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Weakness on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 chance d'infliger Faiblesse au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashWeaknessOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Weakness on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 chances d'infliger Faiblesse au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantWeaknessOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Weakness on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 chances d'infliger Faiblesse au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteWeaknessOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have +%1 Chance to inflict Weakness on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont +%1 chances d'infliger Faiblesse au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterCurseOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Curse on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 de chances d'infliger Malédiction au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashCurseOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Curse on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 de chances d'infliger Malédiction au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantCurseOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Curse on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 de chances d'infliger Malédiction au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_monsterStasisOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis ont %1 chance d'infliger Stase au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_TrashStasisOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Serviteurs ennemis ont +%1 chances d'infliger Stase au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantStasisOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont +%1 chances d'infliger Stase au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteStasisOnHit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont +%1 chances d'infliger Stase au toucher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantPoisonFromSky</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Acid Rain Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Pluie Acide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_ElitePoisonFromSky</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Acid Rain Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Pluie Acide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantRandomLightning</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Lightning Bolts Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Sphères de Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteRandomLightning</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Lightning Bolts Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Sphères de Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantToxicProjectiles_RandomDirection</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Pestilent Scatter Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Dispersion Pestilentielle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_EliteToxicProjectiles_RandomDirection</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Pestilent Scatter Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Dispersion Pestilentielle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantAetherHomingProjectile</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Trailing Aether Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Traînée d'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_modifier_EliteAetherHomingProjectile</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Trailing Aether Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantRandomRend</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Rending Circles Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Cercles de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteRandomRend</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Rending Circles Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Cercles de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantMeteors</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Meteor Strike Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Pluie de Météores</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteMeteors</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Meteor Strike Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Pluie de Météores</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantBurnArea_Permanent</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Engulfing Flames Rain Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Flammes Submergeantes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteBurnArea_Permanent</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Engulfing Flames Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Flammes Submergeantes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantFireHomingProjectile</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Flaming Missiles Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Missiles Flamboyants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteFireHomingProjectile</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Flaming Missiles Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Missiles Flamboyants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_LieutenantRendCircle</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Blood Ring Rain Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Anneau de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteRendCircle</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Blood Ring Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Anneau de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_LieutenantSpearsFromSky</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specialist Enemies have the Hail of Spears Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Spécialistes ennemis ont le modificateur Déluge de Lances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_modifier_EliteSpearsFromSky</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Champion Enemies have the Hail of Spears Boss Modifier</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Champions ennemis ont le modificateur Déluge de Lances</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>110</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

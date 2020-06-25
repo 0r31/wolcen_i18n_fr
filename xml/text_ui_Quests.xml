@@ -1,0 +1,1756 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:58Z</Created>
+  <LastSaved>2020-05-26T09:48:58Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="326" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="272.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="555"/>
+   <Column ss:AutoFitWidth="0" ss:Width="265.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">QUESTS INTERFACE</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Quest_cannot_replace_item</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You can't replace a Quest Item</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas remplacer un Objet de Quête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Quest_cannot_replace_skill</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You can't replace a Quest Skill</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous ne pouvez pas remplacer une Compétence de Quête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_reward</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Quest Rewards</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Récompenses de Quête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_choosereward</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Choose your reward</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Choisissez votre récompense</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_accept</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Accept Quest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Accepter la Quête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_decline</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Decline Quest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Refuser la Quête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_norewardselected</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You must choose your reward</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vous devez choisir votre récompense</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_questcomplete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Objective Completed!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Objectif Complété !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Quest_warning_title</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The story ends here… for now!</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">L'histoire se termine ici… pour le moment !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Quest_warning_content</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thank you for playing Wolcen : Lords of Mayhem! Due to the alpha state of the game, the main story doesn't go further for now and will be extended and improved with time. </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Si vous voyez ce message c'est qu'une coquille s'est glissée, car ui_Quest_warning_content n'est pas supposée être là. Merci de prendre une capture d&quot;écran et de la transmettre aux développeurs afin de nous permettre de la corriger.&#10;Merci</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_optional</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">(OPTIONAL) </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">(OPTIONNEL) </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_quest_new</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">NEW</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">NOUVEAU</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">TUTORIAL MESSAGES</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.75">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Welcome</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Dodgeroll</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.75">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Elements</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Skill</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_ROS</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.75">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Warning</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Exploration</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Tutorial_Camera</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">QUESTS/STEPS LABELS</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Quest_Generic_Dots</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">…</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">A0_ActLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Prologue</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prologue</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">A1_ActLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Act 1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Acte 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">A2_ActLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Act 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Acte 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">A3_ActLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Act 3</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Acte 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Intertitle</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Grand Inquisitor Heimlock saved you as well as your childhood friends Valeria and Edric when you were five years old. He drafted the three of you into his Republican army of Purifiers.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">A l'âge de 5 ans, le Grand Inquisiteur Heimlock vous sauva vous et vos amis d'enfance Valeria et Edric. Il vous enrôla tous les trois au sein des Purificateurs, une des armées de la République .</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You were taught to associate all practitioners of the occult with witchcraft and to ‘deal’ with them appropriately.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">On vous y enseigna comment traquer tous les adeptes de l'occulte, liés à la sorcellerie.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Over the years your trio earned the nickname of ‘Children of Heimlock’ due to the mentoring you received from the iconic leader.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Au fil des années, votre trio a reçu le surnom d'Enfants d'Heimlock en raison du mentorat que vous avez reçu de la part du leader emblématique.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle4</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">A month ago, the group of religious zealots known as the Brotherhood of Dawn infiltrated a keep of Purifiers.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Il y a un mois, un groupe de fanatiques religieux, la Confrérie de l'Aube, s'est infiltré dans un donjon des Purificateurs.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle5</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">In the wake of these events the Republican Senate voted to launch a retaliation campaign against the Brotherhood…</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Suite à ces événements, le Sénat républicain a voté le lancement d'une campagne de représailles contre la Confrérie…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Intro_Main1</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Children of Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Enfants de Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Follow Maëlys</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Suivez Maëlys</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabelUpdate1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Maëlys</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parlez avec Maëlys</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabelUpdate2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Ledge</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteignez la Corniche</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Clear the Ledge</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Libérez la Corniche</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Sapper</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuez le Sappeur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fight Through the Phenomenon</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Survivez aux Apparitions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Nearby Ledge</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteignez la Corniche à Proximité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecoutez les Alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_EventQuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Surges from Below</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Rifts des Profondeurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_EventStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Banish the Damned Creatures</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannissez les Créatures Damnés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Question the Scout</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Questionnez l'Éclaireur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabelUpdate1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Defend Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Protégez Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabelUpdate2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Resist Yudaï</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Resister à Yudaï</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main1</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Unexpected Saviors</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sauveurs Inattendus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Get out of the Larder</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sortez du Garde-Manger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S1_StepDescriptionLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Get out of the Larder</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sortez du Garde-Manger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Escape the Svriir Grotto</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Échappez de la Grotte des Svriirs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parlez avec Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S4_StepNameLabelUpdate</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Stormfall Guard</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parlez avec le Garde de Stormfall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Stormfall</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans Stormfall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main2</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Bane of the Storm</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Fléau de la Tempête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Mohabi, the Merchant</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parlez avec Mohabi, le Marchand</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Demetra, the Archivist</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parlez avec Demetra, l'Archiviste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach into the Farmsteads</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre les Terres Cultivées</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les Alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Thunderblade Fäarad</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec Lame-Tonnerre Fäarad</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Sandor's Camp</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le Camp de Sandor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Stormfall Guard</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec le Garde de Stormfall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Push Back the Assault from the North</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Repousser l'assaut au nord</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Tunnelers</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer les Tunneleurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Resist the Spitter Attack</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résister à l'Attaque des Cracheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel4</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hold the Svriir Tide</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résister à l'invasion des Svriirs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel5</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Face the Alpha</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Faire face à l'Alpha</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel6</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Thunderblade Sandor</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec Lame-Tonnerre Sandor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Entrance to the Svriir Cave Network</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouvez l'Entrée du Réseau de Cavernes des Svriirs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Svriir Cave Network</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le réseau de cavernes des Svriirs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S8_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Entrance to the next level of the Svriir Cave Network</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver l'entrée pour vous enfoncer pour profond dans les cavernes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S9_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Go deeper into the Svriir Cave Network</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Enfoncez vous plus encore dans le réseau de cavernes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S10_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Den</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver la tanière</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S11_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Den</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans la tanière</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S11_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Creature</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver la Créature</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S11_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Dethrone the Beast</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détrôner la Bête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_EventQuestLabel1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">The Bane of the Storm</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le Fléau de l'Orage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_EventStepLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Slay Sirkis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Abattre Sirkis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S12_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Report to Thunderblade Fäarad in Stormfall using your Town Portal</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rendre compte à Foudrelame Fäarad dans Stormfall en utillisant Le Portail de Téléportation vers la ville (T)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S13_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Palace</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le Palais</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S14_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Throne</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rejoindre le Trône</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S14_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Merchant-Prince Damaskus</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Prince-Marchand Damaskus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S14_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main3</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Meet the Purifiers</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Rencontrer les Purificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_EventQuestLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">A Warm Welcome</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Un accueil chaleureux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Laughing Sea Gal'</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre l'Auberge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Inn</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans l'Auberge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S2_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chercher Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S2_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Innkeeper</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec l'Aubergiste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S2_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Defeat the Alastor</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer l'Alastor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Flayer Outpost</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver l'avant-poste des Écorcheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Flayer Outpost</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans l'avant-poste des Écorcheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_EventQuestLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Battleborns</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Nés de la Bataille</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Flayers Territory</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Traverser le territoire des Écorcheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave the Flayer Territory</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quitter le territoire des Écorcheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S6_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Survive the Flayer Ambush</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Survivre à l'embuscade des Écorcheurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S6_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Slay Naärlog</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Naärlog</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Purifiers' Camp</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chercher le camp des Purificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S8_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cross the Ravaged Camp</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Traverser le camp ravagé de la Fraternité de l'Aube</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S8_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Wounded Knight</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec le Chevalier de l'Aurore blessé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S9_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave the Ravaged Camp</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sortir du camp ravagé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S10_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Purifiers' Camp</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le camp des Purificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S10_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Purifiers' Camp</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le camp des Purificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S10_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S10_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave the Area</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quitter la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q3_S11_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Palace</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le Palais</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main4</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Unknown</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">L'Inconnu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Throne</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le Trône</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Merchant-Prince Damaskus</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Prince-Marchand Damaskus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Smuggler's Path</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le Sentier des Passeurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S3_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Smuggler's Path</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le Sentier des Passeurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Delve Deeper</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer les profondeurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Necropolis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la Nécropole</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S5_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore the Necropolis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer la Nécropole</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Next Floor</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le prochain étage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S6_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cut Off the Dome's Power Source</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Séparer le Dôme de sa source d'énergie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S6_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Banish the Damned Creatures</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir les Créatures Damnés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Delve deeper into the Necropolis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer plus profondément dans la Necropolis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S8_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find a way to Cross the Rift</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chercher un moyen de traverser l'Abîme</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S8_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Open the Ossuaries</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ouvrir les Ossuaires</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S9_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore the Depths</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer les profondeurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S9_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_EventQuestLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Frozen Bones</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les os gelés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_EventStepLabel2_1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Defeat Vhegguadh</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vaincre Vhegguadh</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_EventStepLabel2_2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Slay the Devourer</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Combattre le Dévoreur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S10_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Venture into the Frozen Path</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Progresser sur le Chemin Gelé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S10_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Investigate the Ritual</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Investiguez le Rituel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S10_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Face the Cultist of the Sleeper</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affrontez le Culte du Dormeur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main5</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Secrets of Anankis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Secrets d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Open the Gate of Anankis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ouvrir la porte d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Anankis' Hall 1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrez dans le premier niveau d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore Anankis' Hall 1</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer le premier niveau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Pursue the Cultist</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Poursuivre le Cultiste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Anankis' Core Overlook</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la zone surplombant le cœur d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S5_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore Anankis' Hall 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer le deuxième niveau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S5_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S5_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Anankis' Core Overlook</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la zone surplombant le cœur d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Cultist</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler avec le Cultiste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_EventQuestLabel1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Fear No Evil</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ne crains aucun Mal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_EventSteptLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Silence the Whisper of Anameterassü</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Faire taire le Murmureur d'Anameterassü</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S6_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Banish Yudaï</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir Yudaï</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S6_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Primordial Guardian</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à la Gardienne Primordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S8_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Anankis's Halls 3</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le troisième niveau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S8_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore Anankis's Halls 3</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer le troisième niveau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_EventQuestLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">No Matter the Odds</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Peu importe nos chances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_EventStepNametLabel2_1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subjugate Justicar Edric</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Soumettre Edric le Justicar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_EventStepNametLabel2_2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Resist Edric</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résistez à Edric</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_EventStepNametLabel2_3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill your Brother</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuez votre frère</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S9_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Anankis' Core Overlook 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le deuxième niveau de la zone surplombant le cœur d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S10_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore Anankis' Core Overlook 2</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer le deuxième niveau de la zone surplombant le cœur d'Anankis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S11_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Core</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le cœur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S11_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore the Core</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer le cœur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S11_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Face Judgement</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Faire face au jugement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S12_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Primordial Guardian Spirit</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à l'esprit de la Gardienne Primoridale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S13_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Merchant-Prince Damaskus</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Prince-Marchand Damaskus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q5_S14_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Give your report to Merchant-Prince Damaskus</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Faire son rapport au Prince-Marchand Damaskus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act2_Main1</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chasing Val</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Poursuivre Val</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Track Down Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Retrouver Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave the Area</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quitter la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S2_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Janaris and his Minions</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Janaris et ses sbires</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S3_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S3_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Dying Shaman</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à la shaman mourante</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act2_Main2</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Creeping Shadows</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ombres perçantes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Entrance to the Shadow Worshippers' Lair</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver l'entrée du repaire des adorateurs de l'Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S1_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Look for Zima</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chercher Zima</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S1_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Free Zima</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Libérer Zima</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S1_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Zima</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Zima</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Reach the heart of Shadaron Forest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Traverser la forêt de Sadaron et trouver l'arène de Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S2_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Go through Shadaron Forest and find Mercy's Arena</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Traverser la forêt de Shadaron et trouver l'arène de Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S2_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Zima</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Zima</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter Mercy's Arena</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans l'arène de Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S3_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Beat Mercy's Champions</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Battre les champions de Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S3_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Mercy</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S3_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Challenge Mercy</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Défier Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ui_A2_Q2_EventQuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Avenger</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le vengeur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S3_EventStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Mercy</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Pitié</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter Zima's Portal</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le portail de Zima</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q2_S5_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Zima</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Zima</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act2_Main3</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Darkest Dusk</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Le plus sombre crépuscule</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Approach the Brotherhood of Dawn Fortifications</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Approcher les fortifications de la Confrérie de l'Aube</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S1_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Brotherhood of Dawn Fortifications</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le fort de la Confrérie de l'Aube</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S2_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Clear the Area</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Nettoyer la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S3_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Vault of Hope</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans la Cathédrale de l'Espoir</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Look for the Remaining Brothers</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chercher les Frères survivants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Sanctum of Hope</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le Sanctuaire de l'Espoir</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S5_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S5_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Gernese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S5_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Aurora Knight</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Chevalier de l'Aurore</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S6_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Resist the Onslaught</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résister à l'assaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S6_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Use your Aspect of Apocalypse to prevail</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Utiliser l'Aspect de l'Apocalypse pour triompher</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q3_S6_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Gernese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="17.25">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act2_Main4</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Dawnbringer</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Porteur de l'Aube</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Gernese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Helmshire</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre Helmshire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S3_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find the Necromantic Origin</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver l'origine nécromantique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Necromantic Ritual</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrez dans le rituel nécromantique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S4_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S4_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Nerukaï</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Nerukaï</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_S4_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">End the Necromantic Ritual</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Arrêter le rituel nécromantique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_EventQuestLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Demon Hunting</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chasse aux démons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q4_EventStepLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Banish Nerukaï and destroy Mercy… again</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir Nerukaï et tuer Pitié... Encore</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act2_Main5</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey into Madness</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyage vers la démence</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Report back to Gernese in his camp by Fast Travelling using the Worldmap</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Retournez voir Gernese dans son camp en utilisant le Voyage Rapide depuis la Carte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey Toward Cordanon</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyage vers Cordanon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S2_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey Toward Cordanon</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyage vers Cordanon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Survive the Ambush</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Survivre à l'embuscade</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S3_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Defeat Justicar Azenhal</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer le Justicar Azenhal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S3_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to the Creature</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à la créature</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore the Flesh Frontier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer la frontière de la Chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.3125">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S4_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to The Lambach</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Lambach</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S4_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Flesh Frontier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyagez à travers la frontière de la Chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S4_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Destroy the Hearts of Corruption</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détruire les cœurs de corruption</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave the Flesh Frontier</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quitter la frontière de la Chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S5_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Flesh Forest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la forêt de la Chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Flesh Forest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers la forêt de la Chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S6_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Destroy the Hearts of Corruption</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Détruire les cœurs de corruption</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave Flesh Forest</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quitter la forêt de la Chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S7_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Cordanon's Mines</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans les mines de Cordanon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S8_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Cordanon's Mines</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyagez à travers les mines de Cordanon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S8_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Cordanon</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre Cordanon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S9_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Look for the Brotherhood of Dawn men</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chercher les hommes de la Confrérie de l'Aube</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S10_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Approach Cordanon</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Approcher de Cordanon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S9_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Destroy All Foes</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer tous les ennemis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S9_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Banish Zaalbezül</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir Zaalbezül</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q5_S9_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act2_Main6</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cordial Invitation</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Invitation Cordiale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Delve into the Incubation Chambers</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Pénétrer dans les chambres d'incubation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Lambach</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Lambach</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S2_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Valeria's Clones</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer les clones de Valéria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S2_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leave the Area</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Quitter la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Delve Deeper</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">S'enfoncer plus profondément</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Corrupted Catalyst Overlook</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la zone surplombant le catalyseur corrompu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Genesis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la Genèse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S5_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Lambach</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au Lambach</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S5_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fight the Flesh Creatures</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Combattre les créatures de chair</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_EventQuestLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Charming</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Charmant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_EventStepLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Lambach</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Lambach</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_EventStepLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Really kill Lambach</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Lambach pour de vrai</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Gernese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q6_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Give the First Piece of the Helion to Gernese in his camp by Fast Travelling using the Worldmap</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Donner la première pièce de l'Hélion à Gernese dans son camp grâce au voyage rapide en utilisant la carte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act3_Main1</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Illusions of Peace</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Illusions de paix</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Gernese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S1_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Find a Path to the Vault of Truth</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Trouver un passage vers le Cathédrale de la Vérité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S1_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Aurora Knight Gendris</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler au chevalier de l'aube Gendris</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S1_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Use the Escape Tunnel to Enter the Vault of Truth</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Utiliser le tunnel de sortie pour entrer dans la Cathédrale de la Vérité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Vault of Truth's Main Halls</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le hall principal de la Cathédrale de la Vérité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the end of a Wing and Attune to its Altar</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la fin d'une aile et s'accorder avec son autel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S3_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach and Attune to the Altar on the other Wing</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la fin de l'autre aile et s'accorder avec son autel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Sanctum of Truth</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le Sanctuaire de la Vérité</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Take the Second Part of the Helion</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prendre la seconde partie de l'Hélion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S5_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Banish Sinadrahel and his Allies</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir Sinadrahel et ses alliés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S5_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Retrieve the Second Part of the Helion</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Récupérer la seconde partie de l'Hélion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese in his camp by Fast Travelling using the Worldmap</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parlez à Gernese dans son camp en utilisant le Voyage Rapide depuis la Carte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q1_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act3_Main2</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Infiltration</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Infiltration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Red Wastes</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers les Friches Rouges</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey to the Battlefield Overlook</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager vers le panorama du champ de bataille</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Republican Backline</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers la dernière ligne répuclicaine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Purifiers Battlefield</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers le champ de bataille des Purificateurs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach Crimson Keep's Remparts</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre les remparts du Fort Cramoisi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Bridgehead</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer sur la tête de pont</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the Pacified Republicans</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer les républicains pacifiés</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Survive to the Counter-Attack</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Survivre à la contre attaque</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Ydrael and his Puppet</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Ydrael et ses marionnettes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel4</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Use the Portal</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Utiliser le portail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act3_Main3</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">The Gates of Fury</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">La porte de la furie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fight through Cell-H's Remparts</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Se battre le long des remparts de la cellule H</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S1_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Eastern Tower</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre la tour Est</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S2_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fight through Cell-G's Remparts</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Se battre le long des remparts de la cellule G</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S2_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Western Tower</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans la tour Ouest</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Main Gate Opening Mechanism</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le mécanisme d'ouverture de la porte principale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S3_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Activate the Main Gate Opening Mechanism</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Activer le mécanisme d'ouverture de la porte principale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Top of the Western Tower</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le haut de la tour ouest</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S4_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Defend the Gate Mechanism Generator</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Défendre le générateur du mécanisme de la porte principale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S4_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Nikölas, The Spear of Balance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer Nikölas, la Lance de la Balance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S6_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Monolith's Entrance</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre l'entrée du monolithe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S5_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q3_S5_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Valeria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Act3_Main4</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s20"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_QuestLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fury's Ascent</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">L'Ascension de la Furie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S1_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enter the Monolith</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Entrer dans le monolithe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S1_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Monolith's Lower Halls</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers les premières salles du monolithe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S1_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Monolith's Upper Halls</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre les salles hautes du monolithe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S2_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Anasareth</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Anasareth</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S2_UpdateStepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the three Instruments of Fury</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Tuer les trois instruments de la furie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S3_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reach the Conflux's Portal</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Atteindre le portail du conflux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S3_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Anasareth</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Anasareth</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S3_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Use the Conflux's Portal</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Utiliser le portail du conflux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S4_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Explore the Area</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer la zone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S4_UpdateStepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Activate the Conflux Access Platform</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Activer la plateforme d'accès au conflux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S4_UpdateStepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S5_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Talk to Gernese</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Parler à Gernese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q5_EventQuestLabel2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Patricide</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Patricide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q5_EventStepNametLabel2_1</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Overpower Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Maitriser Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q5_EventStepNametLabel2_2</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Vainquish Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Vaincre Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q5_EventStepNametLabel2_3</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Break Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Briser Heimlock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S7_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thrive in Champion of Stormfall Mode</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prospérer dans mode Champion de Stormfall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S8_StepNameLabel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thrive in Champion of Stormfall Mode</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prospérer dans mode Champion de Stormfall</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>325</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,1836 @@
+ORIGINAL TEXT
+Modificateur de Compétences
+Détails de la compétence
+Prochain niveau
+%1/%2
+Niveau
+Sélection de la compétence
+Modificateur de compétence
+Réinitialiser
+Points restants
+Niveau %1
+Expérience
+N/A
+Désactiver %1
+Compétence de base
+Compétence dupliquée
+Enneract: %1
+<Font Size="15" Color="#ccb270"><i>« Les Enneracts refont surface de temps en temps. Les chanceux qui les trouvent, souvent ignorants de leur capacité, les revendent pour être converti en cristaux d’énergie, une source d'énergie puissante pour les armes et l’industrie. \n\nLes savants ont théorisé que les Enneracts contiennent un petit morceau du pouvoir d’une entité divine, gardé dans un ancien appareil créé par les Homme. \n\nPendant que des mages passent toute leur vie à étudier une poignée d’Enneracts pour répliquer leur essence et lancer des sorts, certains sont des sorciers ; ils peuvent absorber le pouvoir d’un Enneract immédiatement et solliciter son pouvoir instantanément. »</i></Font>
+Attaque de Base
+Vous permet d'attaquer avec l'arme équipée.\n\n<font color="#509FFF">Type</font>:<b>Attaque de Base</b>.
+Coups à Mains Nues
+Frappez vos ennemis comme si votre vie en dépendait !\n\n<font color="#509FFF">Type</font>:<b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>Un instructeur républicain vous a dit une fois : « Donc tu files des bons coups de poing, c’est ça ? Chapeau. Maintenant prends une arme ou rentres chez toi. » L'ironie fut frappante vu que "chez toi" était l'académie militaire.</i></Font>
+Combo de Bouclier
+Faites une attaque puissante avec votre bouclier et votre arme équipée.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+Attaques à Une Main
+Découpez, déchiquetez, écrasez vos ennemis avec votre arme.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i> La créativité des humains est sans limite en matière de création d'outils de massacre. La seule chose à la hauteur est leur désir de le faire d’une façon élégante et efficace.</i></Font>
+Attaques Double
+Infligez des rafales de coups avec vos deux armes.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i> Les guerriers traditionnels considèrent le bouclier comme le choix supérieur. Ils n'ont clairement jamais combattu les Furies Hurlantes de Laibon : un régiment de femmes qui brandissent deux khopesh en criant tels des banshees.</i></Font>
+Attaques d'Épée à Deux Mains
+Maniez votre épée à deux mains pour balayer vos ennemis.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>À l’académie militaire, votre enseignant en stratégie radotait souvent à propos de la bataille de Samatras. Les chevaliers de l’Empire Kuei repérèrent un régiment de fantassins républicains isolé de la bataille. Une charge rapide aurait suffit à les mettre en déroute, mais c'était sans compter sur les flamberges qu'ils portaient. Ce jour, l’armée républicaine mangea de la viande de cheval au dîner.</i></Font>
+Attaques de Masse à Deux Mains
+Mettez vos ennemis en pièce avec votre masse à deux mains.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>Une blague qui n’est réellement appréciée que par ceux qui utilisent les masses à deux mains : « Avant un tournoi, un chevalier passe deux heures à se préparer, se protégeant de trois couches d’armure épaisse. Par peur d’être en retard, il courre dans l’arene en cliquetant et demande à son adversaire dépourvu d'armure: « Quelle heure est-t-il ? ». L’homme de basse extraction se saisit de sa masse à deux mains et répond « C’est l'heure de marteler ! »</i></Font>
+Attaques de Hache à Deux Mains
+Maniez votre hache à deux mains pour découper vos ennemis.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>Certains traitent les combats comme une danse, un art, une démonstration poétique de meurtre. A l'opposé, d’autres brandissent une bonne grosse hache a deux mains bien tranchante et coupent en deux les gens comme un boucher le ferait d'une pièce de viande. Chacun ses goûts. </i></Font>
+Attaques à Deux Dagues
+Déclenchez une rafale de coups avec deux dagues.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>Les meurtriers, sociopathes et assassins partagent une obsession rebutante pour les couteaux. Quelques chercheurs ont essayé de comprendre ce phénomène. Ce projet n’a pas mené aux résultats conclusifs, vu qu’une moitié de chercheur l’abandonné après l’autre moitié a été tuée, toujours par les coups de poignard.</i></Font>
+Tirs de Pistolet à Une Main
+Tirez sur vos ennemis avec ce pistolet alimenté par un cristal.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Il y a un vieil adage parmi des membres de la guilde d’exploreurs à Stormfall : « N’apportez pas une épée a une fusillade. »</i></Font>
+Tirs à Deux Pistolets
+Tirez sur vos ennemis avec ces deux pistolets alimentés par un cristal.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Dans la cité-état d’Archion, il y avait une académie qui enseignait des techniques de combats sophistiquées utilisant deux pistolets. La formation était si intense que de nombreux participants ont disparu pendant des années sans jamais refaire surface. Plus tard le monde a appris que l’académie a été fermé. Apparemment, les instructeurs cachaient les corps d’un nombre absurde d’étudiants, morts de blessures auto-infligées.</i></Font>
+Coups en Mêlée et au Pistolet
+Exécutez des barrages de balles et assénez de puissants coups en mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Projectile</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>Apres beaucoup de verres de spiritueux, Capitaine James, un pirate-de-l’air connu pour son cambriolage infâme de la ville volante d’Archion, aime partager sa sagesse avec le sang neuf de son équipage : "'kay! Rassemblez vous bande de pucelles du ciel! Ecoutez bien! Comme j'dis toujours, la victoire s'pas lié à la taille des canons, oooooh non, tout est une question de...", et c'est généralement par là qu'il perd connaissance.</i></Font>
+Pistolet et Bouclier
+Tirez sur vos ennemis avec votre pistolet et protégez vous avec votre bouclier.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Projectile</b>, <b>Mêlée</b>.
+<Font Size="15" Color="#ccb270"><i>Pistolet avec Bouclier est le style caractéristique de l’infanterie des Protecteurs, l’armée de la République qui gère la sécurité nationale et le contrôle de population. Une ligne de Protecteurs arrêtant une émeute locale est une vue épouvantable : le mur de boucliers bloque des projectiles improvisés (des pierres, bouteilles, morceaux de bois etc.) et ceux qui approchent trop prennent un coup de feu aux genoux. Si le commandant en donne l'ordre, ils n’hésiteront pas à tirer pour tuer.</i></Font>
+Tirs à l'Arc
+Tirez des flèches sur vos ennemis.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>La flèche est noble, la grande niveleuse. Un seigneur sur son destrier, un chevalier avec une épée forgée au château ou un paysan qui brandit une fourche vont tous partager le même destin sous une volée de flèches.</i></Font>
+Tirs au Bâton
+Puisez dans le pouvoir du bâton pour envoyer des projectiles sur vos ennemis.\n\n<font color="#509FFF">Type</font> : <b>Attaque de Base</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Charger à travers le champ de bataille ? Des escarmouches dans la boue ? Des éviscérations et carnages ? Ce sont là des pratiques de paysan, peu sophistiquées. Exterminer vos adversaires de loin avec la sorcellerie est plus élégant… et beaucoup plus propre. </i></Font>
+Torrent de flèches
+Libère une volée de flèches à l'emplacement de votre curseur qui inflige des Dégâts de Zone sur la durée.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec un arc ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, le Maestre de l'Industrie, forgea ‘Krearion, Le Premier Arc’ afin que l’humanité puisse maîtriser l’art de faire pleuvoir la mort. </i></Font>
+Lames Fantômes
+Lance une double-lame tournoyante en direction du curseur, et inflige des dégâts aux ennemis sur son passage.\n\n<font color="#cb5316">Attaque :</font> Utilisable avec une dague, un arc, ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Roublard</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, Maestre de l'Industrie, forgea ‘Omeagram, La Première Épée à Double Tranchant’ afin de pousser les humains à franchir leurs limites en termes d’élégance et d’agilité. Brandir cette arme peut être aussi dangereux pour la personne qui la manie que ses ennemis.</i></Font>
+Orbe Ravageur
+Lance un Projectile explosif à l'emplacement du curseur qui inflige des Dégâts de Zone.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec une dague, un arc, ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Roublard</b>, <b>Utilitaire</b>.
+<Font Size="15" Color="#ccb270"><i>Ezaneal, Seigneur Déchu de la Ruse, est un inventeur avec une imagination incomparable. Ironiquement il utilise ses inventions technologies pour satisfaire le désir le plus bas des humains : leur soif de pouvoir. Pour profiter de cette faiblesse, il créa d’innombrables machines et appareils de massacre. Le ‘ Mortier Empyréen Version IV’ en est un très bon exemple.</i></Font>
+Tourment de l'Enclume
+Invoque un marteau colossal et l'abat sur vos ennemis, infligeant des Dégâts de Zone.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, Primordial de l'Industrie, forgea ‘Gaavanir, Le Premier Marteau’ pour casser les os aussi bien que la volonté. Il ne reste que poussières et désespoir dans son sillage.</i></Font>
+Marque du Tireur
+Canalise un tir multiple en passant le curseur sur vos ennemis ou en cliquant sur eux. Les Projectiles visent vos cibles lorsque la canalisation s'arrête ou que vous atteignez le nombre maximum de cibles.\n<font color="#cb5316">Attaque :</font> utilisable seulement avec arcs et pistolets.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Utilitaire</b>.
+<Font Size="15" Color="#ccb270"><i>Ezaneal, Seigneur déchu de la Ruse, a créé d'incroyables techniques avancées de tir tout en développant le premier pistolet, le Canon iosonique portable.</i></Font>
+Choc de Foudre
+Envoie des décharges de Foudre qui rebondissent entre les ennemis. Chaque rebond inflige moins de dégât que le précédent.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Beelmalik, Seigneur Déchu du Châtiment, règne sur l'élément primitif de la foudre. Il garde un goût distinct pour les attaques enchaînées, représentant son désir de capturer ses adelphes Abanazaar, Seigneur Déchu de l'Envie, et Etheliel, Dame Perdue de la Vanité.</i></Font>
+Appel de la Guerre
+Invoquez un puissant bouclier et traversez les rangs ennemis avec une charge.\n\n<font color="#cb5316">Attaque :</font> utilisable seulement avec les armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, Primordial de l'Ambition, a utilisé le puissant bouclier Gleidhir, le Premier bouclier forgé par Hephaäron, Maestre de l'Industrie, pour charger sans ménagement au cœur de la bataille.</i></Font>
+Marque des Impurs
+Marque une cible et augmente les dégâts qu'elle subit.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec une dague, un arc, ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Roublard</b>.
+<Font Size="15" Color="#ccb270"><i>Sarisel, Primordial de la Pureté, chasse tous les êtres qui ne font pas partie de l’intention originale de la Création. Lorsque ses cibles sont marquées, cela veut dire qu’elles sont prêtes pour être purifiées.</i></Font>
+Rafale Mortelle
+Vous invoquez deux lames et vous précipitez vers votre cible pour la marteler de coups.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec une dague, un arc, ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Roublard</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, le Maestre de l'Industrie, forgea ‘Sazanek, Les Premières Double-Lames’ en utilisant l'énergie dégagée par la collision de deux lunes.
+Braises Dévorantes
+Invoque une boule de feu et la projette en ligne droite devant vous.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Abanazar, le Seigneur Déchu de l'Envie, consomme tout ce qu’il convoite. Ses désirs sont insatiables, absolus et destructifs. Ceux qui connaissent comment accéder à leurs passions les plus folles comprennent la puissance fougueuse de ce sentiment. La faire prendre la forme d'une boule de flammes n'est alors qu'une question de pratique.</i></Font>
+Larme d'Etheliel
+De la glace s'agglomère au-dessus de vos ennemis. Après un court instant, elle s'écrase sur eux et leur inflige de lourds dégâts.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Etheliel, la Seigneur Déchue de la Vanité, verse des larmes gelées quand elle se confronte à la décomposition du monde. Des sorciers impitoyables ont appris à profiter de son chagrin et le transformer en un sort de mort glaciale.</i></Font>
+Lance Arctique
+Après quelques instants, projette un éclat de glace en ligne droite.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Etheliel, la Seigneur Déchue de la Vanité, méprise l’utilisation de la glace comme de vulgaires projectiles. Les victimes se font empaler d’une façon atroce qu’elle ne tolère pas : elles devraient être gelées immédiatement. Malheureusement, peu de sorciers tiennent compte de ces considérations.</i></Font>
+Joug de l'Hiver
+Une nova de glace émane de vous et gèle vos ennemis.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Etheliel, la Seigneur Déchue de la Vanité, veut couvrir le monde de glaces pour le préserver. Tout geler, amis et ennemis, pour garder leur beauté intouchée, pour toujours.</i></Font>
+Emprise du Traqueur
+Lance un grappin devant vous et repousse tous les ennemis qu'il touche.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, le Maestre de l'Industrie forgea ‘Kirenas, Le Premier Grappin’ quand Sarisel lui demanda un outil pour chasser les créatures maléfiques de l'univers.</i></Font>
+Purger avec l'électricité
+Laisse passer un courant d’électricité a travers votre épée et tranche vos ennemis. \n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec cette arme.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Mouvement</b>.
+<Font Size="15" Color="#ccb270"><i>Les armes électriques sont brandies par les Purificateurs vétérans pour protéger le monde de la sorcellerie. Le courant d’électricité est contrôlé par un petit bouton sur la garde de l’épée.</i></Font>
+Tranchant sanguinaire
+Lance une hache tournoyante en cercle autour de vous. Les cibles touchées subissent des dégâts et ont une chance de subir Saignement.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, le Maestre de l'Industrie, forgea ‘Ashkadi, La Premiere Hache’ pour démontrer que  le plus fort des élans vient du déséquilibre. La tendance à tendre vers un équilibre et recréer une harmonie immaculée est un concept basique qui organise les grandes forces de l’univers, et son essence est capturé dans la rotation d’Ashkadi.</i></Font>
+Anéantissement
+Canalise un rayon d'Éther en face de vous et inflige des dégâts. La vitesse de rotation en cours de canalisation dépend de votre Vitesse d'Incantation.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i> Anulai-Tai, le Duc Déchu de l'Infini, est surnommé  ‘Le Dernier Lendemain' pour une raison. Canaliser une grande quantité de son énergie d’Éther est toujours un danger pour la fabrique de temps, ceux pris dans le rayon pourraient en témoigner.</i></Font>
+Ailes d'Ishmir
+Vous invoquez une lance géante et bondissez sur vos ennemis pour leur infliger des dégâts.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Mouvement</b>.
+<Font Size="15" Color="#ccb270"><i> Hephaäron, le Maestre de l'Industrie, forgea ‘Ishmir, La Première Lance’ pour enseigner aux humains la collaboration sur le champ de bataille. Malgré cela, les vrais guerriers utiliseront cette arme polyvalente avec une efficace létale.</i></Font>
+Courroux de Baäpheth
+Invoquez une paire de chaînes incassables et libérez une multitude d'attaques dévastatrices.\n\n<font color="#cb5316">Attaque :</font> utilisable seulement avec les armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, l'Archiduc déchu de la Guerre, a utilisé les chaînes qui le retenaient autrefois pour détruire l'Armée de la Genèse.</i></Font>
+Rempart de l'Aube
+Bénit une zone autour de vous avec la lumière de l'aube, elle vous soigne sur la durée tant que vous vous y tenez.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Anathëa, la Dame de l’Aube, peut apporter sa lumière dans les profondeurs les plus profondes, en réchauffant le cœur de ceux qui luttent contre les périls de la nuit. La Fraternité de l’Aube est éternellement reconnaissante de sa protection.</i></Font>
+Dards de Krearion
+Invoque un arc imposant pour lancer plusieurs flèches perçantes en même temps.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec un arc ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, le Maestre de l'Industrie, forgea ‘Krearion, Le Premier Arc’ en combinant la force d’un raz-de-marée avec la précision d’un coup de foudre.</i></Font>
+Saut Éthéré
+Sautez à travers l'Éther pour vous téléporter vers une autre position.\n\n<font color="#948ec6">Sort :</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Mouvement</b>.
+<Font Size="15" Color="#ccb270"><i>Anulai-Tai, le Duc Déchu de l'Infinité, est le maître de l’Éther, la matière qui connecte le temps et l’espace. Sa maîtrise redéfinit la compréhension du monde, en commençant par sa nature linéaire. </i></Font>
+Tourelle « Faucheuse »
+Invoquez une tourelle mécanique pour fournir des tirs de couverture. Peut être détachée et manipulée si vous restez appuyé sur la compétence. \n\n<font color="#cb5316">Attaque :</font> utilisable avec des dagues, arcs et pistolets.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Roublard</b>, <b>Utilitaire</b>.
+<Font Size="15" Color="#ccb270"><i>Ezaneal, Seigneur déchu de la Ruse, a inventé la tourelle automatique « Faucheuse » afin de tirer à vue sur les ennemis pour protéger ses partisans des maraudeurs.</i></Font>
+Cri de Domination
+Déchaînez un puissant cri de guerre qui améliore la vitesse d'attaque et d'incantation de votre personnage et des alliés qui vous entourent.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, l'Archiduc Déchu de la Guerre, une des neuf ombres du monde, est le père de tous les guerriers. Emprunter sa force donne l'avantage nécessaire pour survivre à une bataille.</i></Font>
+Tempête de Lames
+Invoquez une énorme épée à deux mains et frayez-vous un chemin dans les hordes d'ennemis, en la faisant tournoyer pour maintenir votre élan.\n\n<font color="#cb5316">Attaque :</font> utilisable seulement avec les armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, Maestre de l'Industrie, a forgé Voknafein, la Première épée à deux mains, pour le pousser lui et l'humanité aux limites de leurs forces et de leur créativité.</i></Font>
+Mastodonte
+Invoque un bouclier qui absorbe les dégâts. Après trop de dégats le bouclier se casse, endommageant les ennemis proches. Le bouclier explose s'il est réinvoqué.\n\n<font color="#cb5316">Attaque:</font>Utilisable avec les armes de mêlée\n\n<font color="#509FFF">Type</font>:<b>Attaque</b><b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Hephaäron, Maître de l'Industrie, est seigneur de l'Arsenal de la Création. Chaque arme qu'il place au sein de ce vestibule prend place dans tous les esprits des hommes, et le bouclier Gleidhir ne fait pas exception, reflétant une ombre qui se matérialise à ceux qui savent y faire appel.</i></Font>
+Avatar de Lumière
+Charge un sort Sacré qui inflige des dégâts de zone et téléporte votre personnage. À chaque niveau de charge, la zone d'effet s'élargit, et les dégâts infligés augmentent.\n\n<font color="#948ec6">Sort:</font>Utilisable avec bâtons ou catalyseur.\n\n<font color="#509FFF">Type</font>:<b>Sort</b>,<b>Déplacement</b>.
+<Font Size="15" Color="#ccb270"><i>Anathëa, Primordiale de l'Aube, descendit voir l'armée vaincue du premier roi d'Alia et leur fit don du Helion. Elle guérit leurs blessés et leur apprit que l'arme la plus redoutable de l'homme s'appelait espoir.</i></Font>
+Sang pour Sang
+Invoque une zone de dégâts au sol qui vous donne un bonus aux dégâts de Blessure s'il vous manque des points de vie.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, Archiduc Déchu de la Guerre, fit ses preuves contre Moros et l'Armée de la Genèse en canalisant les dernières forces de Bezeriel, Mortalité Incarnée.</i></Font>
+Lancer de Gaavanir
+Lancez un marteau en direction du curseur, infligeant des dégâts aux ennemis sur son chemin. Il vous revient si vous utilisez la compétence une seconde fois.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec des armes de mêlée.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Guerrier</b>.
+<Font Size="15" Color="#ccb270"><i>Hephäaron, Maître de l'Industrie, forgea son premier marteau de guerre Gaavanir. Quand Baäpheth mit en question sa propriété de l'arme, il prouva qu'il en était le juste porteur quand le marteau revint vers sa main.</i></Font>
+Fusil Électromagnétique "Deathgazer"
+Charge un puissant tir de sniper qui inflige des dégâts de zone. Plus la compétence est chargée, plus la zone d'effet réduit, et plus le tir fait de dégâts.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec un arc ou un pistolet. \n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Utilitaire</b>.
+<Font Size="15" Color="#ccb270"><i>Ezaneal, Seigneur Déchu de la Ruse, défia Hephaäron en proclamant que son Interface de Ciblage Bio-Optique était à la hauteur de n'importe quel arc conçu par son maître. Prenant la place de son champion choisi parmi les Premiers Hommes, Ezaneal démontra la supériorité de son oeuvre.</i></Font>
+Linceul Crépusculaire
+Lance une bombe fumigène au sol qui vous rend invisible et réduit votre menace.\n\n<font color="#cb5316">Attaque :</font> Seulement utilisable avec une dague, un arc ou un pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Roublard</b>.
+<Font Size="15" Color="#ccb270"><i>Lorsque Moros, Primordial du Crépuscule, fut attaqué par Abanazaar le jaloux, il fit de cette embuscade déshonorable une chasse entre les deux rivaux en pleine nuit noire, utilisant les forces du crépuscule.</i></Font>
+Évasion
+Vous bondissez dans la direction opposée au curseur en lançant une bombe au sol qui ralentit les ennemis dans la zone d'effet.\n\n<font color="#cb5316">Attaque:</font> Utilisable avec dague, arc, ou pistolet.\n\n<font color="#509FFF">Type</font> : <b>Attaque</b>, <b>Projectile</b>, <b>Roublard</b>, <b>Mouvement</b>.
+<Font Size="15" Color="#ccb270"><i>Moros, Primordial du Crépuscule, encouragea le Primordial du Génie, Ezaneal, à construire et innover de nouvelles armes pour protéger les Premiers Hommes. En retour, Ezaneal lui fit don de bombes à fumée pour ralentir ses ennemis.</i></Font>
+Impact Solaire
+Canalise une zone de dégâts en provenance du ciel qui suit le curseur.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Anathëa, Dame Primordiale de l'Aube, était une tendre gardienne pour toute la Création. Mais lorsqu'Abanazaar la poursuivit fou de désir, elle lui montra que le soleil ne faisait pas que réchauffer; il pouvait aussi brûler.</i></Font>
+Portepeste
+Incante une zone d'effet qui fait exploser vos ennemis ou vos créatures à leur mort, infligeant des dégâts de Poison.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Bezeriel, Archiduc Déchu de la Fatalité, se servit autrefois de cadavres pour explorer des perspectives nouvelles et obscènes sur la violence. Son culte suivit cette piste, le procédé de la décomposition employée dans la guerre.</i></Font>
+Anomalie
+Incante un vortex avec deux zones d'effets. La première inflige des dégâts sur le temps. Après un instant, la plus large attire les ennemis en son centre.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Quand Anulai-Tai, le Duc Déchu de l'Infini, s'exila hors du temps, son départ créa un vortex qui assécha toute force vitale aux environs.</i></Font>
+Essaim Dévoreur
+Invoque un zombie qui attaque au corps à corps. Si vous avez déjà atteint le maximum de zombies, ils chargent en direction de votre curseur à l'utilisation de la compétence.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Invocation</b>.
+<Font Size="15" Color="#ccb270"><i>Bezeriel, Archiduc Déchu de la Fatalité, rend à ses fidèles une quantité généreuse d'énergie nécrotique en échange de sacrifices de douleur, d'agonie, et avant tout de peste. Pour cette raison, ses cultes gardent des réserves de hordes mort-vivantes.</i></Font>
+Essaim Chasseur
+Invoque un zombie qui attaque à distance. Si vous avez atteint le maximum de zombies, ils focaliseront leurs tirs sur la cible du curseur.\n\n<font color="#948ec6">Sort:</font> Utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Invocation</b>.
+<Font Size="15" Color="#ccb270"><i>Bezeriel, Archiduc Déchu de la Fatalité, demanda à Anathëa un soleil mort pour surplomber les morts. Quand elle refusa, il corrompit son corps par un éclatement d'énergie cadavérique s'étirant de la terre aux nuages, et produisit les premiers morts-vivants.</i></Font>
+Livor Mortis
+Invoque un grand golem de Poison qui inflige des dégâts en arc. Si la compétence est utilisée une nouvelle fois, le golem lance un cri qui génère de la Menace.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Invocation</b>.
+<Font Size="15" Color="#ccb270"><i>Bezeriel, Archiduc Déchu de la Fatalité, est décrit comme un corps tentaculaire de chair en putréfaction. Pour cette raison, ses fidèles les plus estimés modifient leurs formes physiques pour lui ressembler, désirant une croissance constante.</i></Font>
+Parasite
+Canalise un rayon sur votre cible qui absorbe ses points de vie jusqu'à ce qu'elle soit possédée. Une fois la cible possédée, ses points de vie sont restaurés.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>, <b>Invocation</b>.
+<Font Size="15" Color="#ccb270"><i>Bezeriel, Archiduc Déchu de la Fatalité, est vénéré par des rites étranges et cruels. Un de ces rites implique le Ver Friand qui se gave de chair en putréfaction et produit des effets nécrotiques.</i></Font>
+Lames de l'Infini
+Attaque les ennemis à de multiples reprises, rechargeant votre Volonté pour chaque ennemi touché.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Anulai-Tai, Archiduc Déchu de l'Infini, tissa la tapisserie du temps après avoir été appelé à la vie par le Premier Mouvement de la Création.</i></Font>
+Éclipse
+Incante un cône d'Ombre qui repousse les ennemis et détruit les projectiles.\n\n<font color="#948ec6">Sort:</font> Seulement utilisable avec un bâton ou un catalyseur.\n\n<font color="#509FFF">Type</font> : <b>Sort</b>.
+<Font Size="15" Color="#ccb270"><i>Moros, Primordial du Crépuscule, mania de grand nuages de ténèbres pour changer l'issue d'une bataille dans laquelle ses forces semblaient piégées.</i></Font>
+Mouvement Fluide
+Réduit le temps de recharge de la compétence.
+Arc de Force
+Augmente les dégâts de la compétence.
+Flèches Dentelées
+Ajoute un effet ralentissant dans la zone d'effet.
+Le Nuage Noir
+Tous les dégâts de la compétence sont infligés immédiatement, mais sont réduits en retour.
+Flammes de l'Envie
+Convertit les dégâts Physiques de la compétence en dégâts de Feu. \n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Abanazar, autrefois Primordial du Feu, ravagea un continent alors qu'il poursuivait un amour non réciproque, son envie consommait et fondait tout ce qu’il traversait, la terre se transformant en lave sous ses pas.\n\nMalgré le fait qu’ils étaient ennemis, Hephaäron restait un opportuniste. Il installa une forge près du continent qui était entrain de fondre et utilisa ses métaux brûlants pour en faire des pointes de flèches superdenses destinées à nourrir Krearion.</i></Font>
+Pointes Affaiblissantes
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Œil de Lynx
+Augmente les chances de coup critique avec la compétence.
+Avancée Vive
+Les flèches forment un barrage vertical qui avance lentement.
+<Font Size="15" Color="#ccb270"><i>Krearion fut façonné avec la capacité d’absorber l’énergie statique aux alentour et la relâcher sous forme de force brute quand une volée de flèches est tirée. L’énergie générée par les projectiles crée une boucle vertueuse qui permet aux fléches de traverser le champ de bataille avec peu d'effort de l'archer. </i></Font>
+Précision Zélée
+Vous pouvez charger votre compétence pour infliger plus de dégâts.
+Fuir Ses Liens
+Octroie un bonus aux chances de coup critique pour vous et vos alliés qui vous entourent.
+Réémergence
+Délai de recharge réduit en tuant un ennemi avec la compétence.
+<Font Size="15" Color="#ccb270"><i>Des savants et logisticiens ont théorisé que l'impact de tirs soutenus sur une zone particulière du champ de bataille diminuent considérablement dans le temps. La précision et la retenue permettent une approche plus stratégique qui économise une quantité mesurable de ressources.</i></Font>
+Surplomb du Vainqueur
+Octroie un multiplicateur de dégâts en fonction du nombre d'ennemis qui se trouvent dans la zone d'effet.
+Appel des Premiers Archers
+Invoque un allié fantomatique qui ajoute deux plus petites zones de dégâts autour de la vôtre.
+Stratégie de l'Usure
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Pointe de Chasse
+Augmente les dégâts critiques de la compétence.
+Châtiment Implacable
+Réduit le coût en Rage de la compétence.
+Lames Vorpales
+Augmente les dégâts de la compétence.
+Loyauté des Lames
+Réduit le temps de récupération des charges.
+Lames étendues
+Augmente la zone d'effet.
+Forgée par le Vent
+Les projectiles font maintenant un cercle à partir du curseur.
+<Font Size="15" Color="#ccb270"><i>Quand Abanazar, Primordial du Feu, traversa l'océan pour rencontrer l'objet de son désir, il créa un cyclone tempétueux de vapeurs brûlantes. Hephaäron commença à forger Omeagram dans l’œil de ce cyclone afin de le dompter et rediriger son pouvoir au sein de la lame en construction.</i></Font>
+Contamination Nocive
+Convertit les dégâts Physiques de la compétence en dégâts Toxiques.\n\nApplique une Affliction supplémentaire de Poison avec la compétence.
+<Font Size="15" Color="#ccb270"><i>Pendant qu’il nettoyait un village prit par les cultistes de Bezeriel, Sarisel rencontra une Gueule Immortelle, un des sbires gloutons de l’Archiduc Déchu de la Fatalité. Ces créatures de haut rang servent Bezeriel en reflétant son comportement ; elles consomment toute la chair morte qu’elles rencontrent. La Gueule Immortelle avala Omeagram, son œsophage endurant les dommages interne, Sarisel fut obligé de déchirer sa carcasse immense et obèse à mains nues. Omeagram devint corrompu du poison nécrotique de Bezeriel, la rendant impur. Sarisel la bannie à l’armurerie de la Création d'Hephaäron.</i></Font>
+Lance-Lame
+Octroie une charge supplémentaire.
+Bola Immobilisant
+Le projectile immobilise les ennemis.
+Coupe l'Éther
+Vous téléporte à l'endroit du projectile lorsque vous réutilisez la compétence.
+Friction Au Vol
+Laisse une traînée qui inflige des dégâts pendant quelques secondes.
+Brume Imminente
+Transmet les applications d'Afflictions d'une cible à l'autre.
+<Font Size="15" Color="#ccb270"><i>La souillure portée par Omeagram après avoir été touchée par la Gueule Immortelle était telle qu'elle contaminait tout ce qui l'environnait. Hephaäron lui bâtit un fourreau, fait d'Acier Primordial, où la lame reposa en ses propres fumées toxiques.</i></Font>
+Glas Imminent
+Le premier ennemi touché par votre projectile explose après quelques secondes, infligeant des dégâts de zone.
+Blizzard Lamellaire
+Convertit les dégâts Physiques en dégâts de Givre. Augmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Les tranchants d’Omeagram furent affûtés avec tant de précision que Hephaäron vantait sa capacité à couper n’importe quoi, même le tissu du temps et de l’espace. Aucun volontaire n’osa tester cette affirmation de son corps, donc nul ne remit en question le tranchant terrifiant de ses lames, aussi froides que son coeur.</i></Font>
+Révocation
+Augmente les dégâts de la compétence.
+Œil de Papillon
+Augmente les chances de coup critique avec la compétence.
+Roue de la Torture
+Augmente les dégâts critiques de la compétence.
+Aiguilles à Perpétuité
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Impact Massif
+Augmente la zone d'effet de la compétence.
+Affinité pour la Destruction
+Réduit la portée minimum de la compétence.
+Bombe Collante
+Ajoute un effet ralentissant dans la zone d'effet.
+Mortier Multicanons
+Ajoute un projectile mais réduit les dégâts.
+Le Sang réclame du Sang
+Convertit les dégâts Physiques de la compétence en dégâts des Blessures.\n\nApplique une Affliction supplémentaire de Saignement avec la compétence.
+<Font Size="15" Color="#ccb270"><i>N’importe quoi peut être infusé de puissance avec de la foi et les rituels. La poudre explosive n’est pas une exception. Les munitions du Mortier Empyréen utilisent de la poudre trempée dans des viscères consacrés par les fanatiques du culte d’Ezaneal grâce à de sanglants rituels.</i></Font>
+Explosion Magnifique
+Augmente les dégâts de la compétence.
+Fragmentation Extrême
+Augmente les dégâts critiques de la compétence.
+Lanceur de Mines
+Le projectile reste sur place quelques instants et explose si un ennemi approche. 
+<Font Size="15" Color="#ccb270"><i>Dans la profondeur des sables du désert de Laibon, se trouve un laboratoire sous-terrain dirigé par les disciples d’Ezaneal les plus brillants. Ces cultistes tordus sont des savants qui sacrifieraient n’importe quoi pour avancer leurs recherches. Ils détestent être perturbés et ont piégé un périmètre énorme autour de leur repaire, rendant toute la région une zone morte.</i></Font>
+Charge Désintégrée
+Chaque explosion déclenche une fragmentation en de plus petites grenades autour.
+<Font Size="15" Color="#ccb270"><i>Le Mortier Impérial était d'abord conçu pour avoir une structure schématique compréhensible par un humain. Insatisfait de l'inélégance de sa création en conséquent, Ezaneal traversa quatre itérations. La dernière version nécessita un métal primordial et utilisa une quantité d'énergie qui l'élèva au niveau d'Ezaneal tout en le rendant impossible à reproduire par des mortels. Ce faisant, ce modèle unique a échoué dans son principe de base: l'accessibilité.</i></Font>
+Grèle Baptisante
+Tire rapidement plusieurs bombes. Ajoute un délai de recharge à la compétence.
+Gloire à l'Humanité
+Tire des roquettes en ligne droite. Le rayon d'explosion est réduit. Inflige plus de dégâts.
+Désir Collatéral
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Tremblement Sans Fin
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Atomiseur
+Augmente les chances de coup critique avec la compétence.
+Charge Instable
+Augmente les dégâts de la compétence.
+Prouesses de Manufacture
+Ajoute un projectile supplémentaire à la compétence.\n\nDégâts de la compétence réduits.
+Forgeur de Cratère
+Augmente les dégâts de la compétence.
+Inspiration Guerrière
+Réduit le coût en Rage.
+Tremblements de Gaavanir
+Augmente la zone d'effet.
+Briseur d'Os
+Augmente les chances de critique de la compétence sur les ennemis étourdis.
+Sous l'Orage
+Convertit les dégâts Physiques de la compétence en dégâts de Foudre. \n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Quand les masses à deux mains furent révélées aux humains, les guerres mortelles devinrent une affaire beaucoup plus tempétueuse. L’aiguisement des épées laissa place à la forge de masses, le tonnerre grondant d’un orage en approche. Les batailles devinrent des cacophonies de bruits métalliques étouffés lorsque les armures en plaques cedaient sous la pression des coup de massues et que les os craquaient sous la pression, un ouragan rugissant éclairé de coups de foudre, Gaavavnir incarne cet orage incessant.</i></Font>
+Blessures Sérieuses
+Augmente les chances d'infliger des Afflictions avec la compétence.
+Pression Immense
+Augmente les dégâts critiques de la compétence.
+La Volonté d'Écraser
+Peut charger cette compétence pour faire plus de dégâts.
+<Font Size="15" Color="#ccb270"><i>Gaavanir dort dans l’Armurerie de la Création. Son existence inspira le concept de Marteau de Bataille aux artisans et forgerons à travers le monde. Depuis, les champs de bataille ont été parsemé de crânes fendus et de cages thoraciques écrasées. </i></Font>
+Collision de Silex
+Crée une chaîne d'explosions en face de vous.
+<Font Size="15" Color="#ccb270"><i>Chaque marteau de guerre sur Wolcen n'est qu'un reflet de Gaavanir. La destruction qu'ils ont pu causer n'est rien comparé à ce qui a pu être déchaîné par le marteau de Hephaäron. Dans ces quelques instants où Baäpheth a porté Gaavanir, la terre a tremblé causant une réaction qui a fait cracher le feu à chaque volcan du monde. Depuis ce jour, le marteau dort.</i></Font>
+Martelache
+Augmente la vitesse d'attaque. Réduit les dégâts.
+Vestiges d'un Choc
+Invoque un allié fantomatique qui attaque l'ennemi après qu'il a été touché par la compétence.
+Tremblement Radical
+Les coups critiques étourdissent l'ennemi.
+Meule Grésillante
+Les coups critiques ont une chance d'infliger un châtiment qui ricoche entre les ennemis. Son type de dégât est basé sur les dégâts de votre arme.
+Cicatrices Fractales
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Coup de Matraque
+Augmente les chances de coup critique avec la compétence.
+Arc Voltaïque
+Augmente les dégâts de la compétence.
+Exécution élégante
+Réduit le coût en rage.
+Pas de Témoins
+Augmente le nombre de cibles.
+Gros Calibre
+Chaque tir qui touche un ennemi inflige également des dégâts de zone.
+<Font Size="15" Color="#ccb270"><i>Au cours de son exil dans l'Abysse, Ezaneal devint obsédé par l'idée de prouver sa valeur en tant qu'inventeur. Son concept de projectile explosif avait été rejeté si sommairement par Hephaäron... Et s'il pouvait le rendre plus rapide, plus direct, plus complexe, plus chaotique ? Il se jura sans cesse d'éclipser son ancien maître, de rendre obsolète ses conventions élitistes et de remplir le monde de ses créations chaotiques ; des armes mettant tout le monde à égalité, donnant à chacun la chance de réussir.</i></Font>
+Manipulateur Temporel
+Convertit les dégâts Physiques de la compétence en dégâts d'Éther.\n\nAugmente les chances d'appliquer Stase.
+<Font Size="15" Color="#ccb270"><i>Après de nombreuses expériences et quelques explosions accidentelles, Ezaneal créa le Canon Iosonique à Main, le Premier Pistolet. Sa précision, son poids léger et sa capacité à tirer rapidement le rendent extrêmement meurtrier. Donner à l'humanité des armes de cette nature, si accessibles, sèmerait sans doute le chaos, mais Hephaäron avait scellé l'Armurerie de la création de façon permanente. C'était le seul moyen de partager son invention avec l'humanité ; il faudrait un génie pour y entrer…</i></Font>
+Discorde Ordonnée
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Tir au Jugé
+Augmente les dégâts critiques de la compétence.
+Ordre Dans le Chaos
+Les coups critiques infligent plus de dégâts.
+<Font Size="15" Color="#ccb270"><i>Ezaneal a trouvé un chrono-siphon, un outil utilisé par les Dévoreurs du Temps d'Anulai-Tai pour traverser l'éther. Grâce à une expérimentation rigoureuse et de nombreuses tentatives, Ezaneal a construit un appareil de téléportation. L'activation de l'appareil a créé une petite faille dans l'éther, permettant à Ezaneal d'être à la fois à l'intérieur et à l'extérieur de l'Armurerie, ce qui aurait pu séparer les Déchus de leur position dans l'espace et le temps. Malgré le danger, Ezaneal a réussi à déposer son arme dans l'Armurerie en toute sécurité.</i></Font>
+Traversée
+Perce la cible avec la compétence.
+Pas de Prisonniers
+Les ennemis disposant de moins de 10% de leurs points de vie sont ciblés automatiquement, mais les dégâts de la compétence sont réduits.
+Rugissement Dispersant
+Les ennemis placés dans un cône face au joueur sont automatiquement ciblés.
+Affres Sans Fin
+Augmente les chances de critiques et les dégâts pour chaque application d'Affliction sur un ennemi.
+Surveillance
+Les dégâts critiques augmentent en fonction du temps de visée. Se réinitialise après que vous avez atteint le temps maximum de visée.
+Traitre Dans le Pointeur
+Les ennemis qui touchent le joueur pendant la visée sont automatiquement ciblés.
+Tireur Déchaîné
+Utilise tous les tirs disponibles dès l'utilisation de la compétence.
+Dégâts Alliés
+Si un ennemi subit des dégâts critiques avec la compétence, ces dégâts rebondissent sur le premier ennemi ciblé.
+Munition Améliorée
+Convertit les dégâts Physiques de la compétence en un Élément aléatoire.
+Justice Expéditive
+Réduit le coût en Volonté de la compétence.
+Dévouement Inflexible
+Réduit la perte de dégâts lorsque votre sort rebondit sur une cible.
+Faim Châtiante
+Augmente les dégâts de la compétence.
+Voie du Tourment
+Le sort rebondit une fois supplémentaire.
+Orage au Crépuscule
+Convertit les dégâts de Foudre de la compétence en dégâts d'Ombre. \n\nAugmente les chances d'infliger Malédiction.
+<Font Size="15" Color="#ccb270"><i>Afin de traduire des transgresseurs en justice, Beelmalik a souvent besoin de chercher les coins sombres du monde, le domaine de Moros, Primordial du Crépuscule. Les disciples de Moros ont établi un cessez-le-feu avec le Seigneur Déchu Beelmalik pendant l’absence de leur maître. Les criminels qui menacaient le Culte du Crépuscule fûrent retirés, et Beelmalik se vit libre de les châtier à son aise.</i></Font>
+Courant Paralysant
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Conduit Sans Pitié
+Augmente les chances de coup critique avec la compétence.
+Reconstruction de la Trinité
+Octroie un bonus qui vous permet d'infliger des dégâts supplémentaires basés sur l'élément de cette compétence lorsque vous l'utilisez. La compétence peut également rebondir sur les alliés, ils disposent alors du bonus à leur tour.
+<Font Size="15" Color="#ccb270"><i>Beelmalik constituait une entité puissante avec Abanazar et Etheliel. Ensemble ils étaient le Primordial du Changement qui règnait sur le Tribunal du Bouleversement. Depuis leur séparation, Beelmalik est obsédé par l'idée de chasser et assimiler ses adelphes pour être unis à nouveau. </i></Font>
+Loi Manifeste de Foudre
+Vous avez une chance que la Foudre s'abatte sur vos cibles endommagées. 
+Présomption de Culpabilité
+Le sort privilégie les cibles qui subissent des dégâts sur la durée.
+Genoux Heurtant le Sol
+Les coups critiques avec le sort ont une chance d'étourdir les ennemis. Ajoute un délai de recharge.
+Séquestré
+Augmente les chances de critique de la compétence contre les ennemis électrocutés.
+Représailles
+Les coups critiques du sorts conduisent la foudre jusqu'à d'autres ennemis.
+<Font Size="15" Color="#ccb270"><i>Malgré ses tendances tordues et obsessives, Beelmalik reste un ‘Conciliateur’ : un Déchu qui essaie de trouver la rédemption pour ses crimes contre la Création. S’il réussit à se racheter, il a le potentiel d’incarner la Justice au lieu de la Punition. Une Justice absolue, sanglante et impitoyable.</i></Font>
+Levier du Bourreau
+Augmente les dégâts critiques de la compétence.
+Balafre Serpentine
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Arc Condensé
+Augmente les dégâts de la compétence.
+Foulées sprintées
+Augmente la vitesse de déplacement.
+Briser la ligne
+Augmente les dégâts.
+Charge frontale
+Étourdit les ennemis à la fin de la charge.\n\nAugmente le temps de rechargement.
+Tracer un chemin
+Maintenez la compétence activée pour la prolonger.
+<Font Size="15" Color="#ccb270"><i>Baäpheth a mandaté Hephaäron pour qu'il fabrique quelque chose pour le protéger, cela a pris la forme de Gleidhir, le Premier bouclier. Il a été forgé sur un continent fondu par la rage d'Abanazaar, puis durci sous une immense pression au plus profond de l'océan. Gleidhir a été créé pour être un objet immobile afin de défier la force inarrêtable d'Abanazaar.</i></Font>
+Braise éternelle
+Convertit les dégâts Physiques de la compétence en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Armé de Gleidhir, Baäpheth s'est senti encore plus déterminé et a chargé directement Abanazaar. Les deux Primordiaux se fonçaient dessus au milieu de terres ravagées, sans montrer aucune peur. Leur collision déclencha une onde de choc puissante qui fit voler des débris dans toute la plaine. Une fois la poussière retombée, une seule silhouette était encore debout, bouclier à la main.</i></Font>
+Charge inarrêtable
+Il est impossible d'interrompre la charge par les effets de contrôle de foule.\n\nSubit des dégâts de projectiles réduits pendant la charge.
+Impact écrasant
+Génère une onde de choc de dégâts à la fin de la charge.
+Sang brûlant
+Crée une zone de dégâts qui reste pendant quelques secondes.
+Vision Persistante
+Invoque un allié fantomatique qui attaque l'ennemi après qu'il a été touché par la compétence.
+Mania
+Vous fait gagner de la Rage si vous touchez un ennemi.
+Posture Inflexible
+Augmente les dégâts en fonction des chances de blocage.
+Fauchedent
+Augmente les chances de blocage pendant l'utilisation de la compétence.
+Vexilloïde
+Lorsque vous chargez la compétence, elle octroie à vous et à vos alliés un Bonus à toutes les Résistances.
+Débandade
+Augmente les dégâts critiques de la compétence.
+Mangemoelle
+Augmente les dégâts de la compétence.
+Vertueux Aplatissage
+Étourdit les ennemis sur votre passage. Ajoute un temps de recharge à la compétence.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, victorieux, approcha son ennemi déchu. Il leva son bouclier et martela le visage du Primordial du Feu, les flammes jaillissant de l'entité blessée. Sous le poids de Gleidhir, chaque flamme au monde s'est éteinte, étouffée par les forces conjointes de l'Ambition et l'Industrie.</i></Font>
+La Grande Chasse
+Les ennemis marqués sont plus vulnérables aux dégâts.
+Accablement d'Infâmie
+Ralentit la cible marquée.
+Destin Inéluctable
+Le marque dure plus de temps.
+Destin du Profané
+Un ennemi tué alors qu'il est sous l'effet de la Marque des Impurs explose et inflige des dégâts de zone basés sur sa vie maximum.
+<Font Size="15" Color="#ccb270"><i>L’incarnation de la pureté peut être considérée être beaucoup de choses selon la perspective : un des derniers Primordiaux, un purificateur létal, ou le meilleur chasseurs de démons de la Création. Il est un tueur implacable de tout qu’il juge comme indigne de la vision de la Création. Certains le voient comme un être fou, un meurtrier, d’autres comme une des dernières raisons qui explique que les Déchus n’ont pas encore conquis le monde et ont encore peur du nom : Sarisel.</i></Font>
+Cible Neutralisée
+Augmente les dégâts critiques sur les ennemis marqués.
+Résistance Minimale
+Augmente les chances d'infliger des Afflictions sur les ennemis marqués.
+Défaut de la Création
+Augmente les dégâts des Afflictions sur les ennemis marqués.
+Coupable par Association
+La Marque des Impurs se répand à la mort de la cible marquée.
+<Font Size="15" Color="#ccb270"><i>Sarisel n’est pas connu pour sa tolérance ou son empathie. Il est un tueur, un vengeur, un purificateur. Il détruit tout ce qu’il associe aux maux du monde et les abominations qu’ils créent. Une fois marqué comme impure, il n’y a pas d’explication, pas de seconde chance, pas de justice, il ne reste qu'une purification aveugle pour tout ceux qui sont impliqués.</i></Font>
+Sursis
+Les ennemis marqués transmettent leurs Afflictions aux autres ennemis lorsqu'ils sont touchés
+<Font Size="15" Color="#ccb270"><i>Sarisel enterre ses armes dans le sol quand elles ont absorbé trop de sang, justifiant son acte du fait que nulle chose souillée par le mal en son essence ne peut jamais faire de bien. Elles restent dans la terre, semblant comme les os du monde. Ces reliques des péchés Primordiaux ont un pouvoir, émanant une malédiction sur les villes construites au dessus. Non seulement elles assèchent la vie de ceux qui s'épanouissait autrefois au dessus, mais elles invitent la haine et la violence gratuite parmi les gens de la surface.</i></Font>
+Miséricorde Cruelle
+Les ennemis marqués qui disposent de moins de %1 points de vie meurent instantanément au toucher.
+Justice Sans Visage
+Invoque un allié fantomatique lorsque vous touchez un ennemi marqué, qui frappe l'ennemi à son tour.
+Le Poids de la Culpabilité
+Les ennemis marqués sont plus vulnérables aux dégâts.
+Oeil Vigilant
+Les marques durent plus longtemps.
+Pécheurs Sans Exceptions
+Réduit le temps de recharge de la compétence.
+Peine Assumée
+Les ennemis marqués sont plus vulnérables aux dégâts.
+Sanction Immédiate
+Réduit le temps de recharge de la compétence.
+Lames Affinées
+Les attaques sont plus rapides, en retour elles font moins de dégâts.
+Collision de Lunes
+Une partie des dégâts infligés à la cible sont répercutés en dégâts de zone.
+Métal Ultra-Dense
+Augmente les dégâts.
+Embuscade Cosmique
+Téléporte derrière la cible.
+<Font Size="15" Color="#ccb270"><i>Fusionner deux lunes dans quelque chose d'aussi petit qu’une lame est un projet dangereux même pour un Primordial. Sans une vraie maîtrise l’objet qui en résulte peut devenir si dense qu’il peut s’effondrer sur lui même devenant un trou noir qui dévore tout. Un tel pouvoir pourrait servir à manipuler le temps et et l’espace.</i></Font>
+Ombres perçantes
+Convertit les dégâts Physiques de la compétence en dégâts d'Ombre. \n\nAugmente les chances d'infliger Malédiction.
+<Font Size="15" Color="#ccb270"><i>Sazanek était un cadeau pour Moros afin de le remercier pour son assistance. Le Primordial du Crépuscule n’avait nul besoin d'une telle arme, mais il la portait néanmoins comme un signe de gratitude d'Hephaäron. Au fil du temps, la lame absorba de l’énergie du Crépuscule et changea d'une couleur argent étincelant à un bleu-foncé sombre. Prit de remord sur le fait qu'une telle arme ne soit jamais utilisée, Moros décida de remettre cette arme au sein de l'Armurerie de la Création.</i></Font>
+Lames Brillantes
+Chaque fois qu'on ré-utilise cette compétence dans une période courte de temps, augmente les dégâts.
+Éclipse Ultime
+Augmente les chances de coup critique avec la compétence.
+Malédiction de la Lune Noir
+Les ennemis tués avec cette compétence transmettent leurs Afflictions aux autres ennemis.
+Balayage Fulgurant
+Renverse les ennemis qui se trouvent tout autour de la zone où vous chargez.
+La Bonté de s'Arrêter
+Invoque un allié fantomatique qui attaque l'ennemi après qu'il a été touché par la compétence.
+Sentier Poussiéreux
+Tous les ennemis sur le chemin de la charge subissent également des dégâts.
+Montée Crépusculaire
+Toucher un ennemi fait apparaître deux projectiles endomageants derrière lui.
+<Font Size="15" Color="#ccb270"><i>Les deux lunes fûrent jetées en direction des forges d'Hephaäron pour les anéantir, un dernier cadeau de son disciple Ezaneal. L'Artisan Primordial n'avait plus le temps de se sauver et sauver son oeuvre aussi. Mais Moros, Primordial du Crépuscule, a voilé les énormes projectiles d'ombres, changeant leur trajectoire pour qu'ils se heurtent l'un à l'autre. Hephäaron saisit l'opportunité de concentrer le métal issu de la collision en une lame qu'il nomme Sazanek.</i></Font>
+Opposant Rancunier
+Augmente les dégâts critiques de la compétence.
+Centième Entaille
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Couteau Secret
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Tranche Désinvolte
+Augmente les dégâts de la compétence.
+Désirs Submergeant
+Augmente la zone d'effet.
+Passion Enflammée
+Augmente les dégâts.
+Perce-Cœur
+Le projectile ne rentre plus en collision avec les cibles et n'explose plus. À la place, sa zone d'effet est augmentée et il perce les cibles en les brûlant au passage.
+<Font Size="15" Color="#ccb270"><i>La jalousie va de paire avec l’envie. Le désir obsessif d'Abanazar pour Anathëa lui a valu de déchaïner sa rage quand il découvrit que son cœur était déjà détenu par Moros, Primordial du Crépuscule. Depuis, Abanazar essaye d’étouffer toute l’obscurité du monde, les illuminant avec ses lumières brûlantes, transformant les paysages en tas de charbons ardents si nécessaire, pourvu que les ombres ne restent pas, éradiquant toutes traces de l’héritage de son adversaire.</i></Font>
+Message Incendiaire
+Ajoute un projectile, en retour le coût en Volonté est plus élevé.
+Réunification Fratricide
+Convertit les dégâts de Feu de la compétence en dégâts de Foudre.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Même si Abanazar et son culte représentent une force puissante et destructive, ils sont à la fois prédateurs et proies. Beelmalik, Seigneur Déchu du Chätiment, souhaite détruire le culte de l'Envie pour refusionner avec son cousin. Les Juges d’Entropie cherchent toujours à révéler et éliminer les organisations sécrètes dévouées à Abanazar.</i></Font>
+Braises Inflammables
+Augmente les chances d'infliger des Afflictions.
+Allumage Instantané
+Augmente les chances de coup critique avec la compétence.
+Objet de Désir
+Octroie un bonus qui vous permet d'infliger des dégâts supplémentaires basés sur l'élément de cette compétence. Les alliés touchés par la zone d'effet du sort disposent du bonus à leur tour.
+<Font Size="15" Color="#ccb270"><i>Dans son désir dévorant pour Anathëa, le Seigneur de l'Envie et son culte enlevèrent des membres de haut rang de la Fraternité de l’Aube et réalisèrent des rituels inimaginables et tordus pour les transformer en Tueurs de Soleil : des humains épouvantables consumés par les flammes qui évoquent vaguement la manière dont Abanazar perçoit Anathëa. D’une certaine manière, en absorbant ses disciples dans son propre culte, il souhaite la posséder symboliquement.</i></Font>
+Pluie de Météores
+Augmente le nombre de projectiles.
+Fumée de la Ferveur
+Les projectiles explosent et infligent des dégâts dans une large zone d'effet lorsque vous utilisez de nouveau la compétence.
+<Font Size="15" Color="#ccb270"><i>Une des premières choses qu'Abanazaar vit à sa naissance était le lever de soleil sur l'horizon. Le moment où il le vit, il sut qu'il voulait l'atteindre et le posséder. Ce sentiment devint une passion et un amour d'Anathëa, la Dame de l'Aube. Cela dégénéra en obsession et folie destructrice quand il se rendit compte qu'elle admirait quelqu'un d'autre.</i></Font>
+Immolateur
+Augmente les dégâts de la compétence.
+Songe d'Incendiaire
+Réduit le coût en Volonté de la compétence.
+Brûlure Perdurante
+Augmente les dégâts des Afflictions infligées avec la compétence.
+État Plasmique
+Augmente les dégâts critiques de la compétence.
+Étincelle Jaillissante
+Augmente la vitesse d'incantation de la compétence.
+Seigneur du Charbon
+Augmente les dégâts de la compétence. Ajoute un temps de recharge.
+Misère Déchaînée
+Augmente la zone d'effet.
+Douleur Harmonisée
+Réduit le coût en Volonté.
+Narcissisme Malfaisant
+Réduit la durée de création.
+Avalanche d'Émotion
+Augmente les dégâts de la compétence.
+Mépris des Flammes
+Convertit les dégâts de Glace de la compétence en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Etheliel pourchassa Abanazar pendant qu’il se déchaînait à travers les plaines en le suppliant de la rejoindre avec Beelmalik pour être de nouveau le Primordial du Changement. Sa supplique constante énerva Abanazar. Il lança un énorme rocher sur elle: nul ne se mettrait sur le chemin de sa quête pour l’amour. Le rocher vola avec tant de rage qu’il prit feu. Il ne fit qu’érafler Etheliel qui prit la fuite, rongée par la culpabilité de leur séparation.</i></Font>
+Gémissement Corrupteur
+Augmente les chances d'infliger des Afflictions.
+Impuretés Gélées
+Augmente les chances de coup critique avec la compétence.
+Deuil Mélancolique
+Le délai de création est plus long, en retour les dégâts sont augmentés.
+<Font Size="15" Color="#ccb270"><i>Malgré le fait que personne ne sache précisément où l'on peut trouver Etheliel, des mythes racontent l'histoire d’un gémissement gelé qui résonne à travers les grandes montagnes qui connectent les trois continents de Wolcen. Un cri si lugubre qu’il semblait pleurer la création elle-même.</i></Font>
+Pluie de Stalactites
+Le sort inflige des dégâts sur la durée.
+<Font Size="15" Color="#ccb270"><i>Bien des cicatrices reposent à la surface de Wolcen : la Faille creusée par le conflit de la Genèse, les cratères éclatés par les créations de Hephäaron, et les vortex crées par les allers et venues d'Anulai-Tai ne sont que quelques exemples. Mais tandis qu'Etheliel lamente ces imperfections, elle ne peut s'empêcher de les empirer, criblant la terre d'une grèle démesurée pendant qu'elle pleure.</i></Font>
+Firmament de Verre
+Vous permet de charger le sort en le maintenant appuyé. Plus vous le chargez, plus vous infligez de dégâts.
+<Font Size="15" Color="#ccb270"><i>Etheliel était entichée de la cité d'Arborrel, et eu le désir de la protéger des aléas du temps en lui créant une cage de glace. Les Premiers Hommes à l'intérieur craignèrent le blasphème, mais le désespoir les poussa à tirer des flèches dans la structure pour se libérer. L'amour d'Etheliel leur plut dessus, perçant les toits et écrasant soldats et civils sans distinction.</i></Font>
+Vertige Blanc
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Eau Corporelle
+Augmente les dégâts critiques de la compétence.
+Prise Météorologique
+Réduit le temps de recharge de la compétence.
+Zéro Absolu
+Augmente les dégâts de la compétence.
+Domination Climatique
+Réduit le temps de recharge de la compétence.
+Cristallisation Sanguine
+Augmente les dégâts de la compétence, contre un coût en Volonté plus élevé.
+Javelot en Cristal
+Augmente les dégâts de la compétence.
+Aubaine de l'Usurpateur
+Réduit le coût en Volonté.
+Balliste à Comètes
+Le délai de création est plus long, en retour les dégâts sont augmentés.
+Blasphème Éclatant
+Les ennemis tués lorsqu'ils sont gelés ont une chance d'exploser en éclats glacés.
+<Font Size="15" Color="#ccb270"><i>Etheliel n'est pas juste haineuse contre ceux qui usurpent ses pouvoirs gelés, elle devient absolument frénétique quand elle confronte des sorciers qui osent utiliser ses compétences pour entâcher la beauté de la Création. Ironiquement, des blizzards destructifs l’entourent quand elle perd son sang-froid et laisse libre court à son courroux.</i></Font> 
+La Beauté de l'Espoir
+Convertit les dégâts de Glace de la compétence en dégâts Sacrés.\n\nAugmente les chances d'infliger Faiblesse.
+<Font Size="15" Color="#ccb270"><i>La beauté qu’Etheliel cherche est une beauté objective et superficielle. Quand elle gèle de beaux individus, ils sont préservés avec une expression du visage neutre. Cela s'oppose à la beauté d’Anathëa qui née de l'espoir qu'elle genère d'un simple sourire radieux. La Déchue de la Vanité a reconsidéré momentanément la légitimité de son dominion sur la notion de beauté, mais son égo a tôt fait d'étouffer cette considération. </i></Font>
+Frisson de Mauvais Augure
+Augmente les chances d'infliger des Afflictions.
+Glaçon Pénétrant 
+Augmente les dégâts critiques de la compétence.
+Duperie Prolongée 
+Chaque Lance qui touche un ennemi augmente les dégâts de la prochaine. Le bonus est réinitialisé lorsqu'une Lance ne touche pas d'ennemi.
+Embuscade Thermale
+Les lances créées restent sur place si vous en invoquez d'autres, ce qui vous permet de lancer plusieurs lances d'un coup lorsque vous relâchez la compétence.
+<Font Size="15" Color="#ccb270"><i>Il est dangereux de duper la Déchue de la Vanité pour lui faire croire que l'on est vecteur de sa volonté : un groupe de cultistes connu sous le nom de 'Légion de Diamant' chasse et capture les usurpateurs, leur infligeant un tourment infini dans un enfer gelé.</i></Font>
+Fracture Sublime
+Vos lances libèrent des éclats de givre sur leur chemin. 
+Faiblesse Hypothermique
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Froide Perforation
+Augmente les dégâts critiques de la compétence.
+Regard Glacial
+Augmente les dégâts de la compétence.
+Pic Embrocheur
+Augmente les dégâts de la compétence.
+Pic Tordu
+Augmente les dégâts critiques de la compétence.
+Altération de Température
+Augmente les dégâts de la compétence. Ajoute un temps de recharge.
+Monde de Givre
+Augmente la zone d'effet.
+Pion du Givre
+Réduit le temps de recharge.
+Perfection Immortalisée
+Augmente la durée du Gel.
+Admirer de Loin
+La zone d'effet est désormais placée au niveau du curseur.
+<Font Size="15" Color="#ccb270"><i>Les temples d’Etheliel sont des vues ensorcelantes : leurs halls glacent le sang via des exposions morbides de tout types de créatures gelées rapportés par les cultistes pour préserver leur ‘immortalité’. Afin de s’attirer les bonnes grâces d’Etheliel, les cultistes font des rituels profanes au cœur de ces temples où ils gèlent de belles et jeunes victimes en sacrifice pour Etheliel,</i></Font>
+Ombre Concentrée
+Convertit les dégâts de Glace de la compétence en dégâts d'Ombre.\n\nAugmente les chances d'infliger Malédiction.
+<Font Size="15" Color="#ccb270"><i>Les glaces de La Seigneur Déchue de la Vanité perdirent leurs pureté naturelle quand elle sombra dans la folie. Elles contiennent désormais une détermination malsaine pour se répandre à travers le monde. Se mélangeant aux ombres,  à l'image de celles qui remplissent son cœur. De part ces glaces teintées d'ombres, Moros les sollicitent pour maintenir une présence sur le monde.</i></Font>
+Froid Mordant
+Augmente les dégâts de la compétence.
+Pergélisol
+Crée une zone de dégâts qui reste pour quelques secondes.
+Tous Saluent la Reine de Glace
+Octroie un bonus qui vous permet d'infliger des dégâts supplémentaires basés sur l'élément de cette compétence lorsque vous l'utilisez. Les alliés touchés par la zone d'effet du sort disposent alors du bonus à leur tour.
+<Font Size="15" Color="#ccb270"><i>Etheliel est généreuse lorsqu'elle partage ses pouvoirs avec les mortels : elle considère les sorciers et cultistes comme de simples pions qui servent son ambition d'étendre son étreinte. Chaque fois que son gel touche le monde, elle approche à sa victoire ultime pas par pas. D’une certaine manière, les sorciers ignorants sont aussi dangereux que les cultistes malveillants.</i></Font>
+Souffle Glacial
+Les ennemis tués tandis qu'ils sont gelés par cette compétence déclenchent une nova.
+Âme en Émanation
+Augmente les dégâts de la compétence.
+Vanité Chevalière
+Augmente les chances de coup critique avec la compétence.
+Confiance Guerrière
+Augmente les dégâts critiques de la compétence.
+Ankylose en Amorce
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Rêves de Chaleur
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Siècle de Froides Nuits
+Réduit le temps de recharge de la compétence
+Tempêtes Glaciales
+Augmente les dégâts de la compétence.
+Chaîne du Gardien
+Augmente la portée de la compétence.
+Châtiment Zélé
+Les ennemis affectés par l'Emprise du Traqueur sont étourdis.
+Maitre des Chaïnes
+Gagne de la  Rage pour chaque ennemi frappé par cette compétence.
+Mouvement Audacieux
+Vous êtes désormais attiré vers la cible finale,
+<Font Size="15" Color="#ccb270"><i>Utilisant Kirenas, Sarisel se battait contre un puissant démon. Il utilisa le grappin pour le tirer a lui, mais le démon resta ferme et immovible. Les deux se jaugèrent pour un moment, en tenant la chaîne du grappin. Sarisel décida d’inverser le mécanisme de Kirenas et se tira vers sa cible. Pris par surprise, son advenrsaire fut tué sur le coup.</i></Font>
+Entailles Pénétrantes
+Inflige des dégâts de Blessures.\n\nAjoute une Application supplémentaire lorsque vous infligez Saignement avec la compétence.
+<Font Size="15" Color="#ccb270"><i>Sarisel n'aiguise pas Kirenas – les entailles et imperfections qui parcourent l'arme sont comme des trophées de guerre. Cette usure ne pourrait jamais détruire le grappin, créé par Hephaäron, mais ses défauts ajoutèrent un niveau supplémentaire de létalité. Les encoches lacérent la cible, déchirant la chair du gibier de Sarisel.</i></Font>
+Garder l'Elan
+Réduit le temps de recharge.
+Nourrir l'Esprit
+Augmente les chances pour les ennemis touchés par cette compétence de laisser tomber des Globes de Vie.
+Chasse Obstinée
+Attire les ennemis dans toutes les directions.
+<Font Size="15" Color="#ccb270"><i>Sarisel, le Primordial de la Pureté, est connu pour ses chasses obsessives de tout ce qu’il perçoit comme corrompu. Alors qu'il maniait Kirenas, ce dernier devint une extension de sa volonté, cherchant et atteignant le mal dans les recoins les plus sombres du monde.</i></Font>
+Griffe Enrayante
+La compétence inflige Stase aux ennemis touchés.
+Pitié en Cage
+Augmente les dégâts de la compétence.
+Chute du Jugement
+Augmente les dégâts de la compétence.
+Berger de Voyous
+Augmente la portée de la compétence.
+Chaîne en Rétraction
+Réduit le temps de recharge de la compétence.
+Propulsion Rapide
+Réduit le temps de recharge de la compétence.
+Justice Sans Sommeil
+Réduit le temps de recharge de la compétence.
+Panopticon
+Augmente la portée de la compétence.
+Principe d'auto-ajustement
+Augmente la vitesse du projectile.
+Balancement Vicieux
+Augmente la zone d'effet.
+Lame Tranchante
+Augmente les chances d'infliger Saignement.
+Élan Irréversible
+Prolonge la durée de la compétence.
+<Font Size="15" Color="#ccb270"><i>Ashkadi a été créée dans le but de bouleverser l’ordre naturelle, qui a son tour, réagit en essayant de s’ajuster. L’énergie générée par les lois de la nature pour compenser le déséquilibre est l’essence qui pousse sa rotation. Avec une expertise suffisante, le lanceur de hache peut faire tourner cette dernière d’une façon qui défie la gravité.</i></Font>
+Feu Follet
+Convertit les dégâts Physiques de la compétence en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Ezaneal, le Seigneur Déchu de la Ruse, était le rival d'Hephaäron en termes d’artisanat et de créativité depuis toujours. Cette rivalité l'amena à entrer par effraction dans l’Armurerie de Création et à voler Ashkadi afin de comprendre et améliorer sa conception. Il persuada Abanazar, le Seigneur Déchu de l’Envie, d’imprégner la lame de feu. Plus tard Ashkadi fut récupérée mais sa facture fut altérée de manière permanente.</i></Font>
+Un Goût pour le Sang
+Absorbe la vie des ennemis lorsque vous infligez des dégâts avec la compétence.
+Guillotine qui Tourne
+Augmente les chances de coup critique avec la compétence.
+Orbite Astrale
+La hache vous suit désormais.
+<Font Size="15" Color="#ccb270"><i>Hephaäron ne fit pas qu'observer la trajectoire des corps célestes, il suivit l'ellipse de l'un d'entre eux pendant un temps déraisonnable, en apprenant et maitrisant tous les aspects de son orbite elliptique. Alors seulement commença-t-il à imaginer la conception d’Ashkadi, en essayant de reproduire la trajectoire gracieuse dans un si petit objet.</i></Font>
+Expansion Cyclonique
+La zone d'effet augmente sur le temps.
+Rotation Différée
+Lance la compétence à l'endroit du curseur.
+Persistance Despotique
+Dégâts augmentés par nombre d'afflictions appliquées.
+Éviscération
+Augmente les dégâts critiques de la compétence.
+Lame Mordante
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Météorite Tranchante
+Augmente les dégâts de la compétence.
+Frappe Orbitale
+Augmente les dégâts de la compétence.
+Furie Érigée
+Réduit le coût en Rage de la compétence.
+Le Flux d'Infinité
+Réduit le coût en Volonté par seconde.
+Consommé par le Néant
+Augmente les dégâts.
+Chercheur du Temps
+Augmente la taille du rayon.
+Regard Perforant
+Perce les ennemis.
+<Font Size="15" Color="#ccb270"><i>Dans sa folie, Anulai-Tai ressent tous les mouvements de l’univers et leur nature destructive, comme un brouillard confus de blasphèmes envers la création. Son regard traverse ce brouillard, perçant l’espace et la chair, cherchant des cibles isolées à qui donner leur repos dernier.</i></Font>
+Pourrisement Inévitable
+Convertit les dégâts d'Éther de la compétence en dégâts Toxiques.\n\nApplique une Affliction supplémentaire d'Empoisonnement avec la compétence.
+<Font Size="15" Color="#ccb270"><i>Contrairement à Anulai-Tai, Bezeriel n’est pas perturbé pas le passage du temps. L’Archiduc Déchu de la fatalité n’est conscient que de sa faim. Tout qui l’entoure ; ses disciples, les autres Abbathus, même la chair pourrissante qu’il consomme, se décompose au fil du temps. Mais pas lui. Il dépend du pourrissement, un charognard de vie et une connaissance intemporelle du Duc Déchu de l’Infini.</i></Font>
+Balancement du Pendule
+Augmente la vitesse de rotation pendant la canalisation de ce sort.
+Transe Catatonique
+Plus vous maintenez le rayon, plus il inflige de dégâts.
+Condensation Temporelle
+Permet de canaliser un rayon supplémentaire avec la compétence.
+<Font Size="15" Color="#ccb270"><i>Le culte de l’Infini est un des plus dangereux, ses agents les plus mortels connus sous le nom de ‘Dévoreurs du Temps’ se spécialisent dans l’isolation temporelle de leurs adversaires avant de lâcher une quantité immense d’énergie d’Éther sur leur cible. Cela accélère son biorythme à un tel point qu’un mortel vieillira et mourra sous l’effet de l’Éther.</i></Font>
+Entropie Toxique
+Augmente les dégâts de Poison et d'Éther infligés par vous et vos alliés touchés par Annihilation.
+Détonation Extravagante
+Permet de canaliser un rayon supplémentaire. La compétence inflige moins de dégâts.
+Écroulement Imminent
+Augmente les chances de coup critique avec la compétence.
+Matière Dégénérée
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Radiation
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Ultraviolet
+Augmente les dégâts critiques de la compétence.
+Axiome de Finalité
+Augmente les dégâts de la compétence.
+Un avec le Tissage
+Réduit le coût en Volonté de la compétence.
+Assaut du Berserker
+Augmente la génération de Rage.
+Vitesse Éclair
+Augmente la vitesse de vol.
+Oiseau de Proie
+Étourdit à l'impact.
+Impact Ondulatoire
+À l'impact, génére une onde de choc de dégâts.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, l’ancien Primordial de l’Ambition, ne s’entraina qu’une fois avec Ishmir. Pendant la lutte, il la jeta avec tant de force qu’il fendit une montagne entière. Depuis, la terre elle-même réagit avec violence quand La Première Lance touche le sol.</i></Font>
+Espoir Brillant
+Convertit les dégâts Physiques de la compétence en dégâts Sacré. \n\nAugmente les chances d'infliger Faiblesse.
+<Font Size="15" Color="#ccb270"><i>Hephaäron forgea des anneaux de cou magiques à Anathëa, la dame de l’Aube. Grâce à eux, sa voix de lumière pure devint la Chant Brûlant, transpercant les nuits les plus sombre. En échange, elle lui donna un simple sourir, qu’il immortalisa en imprégnant son chatoiement sacré dans la lame d’Ishmir.</i></Font>
+Empalement Lourd
+Augmente les dégâts.
+Tremblement Accablant
+Repousse des ennemis en atterissant.
+Poursuite sans Cesse
+La compétence n'a plus de temps de recharge et coûte désormais un point d'Endurance.
+<Font Size="15" Color="#ccb270"><i>La vue de la tête de la lance perçant la chair, la râle d’agonie de l’adversaire embroché, l’éclaboussure de son sang chaud sur le visage de l’empaleur : les berserkers et les fous ont soif de ces vues sinistres pour alimenter leur élan irrésistible de destruction.</i></font>
+Noble Maintien
+Réduit le délai de recharge pour chaque ennemi tué à l'atterrissage.
+Précurseur Gondolant
+Crée un vortex autour des ennemis dans une petite zone d'effet au niveau de votre lieu de chute.
+<Font Size="15" Color="#ccb270"><i>Baäpheth, autrefois le Primordial de l'Ambition, ne s'entraîna qu'une fois avec Ishmir. Au milieu de la session, il jeta la lance en l'air d'une telle force qu'un cyclone démarra de son mouvement, et au moment où il libéra la lance, un éclair blessa la terre d'un gouffre sans fond visible. Depuis, l'air est sensible au vol de La Première Lance.</i></Font>
+Tribunal de Voleurs
+Régénère du Bouclier de Force à l'atterrissage.
+Splendide Appareil
+Octroie un bonus qui vous permet d'infliger des dégâts supplémentaires basés sur l'élément de cette compétence lorsque vous atterrissez. La puissance du bonus dépend du nombre d'ennemis touchés.
+Bande Méritoire
+Cette compétence octroie à vous et à vos alliés un Bonus aux dégâts infligés en fonction du nombre d'ennemis touchés. Les alliés présents dans la zone d'effet à l'atterrissage bénéficient également du bonus.
+Sourire Radieux
+Augmente les chances de coup critique avec la compétence.
+De Gratitude En Mépris
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Allure de Champion
+Augmente la génération de menace avec la compétence.
+Rythme sans pitié
+Réduit le coût en rage.
+Extrémités nouées
+Augmente les dégâts.
+Tourbillon de guerre
+Augmente la zone d'effet.
+Drain de vie
+Obtenez Absorption de vie pour les dégâts infligés par cette capacité.\n\nPlus votre santé est faible, plus l'Absorption de vie sera importante.
+<Font Size="15" Color="#ccb270"><i>Après une bataille rangée contre Anathëa, Baäpheth a été enchaîné par des chaînes forgées par Hephaäron et emprisonné dans le camp de l’Armée de la Genèse. La guerre des Primordiaux faisait rage au loin tandis que Baäpheth essayait de retrouver ses forces. Alors que les chaînes étaient indestructibles, les murs, eux, ne l’étaient pas, et Baäpheth vit une opportunité de s’enfuir. À chaque mouvement, la liberté se rapprochait, chaque effort ravivant sa force jusqu’à ce que les murs s’effondrent.</i></Font>
+Lumière dérobée
+Convertit les dégâts Physiques de la compétence en dégâts Sacré. \n\nAugmente les chances d'infliger Faiblesse.
+<Font Size="15" Color="#ccb270"><i>Même s'il était libre, Baäpheth n’en était pas moins faible, blessé et désarmé. Un régiment de gardes s'est précipité vers sa cellule en entendant la chute du mur. Baäpheth fit tournoyé ses bras entravés et la chaîne découpa le torse cuirassé du premier soldat. Un rictus arrogant alluma le visage de Baäpheth alors qu’il entourait la chaîne autour de ses mains. </i></Font>
+Ambitions mortelles
+Augmente les chances d'infliger des afflictions.
+En quête de sang
+Augmente les dégâts critiques de la compétence.
+Un goût pour la vengeance
+Ajoute une attaque supplémentaire au combo.
+Frères de Sang
+Octroie à vous et à vos alliés un bonus d'absorption de vie lorsque vous utilisez la compétence.
+Frénesie Primitive
+Octroie de la Rage pour chaque ennemi tué.
+Derniers Instants
+Plus votre vie est basse, plus vos dégâts sont augmentés avec cette compétence.
+<Font Size="15" Color="#ccb270"><i>Tel un tourbillon mortel, Baäpheth semait la peur dans les cœurs de l’Armée de la Genèse. Chaque plainte, chaque ultime râle transférait de l’énergie sacrée de la Dame de l’Aube au Primordial de l'Ambition enragé. Il se nourrissait de ce pouvoir, l’utilisant pour éviscérer chaque obstacle qui se trouvait sur la route menant à son adversaire. Il a fini par se trouver face à face avec Anathëa, vêtu de sang et les yeux remplis de folie, prêt à les découper en morceaux, elle et son armée sacrée, avec les mêmes chaînes qu’ils avaient utilisées pour l’emprisonner.</i></Font>
+Fierté Blessée
+Augmente les chances de coup critique avec la compétence.
+Attrition
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Berceau d'Acier
+Augmente les dégâts de la compétence.
+Lancers Rapides
+Augmente la vitesse d'attaque avec la compétence.
+Frappes Encombrées
+Réduit les chances de coup critique de la compétence.\n\nAugmente les dégâts.
+Aurore Éternelle
+Augmente la durée du Rempart de l'Aube.
+Égide de l'Espoir
+Donne un bonus à toutes les résistances dans la zone d'effet.
+Lame de Vérité
+Ajoute des dégâts sacrés aux attaques faites depuis la zone d'effet.
+Avant-Garde de l'Étoile du Matin
+La zone d'effet est désormais placée au niveau du curseur.
+<Font Size="15" Color="#ccb270"><i>La dame de l’Aube est un Primordial bienveillant qui protège la Création des Déchus. Elle règne sur les concepts de l’Aube, l’Espoir, la Vérité et la Renaissance. Elle essaie de guider l’humanité de son humble lumière en lui offrant les compétences pour survivre aux invasions supranaturelles.</i></Font>
+Conviction
+La zone d'effet peut être redéplacée en rejettant le sort.
+<Font Size="15" Color="#ccb270"><i>Face à l’injustice et les périls du monde, certains ont perdu leur foi en l’existence d’Anathëa en prétendant que de mémoire d’homme, elle n’est jamais intervenue elle-même pour aider la Création. Certains Frères de l’Aube ont choisi de résister à cet athéisme en devenant des ‘Hiérophantes du Chant brûlant’, des prêtres de bataille qui prêchent ses prières et bénédictions pour protéger l’humanité du mal.</i></Font>
+Corne d'Abondance Infinie
+Augmente le taux de guérison.
+Lumière Rajeunissante
+Dans la zone d'effet, augmente la régéneration d'Endurance.
+Omniprésence Divine
+La zone d'effet suit le joueur sur lequel elle est jetée.
+<Font Size="15" Color="#ccb270"><i>La Confrérie de l’Aube vénère Anathëa. Même après avoir été chassé du Royaume d’Alia suivant la prise de pouvoir de la République Unie de l’Humanité, ils n’ont pas trahis leur serments et restèrent de puissants chevaliers, protégeant les innocents des terreurs de la nuit.</i></Font>
+Baume Brûlant
+Vos chances d'appliquer des Afflictions est augmenté lorsque vous êtes dans la zone d'effet.
+Terres Sacrées
+La zone d'effet inflige également des dégâts.
+Havre d'Hommes
+Restaure du Bouclier de Force sur le temps.
+Étoile Génératrice
+Réduit le temps de recharge de la compétence.
+Maison de Repos
+Les occurrences de soin se produisent plus souvent avec la compétence.
+Inspiration
+Réduit le coût en Volonté de la compétence.
+Vigueur Exhumée
+Augmente le montant de vie rendu à chaque occurrence.
+Protection Étendue
+Augmente la durée de la compétence.
+La Mort venue d'en haut
+Augmente les dégâts de la compétence.
+Poids Plume
+Réduit le coût en Rage.
+Tir de Précision
+Réduit le nombre de projectiles, en retour les dégâts sont augmentés.
+Barrage Explosif
+Les flèches explosent au contact. Elles ne transpercent plus les ennemis. 
+<Font Size="15" Color="#ccb270"><i>Pendant que Hephaäron construisait Krearion, son apprenti avait pour tâche la création de ses flèches. Il experimenta et décida d’utiliser une pointe de flèche explosive par défaut. Hephaäron devint furieux et prétendit que l’apprenti ne pouvais pas comprendre la pureté de ses conceptions. Ce genre de grossièreté insensible contraste avec les armes finement réalisées de Hephaäron qui réalisent leur fonction avec élégance et simplicité. Ce désaccord fût le premier pas vers l’excentricité qui causa la transformation d’Ezaneal en l’inventeur sournois qu’il est maintenant.</i></Font>
+Mort Supernaturelle
+Convertit les dégâts Physiques de la compétence en dégâts Toxiques.\n\nApplique une Affliction supplémentaire d'Empoisonnement avec la compétence.
+<Font Size="15" Color="#ccb270"><i>L’arc est l’arme la plus commune pour les chasseurs du culte de Bezeriel. En récoltant la chair qu’il consume, les pointes de leurs flèches devienent de plus en plus putrides, les résidus sanglants de chaque proie abattue s’accumulant. Elles pourrissent au fil de temps, rendant chaque tir de plus en plus létal.</i></Font>
+Stratégie de Siège
+Augmente les chances d'infliger des Afflictions.
+Pique-Épingle
+Augmente le nombre de projectiles.
+Volée des Fantômes
+Invoque des fantômes pour tirer en ligne.
+De Tempêtes Passées
+Invoque un allié fantomatique qui attaque l'ennemi après qu'il a été touché par la compétence.
+Poupée d'Arc
+Augmente la vitesse d'incantation.
+Fendre En Course
+Augmente les dégâts pour chaque percée restante.
+Fierté du Traqueur
+Charge le tir et vous permet de lancer une volée pour chaque niveau de charge.
+<Font Size="15" Color="#ccb270"><i>La création de Krearion a inspiré l’humanité à créer leurs propres arcs. Avec la popularisation de l’archerie, Krearion accumulait une puissance qui en émanait à grandes volées. À chaque arc tiré, l'ombre de Krearion s'étale un peu plus sur toute civilisation.</i></Font>
+Pointes de Champblanc
+Convertit les dégâts Physiques de la compétence en dégâts de Givre.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Ces vagabonds venant des régions les plus hostiles de Varg parlent d'une légende. Une figure solitaire toute en fourrures, dont les flèches changent leurs cibles en statues de glace. Certains le croient envoyé d'un pouvoir divin. D'autres que ses flèches sont issues d'un artisanat innovateur, et que celui qui s'aventure dans son territoire pourra peut-être en trouver le secret.</i></Font>
+Boitement Persistant
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Frappe Pulmonaire
+Augmente les chances de coup critique avec la compétence.
+Oiseau Chanteur
+Augmente les dégâts critiques de la compétence.
+Roi de l'Évasion
+Augmente la portée de la compétence.
+Poids Magnétique
+Inflige Stase aux ennemis prés du début et de la fin du téléport.
+Nourrir l'Éther
+Donne de la Volonté pour chaque ennemi à travers lequel le téléport passe. 
+Le Marionnettiste
+Échange votre position avec celle des ennemis autour de votre destination.
+<Font Size="15" Color="#ccb270"><i>Passé un certain seuil, la maîtrise de l’Éther semble possible. La tentation de profiter de son pouvoir de refaçonner le monde devient irrésistible, en dépit des risques de l’effet papillon. La manipulation de loin et la refonte du fil qui connecte chaque être à l’Éther devient un appel malfaisant qui mène à un système de moralité défectueux et un comportement prédateur.</i></Font>
+Voile d'Illusion
+Laisse un leurre derrière vous lorsque vous vous téléportez.
+Paralysie du Néant
+Fait des Dégâts d'Aether aux ennemis situés entre le début et la fin du téléport. Augmente les chances d'appliquer Stasis.
+Conséquence Annulée
+Jeter ce sort retire tous les effets de contrôle de foule.
+Marche des Dévoreurs de Temps
+Il n'y a plus de temps de recharge, mais le coût en Volonté est augmenté.
+<Font Size="15" Color="#ccb270"><i>Les sorciers les plus puissants du culte de l’Infini essaient de copier leur suzerain déchu. Ils ont rompu une partie de leur connexion au fil de temps, leur permettant de se mouvoir à travers l’Éther, immobile, a une vitesse extraordinaire.</i></Font>
+Bond Aéthéré
+Augmente la vitesse d'attaque après avoir utilisé cette compétence.
+Convolution
+Vous retournez à votre position initiale lorsque vous utilisez la compétence une seconde fois.
+<Font Size="15" Color="#ccb270"><i>Déconstruire le temps permet de créer des anomalies mineures. Sculpter les choses d'une manière qui devrait être impossible. Même les Primordiaux ne maîtrisent pas le rebond téléportatoire. L'acte de téléportation ne fait pas que consommer de l'énergie: ça la condense en un amas instable, qui en cas d'implosion provoque une téléportation répétée, par occasion piégant le sujet dans une boucle infinie.</i></Font>
+Stimulant Interstitiel
+Augmente la vitesse de déplacement après avoir utilisé la compétence.
+Esprit Quantique
+Réduit le coût en Volonté de la compétence.
+Entêtement Quantique
+Réduit le temps de recharge de la compétence.
+Arrogance de l'Auspex
+Octroie de la Volonté pour chaque ennemi que vous traversez avec la compétence.
+Souffle du Temps
+Réduit le coût en Volonté de la compétence.
+Vol Hypocosmique
+Augmente la portée de la compétence.
+Sentinelle insomniaque
+La tourelle reste active pour une durée plus longue.
+Munition gros calibre
+Augmente les dégâts de la compétence.
+Canons Jumeaux
+La tourelle obtient un canon supplémentaire, augmentant ses dégâts.
+Tir à Fragmentation
+Les tirs de la tourelle infligent des dégâts de zone.
+<Font Size="15" Color="#ccb270"><i>Malgré leurs différences, les deux groupes vécurent en harmonie pendant un temps. L’accord fournissait une sécurité mutuelle et permettait à la ville de prospérer. Toutefois le mécontentement grondait. Le Culte de Beelmalik sabota des tourelles, et manipula l’opinion publique contre les réfugiés en prétendant que les dysfonctionnements des tourelles étaient dûs à un manque d’entretien. Les tourelles, elles, continuaient à défendre la ville en toute neutralité.</i></Font>
+Canon-Éclair Punisher
+Convertit les dégâts Physiques de la compétence en dégâts de Foudre.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Il y a fort longtemps, il existait une ville d’érudits et d’artisans. Elle était sans arrêt menacée par leurs voisins souterrains, les Svriirs. Un groupe de réfugiés, disciples d’Ezaneal, proposa de construire des défenses pour la ville en échange d’un abri et de tributs au Seigneur Déchu de la Ruse. Une fois le marché conclu, les cultistes construisirent des tourelles automatiques pour protéger la cité.</i></Font>
+Protocole d'auto-destruction
+La tourelle explose quand elle est détruite, infligeant des dégâts physiques de zone.
+Tir crânien précis
+Augmente les dégâts critiques de la compétence.
+Capteurs Autonomes
+La tourelle peut maintenant tourner et cibler automatiquement les ennemis.
+<Font Size="15" Color="#ccb270"><i>Il y a fort longtemps, il existait une ville d’érudits et d’artisans. Elle était sans arrêt menacée par leurs voisins souterrains, les Svriirs. Un groupe de réfugiés, disciples d’Ezaneal, proposa de construire des défenses pour la ville en échange d’un abri et de tributs au Seigneur Déchu de la Ruse. Une fois le marché conclu, les cultistes construisirent des tourelles automatiques pour protéger la cité.</i></Font>
+Renforts balistiques
+Vous permet d'invoquer une deuxième tourelle.
+Consensus
+Octroie un bonus à la Vitesse de Déplacement aux alliés présents dans la zone d'effet autour de la tourelle.
+Barrière Déviatrice
+Crée un bouclier qui suit la rotation de la tourelle et bloque les projectiles.
+<Font Size="15" Color="#ccb270"><i>Les tributs à Ezaneal ralentirent et éventuellement prirent fin. Les cultistes furieux précipitèrent un schisme avec la Secte de Beelmalik. Chaque camp retourna ses canons défectueux sur l'autre en jurant que leurs armes purgeraient l'ennemi véritable de la cité. Pourtant, personne ne tira. La ville resta paralysée, chacun craignant qu'il serait le premier à tomber si on ouvrait le feu. Des siècles après, les habitants craignent encore que demain sonnera leur destruction mutuellement assurée.</i></Font>
+Éclats Incontrôlés
+Augmente le nombre de tourelles.
+Traumatisme Cinétique
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Machine de Destruction
+Augmente les dégâts, mais réduit la durée de vos tourelles.
+Balles de Précision
+Augmente les chances de coup critique avec la compétence.
+Charge de Munitions Automatique
+Réduit le temps de recharge de la compétence.
+Berserker Enragé
+Augmente la Rage générée par ennemi affecté par le Cri. Pendant la durée du Cri, vous générez plus de Rage par coup.
+Cri de Ralliement
+Augmente les chances des ennemis de laisser tomber des Globes de Vie.
+Tenez le Front
+Pour chaque ennemi affecté par le Cri, vous gagnez un bonus à toutes les Résistances.
+Conquérant de l'Esprit
+Les ennemis sont étourdis dans un faible rayon.
+<Font Size="15" Color="#ccb270"><i>Baäpheth est un conquérant-né. Loin d’être une bête de bataille sans cervelle, il s’avèra être un patient stratège. Il comprend que les batailles sont gagnées longtemps avant que les soldats mettent un pied sur le champ de bataille. Le belligérant accompli brise le moral de ses adversaires bien ongtemps avant de briser leurs os.</i></Font>
+Briseur d'Aurore
+Les ennemis affectés par le cri subissent des applications de Faiblesse.
+Détermination Infectieuse
+Augmente la durée des bonus accordés par cette compétence.
+Inspiration Hostile
+Augmente l'efficacité des bonus de cette compétence mais aussi les bonus des autres compétences.
+Ordre Stratégique
+Ce sort retire tous les effets Crowd Control de vous et vos alliés à portée.
+<Font Size="15" Color="#ccb270"><i>Avant de devenir le Déchu de la Guerre, Baäpheth était le Primordial de l’Ambition. Une partie de son orgueil démesuré venait de sa volonté d’incarner le guerrier parfait. Être un modèle à admirer aux heures les plus sombres. Quand d’autres considèreraient de rompre les rangs, il ne cèdait pas et leur ordonnait de se tenir à ses cotés. La plupart des gens confondaient sa quête de gloire pour un héroïsme factice.</i></Font>
+Paleur Ennemie
+Octroie un bonus temporaire d'Absorption de Vie.
+Maison de Marbre
+Octroie un bonus aux Chances de Blocage.
+L'Exemple du Princeps
+Octroie un Bonus au Score de Coup Critique.
+Traces en Terre Rouge
+Octroie un Bonus de Vitesse de Déplacement.
+Mangelame
+Vous générez plus de menace.
+Résurrection
+Restaure des points d'endurance au lancement du cri.
+Vin de Guerre
+Chances de faire entrer les ennemis en frénésie.
+<Font Size="15" Color="#ccb270"><i>Pendant la grande guerre des Primordiaux, Baäpheth combatit Anathëa, la Dame de l’Aube. Bien que le Premier Guerrier était un guerrier hors-pair, Anathëa résista à ses cris enrageants et son pouvoir fut suffisant pour rivaliser un temps avec lui. Au final, Baäpheth pris le dessus et blessa Anathëa, un peu de sa lumière échappa son corps, qui envellopa et brûla le corps de Baäpheth de l’interieur. Les deux furent considérablement affaiblis par l’expérience et ne purent pas asséner le coup de grâce.</i></Font>
+Promesses Belligérantes
+Vous générez plus de menace avec la compétence.
+Courant sans fin
+Réduit le coût en rage.
+Densité de Shiganite
+Augmente les dégâts de la compétence.
+Infaillible Détermination
+Maintenir la compétence vous permet de la prolonger.
+<Font Size="15" Color="#ccb270"><i>Hephaäron apprit l'existence d’un matériau rare, la Shiganite, qui était aussi robuste que le métal Primordial, moins fragile et plus dense. Il ramassa ce minerai dans les hauteurs des montagnes de Wolcen et commença à le travailler dans son atelier à flanc de falaise. Dans sa forge, Hephaäron découvrit rapidement que le métal était extrêmement instable et pour maintenir son intégrité, il créa une longue lame avec un cœur en Shiganite et une couche externe d’un métal Primordial épais. Cette arme est connue sous le nom de Voknafein, la Première Épée à deux mains.</i></Font>
+Esprit Gelé
+Convertit les dégâts Physiques de la compétence en dégâts de Givre.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Tandis qu'Hephaäron s'entraînait au maniement de l'épée, il entendit un cri mortel faire écho dans les montagnes, accompagné d'un frisson. Tandis que la lamentation d'Etheliel traversait la cordillère, elle dérangea une masse de neige. Elle glissa vers le bas de la montagne, accélérant jusqu'à devenir une véritable avalanche en direction de l'atelier. Sans le temps de fuir, Hephaäron planta son épée dans la terre et la tint fort pour résister la cascade de glace.</i></Font>
+L'Œil du cyclone
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Tourbillon Broyeur
+Augmente les dégâts critiques de la compétence.
+Long Pommeau
+Les coups critiques infligent plus de dégâts.
+Rotation Haute Vitesse
+Augmente la zone d'effet.
+Echos de Halls d'Hydromel
+Les ennemis touchés par cette compétence font apparaître des globes de vie.
+Élan Fatal
+Les ennemis touchés par cette compétence font apparaître des globes de vie.
+Courroux Enchaîné
+Les coups critiques ont une chance d'infliger un châtiment qui ricoche entre les ennemis. Son type de dégât est basé sur les dégâts de votre arme.
+Rythmes Cascadés
+Augmente les occurrences de dégâts lorsque vous infligez un coup critique avec la compétence.
+Butin de Guerre
+Octroie un Bonus au Score de Coup Critique lorsqu'un ennemi est tué avec cette Compétence.
+Volonté Dominatrice
+Relâche une vague d'énergie directionnelle en fin d'exécution de la compétence.
+La Conviction de Voknafein
+Les projectiles ennemis sont déviés lorsque vous utilisez cette compétence.
+<Font Size="15" Color="#ccb270"><i>Hephaäron était frustré ; il pouvait à peine lever la lame, encore moins s'en servir. Malgré tout ses efforts, l'épée ne tenait pas droit. Il demanda à Baäpheth, le Premier Guerrier, de tester l'arme. Baäpheth tint l'épée en l'air, ressentant son poids écrasant, puis changea sa posture pour que la lame repose derrière lui. Il démarra une séquence de frappes tourbillonantes, envoyant des vagues de choc dans l'air en toutes directions. Baäpheth n'eut qu'un commentaire: l'épée avait besoin d'un pommeau plus lourd pour l'équilibrer.</i></Font>
+Roue de la Douleur
+Augmente les dégâts de la compétence pour chaque Affliction appliquée sur un ennemi.
+Archives Gravées en Matière
+Adds an additional attack to this Skill's combo.
+Récursion Cosmique
+Ajoute une attaque supplémentaire à la compétence.
+Choix Chronologique
+Les coups critiques génèrent de la Volonté.
+Entaille Sublime
+Fait gagner de la Volonté à chaque fois qu'un ennemi est tué avec la compétence.
+Gouffre Matériel
+Applique un affaiblissement à vos cibles qui augmente les dégâts infligés par les sorts.
+Répétition pour l'Armageddon
+Augmente les dégâts de votre prochaine attaque après utilisation de la compétence.
+Zéphyr Éthéré
+Vous permet d'utiliser une compétence de mêlée pendant quelques secondes après avoir utilisé la compétence.
+<Font Size="15" Color="#ccb270"><i>Anulai-Tai, qui deviendrait l'Archiduc Déchu de l'Infini, était investi d'une grande générosité dans ses premiers jours. Glissant au travers le chaos non-linéaire, il tissa des épingles dans l'éther et construit la tapisserie du temps. À son centre, les innombrables fils dans les aiguilles étaient ancrées en Anulai-Tai lui-même. Son sacrifice signifia l'épanouissement de la vie des mortels.</i></Font>
+Lecture de Mémoires Quantiques
+Octroie un Bonus aux dégâts d'Éther ou d'Ombre aux alliés proches lorsque vous utilisez la Compétence. Le Bonus octroyé dépend du Type de dégât de la Compétence.
+Archives Imprimées
+Chances d'invoquer un allié fantomatique qui attaque l'ennemi après qu'il a été touché par la compétence.
+Répulsion Sphérique
+Vous permet de régénérer du Bouclier de Force en touchant vos ennemis avec la compétence.
+Condensateur de Champs de Force
+Augmente les dégâts infligés tant qu'il vous reste du Bouclier de Force.
+Champ de Sapience
+Augmente les chances de blocage lorsque vous incantez cette compétence, et vous permet d'infliger stase aux attaquants bloqués.
+<Font Size="15" Color="#ccb270"><i>Au cours de l'histoire, les fils liés à Anulai-Tai commencèrent à le torturer, le tirant en toutes directions. Il se mit à haïr les mouvements du temps et à désirer qu'ils s'arrêtent. Moros tenta d'alléger son fardeau. Il ne comprenait pas la construction du tissage éthéré, mais il en devint l'ancre pour un laps de temps. Cette période légendaire est nommée le Crépuscule Infini, car les ténèbres de Moros imprègnèrent le temps.</i></Font>
+Forme Anti-Mobile
+Augmente les dégâts de la compétence pour chaque application d'Affliction présente sur une cible.
+Bourrasques en Espace Noir
+Convertit les dégâts d'Éther de la compétence en dégâts d'Ombre.\n\nAugmente les chances d'infliger Malédiction.
+<Font Size="15" Color="#ccb270"><i>Quand Anathëa et Moros dansèrent le Premier Mouvement de la Création, le monde était nu face aux mouvements chaotiques de l'univers. S'il fallait qu'il y ait des hommes, il fallait un lieu gouverné par des règles où ils sauraient vivre. Anulai-Tai fut commandé d'exister par ce manque cosmique.</i></Font>
+Blessure Omniprésente
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Frappes Magnétiques
+Augmente les dégâts de la compétence.
+Indulgence en Retenue
+Absorbe de la Volonté au lieu de la Vie avec cette compétence.
+Détérioration
+Augmente la vitesse de regain de l'absorption pour chaque application d'affliction sur un ennemi.
+<Font Size="15" Color="#ccb270"><i>Le Ver Friand provoque une forte envie de sucre afin de provoquer une nécrose diabétique chez son hôte. Le Ver se régale de cette chair pourrie et la conserve dans ses sacs épidermiques externes. En températures glaciales, le Ver Friand entre immédiatement en hibernation et vit de ses réserves. C'est le meilleur moment d'en faire collection comme composant de sortilège. Certains, comme les fidèles de Bezeriel, les élèvent dans des piscines chaudes pour utiliser d'une manière continue."</i></Font>
+Verres Sur la Table
+Augmente l'efficacité d'absorption avec la compétence.
+Démon Affligé
+Augmente vos chances d'infliger des afflictions aux ennemis.
+Lait de la Bonté
+Augmente les chances de faire apparaître des globes de vie.
+Vie En Fuite
+Absorbe du Bouclier de Force au lieu de la Vie.
+Patrie de Sangsues
+Transfère votre vie vers l'allié ciblé pour le soigner.
+<Font Size="15" Color="#ccb270"><i>Le Ver Friand préfère de loin la viande en putréfaction à cause des insectes que cela attire et la chaleur qui s'en dégage. Mais faute d'autre alimentation, ils peuvent être persuadés de manger de la viande vive, portant l'énergie vitale d'un sujet à l'autre. Les paysans s'empressent de les empiler dans leurs paniers pour les vendre au médecin le plus proche, s'exposant à la contamination du Ver.</i></Font>
+Portés Par Des Géants
+Les monstres possédés deviennent plus puissants.
+Don Jamais Octroyé
+Les monstres possédés laissent tomber des globes de vie à leur mort.
+La Plus Longue Nuit
+Convertit les dégâts Physiques de la compétence en dégâts d'Ombre.\n\nAugmente les chances d'infliger Malédiction.
+<Font Size="15" Color="#ccb270"><i>Sous chaque Temple de Bezeriel se trouve un grand bassin vert. Les prêtres ouvrent les portes de ce refuge une fois par saison, permettant aux mendiants crasseux de s'y précipiter pour un bain. Il y a un accord tacite entre les prêtres et les mendiants. Tout le monde connait la rumeur après tout : les ombres ont permi à quelque chose de proliférer dans l'eau. Ceux qui y entrent sortiront avec quelque chose de caché sous leur peau.</i></Font>
+Mangeur Avide
+Augmente les dégâts de la compétence.
+Sangsue Titanesque
+Augmente les dégâts de la compétence.
+Scaphisme
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Artère Principale
+Augmente les chances de coup critique avec la compétence.
+Saignement Artériel
+Augmente les chances de coup critique avec la compétence.
+Buveur de Rouille
+Augmente les dégâts de la compétence.\n\nRéduit la fréquence de l'effet d'absorption de vie.
+Putrescine
+Les créatures sont plus grosses et leurs points de vie et leurs dégâts sont augmentés.\n\nRéduit de 1 le nombre d'invocations simultanées.
+<Font Size="15" Color="#ccb270"><i>Le Primordial de la Mortalité, Bezeriel, se préoccupait de la mort comme séparation entre corps et âme. Une fois Déchu, sa présence devint plus semblable à une gueule ouverte s'abreuvant de croyance. Les prières d'un fidèle à l'agonie valent cinq fois celles d'un paroissien en bonne santé, et une classe de victime produit plus d'énergie nécrotique que toute autre: les malades.</i></Font>
+Mains Éclatantes
+Réduit la vie des invocations.\n\nAugmente les dégâts des invocations.
+Cadavre Explosif
+Vos invocations explosent à leur mort.\n\nVous pouvez maintenir la compétence pour la charger et faire exploser vos invocations.
+<Font Size="15" Color="#ccb270"><i>La peste est un outil de recrutement efficace. Le culte crée une classe de parias lépreux, puis leur offre de l'aide quand tout autre se détournera d'eux. De cela résulte une réserve abondante de chair à canon, tous heureux de se libérer de leur existence cruelle par la bataille.</i></Font>
+Tissus Saturés
+Augmente les dégâts des explosions infligées par le modificateur Cadavres Explosifs.
+Chair Calcinée
+Convertit les dégâts Physiques des invocations en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Le Hiérarche de l'Infestation déclara un jour la guerre aux croyants d'Anathëa. Visant un temple au nord de Varg, où les jours sont les plus longs, les Bergers de la Peste rassemblèrent tous les mendiants maladifs sous leur protection dans un fossé. Ils les arrosèrent d'huile et jetèrent une flamme dans le trou. Désespérés pour d'être soulagées ou aidées, les forces enflammées courèrent en toutes directions, dévastant le Temple de l'Aube.</i></Font>
+Dernier Sacrement
+Convertit les dégâts Physiques des invocations en dégâts d'Éther.\n\nAugmente les chances d'appliquer Stase.
+<Font Size="15" Color="#ccb270"><i>Le Culte de la Fatalité tire son pouvoir mystique de la souffrance prolongée, et cherche en permanence de nouveaux moyens de causer la douleur. Pour cette raison, ils invitent des représentants du Culte de l'Infini. Les pupilles du Hiérarche de l'Infestation sont assujetties aux agonies du temps condensées en secondes, leur chair se tordant et se flétrissant plus vite qu'il ne semble possible. De ce tourment, les Bergers de la peste ont trouvé une nouvelle variété d'énergie à leur disposition.</i></Font>
+Néfastes Estampes
+Convertit les dégâts Physiques des invocations en dégâts Toxiques.
+<Font Size="15" Color="#ccb270"><i>La création d'une classe servile implique la contamination délibérée de la nourriture et de l'eau d'une communauté donnée. Les collectivités voisines s'empresseront de mettre la zone en quarantaine et cesser tout commerce, laissant les malades dans le besoin. Le culte de la Fatalité apparait presque comme un héros, daignant discuter avec les lépreux quand nul autre ne le ferait.</i></Font>
+Funeste Défilé
+Vous pouvez invoquer une créature de plus avec la compétence.
+Précieux Élus
+Augmente les points de vie des invocations.\n\nRéduit de 1 le nombre d'invocations simultanées.
+Piteux Candidats
+Augmente les dégâts des invocations.
+Evangélistes de la Mort
+Augmente les dégâts des invocations.
+Bannerets de la Ruine
+Augmente les dégâts des invocations.
+Vitalité Approximative
+Augmente les points de vie des invocations.
+Fosses au Cimétière
+Augmente les points de vie des invocations.
+Marcheurs Agiles
+Augmente la vitesse de déplacement des invocations.\n\nAugmente les points de vie des invocations.
+Poursuite Hurlante
+Augmente la vitesse de déplacement des invocations.
+Racines Putréfiées
+Les flèches tirées par vos invocations explosent.
+<Font Size="15" Color="#ccb270"><i>Bezeriel élabora un plan afin d'élever les corps des morts jusqu'au ciel, pour toucher Anathëa qui n'avait jamais connu la mortalité. Il se réjouit quand la souillure de la mort se répandit dans le ventre d'Anathëa, les éclats de lumière et de plasma en elle s'écroulant en fumée et en cendres. Elle vomit cette matière corrompue sur Wolcen, se sauvant tout juste. Les morts régurgités se levèrent du rebut, alors qu'ils ne devaient plus jamais se lever. Le pouvoir du soleil leur avait fait don d'un semblant de nouvelle vie.</i></Font>
+Tranchant Oxydé
+Les flèches tirées par vos invocations peuvent percer les ennemis.
+Cataracte
+La vitesse d'attaque des invocations est augmentée après utilisation de la compétence.
+Effort Fatal
+Augmente les dégâts des invocations.\n\nRéduit les points de vie des invocations.
+<Font Size="15" Color="#ccb270"><i>Bien que Bezeriel ne put obtenir un soleil mort d'Anathëa, la forme de mort-vie qu'elle avait involontairement produit piqua sa curiosité. Il se fit guide des revenants et leur apprit à propager leur état parmi les Premiers Hommes. Ce conflit avait permi à la conscience de triompher sur les limites du corps.</i></Font>
+De Mites et de Crasse
+Convertit les dégâts Physiques des invocations en dégâts Toxiques.
+<Font Size="15" Color="#ccb270"><i>On croyait par erreur que les chasseurs de Bezeriel étaient mauvais tireurs, manquant toujours les points vitaux chez leur proie. Mais ces témoins médiseurs ignoraient que les archers de la Fatalité ne désiraient pas tuer. Les pointes de leurs flèches étaient couvertes de produits contagieux. Les bêtes et les hommes touchées par ces pointes porteraient la maladie partout où ils allaient, propageant les desseins du Hiérarche de l'Infestation partout dans le monde.</i></Font>
+Momies des Glaces
+Convertit les dégâts Physiques des invocations en dégâts de Givre.
+<Font Size="15" Color="#ccb270"><i>Les cultes de Bézeriel au plus grand nord transgressait sur le territoire d'Etheliel, répandant leur propre pouvoir. Leurs sacrifices y étaient enterrés jusqu'au cou dans la neige, laissés à mourir lentement de froid. De là, les corps se momifieraient naturellement dans la glace, adoptant une nouvelle forme. La Légion de Diamant protège ces momies, car leurs expressions paisibles et leurs peaux sans rides reflètent les idéaux d'Etheliel.</i></Font>
+Armées de la Nuit
+Convertit les dégâts Physiques des invocations en dégâts d'Ombre.
+<Font Size="15" Color="#ccb270"><i>Tandis que des générations des Premiers Hommes mourraient, Bezeriel se renfrognait. Il lui semblait injuste que les morts n'aient pas de soleil alors qu'ils étaient plus nombreux que les vivants de loin. Il demanda à Anathëa de lui donner un soleil mort qui surplomberait les Marais Succombantes où reposent ceux qui meurent de maladie. Anathëa refusa: lui créer un nouveau soleil serait comme lui abandonner un enfant. Le seigneur de la mortalité décida que si Anathëa ne voulait pas aider, il la corromprait lui-même d'un grand éclat d'énergie nécrotique.</i></Font>
+Forces de la Ruine
+Vous pouvez invoquer une créature de plus avec la compétence.
+Foule Décomposée
+Augmente les dégâts des invocations.\n\nRéduit de 1 le nombre d'invocations simultanées.
+Pointes Vénimeuses
+Augmente les dégâts des invocations.
+Fend Le Coeur
+Augmente les dégâts des invocations.
+Tireur d'Outretombe
+Augmente les dégâts des invocations.
+Forces Cosmogoniques
+Augmente les points de vie des invocations.
+Afflux de Vie
+Augmente les points de vie des invocations.
+Spectres des Remparts
+Augmente la vitesse de déplacement des invocations.\n\nAugmente les points de vie des invocations.
+Mortalité en Vagues
+Augmente la vitesse de déplacement des invocations.
+Friches Vertes
+L'invocation laisse tomber des globes de vie à sa mort.
+<Font Size="15" Color="#ccb270"><i>Les candidats sont invités dans une salle mi-morgue, mi-théâtre. Là, ils consomment la chair pourrie des morts, prennent du sang brun dans leurs veines, se cousent des morceaux de cadavre sur le corps. Ça, c'est la première semaine. Si le candidat y survit, la transformation en Gueule Immortelle prend un mois. Le corps du sujet enfle et devient violet émettant un lustre putride. Les gencives reculent, montrant des crocs démesurés. La faim se creuse dans leurs estomacs, et doit être satisfaite par la chair tout en continuant à faire rage. Ils marchent derrière les Bergers de la peste, prêts à encaisser toute attaque qui leur est envoyée. Voici ce que signifie le fait d'accepter Bezeriel au sein de soi.</i></Font>
+Deuil de Générations
+Une portion des dégâts qui vous sont infligés est transmise à votre invocation.
+<Font Size="15" Color="#ccb270"><i>Comme tout cloître religieux, le Culte de Bezeriel invite la compétition entre ses fidèles, mais ils tiennent l'incarnation la plus perverse de ce phénomène. Les Bergers parlent en termes péjoratifs à leur paroisse, les comparant défavorablement à ceux qui font le plus grand des sacrifices : les Gueules Immortelles. Ils étaient des hommes autrefois, des croyants qui souhaitaient devenir prêtres. Le procédé pour devenir Gueule Immortelle tue la plupart qui s'y tentent, mais ils sont tout de même honorés car leur mort apporte vigueur au culte.</i></Font>
+Portée Vorace
+Convertit les dégâts Physiques de base de l'invocation en dégâts d'Ombre.\n\nL'invocation devient un guerrier en mêlée qui peut bondir sur vos ennemis. 
+<Font Size="15" Color="#ccb270"><i>Quand Moros tenta de faire dormir Bezeriel d'un sommeil éternel, lui et tous ses fidèles fûrent condamnés à agir comme gardiens du Primordial Déchu de la Fatalité. Les dévoués de Moros marchent, réunissant les Gueules Immortelles à leur place.</i></Font>
+Champs Électrifié
+Convertit les dégâts Physiques de base de l'invocation en dégâts de Foudre.\n\nLa créature devient un mage qui peut invoquer un bouclier protecteur.
+<Font Size="15" Color="#ccb270"><i>Le flair de la justice est encore vivant chez Beelmalik, même dans son état de Primordial Déchu. Ses fidèles chassent les cultistes de Bezeriel, lui-même prêtant une attention spéciale aux Gueules Immortelles qui sont le plus grand exploit de la secte, et leur crime le plus répugnant. Ils frappent sur leur dos à coups de tonnerre. Pour ceux qui meurent, c'est un soulagement. Pour ceux qui en réchappent avec un semblant de vie, c'est une altération fondamentale de leurs pouvoirs.</i></Font>
+Sacrifice
+L'invocation génère plus de Menace.
+L'Abîme Devant Nous
+L'invocation a plus de chances d'appliquer des Afflictions sur les ennemis.
+Servitude
+Augmente la vitesse d'attaque de l'invocation.
+Épées Haineuses
+Lorsque vous invoquez une créature, vous avez une chance de faire rentrer les ennemis qui se trouvent près de leur point d'apparition dans un état de Frénésie.
+Cupidité Déchaînée
+Augmente les dégâts de l'invocation.
+Faim Tenaillante
+Augmente les dégâts de l'invocation.
+Chair En Toutes Configurations
+Augmente les dégâts de l'invocation.
+Glouton Immortel
+Augmente les points de vie de l'invocation.
+Gage de Honte
+Augmente les points de vie de l'invocation.
+Saler la Terre
+Augmente la vitesse de déplacement de l'invocation.
+Ruisseau de Pourriture
+Augmente la vitesse d'attaque de l'invocation.
+Immonde Gardien
+Les invocations génèrent plus de Menace.\n\nAugmente les points de vie de vos invocations.
+Échos de l'Infini
+Le vortex intérieur attire plusieurs fois les ennemis.
+<Font Size="15" Color="#ccb270"><i>Le vortex laissé par le départ d'Anulai-Tai était si fort que ceux qui y résistaient voyait leur sang tiré au travers leur peau, inhalé par l'oeil de la tempête. La magie pure contenue dans l'eau et la terre se crystallisait à la surface avant d'être arrachée à la terre. En abandonnant le temps, Anulai-Tai avait forcé ceux restés sur Wolcen à s'y confronter.</i></Font>
+Fils Disloqués
+Augmente la zone d'effet.
+Progression Erratique
+Octroie un Bonus à la Vitesse de Déplacement dans la Zone d'Effet de la Compétence.
+Bouclier Magnétique
+Les projectiles sont détruits par la zone d'effet.
+Horizon des Événements
+Les ennemis subissent des dégâts lorsqu'ils sont attirés dans la zone d'effet.
+Matière Déchirée
+Vous pouvez lancer deux vortex simultanés.
+Cosmologie Propice
+Augmente les dégâts infligés par les Afflictions aux ennemis qui se trouvent dans le vortex.
+Confluence de Toutes Choses
+Les globes attirés dans le vortex endommageant explosent.
+<Font Size="15" Color="#ccb270"><i>Le trou dans le tissage de l'éthèr a encore des effets météorologiques particuliers, avec les mouvements du temps provoquant des changements soudains dans l'atmosphère et des altérations dans la marée. Les tempêtes vorticielles sont signes de mort certaine pour les marins, et ont contribué à la réputation de la Mer des Tourments.</i></Font>
+Dilatation Temporelle
+Augmente la durée du vortex.
+Point Critique
+Le vortex explose si vous utilisez une nouvelle fois la compétence.
+Motif Echo-Vague
+Convertit les dégâts d'Éther de la compétence en dégâts de Foudre.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Anulai-Tai émerga du Premier Mouvement de la Création. Il tissa une tapisserie complexe de l'éthèr, dont il créa le temps. Alors que les fils de ce tissage se raccrochaient à son corps, Anulai-Tai souffrait de leurs mouvements inexorables. Perverti par cette souffrance, il se déchira de ces fils, creusant et creusant le tissage jusqu'à l'avoir traversé. L'ouverture qu'il laissa derrière battait comme une coeur, absorbant toutes choses en elle comme une gueule affamée.</i></Font>
+Élongation
+Augmente les dégâts de la compétence.
+Fractures Existentielles
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Enchevêtrement Existentiel
+Augmente les dégâts infligés par les Afflictions aux ennemis qui se trouvent dans le vortex.
+Frappe Gravitationnelle
+Augmente les chances de coup critique avec la compétence.
+Fracture de l'Éthèr
+Augmente les dégâts critiques de la compétence.
+Nuée de Corpuscules
+Augmente la zone d'effet.
+Disgrâce
+Vous permet de lancer la compétence à l'emplacement du curseur.
+Invité Mortifère
+Vous avez une chance d'invoquer un monstre comme allié.
+<Font Size="15" Color="#ccb270"><i>Le Culte de la Fatalité tient des milliers de prisonniers pestiférés à l'agonie dans leurs donjons. Ils sont techniquement en vie, mais leur chair peut-être convaincue de suivre les transformations de la mort. En quelques minutes, le corps humain peut doubler de taille alors que ses tissus s'effondrent et libèrent des toxines. La chair enfle, évacuant un éclat d'énergie nécrotique à son point de rupture. Les créatures qui en résultent sont à la disposition du culte, prêts à être déchaînés pour leur sombres desseins.</i></Font>
+Foul Guardian
+Déclenche un nuage de poison qui inflige des dégâts sur la durée lorsqu'un ennemi ou une invocation alliée meurt.
+Lames de la Pestilence
+When Cast, you and Allies within this Skill's Area-of-Effect will receive a Buff that increases Ailment Chance Score.
+Agent Innervant
+Les explosions peuvent entraîner une Frénésie des ennemis.
+Viande Superflue
+Les créatures invoquées explosent à l'incantation si vous vous trouvez dans la zone d'effet.
+Viciation
+Augmente les dégâts de l'explosion pour chaque application d'affliction sur un ennemi.
+Enflure Corruptive
+Augmente les dégâts infligés par les créatures invoquées lorsqu'elles explosent.
+Métempsychose
+Les explosions ont une chance de laisser tomber des globes de vie.\n\nDégâts réduits.
+<Font Size="15" Color="#ccb270"><i>Si les pratiques du Culte de la Fatalité sont horrifiantes, elles ne sont pas normalement explosives. Le Hiérarche de l'Infestation est un enthousiaste de toute souffrance prolongée et de lentes putréfactions. Il nourrit et nourrit et nourrit la bête-Déchue Bezeriel, qui émane des énergies à la fois empoisonnées et vitales en retour.</i></Font>
+Enterrement d'Indigent
+Change l'élément de base de la compétence en Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Bien que Bezeriel ait le contrôle direct du procédé de décomposition, son culte doit enjamber l'obstacle de vénérer un Primordial mort avec une portée limitée. Il reste des moyens prosaïques d'arsénaliser le corps humain. Si on place une mine à pression sous les corps des morts, un camarade respectueux ou un parent en deuil ne tardera pas à se rappliquer.</i></Font>
+Prix du Perdant
+Augmente les dégâts de la compétence.
+Infection Cutanée
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Induction Rapide
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Contaminants à Courte Portée
+Augmente les chances de coup critique avec la compétence.
+Risque Biologique
+Augmente les dégâts critiques de la compétence.
+Salut Ardent
+Augmente progressivement la zone d'effet.
+Célérité Stellaire
+Augmente la vitesse de déplacement de la zone d'effet.
+Éclat du Jugement
+Augmente la fréquence des dégâts.
+Dévastation
+Une trainée suit la zone d'effet du sort et inflige des dégâts.
+Lever du Jour
+Lorsque vous incantez, la zone d'effet reste à l'emplacement ciblé. Vous pouvez la déplacer en utilisant le sort de nouveau.
+<Font Size="15" Color="#ccb270"><i>Abanazaar rattrapa Anathëa et voulut plaider sa cause. Après tout, le feu ne s'était-il pas propagé là où sa lumière avait asséché la terre ? N'était-elle pas aussi capable de roussir, brûler, et détruire que lui ? Elle reconnut l'inclination au feu qui existait en elle mais le refusa tout de même, car elle regrettait avoir de tels instincts. En toutes choses Moros l'équilibrait, d'une manière dont Abanazaar était incapable.</i></Font>
+Heure de Vérité
+Augmente toutes vos Résistances et celles de vos alliés si vous êtes dans la Zone d'Effet de la Compétence.
+Brillant Châtiment
+Les dégâts infligés par la zone d'effet augmentent sur le temps.
+Aube Abrégée
+Réduit le temps d'incantation initial.
+Poids du Soleil
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Éruption Plasmique
+Les dégâts critiques avec la compétence peuvent déclencher une nova. L'effet a un temps de recharge.
+Cran et Courage
+Lorsqu'un ennemi vous attaque, les dégâts de la zone d'effet sont instantanément déclenchés. L'effet a une durée de recharge.
+<Font Size="15" Color="#ccb270"><i>Après avoir faut comprendre à Abanazaar la pleine puissance du soleil, Anathëa se détourna de lui, des rayons émanant d'elle en toutes directions. Alors qu'il la suivit, leur marche se reflétait sur la terre en dessous : le blé se levant vert et abondant avant de s'assécher et de prendre feu dans les vents secs de l'été.</i></Font>
+Ceux Qui Penchent Pour les Flammes
+Convertit les dégâts Physiques de la compétence en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Dés le premier moment de son existence, Abanazaar fut ravi par le soleil et sut qu'il devait le posséder. Pour cela, il poursuivit Anathëa alors que le soleil se couchait, quand elle était au plus proche de la terre. La Primordiale de l'Aube réfuta gentiment ses déclarations, mais nulles douces manières ne saurait le dissuader d'approcher. Refusant d'être poussée en position défavorable, elle déchaîna sur lui la pleine puissance du soleil.</i></Font>
+Aube Éreintante
+Augmente les dégâts de la compétence.
+Condamnation
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Rayon Magnifié
+Augmente les chances de coup critique avec la compétence.
+Péché Illuminé
+Augmente les dégâts critiques de la compétence.
+Fumée Incandescente
+Le projectile étourdit les ennemis. Augmente le temps de recharge de la compétence.
+Barrage
+Vous lancez un projectile supplémentaire avec la compétence.
+Découpe Précipitée
+Augmente les dégâts de la compétence.
+<Font Size="15" Color="#ccb270"><i>Bien qu'Ezaneal eut beaucoup d'idées d'armes explosives, son maître forgeron Hephaäron le conjura de suivre des voies plus traditionnelles. Moros, Primordial du Crépuscule, vit la frustration d'Ezaneal. Croyant qu'Ezaneal souhaitait protéger la création avec ces concepts, il lui affirma en privé son soutien. Il l'encouragea à créer de nouveaux engins pour protéger Wolcen. Dans tout son apprentissage, c'était le seul mot gentil qu'Ezaneal avait entendu, alors il revint auprès de Moros avec un présent: une bombe qui envelopperait ses opposants dans l'obscurité, les neutralisant sans leur faire de mal.</i></Font>
+Portée Stupéfiante
+Augmente la portée de la compétence.
+Autonomie Dissimulée
+Annule les effets de contrôle qui vous affectent.
+Ombre Jetée
+Crée un leurre qui génère de la Menace.
+Spectre en Silhouette
+Invoque un allié fantomatique qui attaque l'ennemi après qu'il a été touché par le projectile.
+Cadeau d'Adieu
+Les projectiles deviennent des mines qui explosent lorsque les ennemis s'en approchent.
+Encre Bouillante
+Octroie de la Rage pour chaque ennemi touché par le projectile.
+Moteur Graisseux
+Entame la régénération du Bouclier de Force si un ennemi est touché par le projectile.
+<Font Size="15" Color="#ccb270"><i>Se rendant compte que Moros avait protégé son maître, Ezaneal perdit toute bonne volonté envers lui. Le cadeau qu'il lui avait prodigué, il tordit et déforma. La fumée venant des bombes agirait comme poison quand Moros les jetteraient, montrant aux Premiers Hommes mortels qu'il était un meurtrier cruel.</i></Font>
+Primis Tenebris
+La bombe crée une zone de dégâts au lieu d'une zone de ralentissement.
+<Font Size="15" Color="#ccb270"><i>Alors qu'Ezaneal s'épanouissait avec ce nouvel encouragement, il construisait des machines de plus en plus cruelles. Moros craignait qu'Ezaneal prenne plaisir à construire des machines de guerre et tenta de le pousser sur des voies plus paisibles, mais jour après jour le mépris d'Ezaneal pour son maître croissait. La situation atteint son point de rupture : Ezaneal jeta deux lunes sur l'atelier d'Hephaäron, voulant remplacer son maître. Moros sut qu'il devait intervenir. Il jeta les bombes noires pour troubler la trajectoire des satellites, causant leur collision et sauvant Hephaäron d'Ezaneal.</i></Font>
+Appui Mécanique
+Augmente la vitesse de déplacement si un ennemi est touché.
+Contrôle Géographique
+Augmente la distance parcourue avec le mouvement de recul.
+Distance Nimbée
+Repousse les ennemis dans la direction opposée à votre mouvement de recul.
+Toxicité Envoûtée
+Convertit les dégâts Physiques de la compétence en dégâts Toxiques.\n\nApplique une Affliction supplémentaire d'Empoisonnement avec la compétence.
+<Font Size="15" Color="#ccb270"><i>Quand l'amitié entre Ezaneal et Moros fut brisée, le Primordial du Génie choisit de corrompre le cadeau qu'il avait fait à son confident. Les bombes à fumée qu'il lui avait données pour échapper au danger sans causer de mal, seraient maintenant des instruments plus cruels. La fumée venant des deux bombes agirait comme un poison, le faisant passer pour un meurtrier cruel aux hommes mortels.</i></Font>
+Frénésie des Trahis
+Réduit le temps de recharge de la compétence.
+Judicieux Déclencheur
+Augmente les dégâts si le tir est relâché immédiatement après avoir atteint un nouveau niveau de charge.
+Une Balle Promise
+Octroie un niveau de charge supplémentaire.
+Détonation Inflexible
+Augmente considérablement les dégâts, mais vous ne pouvez tirer que lorsque vous avez atteint le niveau maximum de charge.
+<Font Size="15" Color="#ccb270"><i>La colère de Hephaäron avait déjà été attisée par le comportement passé d'Ezaneal, et sa victoire lors de la chasse était l'insulte finale. Il tenta de détruire l'Interface de Ciblage Bio-Optique, et Ezaneal s'enfuit à peine avec elle. Il cherche l'aide d'Etheliel, qui deviendrait Dame Déchue de la Vanité. Elle vit la beauté dans sa construction, la précision et le silence de ses tirs, comme les cadavres laissés par ses coups étaient paisibles et à peine altérés. Elle acquiesça à la demande d'Ezaneal et préserva le "Deathgazer" avec sa glace éternelle.</i></Font>
+Tireur Téméraire
+Octroie de la Rage si vous tirez au premier niveau de charge.
+Balles Incendiaires
+Laisse une traînée qui inflige des dégâts si vous tirez alors que la zone d'effet est la plus petite.
+Munitions Perce-Éthèr
+Les tirs infligent Stase aux ennemis.
+Supériorité Distante
+Augmente la régénération d'Endurance lorsque vous chargez un tir.
+Ciblage Protéiforme
+La zone d'effet du tir s'étend au lieu de se rétrécir à chaque niveau de charge.
+<Font Size="15" Color="#ccb270"><i>Quand Ezaneal présenta à Hephaäron son Interface de Ciblage Bio-Optique, ce dernier fut furieux. Si Ezaneal souhaitait continuer à se pavaner, ainsi soit-il : il confronterait son fusil aux arcs de Hephaäron, utilisant deux champions de capacité égale venant des civilisations des Premiers Hommes. Ces proto-humains n'étaient pas capables de manier le B-OTI, et Ezaneal joua un tour à son maître en prenant la forme de son propre champion, ciblant chaque tir avec une précision impeccable. Le champion de Hephäaron n'était qu'un Premier Homme et ne sut faire face à Ezaneal même avec le Premier Arc, Krearion, à ses côtés.</i></Font>
+Détonation Interne
+Augmente les dégâts critiques contre les ennemis ralentis ou affectés par Stase.
+Mauvais Élève
+Augmente les chances de critique par niveau de charge.
+Un Simple Tir
+Réduit les dégâts de la compétence.\n\nAugmente les dégâts critiques de la compétence.
+Salut en Engelures
+Convertit les dégâts Physiques de la compétence en dégâts de Givre.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Pendant que Hephaäron courait d'un côté de Wolcen à l'autre pour distiller des éruptions, cyclones, et glissements de terrain dans ses oeuvres, Ezaneal avait tout ce qu'il lui fallait dans sa tête. Pendant que son maître était ailleurs, il travailla à la création d'un fusil avec un canon fait d'omnistar qui permettait la réception d'un niveau d'énergie extrême, et un déclencheur maintenable qui permettait à l'utilisateur de charger son feu en un rayon laser précis. Le système de ciblage était commandé directement par l'oeil au travers une lentille faisant interface.</i></Font>
+Point Vital
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Tir Désemparant
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Balles Fragmentées
+Augmente les dégâts de la compétence.
+Distance Aisée
+Réduit le coût en Rage de la compétence.
+Impact Montagneux
+Déclenche une explosion autour de vous lorsque vous rappelez le marteau.
+Tectonique
+Lorsqu'il est rappelé, le marteau laisse une zone de dégâts là où il se trouvait.
+<Font Size="15" Color="#ccb270"><i>Baäpheth cherchèrent à mesurer leur capacité à lancer Gaavanir, examinés par un jury d'autre Primordiaux. Hephaäron fit un lancer plus court mais plus fort, le marteau se heurtant au sol et révélant un gouffre plein d'eau pure sous le sol. Baäpheth fit un lancer plus haut mais moins puissant, créant les vents qui courèrent aux côtés de Gaavanir. Les guerriers et les forgerons du monde avaient un droit égal à Gaavanir.</i></Font>
+Ricochet du Bélier
+Le marteau attire vers vous les ennemis qui se trouvent dans sa trajectoire de rappel.
+<Font Size="15" Color="#ccb270"><i>Quand Hephäaron nia Baäpheth comme porteur véritable de Gaavanir, le Primordial de l'Ambition leva une épée enflammée au dessus de Gaavanir, visant à briser sa poignée. Hephaäron ne bougea ni ne sauta pour sauver sa création. Le marteau était de fabrique Primordiale, et non seulement absorba la force du coup mais aussi les flames de la lame.</i></Font>
+Pierres-Soeurs
+Lance deux marteaux au lieu d'un seul.
+Jeter Spectaculaire
+Les alliés sur la trajectoire du marteau reçoivent un important bonus aléatoire de dégâts. 
+Tremblements Martelés
+Augmente les dégâts infligés aux ennemis qui se trouvent sur la trajectoire de rappel du marteau.
+Onde de Choc
+Augmente les chances d'étourdir les ennemis qui se trouvent sur la trajectoire de rappel du marteau.
+Tambours et Cloches
+Octroie un Bonus à la Vitesse de Déplacement dépendant du nombre d'ennemis tués avec la Compétence.
+Hurlement de Bataille
+Génère de la Rage pour chaque ennemi touché sur la trajectoire de rappel du marteau.
+Rocher Inamovible
+Augmente les chances de critique de la compétence en fonction de vos chances de blocage.
+Bélier Marteau & Matraque
+Rend du Bouclier d'Énergie pour chaque ennemi touché sur la trajectoire de rappel du marteau.
+Fureur Flamboyante
+Convertit les dégâts Physiques de la compétence en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Un jour, alors que Baäpheth rendait le marteau de guerre Gaavanir à l'Arsenal de la Création, il nota que les armes à l'intérieur répondaient mieux à sa main qu'à celle d'Hephaäron. De ce constat, il se mit à débattre avec le Maître de l'Industrie, forgeron de toutes les premières armes, que c'était au guerrier et pas au forgeron que devait revenir la vraie propriété d'une arme. Hephaäron ouvrit sa paume et Gaavanir y vola. Le débat sur le premier marteau de guerre commença.</i></Font>
+Impact de Tonnerre
+Augmente les dégâts de la compétence.
+Gorge Étriquée
+Augmente les dégâts critiques de la compétence.
+Souffrance Chronique
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Affliction Permanente
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Conflit Dirigé
+Lance la compétence à l'endroit du curseur.
+Attrition Sans Relâche
+La zone d'effet suit la cible.
+Mouvement Secret
+Permet à la compétence d'être relancée.
+Sustentation Obscène
+Absorbe de la vie aux ennemis dans la zone d'effet, mais augmente les dégâts que vous recevez.
+Serres Tendues
+Augmente la zone d'effet en fonction du nombre de joueurs qui s'y trouvent.
+Chair Instable
+Les ennemis ont une chance d'exploser dans la zone d'effet si ils subissent des dégâts et disposent de moins de 10% de leurs points de vie.
+Nourri de Souffrance
+Augmente la vitesse d'attaque et d'incantation à chaque fois qu'un ennemi meurt dans la zone d'effet.
+<Font Size="15" Color="#ccb270"><i>Le sombre pouvoir de Moros traversa Bezeriel alors que leur poigne l'un sur l'autre se resserrait. Bezeriel sentait que l'énergie libérée par sa fin permettrait de changer l'issue de la bataille, et permit au couteau de Moros de lui trancher la gorge. Les Primordiaux n'étaient pas faits pour mourir, et Bezeriel fut perverti en système de chair pourrie en expansion, la force de sa transformation se reverbèrant au travers son allié, Baäpheth.</i></Font>
+Brio Spontané
+Augmente la régénération de ressources dans la zone d'effet.
+De Souffrance En Folie
+Les ennemis peuvent entrer en Frénésie dans la zone d'effet.
+Attrition Individuelle
+Augmente les chances d'appliquer des Afflictions aux ennemis dans la zone d'effet.
+Poids de la Douleur
+Réduit la vitesse de déplacement des ennemis dans la zone d'effet.
+Accés de Colère
+Inflige des dégâts à hauteur de vos points de vie manquants lorsque vous utilisez la compétence.
+<Font Size="15" Color="#ccb270"><i>Quand les Primordiaux se faisaient la guerre, il vint un temps où Baäpheth et Bezeriel se tenaient entre les Armées de la Genèse sur un flanc, et le Primordial du Crépuscule sur l'autre. Les Premiers Hommes craignaient le pouvoir de Bezeriel sur la mortalité et se déchaînèrent d'abord sur lui de tout leur pouvoir. Baäpheth ressentit un élan de majesté alors que la douleur de Bezeriel faisait écho en lui. Se tenant droit, il tira son arme.</i></Font>
+Antiguérison
+Augmente les dégâts sur le temps subis par les ennemis dans la zone d'effet.
+Ambroisie Sanguine
+Augmente votre régénération de vie en fonction du nombre d'ennemis blessés dans la zone d'effet.
+Éclipse Suffoquante
+Convertit les dégâts de Blessure de la compétence en dégâts d'Ombre.\n\nAugmente les chances d'appliquer Malédiction.
+<Font Size="15" Color="#ccb270"><i>Alors que Baäpheth marchait vers les armées des Premiers Hommes, rayonnant de douleur, Bezeriel se tint seul devant Moros. Le Primordial du Crépuscule enchâssa sa dague dans le corps de Bezeriel, tous deux enserrés l'un dans l'autre alors que Bezeriel poussait les affres de la mortalité dans les veines de Moros. La souffrance qui émanait de la rencontre envoya une vague mortelle au travers des Premiers Hommes, provoquant la chute finale de beaucoup d'entre eux.</i></Font>
+Poigne Agonisante
+Augmente la durée de la compétence.
+Terre Sacrée
+Ajoute une zone d'effet inflige des dégâts aux ennemis à l'atterrissage.
+Arrivée de l'Espoir
+Soigne vous et vos alliés présents dans la zone d'effet à l'atterrissage.
+<Font Size="15" Color="#ccb270"><i>Anathëa montra à la Première Armée d'Alia comment elle commandait au pouvoir de l'aube, absorbant ses rayons d'une manière tel que l'énergie rebondirait face aux attaques, causant de grands dommages.</i></Font>
+Énergie Solaire
+Augmente la vitesse de charge de la compétence.
+Logos Solaire
+Octroie un niveau de charge supplémentaire.
+<Font Size="15" Color="#ccb270"><i>Les soldats d'Alia étaient ensanglantés d'avoir combattu les Urhans quand Anathëa descendit parmi eux. Sa présence était un baume, les animant d'une nouvelle vie alors qu'il n'avaient connu que l'horreur et le combat depuis leur tendre enfance. Sa lumière convainquait les blessures de guérir, les bleux de se dissoudre, les vieilles douleurs à s'atténuer.</i></Font>
+Décharge Plasmique
+Déclenche une explosion à votre position de départ.
+Lumières Aveuglantes
+Inflige Étourdissement aux ennemis qui se trouvent dans la zone d'effet à l'atterrissage.
+Déshydratation Soudaine
+Inflige Faiblesse et Électrocution aux ennemis dans la zone d'effet.
+Fier Cavalier
+Augmente toutes les Résistances pendant que vous chargez la compétence.
+Noble Cavalier
+Octroie un Bonus à toutes les Résistances en fonction du nombre d'ennemis touchés à l'atterrissage.
+Rhapsodie Indomptable
+Octroie un Bouclier de Force temporaire pour chaque ennemi touché à l'atterrissage.
+Lueur d'Espoir
+Octroie de la Volonté pour chaque ennemi touché à l'atterrissage.
+À Travers l'Univers
+Convertit les dégâts Sacrés de la compétence en dégâts d'Éther.\n\nAugmente les chances d'appliquer Stase.
+<Font Size="15" Color="#ccb270"><i>Anathëa, l'Aube Incarnée, se meut à travers le tissu de l'univers comme le font tous les êtres vivants. La différence entre elle et l'humanité est que son pouvoir est suffisamment immense pour déformer la tapisserie de l'éthèr pour un bref moment. Alors qu'elle plongea et atterrit parmi ses ennemis avec toute la force de l'Aube, le temps retint sa respiration.</i></Font>
+Adjudication
+Augmente les dégâts de la compétence
+Aveuglante Clarté
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Miroir
+Augmente les chances de coup critique avec la compétence.
+Étreinte Indésirable
+Augmente les dégâts de la compétence.
+Rayure Rebondie
+La compétence peut repousser les ennemis et leur infliger Étourdissement.
+Égaliseur
+La compétence peut être lancée sur des alliés ou sur vous-même si vous ne ciblez aucun allié.
+Élan Halté
+Chances d'infliger Étourdissement aux ennemis qui vous attaquent.
+Corps Sain
+Octroie une immunité aux contrôles de foule.\n\nRéduit la durée de la compétence.
+Simulacre
+Crée un leurre qui génère de la Menace.
+<Font Size="15" Color="#ccb270"><i>Au sein de l'Arsénal de la Création vit l'idéal de chaque arme. Chaque marteau de guerre est l'une des ombres innombrables jetées par Gaavanir, chaque lance une ombre d'Ishmir. Ces armes sont placées dans les mains sans vie d'armures, mais ces entités jettent des ombres aussi. Leur pâles images peuvent être aperçues parfois sur les vieux champs de bataille.</i></Font>
+Écrasante Muraille
+Inflige une partie des dégâts de votre arme aux ennemis qui attaquent le bouclier.
+Bête du Champ de Bataille
+Vous ou un allié ciblé générez plus de Menace.
+Nuées de Mouches
+Réduit les dégâts que vous infligent les projectiles.
+Pierre Éminente
+Augmente les dégâts absorbés.\n\nRéduit la vitesse de déplacement.
+Rancunes Collectionnées
+Octroie de la Rage lorsque vous recevez des dégâts avec la compétence active.
+Bannières Hautes
+L'absorption maximum est augmentée par un pourcentage de vos chances de bloquer.
+Osmose Perpétuelle
+Lorsque vous utilisez la compétence, votre Bouclier de Force est convertit en dégâts d'absorption.
+<Font Size="15" Color="#ccb270"><i>La méthode principale pour invoquer une arme de l'Arsénal de la Création est de la forger. Mais pour ceux qui connaissent les arts ésotériques, il reste une alternative. Si on appelle l'idée du Bouclier, Lui-Même reflété par Gleidhir, son ombre peut apparaître pour protéger l'invocateur un court instant, disparaîssant éventuellement à cause de son manque de physicalité.</i></Font>
+Orgueilleuse Déflagration
+Convertit les dégâts Physiques de la compétence en dégâts de Feu.\n\nAugmente les dégâts.
+<Font Size="15" Color="#ccb270"><i>Baäpheth portait Gleidhir en poursuivant Abanazaar. Il leva son bouclier, et l'écrasa à répétition dans le visage du Primordial du Feu, les flammes éclatant de l'entité blessée. Une partie de l'essence de Abanazaar fut absorbée par le puissant bouclier ; pendant que les coups portaient, Gleidhir prit la fierté du Primordial et la manifesta en une aura brûlante.</i></Font>
+Vibrations Absorbées
+Augmente les dégâts absorbés.
+Froid d'Acier
+Réduit le temps de recharge de la compétence.
+Pavis Blasonné
+Réduit le coût en Rage de la compétence.
+Souffle Trompeur
+Envoie le nuage à l'emplacement du curseur.
+Bonds et Virages
+La compétence augmente vos chances d'esquive.
+Territoire Amical
+La compétence inflige Malédiction aux ennemis dans la zone d'effet.
+Cape du Préposé
+Octroie invisibilité aux alliés et réduit leur Menace si ils se trouvent dans la zone d'effet.
+<Font Size="15" Color="#ccb270"><i>Alors que Moros et Anathëa menait l'Armée de la Genèse au travers les rochers et les canyons, Abanazaar leur tomba dessus. Alors que les flammes pleuvaient, Moros couvrit la zone de ténèbres afin de permettre à Anathëa de retirer leurs soldats de l'embuscade.</i></Font>
+Rétraction Véloce de la Lumière
+Augmente la vitesse de déplacement après avoir utilisé la compétence.
+Laps d'Attention
+La compétence purge les effets de contrôle de foule qui vous affectent.
+Frisson Dissimulé
+Augmente les dégâts d'Ombre après avoir utilisé la compétence.
+Frappes Aveugles
+Chances de faire entrer les ennemis dans la zone d'effet en Frénésie.
+Le Long Des Murs
+Déclenche la régénération du Bouclier de Force lorsque vous utilisez la compétence.
+Apaisante Nuit
+Utiliser la compétence purge les Afflictions qui vous affectent.
+Promesse Ténèbreuse
+Régénère vos points d'endurance lorsque vous utilisez la compétence.
+Agresseur Voilé
+Vous permet d'attaquer les ennemis tout en étant invisible pendant une courte période.
+<Font Size="15" Color="#ccb270"><i>Moros et Abanazaar se chassèrent l'un et l'autre dans le mélange affreux d'obscurité et de fumée, aucun n'osant faire un bruit. Moros savait que le moment où il tenterait de frapper celui qui deviendrait le Déchu de la Jalousie, il perdrait l'attention nécessaire pour rester invisible. Tirant dans sa force vitale, il agrippa son noir déguisement en chargeant Abanazaar espérant mettre fin au combat avant qu'il ne commence.</i></Font>
+Dernier Tour
+Augmente la durée de l'invisibilité.
+Règne d'un Fantasme
+Vous permet de traverser les ennemis lorsque vous êtes invisible.
+<Font Size="15" Color="#ccb270"><i>Abanazaar, plus lent mais plus fort, entoura Moros de flammes en espérant inonder la zone d'une telle lumière que son rival n'aurait nulle part où s'ancrer. Le Primordial du Crépuscule semblait en paix, et demanda seulement qu'Abanazaar lui pardonne d'avoir l'amour d'Anathëa. Avec un rugissement, Abanazaar projeta un souffle de feu sur Moros, maintenu durant des heures. Il lui fallut tout ce temps pour réaliser que le feu avait traversé Moros, qui s'était caché dans la fumée créee par sa colère.</i></Font>
+Accord Crépusculaire
+Réduit le temps de recharge de la compétence.
+Ex Nihilo
+Réduit le coût en Rage de la compétence.
+Tempête Unseelie
+Augmente la durée d'Étourdissement 
+Volutes Entrelacées
+La zone d'effet d'Eclipse s'étend désormais sur 360 degrés autour de vous.
+<Font Size="15" Color="#ccb270"><i>Bien que Moros ait prié Anathëa de courir, elle resta à son côté. Alors qu'il retournait les flèches de l'Armée ennemie contre eux, elle chargea ces armes de la lumière du châtiment, et alors qu'ils reposaient tous dans la mort, les péchés qu'ils avaient commis étaient illuminés et mis à nu.</i></Font>
+Côtes Sans Jour
+Réduit le temps de recharge de la compétence.
+Coquille Vide
+Augmente les dégâts de la compétence.
+Face Cachée de la Lune
+Augmente la portée de la compétence.
+Titubant Sans Yeux
+Ralentit les ennemis.
+Course au Couvre-Feu
+Octroie de la Volonté pour chaque ennemi touché.
+Raz de Marée Obsidien
+Renvoie les projectiles au lieu de les détruire.
+<Font Size="15" Color="#ccb270"><i>L'armée des traitres Primordiaux n'osa pas tirer tout d'abord, certains que le Primordial du Crépuscule leur réservait quelque tour fatal. L'Armée de la Genèse n'était pas prête à se battre et demanda sa liberté en échange de la levée des ténèbres. Leurs ennemis feignèrent d'accepter, mais tirèrent leurs arcs en direction de l'Armée quand ils sortaient par un goulet au bout du canyon. Moros expira encore une vague d'obscurité : avant qu'ils ne sachent s'arrêter, leurs flèches avaient déjà percé leurs propres gorges.</i></Font>
+Explosion de Pierres Désertiques
+Les globes de vie pris dans l'Eclipse explosent.
+Ternissure Saisonnière
+Augmente vos chances d'infliger des Afflictions aux ennemis avec la compétence.
+Faveur de la Nuit
+Octroie du Bouclier de Force pour chaque ennemi touché par Eclipse.
+Extinction de la Raison
+Chances de faire rentrer en Frénésie les ennemis touchés par Eclipse.
+Fautes Révélées
+Convertit les dégâts d'Ombre de la compétence en dégâts Sacrés.\n\nAugmente les chances d'appliquer Faiblesse.
+<Font Size="15" Color="#ccb270"><i>Les forces de la Genèse étaient piégées dans un canyon adjacent à la Montagne Rouge, les forces d'Ashtaroth convergeant autour d'eux. Moros repoussa l'armée avoisinante avec une vague d'encre noire, avertissant ces hommes de ne pas avancer plus loin s'ils tenaient à leurs vies. Mais à force que des hommes apparaissaient, par dessus les falaises proches, il ne pouvait que plonger de plus en plus de territoire dans l'obscurité.</i></Font>
+Conviction Sans Espoir
+Réduit le coût en Volonté de la compétence.
+Souillures de la Terreur
+Augmente les dégâts des Afflictions infligées avec la compétence.
+Minuit à l'Aube
+Réduit le temps de recharge de la compétence.
+%1 de vos dégâts sont ajoutés sous la forme de dégâts de Feu
+Bonus de dégâts de Feu
+%1 de vos dégâts sont ajoutés sous la forme de dégâts de Foudre
+Bonus de dégâts de Foudre
+%1 de vos dégâts sont ajoutés sous la forme de dégâts de Foudre
+Bonus de dégâts de Foudre
+%1 de vos dégâts sont ajoutés sous la forme de dégâts d'Ombre
+Bonus de dégâts d'Ombre
+%1 de vos dégâts sont ajoutés sous la forme de dégâts de Givre
+Bonus de dégâts de Givre
+%1 de vos dégâts sont ajoutés sous la forme de dégâts d'Ombre
+Bonus de dégâts d'Ombre
+Augmente la Vitesse d'Attaque de %1
+Bonus de Vitesse d'Attaque
+Augmente la Génération de Rage des Attaques
+Bonus de Génération de Rage
+Augmente vos Résistances à toutes formes de dégâts
+Bonus à toutes les Résistances
+Augmente des Chances d'obtenir des Globes de Vie
+Bonus de Chances d'obtenir des Globes de Vie
+Augmente les Résistances à toutes formes de dégâts
+Bonus à toutes les Resistances
+Augmente la Vitesse d'Attaque de %1
+Bonus de Vitesse d'Attaque
+Ajoute %1 dégâts Sacrés à vos Attaques
+Bonus Sacré sur Attaques
+Augmente la Régénération d'Endurance
+Bonus de Régénération d'Endurance
+Aspects de l'Apocalypse
+Aspect de l'Aube
+Commandant au champ de bataille comme un phare de lumière aveuglante, la Primordiale de l'Aube porte les espoirs de l'humanité quand elle charge sur les hordes déchues. Avec son essence imprégnée au Premier Mouvement de la Création, ses fidèles se tiennent droits, châtiant toute trace de corruption sous ses rayons sacrés.
+Taillade Immaculée
+Attaque puissante et déterminée qui inflige des dégâts Sacrés.
+<Font Size="15" Color="#ccb270"><i>Le pouvoir d'Anathëa purge les impuretés de l'Abysse du monde humain.</i></Font>
+Choeur de l'Aube
+Vous vous envolez dans les airs et atterrissez à la position de votre curseur en infligeant des dégâts Sacrés. Cette compétence utilise de l'Essence Sanctifiée pour infliger plus de dégâts.
+<Font Size="15" Color="#ccb270"><i>Quand le ciel s'ouvre pour révéler une aube éblouissante, l'espoir revient au monde des vivants.</i></Font>
+Volonté de la Protectrice
+Invoque une vague d'énergie sacrée qui attire les ennemis vers vous et inflige un violent coup de marteau. Inflige des dégâts Sacrés.
+<Font Size="15" Color="#ccb270"><i>Tandis que les fidèles de la Dame de l'Aube se rassemblent en temps de crise, ses ennemis aussi se réunissent. Ainsi, ils peuvent être châtiés efficacement et en toute impunité.</i></Font>
+Marteau de l'Aurore
+Lance votre marteau dans la mêlée, infligeant des dégâts à l'arrivée et créant un vortex d'énergie sacrée qui attire les ennemis en son centre. Peut être réactivé pour déclencher une puissante explosion. Cette compétence inflige des dégâts Sacrés et génère de l'Essence Sanctifiée.
+<Font Size="15" Color="#ccb270"><i>Le Chant Brûlant défend l'humanité à son heure la plus sombre ; toutefois la protection divine peut se manifester comme une frappe préemptive et destructrice.</i></Font>
+Lumière Toute-Purifiante
+Une aura de bénédiction qui inflige des dégâts aux ennemis et octroie aux alliés des dégâts Sacrés supplémentaires pendant une courte période.
+<Font Size="15" Color="#ccb270"><i>Comme dernière protectrice de la vie mortelle, Anathëa utilise le pouvoir de la lumière purifiante pour préserver l'humanité et dissuader la corruption d'outre-tombe.</i></Font>
+Aspect de l'Infini
+Le tissu du monde se plie à sa volonté, déformant ses ennemis dans les interstices de l'espace-temps. Les pouvoirs divins d'Anulai-Tai sont nés d'un besoin d'organisation du chaos et de l'existence. Et depuis ce jour, c'est lui qui a provoqué le désordre, contortant les corps de ses ennemis avec des perturbations gravitationnelles.
+Missiles Bio-rythmiques
+Projectiles auto-guidés qui infligent des dégâts d'Éther.
+<Font Size="15" Color="#ccb270"><i>Le Duc Déchu de l'Infini utilise l'Éther pour vieillir prématurément et flétrir tous ceux qui s'opposent à lui.</i></Font>
+Convergence Parallèle
+Téléporte sur la localisation du curseur, créant un leurre à votre position de départ. Utiliser la compétence une nouvelle fois fait exploser le leurre, infligeant des dégâts d'Éther. Si le leurre entre en collision avec le projectile de Paradoxe Calamiteux, le projectile explose.
+<Font Size="15" Color="#ccb270"><i>Au travers de la manipulation des passages de l'Éther, Anulai-Tai peut imposer sa volonté sans même se déplacer.</i></Font>
+Paradoxe Calamiteux
+Lance un projectile d'énergie existentielle instable qui perce les ennemis et leur inflige des dégâts d'Éther. Si la compétence est réactivée ou si le projectile entre en collision avec votre leurre, le projectile explose. Cette compétence consomme des Points d'Entropie pour infliger plus de dégâts.
+<Font Size="15" Color="#ccb270"><i>L'instabilité du temps et de l'espace permet à l'Éther d'être manipulable par Anulai-Tai et ses fidèles pour semer le chaos.</i></Font>
+Obsolescence Inévitable
+Compétence canalisée qui vous permet de sélectionner des cibles à éradiquer. Après avoir sélectionné suffisamment de cibles, vous lancez des rayons directement tirés de la fabrique du temps, infligeant des dégâts d'Éther et générant des Points d'Entropie.
+<Font Size="15" Color="#ccb270"><i>Pendant que le temps passe, le monde vieillit et se délabre. Mais Anulai-Tai attend, anticipant la fin inévitable du monde pendant qu'elle s'approche.</i></Font>
+Déformations Spatiales
+Déforme le temps et l'espace pour annihiler les ennemis qui vous font face avec un énorme rayon d'Éther. Cette compétence augmente en taille et en puissance sur le temps.
+<Font Size="15" Color="#ccb270"><i>Le but ultime d'Anulai-Tai est de faire cesser le passage du temps, en déchirant l'Éther à un point irrécupérable, lui offrant enfin le soulagement.</i></Font>
+Aspect de la Chair
+L'Aberrant bourgeonne sur toute la terre disponible, des vrilles de peau et de chair florissantes pour assouvir un désir décevant. Ses fidèles sont sans fin, car en acceptant Ashtaroth, leurs corps sont devenus des armes sans limites d'os et de tendon. Ils guettent, se préparant à assimiler le monde à leur image.
+Incision Ossuaire
+Coups rapides d'épée osseuse qui infligent des dégâts de Blessure.
+<Font Size="15" Color="#ccb270"><i>La mutation au nom de la puissance est l'une des ambitions premières d'Ashtaroth.</i></Font>
+Assimilation Rapide
+Traverse vos ennemis rapidement et inflige des dégâts de Blessures à ceux qui se trouvent sur votre chemin.
+<Font Size="15" Color="#ccb270"><i>Ashtaroth rêve d'un monde couvert de chair ; une légion pulsante et intégrée de toute vie, respirant en harmonie.</i></Font>
+Shuriken d'Os
+Fait un saut en arrière et lance un projectile en cône en face de vous, infligeant des dégâts de Blessure. Chaque ennemi tué avec cet Aspect génère des Aspects de Sang. Chaque Aspect de Sang consommé augmente les dégâts de la compétence et le nombre de projectile de 1, pour un maximum de 5.
+<Font Size="15" Color="#ccb270"><i>Ceux qui sont tués par Ashtaroth et ses fidèles ne meurent pas vraiment. Leur chair est assimilée et recyclée, leurs âmes piégées dans un amalgame corpulent.</i></Font>
+Rafale Éventreuse
+Vous lancez une série d'attaque très rapides autour de votre personnage, infligeant des dégâts de Blessure aux ennemis à proximité.
+<Font Size="15" Color="#ccb270"><i>La Montagne Rouge d'Ashtaroth était le siège de son règne sur la matière organique, un exemple purulent et palpitant de son pouvoir sur la chair.</i></Font>
+La Chair Affamée
+Attaque une cible unique avec trois clones de vous-même, les dévastant avec des dégâts de Blessure provenant de tous les côtés. Cette compétence peut être chargée pour infliger plus de dégâts.
+<Font Size="15" Color="#ccb270"><i>La force individuelle ne préoccupe pas Ashtaroth ; le pouvoir d'un organisme repose dans la coopération, pas les mérites singuliers de ses composantes.</i></Font>
+Aspect de la Guerre
+Beaucoup des Primordiaux Déchus assouvissent leur désir de destruction, mais Baäpheth vise quelque chose de plus noble : la stratégie combinée au talent, et ce, au service de la conquête absolue. Il divise le champ de bataille avec les flammes de la guerre, expédiant les ennemis en grandes fauchées. Ceux qui se tiennent devant lui doivent tomber face à ses ambitions.
+Attaques Frénétiques
+Attaques avec une distance augmentée qui inflige des Dégâts de Feu. La vitesse d'attaque est augmentée par le nombre de Frénésies.
+<Font Size="15" Color="#ccb270"><i>Quand un effort de guerre prend de l'ampleur, l'ambition cruelle de Baäpheth en fait de même.</i></Font>
+Charge du Premier Guerrier
+Lance une charge dévastatrice vers la direction du curseur, laissant derrière vous une traînée de Feu. À l'arrivée, vous lancez une explosion qui inflige des dégâts autour de vous.
+<Font Size="15" Color="#ccb270"><i>L'existence en elle-même est une guerre ; l'esprit de Baäpheth peut posséder même les créatures les plus faibles quand leurs vies sont en jeu.</i></Font>
+Inébranlable Assaut
+Vous heurtez le sol en cône face à vous, infligeant des Dégâts de Feu. Chaque utilisation de la compétence génère une Frénésie. La vitesse d'incantation de cette compétence est réduite par le nombre de Frénésies.
+<Font Size="15" Color="#ccb270"><i>Dans son désir de conquête, Baäpheth ne s'arrêtera devant rien pour réussir, éradiquant tout ce qu'il trouve sur son chemin.</i></Font>
+Obélisque Brûlante de la Guerre
+Invoque un puissant pilier de flamme qui inflige des Dégâts de Feu sur la durée. Cette compétence consume tous les bonus de Frénésie pour infliger plus de dégâts.
+<Font Size="15" Color="#ccb270"><i>La guerre amène inévitablement la destruction. Pour Baäpheth, il n'y a pas de dommages collatéraux, il n'y a qu'une force dominante.</i></Font>
+Conflit de Baäpheth
+Une lame enflammée qui déchaîne des dégâts de Feu sur une longue ligne. Cette compétence peut être chargée; chaque niveau de charge augmente les dégâts et la zone d'effet.
+<Font Size="15" Color="#ccb270"><i>En tant que Premier Guerrier, Baäpheth comprend la valeur véritable de la patience ; la force est sans valeur si on ne sait pas quand frapper.</i></Font>
+Dégâts moyens: %1
+Dégâts après %2: %1
+Dégâts totaux: %1 - %2
+Dégâts physiques: %1 - %2
+Portée de percée: %1
+Puissance de percée: %1 cible(s)
+Chance de Brûlure: %1
+Applications de Brûlure: %1
+Durée de Brûlure: %1
+Chance d'Électrocution: %1
+Durée d'Électrocution: %1
+Applications d'Électrocutions: %1
+Chance de Gel: %1
+Durée de Gel: %1
+Affliction - Chances d'Empoisonnement: %1
+Affliction - Durée d'Empoisonnement: %1
+Affliction - Applications d'Empoisonnement: %1
+Chance de Saignement: %1
+Applications de Saignement: %1
+Durée du Saignement : %1
+Chance d'Étourdissement: %1
+Durée d'Étourdissement: %1
+Chance de Stase: %1
+Durée de Stase: %1
+Applications de Stase: %1
+Chance de Maudire: %1
+Applications de Malédiction: %1
+Durée de Malédiction: %1
+Chance de Faiblesse: %1
+Applications de Faiblesse: %1
+Applications de Faiblesse: %1
+%1 lancers indépendants
+Efficacité de Lenteur: %1
+Durée de Lenteur: %1
+Rayon d'effet: %1
+Augmentation de dégâts par application: %1
+Applications maximum: %1
+Durée avant la fin de l'application: %1
+Dégâts du fracas: %1 <Font Color="#ffffff">des dégâts de la lance</Font>
+Régénération de Vie: %1 <Font Color="#ffffff">des dégâts infligés en</Font> %2
+Délai d'incantation: %1
+Charges maximum: %1
+Temps de recharge: %1
+Chance de critique: %1
+Dégâts critiques: %1
+Dégâts de Feu: %1 - %2
+Dégâts de Givre: %1 - %2
+Dégâts des Blessures: %1 - %2
+Dégâts d'Empoisonnement: %1 -%2
+Dégâts de Foudre: %1 - %2
+Nombre de projectiles: %1
+Coût en Rage: %1
+Coût en Endurance : %1
+Coût en Rage par seconde: %1
+Génération de Rage: %1
+Génération de Rage par seconde: %1
+Portée: %1
+Temps de consumation de ressource: %1
+Dégâts Sacrés: %1 - %2
+Dégâts d'Ombre: %1 - %2
+Coût en Volonté: %1
+Coût en Volonté par seconde: %1
+Dégâts d'Éther: %1 - %2
+Génération de Volonté: %1
+Génération de Volonté par seconde: %1
+Dégâts des Attaques: %1 -%2
+(%1 Chance)
+Charge(s) gagnée(s) sur le temps: %1 toutes les %2
+Invocations max.: %1
+Dégâts absorbés: %1
+Durée de la compétence: %1
+Montant soigné: %1
+Score de Coup Critique: %1
+Bouclier de Force par coup: %1
+Volonté générée en tuant: %1
+Volonté générée par coup: %1
+Volonté générée par coup critique: %1
+Nombre de cibles: %1
+Nombre de rebonds: %1
+Percée du projectile: %1
+Dégâts moyens des Invocations: %1
+Points de vie des invocations: %1
+Distance si repoussé: %1m
+%1 Bonus de dégâts
+%1 de réduction du temps de recharge
+%1 de réduction du coût en Rage
+%1 Bonus de génération de Rage
+%1 Réduction de coût en Volonté
+%1 Bonus de dégâts d'Attaque
+%1 Bonus de durée du Gel
+Pestiféré
+Archer Pestiféré
+Gueule Immortelle
+Châtieur
+Ombre Nocturne
+Bonus Lames de l'Infini
+Bonus d'Eclipse
+Bonus de Torrent de flèches
+Bonus de Marque du Tireur
+Bonus d'Appel de la Guerre
+Bonus Portepeste
+Bonus Lancer de Gaavanir
+Bonus Avatar de Lumière
+Bonus Mastodonte
+Bonus Anéantissement
+Bonus Ailes d'Ishmir
+Bonus Courroux de Baäpheth
+Bonus Sang Pour Sang
+Bonus Rempart de l'Aube
+Bonus Linceul Crépusculaire
+Bonus Fusil Électromagnétique "Deathgazer"
+Bonus Saut Éthéré
+Bonus Anomalie
+Bonus Cri de Domination
+Bonus Tempête de Lames
+Augmente la génération de Menace
+Augmente le Score des Résistances
+Augmente la Vitesse d'Attaque
+Augmente les chances de Blocage
+Augmente les chances de Coup Critique sur les Attaques
+Augmente les chances de Coup Critique
+Augmente les chances de Coup Critique avec les Projectiles 
+Dégâts supplémentaires de Feu
+Dégâts supplémentaires de Foudre
+Dégâts supplémentaires d'Ombre
+Dégâts supplémentaires Toxiques
+Dégâts supplémentaires d'Éther
+Dégâts augmentés
+Augmente la résistance aux Projectiles
+Augmente les chances d'Esquive
+Augmente la Régénération de Bouclier de Force
+Augmente la Régénération de Vie
+Augmente l'Absorption de Vie
+Augmente la vitesse de déplacement
+Les dégâts de Blessures infligés dépendent de votre Vie manquante
+Augmente la génération de Ressource
+Les dégâts d'Ombre infligés dépendent de vos Points de Vie manquants
+Vous permet d'utiliser les compétences de Guerrier
+Augmente la vitesse d'incantation
+Augmente la Régénération d'Endurance
+Augmente les chances d'appliquer des Afflictions
+Augmente la vitesse d'attaque et d'incantation
+Augmente la vitesse d'Attaque, d'Incantation, et de Déplacement

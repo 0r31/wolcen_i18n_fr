@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>Unknown Creator</Author>
+  <LastAuthor>Cthylla</LastAuthor>
+  <Created>2020-05-26T09:48:55Z</Created>
+  <LastSaved>2020-05-26T09:48:55Z</LastSaved>
+  <Company>Microsoft Corporation</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6705</WindowHeight>
+  <WindowWidth>17745</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Font ss:FontName="Arial" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Courier New" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="58" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="269.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="333"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Fast</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Fast</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Rapide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Tough</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Tough</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résistant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Unstoppable</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Unstoppable</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Inarrêtable</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_FireImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Fire Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Feu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_FrostImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Frost Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Givre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_LightningImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Lightning Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RendImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Rend Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ToxicImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Toxic Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Poison</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_PhysicalImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Physical Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement  Physique</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_SacredImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Sacred Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Sacré</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ShadowImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Shadow Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_AetherImbued</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Aether Imbued</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement d'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Regeneration</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Regeneration</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Régénération</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Powerful</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Powerful</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Puissant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_AetherShield</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Aether Shield</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résistant à l'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ElementalShield</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Elemental Shield</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résistant aux Dégâts Élémentaires</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_MaterialShield</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Material Shield</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résistant aux Dégâts Matériels</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_OccultShield</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Occult Shield</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résistant aux Dégâts Occultes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RessurectAround</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Necromancer</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nécromant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Sarisel</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Sarisel's Chosen</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Élu de Sarisel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_FuryMIssilesAround</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Fury Spirit Missile</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Missiles d'Esprits Furieux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_BossModifier_ChargerIntouchable</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Invincible</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Invincible</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">ui_BossModifier_DropCreatures</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Spawn Underlings</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Minions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_HomingIceProj</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ice Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Missiles de Glace</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_BurningArea_Permanent</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Engulfing Flames</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Flammes Submergeantes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_FireStun</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Searing Flames</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Flammes Brûlantes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ToxicSky</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Acid Rain</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pluie Acide</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Wind_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Buffeting Winds</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vents Violents</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_SpearsFromSky</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Hail of Spears</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Déluge de Lances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_HomingShadows</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Stalking Shadows</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ombres Traqueuses</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RandomLightning</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Lightning Bolts</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sphères de Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RandomPoison_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Miasma</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Miasmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_CirclingBlades</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Whirling Blades</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tourbillon de Lames</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_SpiralingAether</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Aether Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Missiles d'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RendProjectiles_AllDirections</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Rending Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Missiles de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_AetherHomingProjectile</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Aether Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Traînée d'Éther</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_BombsFromSky</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Bombing Runs</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bombardement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Frost_Sticky_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Deep Frost</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Givre pénétrant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_CirclingRend_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Blood Ring</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Anneau de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RandomRend_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Rending Circles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cercles de Saignement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ToxicSky_Homing</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Toxic Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Missiles de Miasmes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_BigStorm</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Storms</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tempête</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_MovingGround_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Shifting Earth</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Déplacement Terrestre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RandomLightning_CloseRange</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Lightning Surges</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Foudre Furieuse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_FireHoming_Projectiles</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Flaming Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Missiles Flamboyants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Meteors_Random</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Meteor Strikes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pluie de Météores</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RandomIce_Projectiles</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Frozen Missiles</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Blizzard Givrant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_RendBeam_DZ</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Seething Beams</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Rayon Bouillonnant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_LightningStorm_Slow</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Creeping Jolts</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Choc de Foudre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_LightningBolts_ForthAndBack</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Spiralling Bolts</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Spirales d'Énergie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_BoltsFromSky</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Lightning Strikes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Foudroiement</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ShadowBackAndForth</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Seeping Shadows</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Résistant à l'Ombre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ToxicProjectiles_RandomDirection</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Pestilent Scatter</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dispersion Pestilentielle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_Stronger</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Mighty</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Puissance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ProtectiveDome</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Dome Shield</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dome de Protection</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_SimulacrumDebuff</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Affliction</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Purulence</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <NoOrientation/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>57</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowFormatCells/>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+   <AllowInsertCols/>
+   <AllowInsertRows/>
+   <AllowInsertHyperlinks/>
+   <AllowDeleteCols/>
+   <AllowDeleteRows/>
+   <AllowSort/>
+   <AllowFilter/>
+   <AllowUsePivotTables/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

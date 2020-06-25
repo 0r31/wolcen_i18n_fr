@@ -1,0 +1,609 @@
+ORIGINAL TEXT
+Projets Actifs
+Bonus de Productivité
+Annuler le projet
+Impossible: Projet déjà en cours
+Impossible: nombre maximum de projets actifs atteint
+Impossible: prérequis manquants
+Impossible: déjà complété
+Impossible: objet requis
+Impossible: objet choisi incompatible
+Impossible: objets choisis incompatibles
+Choix de la récompense
+Validez
+Choix
+Vous devez faire votre choix avant de terminer l'évènement
+Productivité
+Coûts
+Nécessaires au projet
+Projets
+Récompenses
+Vous devez choisir une récompense avant de fermer la fenêtre de résultat
+Démarrer le projet
+Résultats en attente
+Insérez un objet
+Impossible de démarrer une activité avec des actions en attente. Ouvrez la vue globale de Stormfall.
+Projet de construction
+Améliorations du Palais
+Amélioration de la Productivité
+Difficulté de l'Expédition: Facile
+Difficulté de l'Expédition: Moyen
+Difficulté de l'Expédition: Difficile
+Difficulté de la mission: Facile
+Difficulté de la mission: Moyenne
+Difficulté de la mission: Difficile
+Convertir la devise
+Fournir les Objets
+Repère "Écho de Souvenir"
+Transmue des Objets
+Améliorations Forge de Transmutation
+Améliorations Laboratoire d'Enneracts
+Améliorations Planque
+Déverrouille des Gages Apo Supplémentaires
+Établis des Contacts Supplémentaires
+Établis un Premier Contact
+Confirme Téléportation
+Vous et tous les membres de la coterie seront téléportés à Stormfall dans %1s.
+Téléportation dans %1s
+Téléportation Imminente
+L'activité va commencer dans %1s
+Clique-Droit sur cet objet pour l'appliquer à une Expédition.
+Vous ne pouvez pas appliquer cet objet à une Expédition.
+Emplacement de Carte
+Insérez une carte ou de l’encens pour accéder au contenu.
+%1 Découverte Magique
+%1 Productivité
+%1 Niveau d'ennemi
+Distribution de Productivité
+Productivité de base
+Challenge
+Consommable
+Invaincu
+Monstres tués
+Champions tués
+Coffres maudits ouverts
+Modificateur de zone
+Rang Sarisel
+Productivité Temporaire
+Multiplicateur de difficulté de l'activité
+Bonus de Productivité total
+Productivité appliquée
+Par projet
+Palais de Stormfall
+<font color="#E5D8B6">Le Palais de Stormfall a longtemps hébergé les chefs de Stormfall. C'est la que le conseil de la ville se rencontre afin d'étaler leurs inquiétudes au sujet de l'état de Stormfall et de débattre du mérite de nouvelles initiatives avant qu'elles ne soient autorisée par le chef d'état.</font>
+Caserne des Chercheurs
+<font color="#E5D8B6">Les Chercheurs ont été présents depuis la constitution de Stormfall. En tant qu'organisation, ils sont voués à l'exploration des contrées sauvages de Wolcen et à la découverte de ses trésors cachés. La caserne assure que les Chercheurs soient au meilleur de leur forme physique et les entraîne à traverser des terrains dangereux.</font>
+Stormfall - Assemblée des Commerces
+<font color="#E5D8B6">L'Assemblée de Commerce est le noyau principal de la distribution des exports de Stormfall et des efforts diplomates représentant la cité. Les caravanes de l'Assemblée voyageaient autrefois jusqu'aux recoins les plus isolés du continent, et si elles le pouvaient encore, elles précipiteraient un nouvel âge de prospérité pour Stormfall.</font>
+Marché Noir
+<font color="#E5D8B6">Le Marché Noir est le lieu parfait pour trouver les équipements et matériels les plus recherchés de Wolcen, des choses qui ne sont pas vendues par les marchands communs. Mohabi a cultivé des relations avec les membres du marché et il est prêt à se rendre conservateur de ces équipements et matériels pour votre bénéfice.</font>
+Forge de Transmutation
+<font color="#E5D8B6">Demetra a perfectionné une technique qui lui permet de changer la forme et les propriétés de tout objet ou équipement. Elle a mis au point une forge toute faite pour cette tâche précise. Elle vous encourage à jeter tout équipement inutilisé dans la forge dans l'espoir qu'il rendre quelque chose de plus adapté à vos compétences.</font>
+Banque de Diamant
+<font color="#E5D8B6">La Banque de Diamant sert comme remplacement à la Banque Centrale de Stormfall, détruite dans le soulèvement des morts-vivants. Un coffre-fort a été conçu à l'intérieur pour votre usage personnel.</font>
+Artéfact d'Anankis
+<font color="#E5D8B6">Après la découverte d'Anankis, une équipe au destin tragique avait été établie pour explorer la mégastructure Primordiale. Ils sont revenus quelques semaines après, des survivants portant un artéfact voilé. Les nobles ont choisi de l'enterrer, ayant peur du pouvoir qui fredonnait à sa surface...</font>
+Laboratoire d'Enneracts
+<font color="#E5D8B6">La recherche de Demetra sur les Enneracts lui a permi de les comprendre à un niveau microscopique. Avec l'équipement de son nouveau laboratoire, Demetra a maintenant les outils à sa disposition pour dupliquer les Enneracts.</font>
+Chambre de Siphon
+<font color="#E5D8B6">Demetra a un intérêt particulier pour les énergies magiques de Wolcen. Depuis votre rencontre, elle a recherché des moyens de détourner ces énergies de leurs sources. Elle maîtrise maintenant ce procédé avec sa Chambre Siphon, et elle est prête à payer de l'or pour toute énergie en surplus en votre possession.</font>
+Instillateur d'Énergie
+<font color="#E5D8B6">L'Instillateur d'Énergie de Demetra sert un but contraire à celui de sa Chambre Siphon. Plutôt que d'extraire l'énergie magique, cet outil lui permet de transférer l'énergie de ses stocks jusqu'au corps d'un hôte. Elle n'aime pas particulièrement s'en séparer, mais étant donné votre situation, elle est prête à le faire pour de l'or.</font>
+Les Archives Cartographiques
+<font color="#E5D8B6">Dans le passé, les Archives Cartographiques ont été un symbole de l'esprit explorateur de Stormfall. Une bibliothèque vaste de cartes, journaux d'explorateurs, et légendes fantabuleuses, les Archives sont le premier port où s'arrêter pour quiconque cherche à déchiffrer une carte au trésor ou à résoudre un mystère. Quand elles étaient prospères, des marchands de toutes origines se battaient pour son contenu aux enchères.</font>
+Institut Stormfall (Ouest)
+<font color="#E5D8B6">L'Institut Stormfall hébergeait autrefois les esprits les plus vifs de Stormfall. Avec la découverte récente des technologies Primordiales à Anankis, le travail conduit par l'Institut semble plus pressant que jamais. L'Aile Ouest s'est toujours focalisée sur la recherche de sources d'énergie antiques.</font>
+Institut Stormfall (Principal)
+<font color="#E5D8B6">La Salle d'Exhibition était la fierté de l'Institut, attirant des scientifiques et chercheurs venant du continent entier. Lors de sa destruction, beaucoup des artéfacts affichés fûrent détruits au delà de tout effort de réparation. Cela dit, avec la découverte d'Anankis, l'Institut ne devrait plus manquer de curiosités à montrer au public.</font>
+Institut Stormfall (Est)
+<font color="#E5D8B6">L'Institut Stormfall hébergeait autrefois les esprits les plus vifs de Stormfall. Avec la découverte récente des technologies Primordiales à Anankis, le travail conduit par l'Institut semble plus pressant que jamais. L'Aile Est s'est toujours vouée à trouver et à étudier des mécanismes anciens dans tout Wolcen.</font>
+Bains de Sel de Stormfall
+<font color="#E5D8B6">Avant qu'ils ne soient enterrés, les Bains de Sel étaient ancrés dans une falaise tournée vers la mer. L'eau des bains était tirée de la mer, et beaucoup de citoyens pensaient que ses eaux détenaient une énergie magique, pleine de force vitale - c'est toujours le cas.</font>
+Refuge des Aveugles
+<font color="#E5D8B6">Une temple vaste et ornementé, le Refuge des Aveugles servait autrefois de lien spirituel entre Stormfall et les Moines Aveugles de Morkaï. Un petit ordre de moines résidait ici, offrant des bénédictions au peuple, des bénédictions qui donneraient au destinataire la capacité à trouver plus d'argent dans toutes leurs aventures.</font>
+Chantier Naval de Stormfall
+<font color="#E5D8B6">Le Chantier Naval de Stormfall a été le lieu de naissance des plus grands vaisseaux à avoir jamais navigué le grand large. Avant de finir délabré, les diplomates étrangers venaient regarder les constructeurs, s'émerveillant de leur attention et de la précision de leur travail.</font>
+Rénover les Archives
+Les rénovations sur les Archives Cartographiques sont prêtes à commencer. Ce qui reste des documents de l'Archive détruite devra être récupéré et manié avec soin s'ils doivent regagner leurs places dans les Archives. Si les efforts de restoration portent leurs fruits, les marchands de Stormfall voudront certainement conclure un marché qui leur permettra accès à ces ressources.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les prix d'achat des marchands diminueront de manière permanente.\nLes prix de vente des marchands seront accrus de manière permanente.</font><br></br>
+Rénovation Terminée
+Les efforts de rénovation ont été une réussite, et les Archives Cartographiques ont été restituées à leur splendeur passée. Entendant bruit des rénovations, les marchands sur tout le continent supplient pour la permission d'y accéder, baissant même leurs prix dans l'espoir que Stormfall leur donner l'accès.
+Les Archives ont été restaurées, baissant les prix d'achat et augmentant les prix de vente chez les marchands.
+Rénover l'Institut (Ouest)
+Les rénovations sur l'Aile Ouest de l'Institut sont prêtes à commencer. Par ailleurs, un nombre de scientifiques à Stormfall sont pressés d'étudier les trouvailles des profondeurs d'Anankis. À cette fin, ils vous implorent d'envoyer encore une expédition à Anankis pour leur apporter plus de machines antiques à étudier. Après tout, à quoi bon un ramassis de scientifiques sans rien à étudier ?\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Un 5ème emplacement de compétence sera déverrouillé.</font><br></br>
+Rénovation Terminée
+Les rénovations sur l'Aile Ouest de l'Institut de Stormfall sont terminées. L'expédition au sein d'Anankis a pu trouver beaucoup de sources d'énergie Primordiale à étudier pour les scientifiques. Il y avait quelque chose d'autre aussi, une tablette métallique avec des symboles gravés sur sa surface. Personne ne savait ce qu'ils signifiaient, personne n'avait les moyens de les déchiffrer... Mais vous, vous souvenez-vous avoir déjà vu quelque chose de ce genre ? Quand vous avez vous-même observé la tablette, vous avez ressenti sa signification.
+La partie droite de la Tablette renforce ton lien Primordial (5ème Emplacement de Compétence Déverrouillé)
+Rénover l'Institut (Principal)
+Les rénovations sont prêtes à commencer dans le bâtiment principal de l'Institut, la vieille demeure pour sa plus grande exhibition. Pour vos scientifiques, il est important que le bâtiment principal atteste du prestige de l'Institut de recherche. À cette fin, ils recommandent une longue expédition au sein d'Anankis, dans le but de découvrir les exemples les plus beaux et hypnotisants de technologie Promordiale dans la Salle d'Exhibition de l'Institut.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues : </font><br></br>\n<font color="#509FFF">Ton Essence Primordiale sera augmentée de manière permanente.</font><br></br>
+Rénovation Terminée
+Les rénovations sur la Salle d'Exhibition de l'Institut sont terminées. L'expédition au sein d'Anankis a pu trouver beaucoup de sources d'énergie Primordiale à étudier pour les scientifiques. Il y avait quelque chose d'autre aussi, une tablette métallique avec des symboles gravés sur sa surface. Personne ne savait ce qu'ils signifiaient, personne n'avait les moyens de les déchiffrer... Mais vous, vous souvenez-vous avoir déjà vu quelque chose de ce genre ? C'était merveilleux à voir, et quand votre regard reposait sur ses symboles, une vague d'énergie émergeait dans votre tête et votre corps, et vous ressentiez que vos ancêtres Exaltés étaient à vos côtés, vous imprégnant de leur force.
+La Tablette complétée renforce vos pouvoirs d'Exalté. (Augmentation permanente de l'Essence Primordiale)
+Rénover l'Institut (Est)
+Les rénovations sur l'Aile Est de l'Institut sont prêtes à commencer. Par ailleurs, un nombre de scientifiques à Stormfall sont pressés d'étudier les trouvailles des profondeurs d'Anankis. À cette fin, et ils vous implorent d'envoyer encore une expédition à Anankis pour leur apporter plus de machines antiques à étudier. Sans ce flux de nouveaux artéfacts à étudier, les scientifiques craignent que le nouvel Institut perdra toute crédibilité.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Vous recevrez +1 Point de Compétence Passive.</font><br></br>
+Rénovations Terminées
+Les rénovations sur l'Aile Est de l'Institut de Stormfall sont terminées. L'expédition au sein d'Anankis a pu trouver beaucoup de sources d'énergie Primordiale à étudier pour les scientifiques. Il y avait quelque chose d'autre aussi, une tablette métallique avec des symboles gravés sur sa surface. Personne ne savait ce qu'ils signifiaient, personne n'avait les moyens de les déchiffrer... Mais vous, vous souvenez-vous avoir déjà vu quelque chose comme ça ? Quand vous avez regardé la tablette la première fois, les mots gravés à sa surface ont vibré au travers de votre être, vous emplissant d'un nouveau sentiment de force.
+La partie gauche de la Tablette a renouvelé votre force (+1 Point de Compétence Passive)
+Rénover les Bains de Sel
+Les travaux d'excavation sont prêts à commencer sur les Bains de Sel. Il faudra retirer les débris des éboulements passés qui ont inondé l'intérieur. Une fois fini, les bains eux-mêmes seront rénovés, permettant aux eaux de la côte de Stormfall de vous raviver, vous et vos citoyens, une fois de plus.\n\nRénover Les Bains de Sel de Stormfall.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Vous recevrez un boost permanent de Découverte Magique.</font><br></br>
+Rénovation Terminée
+L'eau de la mer s'écoule de nouveau dans les Bains de Sel de Stormfall, séduisant des milliers de citoyens à rendre visite tous les jours. Vous y êtes allé vous-même, et après vous être baigné dans ses eaux pendant quelques heures, vous vous êtes senti inspiré et plus récéptif à la magie du monde.
+Les Bains de Sel ont été rénovés, vous donnant un boost permanent de Découverte Magique.
+Rénover le Refuge
+Les préparatifs sont faits pour la rénovation du Refuges des Aveugles. Une fois reconstruit, le lien entre Stormfall et les Moines Aveugles de Morkaï sera restauré, vous donnant à vous et au public un accès à leurs bénédictions.\n\nRénover le Refuge des Aveugles.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Vous recevrez un boost permanent de Découverte d'Or.</font><br></br>
+Rénovation Terminée
+La rénovation du Refuge des Aveugles est un succès. Les représentants des Moines Aveugles de Morkaï ont été accueillis dans la cité de Stormfall, renforçant le lien entre l'ordre et le peuple qui bénéficie de leur sacrifice. Pleins de gratitude pour la restauration de leur refuge, les moines t'ont offert une puissante bénédiction. Après avoir quitté le Refuge, l'or semblait vous tomber dessus. Quand vous marchiez le long des rues, l'or apparaissait au sol comme par magie…
+Le Refuge a été rénové, vous donnant un boost permanent de Découverte d'Or.
+Rénover la Caserne des Chercheurs
+Après avoir discuté des Chercheurs avec Eugène et le conseil, des plans ont été ébauchés pour faciliter la rénovation de l'ancienne garnison.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les Expéditions des Chercheurs seront déverrouillées.</font><br></br>
+Rénovation terminée
+Comme vous le souhaitiez, la Caserne des Chercheurs a été rénovée. De nombreux Chercheurs en herbe ont été entraînés et attendent maintenant vos ordres, pressés d'explorer le monde de Wolcen.
+La Garnison des Chercheurs a été rénovée, vous permettant d'envoyer des Chercheurs en expédition.
+Rénover l'Assemblée des Commerces
+Des plans ont été élaborés afin de diriger la rénovation de l'Assemblée des Commerces. Un mot de votre part, et des ressources seront mises de côté pour sa réalisation.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les Missions Diplômatiques seront déverrouillées.</font><br></br>
+Rénovation Terminée
+L'Assemblée des Commerces a été rénovée. Des diplomates de Stormfall ont préparé des caravanes et prévoient de nombreuses missions vers les états voisins, dont beaucoup sont prêtes et attendent ton autorisation.
+L'Assemblée des Commerces a été rénovée, vous permettant d'envoyer des diplomates en missions de commerce.
+Établir un Contact: 'Le Curateur'
+Après avoir fait ses recherches au Marché Noir, Mohabi a découvert une entité appelée 'Le Conservateur', quelqu'un qui arbitre les disputes entre prestataires de service et clients. Il parait aussi que cette personne a accès à des Réactifs Éthérés qui peuvent altérer la manière dont certains objets interagissent avec le monde.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Le Projet "Procurer des Réactifs Éthérés" sera disponible.\nLe Projet "Établir un Contact: 'Forgeron de l'Ombre'" sera déverrouillé.</font><br></br>
+Contact Établi : 'Le Curateur'
+Après bien des délibérations et conversations illicites (et des offres généreuses de profit), le Curateur se décida à vous accueillir comme client du Marché Sombre. Il sera prêt à créer une sélection de Réactifs Éthérés pour vous ; il pourra aussi vous mettre en contact avec d'autres prestataires et leurs services si vous le souhaitez.
+Vous pouvez maintenant vous procurer des Réactifs Éthérés et établir de nouveaux contacts via le Curateur.
+Construire la Forge de Transmutation
+Les plans de Demetra pour sa Forge de Transmutation ont été finalisés et attendent votre autorisation.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Le Projet "Transmuter Objet" sera déverrouillé.\nLe Projet "Améliorer Forge" sera déverrouillé.</font><br></br>
+Construction Complétée
+La construction de la Forge de Transmutation est terminée. Maintenant qu'elle est prête, Demetra vous invite à y jeter vos affaires superflues. Elle a hâte de voir les résultats.
+La Forge de Transmutation est construite, vous permettant de transmuter des objets et de l'équipement.
+Améliorer la Forge
+Demetra a expérimenté des manières de rendre le procédé de transmutation plus puissant. Elle croit que si elle peut trouver une moyen plus efficace de canaliser l'énergie qui crystallise le procédé de transmutation, il se peut que l'objet transmuté soit d'une plus grande rareté.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Donne une chance que les objets transmutés soient plus rares.</font><br></br>
+Forge de Transmutation Améliorée
+Après un peu de rafistolage, Demetra a réussi a modifier les capacités de la Forge de Transmutation. Elle dit que les chances que cela arrive restent assez basses, mais tout objet que vous placez dans la forge a des chances d'émerger comme objet totalement neuf, avec un plus haut rang de rareté que son prédécesseur.
+La Forge de Transmutation a été améliorée, les objets transmutés peuvent maintenant être d'une plus grande rareté.
+Construire la Banque
+Des plans ont été ébauchés pour la Banque de Diamant. Une fois que les ressources nécessaires ont été redirigées, la construction peut commencer immédiatement.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Déverrouille un emplacement de Planque supplémentaire.\nLes projets "Améliorer le Coffre" seront déverrouillés.</font><br></br>
+Construction Complétée
+La construction est terminée et la Banque de Diamant est ouverte aux affaires. Si vous avez besoin d'entreposer vos affaires inutilisées, votre coffre peut servir à les conserver.
+La Banque de Diamant a été construite, vous permettant d'entreposer des objets et de l'équipement dans son coffre-fort.
+Récupérer l'Artéfact d'Anankis
+Les nobles ont enterré 'l'Arche d'Anankis' dans une grotte, craignant la terreur qu'elle avait infligée à l'équipe qui l'avait découverte. Si on leur ordonne, ils enverront une équipe de Foudrelames par la mer récupérer l'artéfact, le ramener au palais et en ta possession. Ils croient que vous pourrez en découvrir les secrets et manier son pouvoir, quel qu'il soit, car vous n'êtes pas étranger aux phénomènes primordiaux.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Un gage supplémentaire des Aspects de l'Apocalypse sera déverrouillé.</font><br></br>
+Artéfact Récupéré.
+L'artéfact d'Anankis a été récupéré. Après que les Foudrelames l'aient transféré en votre possession, vous l'avez amené à ta chambre au palais avant de retirer le voile. Quand vous l'avez retiré, vous vous êtes rendu compte que c'était un petit conténaire, et qu'à l'intérieur il y avait une tablette métallique lisse gravée de symboles qui, bien que vous ne les ayez jamais vus, vous semblaient intuitivement compréhensibles. Vous avez ressenti sa connaissance grandir en vous, inculquant l'image d'un nouvel Aspect en votre esprit. Vous avez ressenti qu'il y avait d'autre artéfacts comme celui-ci. Peut-être qu'eux aussi pourraient renforcer votre accord avec les forces magiques du monde...
+'L'Arche d'Anankis' a été récupérée, vous donnant accès à un autre Aspect de l'Apocalypse.
+Construire le Laboratoire d'Enneract
+Demetra a conçu des plans pour son nouveau laboratoire, et une liste de tous les outils dont elle aura besoin pour dupliquer des enneracts. Un mot de votre part, et elle pourra mettre en place tout ce dont elle a besoin.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Déverrouille la fonctionnalité de Duplication de Compétence au stand de Demetra.\nLe Projet "Améliorer le Laboratoire : Outils de Diamant" sera déverrouillé.</font><br></br>
+Construction terminée
+La construction sur le Laboratoire d'Enneract est terminée. Demetra a tous les outils dont elle a besoin pour le procédé de duplication et attend maintenant vos ordres.
+Le Laboratoire d'Enneract a été construit, vous permettant de dupliquer les Enneracts.
+Construction de la Chambre Siphon
+Des plans ont été ébauchés pour la Chambre Siphon de Demetra. Elle semble un peu trop pressée d'extraire l'énergie magique en vous, mais l'or que vous recevrez en retour devrait largement vous compenser. Quand vos serez prêt, elle commencera à arranger sa construction.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les Projets qui convertissent l'Affinité Primordiale en Or seront disponibles.</font><br></br>
+Construction Complétée
+Le travail sur la Chambre Siphon de Demetra est terminé. Il va sans dire qu'elle veut l'essayer à la première opportunité.
+La Chambre Siphon a été construite, vous permettant de convertir l'Affinité Primordiale en Or.
+Construire l'Instillateur
+Demetra a ébauché quelques plans pour son Instillateur d'Energie. Elle semble moins guillerette à l'idée de se séparer de ses stocks d'énergie magique, mais il semble juste qu'elle vous donne l'opportunité de trouver l'énergie dont vous avez besoin. Elle est prête à la mettre en place quand vous le direz.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issue :</font><br></br>\n<font color="#509FFF">Les Projets qui convertissent l'Or en Affinité Primordiale seront déverrouillés.</font><br></br>
+Construction Complétée
+Demetra a fini d'assembler son Siège d'Injection. Elle n'est pas trop pressée que vous l'essayiez, mais il est prêt pour vous si vous en avez besoin.
+Le Siège Injecteur a été construit, vous permettant de convertir de l'Or en Affinité Primordiale.
+Rénover le Chantier Naval
+Le Chantier Naval de Stormfall n'ont pas vu d'action depuis trop longtemps. Ses constructeurs sont connus dans tout le continent pour la dextérité de leurs mains dans la poursuite de leur artisanat, et la magnificence des vaisseaux qui en sont nés. Dans toute la cité, bien des citoyens ont attendus avec hâte le retour de Stormfall sur la mer, pour que leurs esprits curieux et explorateurs puissent se déchaîner sur les vagues. Peut-être qu'il est temps de les satisfaire.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les projets nécessitants des vaisseaux seront déverrouillés.</font><br></br>
+Rénovation Terminée
+Le Chantier Naval de Stormfall est une fois de plus ouvert au public, et les vieux constructeurs de Stormfall, entendant qu'on avait encore besoin de leurs mains, revenues rendre service. Avant longtemps, le Chantier Naval donnait naissance à de nouveaux vaisseaux, donnant à Stormfall de quoi revenir sur la mer en poursuite de ses buts.
+Le Chantier Naval a été rénové, te permettant de commencer des Projets qui nécessitent des vaisseaux.
+Améliorer Coffre Personnel
+Si vous le souhaitez, Mohabi croit qu'il y a plein de place pour étendre votre coffre personnel dans la Banque de Diamant. Après tout, on ne peut jamais avoir trop de butin, et il serait dommage de jeter vos trésors sans raison.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Un nouvel emplacement de Planque sera déverrouillé.</font><br></br>
+Coffre Personnel Amélioré
+Bien que certains architectes conseillant le projet craignaient que creuser trop loin sous la banque la rendrait instable, l'expansion du coffre s'est déroulée sans accrocs sérieux. Avec ce nouvel espace, vous seriez capable de stocker plus de trésors trouvés lors de vos aventures.
+Votre coffre personnel a été amélioré, déverrouillant un nouvel emplacement de planque.
+Améliorer le Laboratoire : Outils de Diamant
+D'après Demetra, chaque fois qu'un Enneract est dupliqué, la structure de chaque copie change, devenant plus complexe et difficile à analyser. Sans outils neufs et précis avec lesquels réaliser la minutieuse procédure, elle serait incapable de créer de nouvelles copies au delà de celles qu'elle peut déjà créer.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Demetra sera capable de créer deux copies de chaque compétence sous son stand.</font><br></br>
+Laboratoire amélioré
+Forger des outils en diamant est déjà pénible, puisque cela demande une chaleur considérable pour réchauffer le matériau et le combiner à du métal. Cependant, sous la supervision de Demetra, des nouveaux outils ont été manufacturés ; elle devrait être capable dorénavant d'entreprendre la procédure minutieuse pour dupliquer un enneract une seconde fois.
+Le Laboratoire d'Enneract a été amélioré, lui permettant de dupliquer des Enneracts une seconde fois.
+Établir un Contact : 'Sombre Forgeron'
+Mohabi a entendu parler de quelqu'un au Marché Sombre capable de créer des versions de meilleure qualité des objets qui lui sont donnés. Avec l'investissement approprié, Mohabi devrait pouvoir contacter cette personne, le 'Sombre Forgeron', et la persuader d'offrir leur services.\n\nDemandez à Mohabi d'établir le contact avec le 'Sombre Forgeron'.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Le Projet "Augmenter Qualité d'Objet" sera déverrouillé.\nLe Projet "Établir le Contact : Enfant d'Or" sera déverrouillé.</font><br></br>
+Contact Établi: 'Sombre Forgeron'
+À la demande du Curateur, le Sombre Forgeron s'est réuni avec Mohabi. Après discussion, le Sombre Forgeron a présenté son accord pour vous offrir ses services métallurgiques.
+Vous pouvez demander au Sombre Forgeron de construire des versions de plus haute qualité de vos objets.
+Établir le Contact: 'EnfantD'Or'
+Mohabi croit avoir trouvé quelqu'un au Marché Sombre qui est capable de prendre n'importe quel objet et en trouver une version plus rare. Tout ce qu'il sait pour le moment est l'alias de son contact : l'EnfantD'Or. Si Mohabi avait les ressources nécessaires, il pense qu'il pourrait trouver cet 'EnfantD'Or' et le convaincre d'offrir ses services.\n\nDemandez à Mohabi d'établir un contact avec 'EnfantD'Or'.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Le Projet "Augmenter Rareté D'Objet" sera déverrouillé.\nLe Projet "Établir le Contact : 'Sombre Forgeron'" sera déverrouillé.</font><br></br>
+Contact Établi : 'EnfantD'Or'
+L'EnfantD'Or n'a pas été facile a trouver, mais à l'aide du Curateur, Mohabi a pu établir un contact. Après les formalités nécessaires fûrent passées (l'Enfant insista que Mohabi avale une pépite d'or pour témoigner de sa bonne fois), l'EnfantD'Or donna son accord pour vendre ses services.
+Vous pouvez maintenant demander à l'EnfantD'Or de procurer vos objets à un niveau plus haut de rareté.
+Établir le Contact: 'L'Éthèréen'
+Mohabi a entendu des murmures de celui qu'on appelle 'Éthéréen', quelqu'un au Marché Sombre qui vit entre les mondes des vivants et des mrots. Apparement, elle peut accroître la puissance des Réactifs Éthérés par un rituel, dont les détails font l'objet de folles spéculations. Aucun marchand ordinaire n'oserait poser son regard sur ces Réactifs, encore moins les améliorer avec un maudit rituel. Mais, si c'est ce que vous désirez, et si vous investissez les ressources nécessaires, Mohabi pourra établir un contact avec cet 'Éthéréen'.\n\nDemandez à Mohabi d'établir le contact avec 'l'Éthéréen'.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Le Projet "Augmenter Rareté du Réactif" sera déverrouillé.</font><br></br>
+Contact Établi : 'L'Éthéréen'
+Selon le Curateur, l'Éthéréen est un paria, dont les pratiques effraient même les gens louches qui gagnent leur vie par le Marché Sombre. Cependant, à la demande de Mohabo, le Curateur l'a dirigé vers l'Éthéréen. Une reunion s'en est suivie, conclue par un marché entre les deux.
+Vous pouvez maintenant convertir les Réactifs Éthérés en version légendaire via l'Éthéréen.
+Repérez "L'Écho du Souvenir"
+Une rumeur parcourt le Marché Sombre au sujet d'un encens spécial concocté par un alchimiste dans les contrées sauvages près de Trois-Pics. Cet encens est nommé "Écho de Souvenir", et selon les rumeurs, transporte ceux qui le consomment à leurs expériences passées, leur imaginations droguées conjurant toute sortes d'embellissements au souvenir original. Bizarrement, ceux qui survivent à l'expérience gardent les objets auxquels ils sont attachés dans le souvenir, menant certains à spéculer que l'encens ne fait pas qu'altérer l'esprit… Si vous voulez essayer vous-même, peut-être que Mohabi pourra repérer cet alchimiste mystérieux de Trois-Pics.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Vous recevrez un Consommable d'Expédition Uber Boss.</font><br></br>
+Écho du Souvenir Repéré
+Après une recherche longue et ardue, Mohabi a pu contacter cet alchimiste de Trois-Pics. Il a peu de souvenirs de la rencontre, et n'a pas pu décrire les traits de l'alchimistes en détail. Qu'importe ce qui s'est passé durant cette rencontre, elle a fini avec une sorte d'encens dans le poing de Mohabi. Il peut seulement supposer que c'est "l'Écho du Souvenir". Il n'y a qu'un moyen de le savoir...
+Mohabi s'est procuré une drogue psychotrope.
+Augmenter la Qualité d'Objet
+Le Sombre Forgeron possède les moyens d'accroître la qualité de tout objet au travers un procédé de métallurgie qui n'est connue que de lui. Avec un investissement de vos ressources, il sera prêt à traverser ce procédé pour l'un de vos objets.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Votre objet choisi sera remplacé par une version de plus haute qualité.</font><br></br>
+Qualité d'Objet Augmentée
+Après avoir donné votre objet au Sombre Forgeron, Mohabi a été escorté hors de l'atelier pour attendre dans la rue. Les bruits que Mohabi a entendu n'avaient pas de sens, pas les sifflements et martèlements habituels auxquels on pourrait s'attendre du procédé de métallurgie. On aurait presque dit qu'il y avait quelque chose de vivant là-dedans, criant en extase tandis que le Forgeron travaillait.
+Le Sombre Forgeron a crée une version de plus haute qualité de votre objet
+Augmenter la Rareté d'Objet
+L'EnfantD'Or et leurs affiliés ont accès à une grande collection d'objets et d'équipement venant de tout Wolcen. Avec les fonds nécessaires, l'EnfantD'Or serait volontaire pour prendre un objet de votre choix et vous procurer une version de plus haute rareté de son trésor. Cela prendra un moment, bien sur, une telle collection prend des jours à parcourir...\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Votre objet choisi deviendra une version de plus haute qualité.</font><br></br>
+Rareté d'Objet Augmentée
+Après avoir confié ton objet à l'Enfant d'Or, Mohabi s'est vu refuser l'entrée dans leur collection et dire de revenir une autre fois. Après son retour, Mohabi a obtenu l'objet demandé, et c'était une amélioration marquée comparé à ce qu'tu avais auparavant.
+L'Enfant d'Or a apporté une version plus rare de ton objet.
+Augmenter la Rareté des Réactifs
+Avec les ressources nécessaires, l'Ethéréen prendra n'importe quel réactif en ta position et le changera pour en améliorer les effets. On en sait peu sur le procédé autour d'une affaire, mais étant donné la connexion de ces lieux à l'Erièbe et l'Abysse\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Ton Réactif sera transformé en sa contrepartie légendaire.</font><br></br>
+Rareté des Réactifs Augmentée
+Après un procédé long et difficile (les détails duquel Mohabi ne veut pas divulguer), L'Éthéréen a pu convertir ton réactif en sa contrepartie légendaire.
+L'Éthéréen a converti ton réactif en sa version légendaire.
+Archipel Baktoraï
+On en sait peu des îles Baktoraï, et ce qu'on sait est un mélange douteux de témoignages et de colportages de grand-mère. Des enlèvements en pleine nuit, des sorcières arrachant les bébés du ventre de leur mère, des marchands d'ivoire construisant des machines étranges à partir de dents d'hommes.\n\nÀ cause de leur richesse et leurs pratiques occultes sadiques, beaucoup d'artéfacts demeurent ici, tout comme les effets volatiles de leur magie.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin Reçu : Accessoires.</font><br></br>
+Expédition Baktoraï
+Naviguer l'Archipel de Baktoraï s'est révélé difficile pour les Chercheurs. En chassant du trésor, un nombre d'escarmouches a éclaté avec les occultistes qui errent sur l'île. Les Chercheurs ont relevé le défi, et sont parvenus à vaincre les forces occultistes, trouvant éventuellement une structure souterraine sous l'une de leurs îles. Là ils ont trouvé plein d'artéfacts dignes d'être collectés, et les ont ramenés à Stormfall.
+Tes Chercheurs sont revenus de l'Archipel Baktoraï avec des Accessoires.
+Terrains de Chasse C'tuliens
+La cité de C'tul est portée par deux bêtes gigantesques, comme beaucoup le savent. Mais la plupart ne savent rien des autres animaux étranges qui se cachent dans leur territoire. Des proies légendaires se dissimulent dans les bosquets, leur squelette d'une forme inexplicablement escarpée, leurs peaux incomparablement épaisses.\n\nIl faudra les bras les plus forts et les chasseurs les plus rusés pour ramener un trophée.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Armure de Roublard.</font><br></br>
+Expédition C'tul
+Pendant le séjour à C'tul, les Chercheurs ont du rester sur leurs gardes. Ils ont marché sur les traces de créatures gigantesques, vu des silhouettes tordues voltiger dans leur champ de vision et entendu les croassements grotesques de monstres faire écho dans la forêt. Ils eûrent la chance de trouver un chasseur C'tulien, entièrement décapité, mais armure encore intacte.
+Vos Chercheurs sont revenus des Terrains de Chasse C'tuliens avec de l'Armure Roublarde.
+Les Friches Rouges
+Le sang d'un millier de soldats n'a pas pu étancher la soif des Friches Rouges. Avant que Stormfall ne soit Stormfall, avant que la République ne soit la République, les batailles faisaient déjà rage sur ces sables. Maintenant, seuls les os de héros anciens et leurs armures de plaques vides restent là où des âmes en guerre se tenaient autrefois.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Armure Lourde.</font><br></br>
+Expédition Friches Rouges
+Les Friches Rouges ont été dures pour les Chercheurs, assèchant l'eau de leurs corps et traînant leurs jambes dans le marais séché du sable désertique. Heureusement pour eux, ce n'a pas été long avant qu'ils ne trouvent le site d'une vieille bataille. Ils ont délogé du sable les armures qui n'étaient pas irréparablement rouillées et ont pu quitter les Friches sans blessés.
+Tes Chercheurs sont revenus des Friches Rouges avec de l'Armure Lourde.
+Ruines de Cordanon
+La corruption charnelle de Cordanon est en putréfaction. Des hectares sans fin de viandes pourries y restent, sans survivants pour les dégager et sans seigneur pour s'en réclamer. Un trésor de bijoux de familles et de fortunes reposent sous les viscères, et les morts n'en ont plus l'utilité.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Or.</font><br></br>
+Expédition Cordanon
+Vos Chercheurs ont passé des jours à peigner les montagnes de corps amalgamés à Cordanon. Dans la chair, ils ont pu faire collection d'une véritable horde d'or. L'expédition n'est pas bien passée chez un nombre de Chercheurs ; piller les corps de ceux qui sont morts de manière si grotesque, sans enterrement ou recours pour leur souffrance. Mais après tout, cet or allait être gaspillé, et des personnes bien moins recommandables auraient pillé ces cadavres si Stormfall ne le faisait pas.
+Vos Chercheurs sont revenus des Ruines de Cordanon avec de l'Or.
+Couloirs d'Anankis
+Les Couloirs d'Anankis ont été bien silencieux depuis que leur noyau d'énergie s'est éteint. Il demeure une activité démoniaque, mais nos académiciens ont pu récurer les grands passages. Ils contiennent des traces bien préservées des Premiers Hommes.\n\nEncore plus intéressant, il semblerait qu'ils aient vécus au service d'êtres aux pouvoirs illimités capables de pratiquer une magie bien plus grande que tout sorcier à notre connaissance. Une étude plus poussée pourrait révéler quelque chose sur nos ancêtres.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Armure de Mage.</font><br></br>
+Expédition Anankis
+Tes Chercheurs ont erré les couloirs d'Anankis, se battant au travers le Passage du Contrebandier. Le voyage était ardu, et nous avons perdu quelques hommes, mais ils ont atteint Anankis sans trop de dommages. Ce ne fut pas long avant qu'ils ne découvrirent des armures abandonnées par les Premiers Hommes ; certaines en tombes, d'autres étalées sur les plateformes, trépassées dans un conflit antique.
+Vos Chercheurs sont revenus d'Anankis avec de l'Armure de Mage.
+Nécropole Urhan
+Les forces de Yudaï hantent encore la Nécropole en faibles vagues. Les efforts pour trier les os et les artéfacts à l'intérieur fûrent complexes, mais ils ont révélé que beaucoup ont étés enterrés pendant la construction de la Nécropole. La structure ne correspond à aucune architecture dévelopée par des humains, et pourtant on ne peut la considérer comme une construction similaire aux Halls d'Anankis. Le bâtiment a visiblement été bâti des millénaires après.\n\nQui a donc pu en surveiller la construction?\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin Reçu : Catalyseurs.</font><br></br>
+Expédition Nécropole
+Trouver une entrée à la Nécropole n'était pas facile, mais c'était un défi à la hauteur des Chercheurs. Après quelques jours à chercher un moyen d'entrer, ils ont trouvée une porte cachée - une fissure dans l'un des murs, formée par les mouvements de la terre. À l'intérieur, ils ont trouvé un mausolée contenant les sarcophages d'Urhans morts depuis longtemps, les anciens gardiens de la création, et à l'intérieur de l'un d'eux, un catalyseur résonnait d'une aura magique.
+Tes Chercheurs sont revenus de la Nécropolis avec un Catalyseur(s).
+Désert Laibonite
+Quand la force militaire de Laibon était encore coordonnée par l'état, une hiérarchie stricte était en place. Les guerriers qui s'engageaient dans des opérations secrètes ou déshonorables n'avaient pas droit à des obséques traditionnelles. Ceci était vrai même s'ils ne faisaient que suivre des ordres. Quand ils ressentaient les dernières affres de l'âge ou de la maladie, ces guerriers porteraient leurs boucliers blasonnés dans le désert, cherchant un dernier adversaire à affronter, qui leur apporterait l'honneur.\n\nLa population locale risque de considérer la profanation des morts comme sacrilège. Il est difficile de le leur reprocher.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Boucliers.</font><br></br>
+Expédition Désert Laibonite
+L'expédition des Chercheurs au désert Laibonite a porté ses fruits. Après avoir scruté chaque bosse et dépression dans le sable, ils ont découvert les squelettes mutilés d'anciens guerriers ; ceux qui étaient morts dans l'honneur, mais seuls au final, devant les monstres du désert. Les guerriers étaient armés seulement de boucliers, comme s'ils avaient refusé l'éventualité de tuer leurs adversaires et survivre.
+Vos Chercheurs sont revenus du Désert Laibonite avec un Bouclier(s).
+Fort-Putride
+Les Purificateurs Républicains gardent leurs forts avec une ferveur jalouse, et nul autant que Fort-Putride, qui est marqué d'une victoire distinguée. Le Grand Inquisiteur Heimlock a lui-même reconquéri Fort-Putride quand il était jeune, le changeant en symbole plutôt qu'une forteresse.\n\nCette insigne brillante est souillée. Les Forces Républicaines arrivent en plus grand nombre chaque jour, tentant d'étouffer une émergence du sein de la forteresse. Si seulement on pouvait savoir quelle était cette émergence.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Batons.</font><br></br>
+Expédition Fort-Putride
+Infiltrer Fort-Putride a été difficile, mais tes Chercheurs y sont arrivés sans alerter les soldats Républicains stationnés au lien entre les Chercheurs et Stormfall. Au sein du labyrinthe de la forteresse, dans une chambre secrète, les Chercheurs ont découvert une petite archive, l'ancien logis d'un mage qui était stationné ici autrefois, et un baton avec une aura puissante.
+Vos Chercheurs sont revenus de Fort-Putride avec un Baton.
+La Côte des Épaves 
+La Flotte Radieuse navigue fièrement dans son revêtement de diamant, perçant les vagues de la Mer des Tourments. Un autre destin attend ceux qui ont la sottise de les suivre sans payer pour leur aide.\n\nIls deviennent partie du décor.\n\nLa mer échoue des fragments de vieilles histoires et anciennes tragédies sur ses rivages. Pour ceux qui ne se soucient pas des histoires, les ares de débris ont un usage plus prosaïque.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Boost de Productivité Temporaire.</font><br></br>
+Expédition à la Côte
+Bien que la côte ait été périlleuse, vos Chercheurs ont pu naviguer les carcasses de vaisseaux le long de la Côte des Épaves. Ils les ont démantelés le long du chemin, s'appropriant tout ce qui pouvait servir à Stormfall. Il n'ont pas osé rester longtemps, de peur que leurs propres vaisseaux s'écrasent contre la rive rocheuse.
+Vos Chercheurs sont revenus de la Côte des Épaves avec des matériaux, créant un boost de Productivité.
+Rives Inconnues
+C'est une chose de traverser la mer sans fin jusqu'au continent de l'Est, une autre encore de jeter l'ancre sur ces rives. Peu ont pu naviguer les vagues turbulentes de ces côtes. Encore moins ont mis le pied sur ces plages. Archion détient les seuls rôdeurs qui sont revenus du continent, et ils ne comptent pas partager ces cartes rares dessinées par les voyageurs.\n\nUn des vaisseaux les plus magnifiques de Stormfall, la Tempête, a été envoyée au continent de l'est, et n'est jamais revenu. Nous avons envoyé son successeur, la Tempête II, sur la même route, espérant compenser notre investissement.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin Reçu : Random.</font><br></br>
+Expédition aux Rives Inconnues
+Après être partis pour les Rives Inconnues, les Chercheurs ont découvert une petite île. Il y avait une colonie là-bas, en parfaite condition. On aurait dit que ceux qui y vivaient étaient partis il y a quelques instants : les feux pleins de braises, les bêtes cuisant sur des brochettes ; des fours brûlants et du métal fondu attendant d'être versé dans un moule. Malgré leurs recherches assidues, les Chercheurs n'ont pas pu trouver les habitants. Tout ce qu'ils ont trouvé était une note sur un coffre au centre du village. Elle disait : 'Un cadeau'.
+Vos Chercheurs sont revenus des Rives Inconnues avec un Butin au Hasard.
+Installation de Recherche Régicide
+Le peu d'informations dégagées sur cette installation indique un centre d'ingénierie d'armes près de la frontière Républicaine. Le lieu semble avoir une façade d'auberge pour voyageurs, mais de grands convois de soldats républicains font des voyages fréquents de l'installation, souvent plus lourds à leur départ qu'à leur arrivée.\n\nIls doivent receler des fournitures militaires précieuses, mais probablement bien protégées.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin Reçu : Pistolets.</font><br></br>
+Expédition Installation Régicide
+Vos Chercheurs ont atterrit à l'Installation de Recherche Régicide dans les premières heures du matin. Ils ont pu s'infiltrer sans être aperçus des gardes stationnés sur l'île. Une fois à l'intérieur, ils se sont vite frayés un chemin, disposant de tout garde en chemin avec une précision rapide et muette. Après avoir trouvé l'un des laboratoires de l'installation, ils ont découvert un prototype d'arme enfermé dans une barrière magique. Ils ont forcé la barrière, déclenchant une alarme. Heureusement, ils ont pu s'échapper, et ont ramené l'arme à Stormfall.
+Vos Chercheurs sont revenus de l'Installation Régicide avec un Fusil Légendaire.
+Cimetière du Clan Larme de Sang
+Le Clan Larme de Sang est un ensemble de guerriers nomades bannis de Varg et condamnés à une vie de guerre et de travail de mercenaire. Leurs sites funéraires sont souvent loin des sentiers battus. Les chefs de famille connaissent souvent une fin violente et sont enterrés avec toutes leurs richesses mortelles, leur partenaire, et leurs serviteurs à leurs côtés. Mais tous ne dorment pas en paix.\n\nDe temps en temps, les serviteurs du Clan Larme de Sang plantaient un petit sac de cheveux et de dents sur les tombes pour venger leurs pairs. Certains parlent de bêtes à trois bouches qui émergent de la terre comme des arbres, et accrochent leur petites dents aux gorges des passants.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Armure Guerrière.</font><br></br>
+Expédition Cimétière
+Vos Chercheurs sont arrivés au Cimetière sans trop de problèmes. Il y avait des tombes, leurs pierres arrangées pour se faire face. Chaque pierre avait la même épitaphe : "Ne pleurez pas pour nous, car nous sommes morts en pleurant le sang de nos ancêtres." La plupart des armures sur les cadavres étaient perforées, mais l'une des armures était plus ou moins intacte. C'était un ouvrage magnifique, d'ailleurs.
+Vos Chercheurs sont revenus d'un Cimetière avec une Armure de Cogneur Légendaire
+Faille Abyssale
+La terre a tremblé à Stormfall quand Gernese s'est tenu face au Grand Inquisiteur Heimlock, mais ce tremblement n'était qu'un écho de ce qui se passait au nord. Nos contacts à Varg ont répandu la nouvelle ; la crevasse qui déchirait le nord s'était élargie. Ce n'est pas une cicatrice tectonique ordinaire. La faille déforme toute lumière, son, et émet un jet de démons qui repousse les habitants de Varg hors de leurs maisons. Nous devrions enquêter avant que la situation soit hors de contrôle.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Réactifs Éthérés Légendaires.</font><br></br>
+Expédition Faille Abyssale
+L'expédition des Chercheurs à la Faille Abyssale était pleine de dangers. Y parvenir était déjà difficile, mais une fois là-bas, les énergies de l'Abysse était trop pour même les plus fortes têtes. Certains Chercheurs succombèrent à ses émanations ahurissantes, perdant tout sens de leur ego. Ceux qui sont restés ont poussé jusqu'au bout, se fortifiant contre les ténèbres qui étranglaient leurs coeurs. Leurs efforts fûrent récompensés : ils sont revenus à Stormfall avec des Réactifs Éthérés surpuissants.
+Vos Chercheurs sont revenus de la Faille Abyssale avec des Réactifs Éthérés Légendaires.
+Sanctuaire d'Ezaneal
+Les fidèles d'Ezaneal n'expriment pas leur foi par la prière, mais en devenant des innovateurs, ingénieurs, et experts dans la technologie d'avant-garde. Ses temples sont cachés sous les océans, dans les sables des déserts, derrière des chûtes d'eau, où nul ne peut intervenir dans ce qu'ils considèreraient des inventions 'irresponsables'. Ceux qui sont attirés par Ezaneal cherchent le pouvoir, ou cherchent à défendre leur pouvoir. Ils créent des armes à feu pour calmer cette angoisse, jusqu'à ce que quelqu'un crée une arme plus puissante.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Armes au Hasard.</font><br></br>
+Expédition au Sanctuaire d'Ezaneal
+Les cultistes qui vénèrent Ezaneal n'ont pas apprécier l'intrusion des Chercheurs sur leurs sanctuaires. Un combat a commencé, et bien que les Chercheurs n'aient pas eu raison de leurs adversaires, ils ont pu piller une quantité d'armes de haut calibre avant de s'échapper.
+Vos Chercheurs sont revenus d'un Sanctuaire d'Ezaneal avec un assortiment d'Armes.
+Terre des Écorcheurs
+Des pieux percent des cranes momifiés. Les ponts pendent de cordes d'intestin séché. Les prisoniers sont enterrés jusqu'au cou et laissés à mourir de soif. Les Écorcheurs sont un prédateur lent et sans relâche sous le poids de leurs épées claymore. Ils n'échangeront sans doute pas avec Stormfall, car ils sont sans-État, et Stormfall est l'État.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Armes de Mêlée à Deux Mains.</font><br></br>
+Expédition des Écorcheurs
+L'incursion des Chercheurs dans le territoire des Écorcheurs était une bataille sanglante. Après quelques escarmouches, les Chercheurs ont dégagé une petite section du territoire pour piller le meilleur équipement sous leurs mains. Les seules choses qui en valaient la peine étaient des armes, gigantesques et forgées pour écraser les malchanceux qui rencontrent un Écorcheur.
+Vos Chercheurs sont revenus de la Terre des Écorcheurs avec des Armes de Mêlées à Deux Mains.
+Les Chercheurs sont revenus
+L'expédition s'est avérée trop difficile pour les Chercheurs. À mi-chemin, ils sont tombés dans une embuscade de bandits des grands chemins, perdant beaucoup d'hommes. Toutefois, ils ont pu vaincre leur chef, et ont ramené quelques trésors qui étaient en leur possession.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu ramener du butin.
+Les Chercheurs sont revenus
+À mi-chemin dans leur expédition, vos Chercheurs ont été forcés de rebrousser chemin vers Stormfall. Le temps était bien pire qu'ils n'auraient pu anticiper, et de nombreux Chercheurs ont commencé à souffrir et mourir à cause des éléments. Ne souhaitant pas risquer plus de vies, les hommes restants sont revenus, fouillant quelques bâtiments abandonnés pour ne pas revenir les mains vides.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu ramener du butin.
+Les Chercheurs sont revenus
+Après être arrivés à destination, les Chercheurs ont commencé à explorer. Ils ont trouvés quelques denrées ça et là, mais de la qualité ou de la quantité qu'ils recherchaient. Malgré cela, ils considèrent que l'expédition a été un succés modéré.
+Vos Chercheurs sont arrivés à destination, mais n'ont pas trouvé le butin qu'ils cherchaient.
+Les Chercheurs sont revenus
+En voyageant vers leur destination, quelque chose de brillant sur l'horizon a frappé l'oeil des Chercheurs. La curiosité, étant leur trait le plus précieux, les a poussés à enquêter. Ils ont découvert une maison abandonnée et trouvé que la source de la lumière était une cuirasse de plaques abandonnée sur le proche. Voyant ce qu'il y avait à l'intérieur, ils ont décidé que ce trésor valait bien le voyage et sont revenus à Stormfall.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont découvert un magot à la place.
+Les Chercheurs sont revenus
+Vos Chercheurs, malgré tous leurs efforts, n'ont pas pu résister au tempérament volatile de la mer. Toutefois, après avoir perdu leur chemin, ils ont rencontrés un autre vaisseau, déchiré par une force de la nature inconnue. Ils ont pu récupérer quelque chose du naufrage, donc le voyage n'est pas un échec total.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu ramener du butin.
+Les Chercheurs sont revenus
+Sur les océans, vos Chercheurs ont été interceptés par une petite bande de pirates. Cependant, avec une manoeuvre experte, ils ont pu déjouer leurs agresseurs et naufrager leurs vaisseaux. À cause de leurs lourdes pertes, vos Chercheurs ont considéré qu'il serait prudent de rentrer. Ils étaient, cela dit, en mesure de piller les vaisseaux coulés.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu ramener du butin.
+Les Chercheurs sont revenus
+Pour vos Chercheurs, la mer s'est révélée être une bête farouche. Après avoir perdu leur chemin, ils ont jeté l'ancre sur une île. En explorant l'île pour un moyen de réparer leur vaisseau, ils ont trouvé un vieux mausolée. À l'intérieur, ils ont trouvés un nombre de sarcophages, certains des morts enterrés avec leurs objets précieux. N'étant pas connus pour délaisser une telle opportunité, ils ont pillé le mausolée et sont rentrés à Stormfall avec leurs trouvailles.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu ramener du butin.
+Les Chercheurs sont revenus
+En chemin vers leur destination, vos Chercheurs se sont perdus, naviguant sur des eaux dont ils n'avaient aucune connaissance. Confus - ils avaient suivis leur route habituelle - ils se sont retrouvés encalminés au milieu de nulle-part. Un soir, pendant qu'un de vos Chercheurs scrutait l'horizon, elle remarqua quelque chose qui dépassait de la surface placide. C'était un village - inondé depuis un temps seul connu des Primordiaux - et après y avoir plongé, ils ont trouvé de quoi compenser leurs malheurs.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu ramener du butin.
+Les Chercheurs sont revenus
+Il semblerait que vos Chercheurs aient rencontrés un obstacle, car s'ils avaient connu le succès et suivi leur plan, ils seraient revenus à Stormfall depuis longtemps. Il est improbable qu'ils reviennent.
+Vos Chercheurs ne sont pas revenus de l'expédition.
+Les Chercheurs sont revenus
+Une fois vos Chercheurs arrivés à destination, ils l'ont fouillée pendant des jours, cherchant tout signe de butin ou trésor qui aurait pu vous enrichir, vous et la cité de Stormfall. Malheureusement, après avoir cherché partout, leurs efforts n'ont rien révélé. Fatigués et déçus, ils sont revenus à Stormfall les mains vides.
+Vos Chercheurs reviennent les mains vides.
+Vos Chercheurs sont revenus.
+Vos Chercheurs sont parvenus à destination, leurs muscles brûlant de l'effort du voyage. Ils se sont sentis motivés par la promesse d'un trésor mais ont été obligés de rentrer plus tôt que prévu quand des monstres d'un nid avoisinant les ont attaqués.
+Vos Chercheurs sont revenus les mains vides.
+Les Chercheurs sont revenus
+Après avoir atteint leur destination, vos Chercheurs ont débarqué et passé les environs au peigne fin. Malgré avoir tenté chaque piste possible, ils n'ont rien trouvé d'utile sur leur chemin. Manquant de vivres et étant épuisés, vos Chercheurs ont décidé qu'il serait mieux de rentrer à Stormfall, même les mains vides.
+Vos Chercheurs sont revenus les mains vides.
+Les Chercheurs sont revenus
+Bien qu'ils soient parvenus à leur destination, il semblerait que la piste que vos Chercheurs suivaient était fausse, ou du moins que le trésor promis au bout du chemin avait été pillé bien avant leur arrivée. Ou peut-être qu'ils n'ont pas bien cherché. D'une manière ou d'une autre, ils sont rentrés les mains vides.
+Vos Chercheurs sont revenus les mains vides.
+Royaume de Laibon
+Les citoyens de Stormfall parlent de Laibon avec une tournure exotique : ils discutent à volonté du Dieu-Roi disparu qui a abandonné le royaume à l'anarchie, et sa fameuse garde prétorienne.\n\nLa vérité est que Laibon est un pays comme tout autre, épuisé par la guerre que les Libérateurs Républicains amènent à sa porte. Leurs milices civiles ont bien protégé le commerce local, mais il serait mieux de voyager sur la Mer des Tourments pour éviter les fronts de bataille.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Or et Affinité Primordiale.</font><br></br>
+Mission Laibon
+Vos représentant ont été accueillis à bras ouverts par le peuple de Laibon. Bien qu'il n'y ait pas de gouvernement avec qui troquer, beaucoup de marchands et citoyens sont plus qu'heureux de prendre ce que Stormfall leur offre. Après quelques transactions avec la population locale, les wagons étaient pleins d'or et de cristaux d'énergie prêts à revenir à Stormfall.
+Vos diplomates sont revenus de Laibon avec de l'Or et de l'Affinité Primordiale.
+La Cité de Tissarine
+Cette ville n'est sur aucunes cartes et pourtant se développe d'une manière paradoxale. De nouveaux quartiers s'accumulent en motifs serpentins sans vraie organisation urbaine. Malgré cela, les Tissariniens travaillent tous et semblent bien payés par la mystérieuse propriétaire.\n\nC'était assez difficile de prouver l'existence de Tissarine, mais ce sera plus difficile encore de la trouver. Cela dit, la propriétaire achète la discrétion de ses invités avec des pièces d'armures uniques de sa propre collection, et parfois beaucoup plus si on amène le bon bouquet...\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles : </font><br></br>\n<font color="#509FFF">Butin reçu : Armure au Hasard.</font><br></br>
+Expédition Tissarine
+La mission diplomatique à Tissarine est un succès. Après avoir accueilli vos diplomates dans sa maison, la souveraine de Tissarine a accepté le tribut de Stormfall, et en retour, a fait venir l'une de ses armures les plus précieuses de son arsenal personnel.
+Vos diplomates sont revenus de Tissarine avec des Armures.
+Vulkaïn, Joyau d'Acier
+L'existence du Joyau d'Acier est un défi fait au destin : elle repose dans un volcan actif. Bien que dangereuse, cette situation a permi le développement de leur technique de forge employant de la lave, produisant du matériel pratiquement incassable si fait correctement.\n\nVulkaïn est allié à Stormfall comme membre du Concordat des Joyaux. La route est escarpée, mais la cité demeure une ressource précieuse dans le commerce des armes.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Arme de Mêlée à Une Main.</font><br></br>
+Mission Vulkaïn
+Vos diplomates sont revenus de Vulkaïn, des armes de facture experte dans leurs paquets. En tant que cité du Concordat des Joyaux, Vulkaïn était plus qu'heureuse de commercer avec Stormfall, bien que vos diplomates soient revenus quelque peu rougis par l'aventure. Cela va sans dire, mais les tréfonds étouffants de Vulkaïn ne sont pas une destination plaisante pour les affaires.
+Vos diplomates sont revenus de Vulkaïn avec des Armes de Mêlée à Une Main.
+Ville de Havregris
+Dans le nord distant, Havregris est une petite ville étrange épaulée par une forêt d'arbres tordus d'un côté, et des eaux brumeuses de l'autre. Ils font leurs affaires de l'exploitation forestière et la pêche.\n\nBâtir des vaisseaux coûte cher. Pour obtenir du bois à un prix raisonnable, il vaudrait mieux se tourner vers Havregris, bien que les légendes autour de la ville effraient les marchands.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Boost Temporaire de Productivité</font><br></br>
+Mission Havregris
+Vos diplomates ont pu traverser les forêts de Havregris sans trop de difficultés. Ils ont été accueillis par les citadins, qui étaient ravis que Stormfall se soit intéressée à leur modeste ville. Ils ont tenu un festin, et après, Havregris était plus qu'heureuse d'approvisionner Stormfall de bois.
+Vos Chercheurs sont revenus de Havregris avec des matériaux, créant un boost de Productivité.
+Archion, Joyau des Cieux
+Cette étrange île flottante que vous apercevez a un nom. Archion, joyau des cieux, est montée d'une technologie antigravité unique. De son siège dans le ciel, ses habitants sont devenus de cupides esclavagistes.\n\nLe point d'ancre le plus bas d'Archion est sur terre, mais on devrait calculer son voyage avec astuce si on espère y monter pour marchander.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Arcs.</font><br></br>
+Mission Archion
+La caravane est revenue saine et sauve d'Archion. Ils ont atteint la cité flottante juste à temps ; en fait, il ne restait que quelques heures avant qu'elle ne doive re-décoller. Ils ont rencontrés certains des Rôdeurs Transhumants et ont pu troquer quelques arcs exceptionnels.
+Vos diplomates sont revenus d'Archion avec des Arcs.
+C'tul, Joyau de la Chasse
+Deux bêtes titanesques marchent côte à côte dans le Concordat des Joyaux, avec un pont pendant entre elles et une cité reposant sur leur dos : C'tul. Son peuple est fait de chasseurs, liés spirituellement à la jungle.\n\nDes créatures étranges rôdent dans les bois. Elles peuvent être dangereuses pour ceux qui connaissent mal C'tul. On peut tout de même vouloir s'y aventurer, car la cité produit des couteaux de chasse et des dagues faites pour abréger les souffrances autant que possible.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Dagues.</font><br></br>
+Mission à C'tul
+La mission à C'tul a été un succès. Après avoir été accueillis sur les bêtes géantes de C'tul, vos diplomates ont été invités à une chasse. Quand ils sont revenus, les chasseurs ont donné leurs dagues comme présents aux diplomates, le sang de leurs proies séché sur les lames. Un souvenir des vies sacrifiées pour renforcer le lien entre Stormfall et C'tul.
+Vos diplomates sont revenus de C'tul avec des Dagues.
+Salander, Joyau de la Terre
+Salander est le dernier vestige d'un réseau souterrain. Elle héberge une académie pour l'étude des Enneracts, dirigée par l'Augure.\n\nIl ne faut pas se perdre dans les tunnels serpentins en direction de Salander : les ruines aux alentours sont maudites, et personne n'en revient. Mais beaucoup sont tentés : des phénomènes anormaux à Salander indiquent une grande cache d'Enneracts quelque part dans leur proximité?\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Or et Affinité Primordiale (Grande Quantité).</font><br></br>
+Mission à Salander
+La mission à Salander a été un succès. Vos représentants ont rendu visite à la Cabale de l'Illumination, rencontrant l'Augure qui préside sur ses opérations. Ils ont parlé longtemps des expériences de la Cabale avec la magie, et heureux de la conduite de vos représentants, l'Augure leur a donné de l'or et des cristaux d'énergie pour le voyage du retour.
+Vos diplomates sont revenus de Salander avec de l'Or et de l'Affinité Primordiale.
+Trois-Pics, Joyau des Montagnes
+La cité de Trois-Pics repose en équilibre précaire sur trois montagnes, se tenant seulement à la force d'un rêve. Les rêves largement en stock : les pentes au dessous font pousser les opiats les plus puissants des quatres royaumes.\n\nLes eaux entre Stormfall et Trois-Pics sont des territoires bien connus, mais ils sont assaillis par les armées navales de Kuei et la République, avec des pilleurs non loin derrière. Un échantillon des psychotropes locaux peut valoir le coup.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Consommable Endgame.</font><br></br>
+Mission Trois-Pics
+Vos diplomates ont réussi leur voyage à Trois-Pics. Leur ascension a été difficile, mais au sommet, ils ont été invités à goûter les plaisirs que la ville avait à offrir. Après s'être délecté des opiats variés offerts par les chefs de la ville, qui étaient si amusés de la réaction de vos diplomates, les chefs de Trois-Pics ont insisté pour que les visiteurs en ramènent à Stormfall.
+Vos diplomates sont revenus de Trois-Pics avec des Épices.
+Gomora, Joyau des Parias
+De toutes les Cités-États du Concordat, Gomora a la plus grande raison de vouloir protéger son indépendance de la République. La cité ne criminalise pas la pratique de la magie comme beaucoup d'autres, et un commerce occulte s'y est développé.\n\nL'île sur laquelle se trouve Gomora est perdue au milieu de la Mer Cauteleuse, accessible seulement aux voyageurs les plus rusés. Mais la récompense qui attend sur ses rives ne peut être trouvée nulle-part ailleurs.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Affinité Primordiale (Grande Quantité).</font><br></br>
+Mission à Gomora
+C'était juste, mais vos diplomates sont revenus de Gomora sains et saufs. La Mer des Tourments n'était pas leur seul obstacle; il y avait également des personnes peu recommandables qui rôdaient dans les parages. Une fois arrivés en ville, les Arbitres de Gomora les ont escortés jusqu'à un lieu sûr où ils ont pu parler affaire. Après un moment, ils ont pu récupérer des cristaux d'énergie. Quant à dire comment et où, ils n'ont pas très envie de le détailler.
+Vos diplomates sont revenus de Gomora avec de l'Affinité Primordiale.
+République Unie de l’Humanité
+Il vaut mieux réfléchir avant de commercer avec la République Unie de l'Humanité. Après tout, le Concordat des Joyaux ne s'est réellement formé qu'en tant qu'alliance quand nous avons vu la République envahir nos voisins. Il n'y a aucune opportunité qu'ils n'exploiteront pas pour propager leur idéologie.\n\nEntrez dans leur territoire en tant que mage, et vous renoncez à votre droit de vivre. Mais quiconque veut bien se soumettre au régime le temps d'un voyage peut vendre des vivres basiques avec facilité. Les Républicains investissent trop peu dans l'infrastructure agricole, préférant l'industrie de la guerre.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Or (Quantité Moyenne).</font><br></br>
+Mission République
+Bien qu'ils n'aient pas reçus le plus tendre des bienvenues, la mission de vos diplomates au sein de la République a été un succès. La transaction a été brusque. Ils sont entrés, ont dit quelques mots, ont échangé ce qu'ils avaient, et sont revenus avec de l'or sur les wagons. La République ne semblait pas encline à prolonger l'intéraction.
+Vos diplomates sont revenus de l'URM avec de l'Or.
+Empire de Kuei
+La jungle dense de l'Empire de Kuei n'apparaît pas idéale pour les caravanes, et pourtant, un réseau de routes divise le territoire en portions navigables. La nation produit de la teinture, du bois, et bien plus de matériaux, tout en apportant du pain à ses citoyens.\n\nIl vaut mieux prendre garde sur les grands chemins impériaux, cependant. Les marchands Kuei parlent d'un groupe de bandits connus comme la Légion de Jade, qui ont vidés bien des caravanes de leurs biens. De plus, les forces des Libérateurs Républicains s'en tiennent aux routes, trop malins pour s'aventurer dans la jungle.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Boost Temporaire de Productivité.</font><br></br>
+Mission Kuei
+Vos diplomates ont attein Kuei sains et saufs, leurs vaisseaux ayant pu naviguer la mer et atteindre leurs rives. Après avoir rencontré les dignitaires de l'Empire, un accord a été conclu et des matériaux ont été échangés avec l'or de Stormfall. Les dignitaires de Kuei semblaient surpris que les diplomates soient parvenus là en un seul morceau ; la Légion de Jade est une menace omniprésente, après tout.
+Vos diplomates sont revenus de Kuei avec des matériaux, augmentant la Productivité de Stormfall.
+Royaume de Varg
+Les toundras de Varg se font déchirer en morceaux par une douzaine de clans, comme des enfants se disputant un jouet. Le hall à hydromel royal a tenté d'atteindre l'union sous la forme d'un garçon, brusquement poussé sur le trône.\n\nLes clans suspectent une intervention extérieure dans cette succession, particulièrement de la part de la République. Entrer au travers des champs de bataille avec les Libérateurs Républicains n'est pas conseillé, bien que le voyage en mer soit beaucoup plus long. Toute expédition risque d'être considérée de manière hostile, mais montrez la nourriture dans vos mains et le litige devrait se calmer.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :<font><br></br>\n<font color="#509FFF">Butin reçu : Or (Grande Quantité).</font><br></br>
+Mission Varg
+Le voyage au travers Varg était tendu, mais en fin de compte, vos diplomates ont su rendre le périple profitable. Dans les maisons ancestrales de chaque clan, ils ont été accueillis avec hostilité, mais après avoir vu les vivre que Stormfall offrait, les Varguiens ne pouvaient pas refuser l'opportunité d'échanger. Alors, les wagons étaient remplis d'or au retour des diplomates.
+Vos diplomates sont revenus de Varg avec de l'Or.
+Forteresse des Portejours
+La Confrérie de l'Aube rassemble peut-être des guerriers, mais elle rassemble aussi des fidèles. Le crédo d'Anathëa prêche une ouverture aux nouveaux-venus, qui bien que n'étant pas évangéliste, permet à beaucoup d'acquérir le pouvoir de la Dame de l'Aube.\n\nLa Confrérie de l'Aube a eu bien peu d'alliés depuis la montée au pouvoir de la République Unie de l'Humanité. Si on démontre une arrivée en bonne foi, on devrait arriver en un seul morceau.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Affinité Primordiale.</font><br></br>
+Mission à la Confrérie
+La Confrérie de l'Aube était heureuse de recevoir vos diplomates, les accueillant comme chez eux parmi les fidèles d'Anathëa. Ayant connaissance de vos pouvoirs et de l'énergie magique nécessaire pour votre service continu des peuples de Wolcen, la Confrérie a offert aux diplomates de nombreux crystaux énergétiques à ramener à Stormfall.
+Vos diplomates sont revenus de la Confrérie de l'Aube avec de l'Affinité Primordiale.
+Mines de Diamant de Morkaï
+Rien ne devrait pouvoir vivre dans les Déserts Salés de Morkaï, et pourtant quelque chose le fait. Sous la Tour du Sel, un cercle de moines aveugles s'échine dans les mines. Les diamants dont ils font la collection sont les mêmes qui fortifient la Flotte Radieuse.\n\nLes moines préviennent les caravanes marchandes de ne pas entrer dans les caves, déclarant qu'elles hébergent un mal dont les moines seuls sont protégés. Les figures d'hommes et de femmes à l'agonie se tiennent à l'intérieur, sculptées dans le sable. Toute aventure planifiée au sein des mines de diamants doit être considérée avec attention.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin Reçu : Gemmes et Pierres de Genèse.</font><br></br>
+Mission Mines de Diamant
+Vos diplomates ont été accueillis par un groupe de Moines au bord du Désert de Sel. Ils ont servi d'escorte, se servant de leurs cannes pour ausculter d'étranges vibrations. Il a fallu prendre un nombre de détours, pour éviter la créature légendaire qui se faufile sous la surface. Quand ils leur ont demandé, les moines n'ont pas voulu dire son nom, car le faire serait invoquer un démon, selon eux. Ils ont atteint les Mines Diamant sans incident et ont ramené une véritable richesse de joyaux.
+Vos diplomates sont revenus des Mines de Diamant avec des Gemmes.
+Auberge du Murmure Dormant
+La rumeur court d'une auberge où se rendent d'étranges gens. Dépendant de ceux qui racontent, elle se trouve soit aux bords du monde, soit au coin de votre rue quand les vents tournent lors d'une nuit sans lune. Dans un cas comme l'autre, ce n'est pas un endroit pour les mortels. La propriétaire ouvre sa porte aux êtres d'outre-tombe et leur offre un refuge autour d'une faible chandelle. On frémit à imaginer leur réaction en cas d'interruption. Ceux qui clament l'avoir approchée parlent des murs qui claquent et de hurlements au sein de la maison, culminant en un moment où tout son devient muet.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues Possibles :</font><br></br>\n<font color="#509FFF">Butin reçu : Réactifs Éthérés.</font><br></br>
+Mission Auberge du Murmure Dormant
+Vos représentants sont rentrés sains et saufs de leur voyage à l'Auberge du Murmure Dormant. La propriétaire les a accueillis les bras ouverts ; elle savait pourquoi ils étaient venus. Une fois les formalités échangées, elle les a menés à la cave. Elle a réalisé un rituel, et pendant un moment vos diplomates juraient qu'ils allaient se faire sacrifier aux monstres de l'abysse. Mais en vain, car il ne fallait pas s'inquiéter. Une fois le rituel complété, la dame de l'Auberge leur a donné des Réactifs Éthérés comme offrande au régent de Stormfall.
+Vos diplomates sont revenus de l'Auberge du Murmure Dormant avec des Réactifs Éthérés.
+Vos diplomates sont revenus
+Vos diplomates sont revenus de leur mission. En fin de compte, ils ont été incapables de parvenir à destination. Ils ont, cela dit, rencontré une autre caravane en errance sur la route et ont pu conclure un petit marché, donc leur voyage n'a pas été un gâchis total.
+Vos diplomates ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+Vos diplomates n'ont pas pu atteindre la destination souhaitée. Après une pluie torrentielle, les wagons ont étés conduits dans un bouage épais. Malgré tous leurs efforts, ils ont dû laisser les wagons derrière eux. Ils ont pu récupérer une fraction de ce qu'ils avaient emmené, chargé sur les chevaux, et ont pu commercer de façon moindre avec les villages traversés en rentrant.
+Vos diplomates ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+Après être arrivés à destination et avoir garé leurs wagons, les chefs dans la région ont approché vos diplomates, débordant d'excuses. Apparement, bien qu'ils tiennent très fort à leurs liens avec Stormfall, ils se sont trouvés incapables de donner autant qu'ils auraient voulu à vos diplomates. Il y avait peu de choses à faire pour leur faire changer d'avis, alors vos diplomates sont rentrés, pas avec ceux qu'ils souhaitaient, mais tout de même avec une petite dîme.
+Vos diplomates ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+En route vers leur destination, vos diplomates ont été chassés des sentiers battus par des bandits. Après avoir trouvé un recoin où se cacher, les Foudrelames qui escortaient la caravane ont mis au point une embuscade. Ils ont été véloces et sans pitié et ont pris un nombre des bandits en otage, y compris ce qu'ils ont identifié comme étant le fils d'un chef bandit. Après avoir été escortés jusqu'au camp des bandits, vos diplomates ont pu troquer le fils contre une généreuse ranson.
+Vos diplomates ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+Vos diplomates ont été virés hors piste par les tempêtes et les furieuses vagues du grand large. Malgré leur infortune, ils ont trouvé pied sur une île, rencontrant une petite communauté. Ils n'étaient pas habitués aux visites ; et voyant les objets étranges et inconnus dans la possession des diplomates, ils étaient heureux de les troquer contre leurs propres affaires.
+Vos diplomates ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+Vos diplomates sont revenus, mais pas de la destination prévue. Après avoir navigué quelque jours, ils ont été interceptés par une petite flotte de vaisseaux Républicains. Vos diplomates ont été menés à un avant-poste Républicain, où ils ont été interrogés sur leur cargo et leur destination. Après avoir noté les contenus de nos navires, la République a demandé un marché, à un prix réduit comparé à celui que vos diplomates attendaient.
+Vos diplomates ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+Sur le grand large, vos diplomates ont rencontré un petit convoi de marchands, voyageant dans la même direction. Après les avoir signalés, vos diplomates se sont ancrés à côté du vaisseau marchand, et après une petite discussion, se sont rendu compte qu'ils portaient une cargaison précieuse. Ils étaient prêts à troquer, et en conséquent les diplomates étaient suffisamment satisfaits pour rentrer à Stormfall sans avoir atteint leur destination.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+À mi-chemin sur leur destination, un vaisseau pirate a émergé d'une baie pour poursuivre vos diplomates. Désespérés de fuir, ils ont du abandonner leur chemin prévu et rentrer à Stormfall. Une tempête les a suivis, et quand ils ont émergé, ils ont vu le vaisseau pirate couler. Incrédules face à leur chance, vos diplomates se sont retournés, permettant à quelques survivants de venir à bord comme prisonniers. Payant pour leurs vies, les pirates ont mené les diplomates à leur trésor enterré.
+Vos Chercheurs ne sont pas parvenus à leur destination, mais ont quand-même pu commercer.
+Vos diplomates sont revenus
+L'heure que vos diplomates rentrent est largement passée. Ils auraient dû être à Stormfall depuis des semaines. Sans nouvelles d'eux à ce stade, il semble sans risque de supposer qu'ils ne reviendront jamais.
+Vos diplomates ne sont pas revenus.
+Vos diplomates sont revenus
+Après être arrivés à destination, les pieds meurtris et la poussière leur écorchant les poumons, vos diplomates ont commencé à négocier. Malheureusement pour eux, les négociations ont été longues et circulaires, et ils n'ont pas pu atteindre de consensus avec les chefs de la région. Finalement, vos diplomates ont dû rentrer à Stormfall sans rien pour récompenser leur labeur.
+Vos diplomates sont revenus les mains vides.
+Vos diplomates sont revenus
+Bien qu'ils soient arrivés à destination en temps et en heure, les négociations avec les chefs de la région ne se sont pas passées aussi bien que souhaité. Un de vos diplomates, qui avait peut-être oublié les directives données avant le départ, a fait un geste quelconque qui a offensé les moeurs locales. Par conséquent, aucun marché n'a été conclu, et vos diplomates sont revenus les mains vides.
+Vos diplomates sont revenus les mains vides.
+Vos diplomates sont revenus
+Après avoir amarré leur navire à la destination prévue, vos diplomates ont rencontré les chefs de la région. La discussion s'est prolongée pendant des heures, commençant au matin et continuant jusqu'après minuit. Réalisant qu'aucune conclusion n'allait s'affirmer, vos diplomates sont rentrés à Stormfall, le vaisseau plus léger que souhaité.
+Vos diplomates sont revenus les mains vides.
+Vos diplomates sont revenus
+La traversée a été difficile pour vos diplomates, ce qui signifie qu'ils sont arrivés à destination bien plus tard que prévu. Les chefs de la région, véxés par ce retard, ont décidé de ne pas être coopératifs quant aux biens qu'ils offraient. Par conséquent, vos diplomates ont été obligés de rentrer chez eux les mains vides.
+Vos diplomates sont revenus les mains vides.
+Chantier Routier
+Beaucoup des voies commerciales terrestres de Stormfall ne sont que des chemins de terre. Ceci ralentit le progrès des caravanes souhaitant commercer, particulièrement par temps de pluie, car leurs wagons se retrouvent coincés dans la boue. Si vous investissiez dans des routes pavées, leur progrès en serait facilité, et nos partenaires commerciaux seraient plus enclins à investir du temps et de l'argent dans l'export vers Stormfall. \n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Chantier Routier Terminé
+Les chantiers routiers sont terminés, rendant la circulation plus facile et plus rapide pour les caravanes en direction de Stormfall. Ceci devrait encourager vos partenaires commerciaux à envoyer leurs caravanes à une plus grande fréquence dorénavant.
+Le Chantier Routier est terminé, créant un boost de Productivité à Stormfall.
+Aqueduc
+Bien qu'elle soit entourée d'eau, Stormfall lutte pour apporter de l'eau potable à ses citoyens. La cité a dépendu d'une rivière proche qui se déverse dans la mer, mais des années de pollution provenant des égouts ont rempli la rivière de maladies. La source de la rivière se trouve assez loin, mais en construisant un aqueduc qui connecte son eau à Stormfall, le risque de maladie serait réduit énormément.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Aqueduc Construit
+La construction du nouvel Aqueduc est terminée, donnant à Stormfall un nouvel accès à une source d'eau propre. Avec de l'eau potable en circulation dans la cité, les citoyens risquent beaucoup moins de contracter des maladies transmissibles par l'eau.
+L'Aqueduc est terminé, créant un boost de Productivité à Stormfall.
+Rénovations des Égouts
+L'assainissement à Stormfall a toujours été un problème qui a tourmenté les citoyens. Le réseau d'égouts est un vestigue d'une époque passée, à peine capable de tenir la population au sein des murs de Stormfall, même avec tous les morts récents. Les eaux usées coulent vers le bas, empirant la contamination dans le quartier inférieur. Si les égouts sont élargis et utilisés pour rediriger les eaux usées des rues, le risque de maladie devrait tomber et raviver les travailleurs de la cité.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Égouts Rénovés
+La rénovation des égouts est terminée. Le ruissellement des eaux usées ne traverse plus les rues, où elle risque le plus de pourrir et de répandre la maladie parmi vos citoyens. Avec les rues nettoyées, vos citoyens risquent moins de tomber malade.
+Les Rénovations des Égouts sont terminées, créant un boost de Productivité à Stormfall.
+Réseaux d'Irrigation
+Les fermiers de Stormfall dépendent des pluies persistantes pour irriguer leurs champs. Cela dit, la région a ses saisons sèches, augmentant le risque que les récoltes échouent et rendant plus difficile la tâche de nourrir la population de Stormfall. Si vous construisiez un réseau de canalisations connectant l'une des rivières aux champs, cela rendrait les récoltes plus constantes, s'assurant que les citoyens de Stormfall aient assez à manger toute l'année.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Réseaux d'Irrigation Améliorés
+De nouveaux réseaux d'irrigation ont été développés dans les terres agricoles. Avec un flux contant d'eau irrigant les champs, les fermiers peuvent être plus certains des récoltes produites par leurs champs. Les citoyens de Stormfall en seront donc mieux nourris.
+Les Réseaux d'Irrigation sont terminés, créant un boost de Productivité à Stormfall.
+Rotation des Cultures
+Une récente innovation de la pratique agricole a été portée à votre attention. En ce moment, vos fermiers font pousser la même plante dans le même champ chaque année. Dans la République, cependant, ils font tourner les plantes sur les champs selon l'année. Cela signifie que de différents nutriments dans la terre sont utilisés à chaque rotation, permettant à la terre de rester fertile plus longtemps. Si vos fermiers adoptaient cette pratique, les rendus seraient plus contants, apportant une quantité de nourriture plus grande à la ville.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Rotation des Cultures Intégrée
+Vos fermiers ont été entraînés dans la pratique agricole de la rotation des cultures. Avec de différentes plantes poussant dans le même champ à chaque année, les nutriments nécessaires pour chaque plante peuvent se regénérer dans la terre pendant qu'ils ne sont pas absorbés. Cela apporte des rendus plus contants et les citoyens se sentent plus en sécurité sachant qu'ils seront bien nourris.
+Vos fermiers ont appris la Rotation des Cultures, créant un boost de Productivité pour Stormfall
+Moulins
+Beaucoup de la population appauvrie de Stormfall dépend du flux constant des aliments de base dans la ville. Un de ces aliments de base est le pain, qui requiert de la farine. En ce moment, Stormfall n'a pas assez de moulins pour moudre le grain nécessaire à la farine, ce qui signifie qu'apporter assez de pain pour la population est difficile. Si vous veniez à investir dans un réseau de moulins, moins de vos citoyens auraient faim.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Moulins Construits
+Un réseau de Moulins a fini d'être construit, ce qui signifie que le grain peut être moulu de manière efficace et en grandes quantités. Avec plus de grain à disposition, plus de pain pourra être produit pour nourrir les travailleurs pauvres de la société de Stormfall, remontant le moral de la force de travail.
+Les Moulins sont terminés, créant un boost de Productivité à Stormfall.
+Centre de Traumatologie
+Lors d'occasions passées lorsque Stormfall a traversé une crise, la cité était incapable de soigner les blessés. Même pendant des temps de paix, les raids dans la campagne environnante assuraient qu'un flux constant de citoyens viennent en ville pour demander de l'aide, finissant rejetés. Si vous investissiez dans un centre de traumatologie pour soigner les malades et les blessés, plus de citoyens pourraient retourner au travail promptement.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Centre de Traumatologie Reconstruit
+Un nouveau Centre de Traumatologie a été mis en place à Stormfall. Vos citoyens se sentent plus en sécurité sachant que si Stormfall est frappée d'une catastrophe, la cité a maintenant l'installation nécessaire pour soigner leurs blessures.
+Le Centre de Traumatologie est terminé, créant un boost de Productivité à Stormfall.
+Conditions de Travail
+Les morts en milieu de travail connaissent un taux très haut à Stormfall. Le nombre de citoyens travailleurs semble diminuer, et les citoyens qui travaillent sont victimes de fatigue chronique, incapables de fonctionner à pleine capacité. Si vous veniez à introduire de nouvelles lois concernant les conditions de travail, peut-être en restreignant les heures de travail, avec des pauses obligatoires et de la nourriture offerte, vos travailleurs seraient plus productifs.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Conditions de Travail Améliorées
+La nouvelle mesure législative concernant les conditions de travail a été approuvée, nous assurant que tous les travailleurs auront accès à un environnement de travail sauf et prévenant. Sachant que la cité de Stormfall apprécie leurs efforts, la force de travail continue à devenir plus efficace.
+Les Conditions de Travail ont été améliorées, créant un boost de Productivité à Stormfall.
+Centres d'Entraînement
+Stormfall avait autrefois les meilleurs centres d'entraînement du continent, parfaits pour mettre en état les gardes de la cité, les Chercheurs, et la force d'élite des Foudrelames qui défendent les intérêts de la cité. Les évènements récents ont laissé ces installations et leur équipement en sale état. Si vous investissiez dans de nouveaux centres, peut-être améliorés, de nouvelles recrues pourraient être enrôlées dans les organisations militaires de Stormfall, accroissant la sécurité dans tout les recoins de la Cité-État.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.\nLe Projet "Rénover la Garnison des Chercheurs" sera déverrouillé.</font><br></br>
+Centres d'Entraînement
+Les nouveaux centres d'entraînement de Stormfall ont été bâtis avec succès. Ceux-ci devraient améliorer la qualité des nouvelles recrues à l'avenir. Comme conséquence supplémentaire, il est maintenant faisable pour Stormfall d'investir dans la revigoration de son initiative de Chercheurs.
+Les Centres d'Entraînement sont terminés, créant un boost de Productivité et permettant les rénovations de la Garnison des Chercheurs.
+Institutions Pédagogiques
+Dans le passé les institutions pédagogiques de Stormfall ont produit certains des plus grands esprits du continent. Cependant, à cause du déclin graduel des services offerts par la cité, les jeunes les plus prometteurs de Stormfall ont été envoyés à l'étranger pour poursuivre leurs passions et apprendre leurs métiers. Si vous investissiez dans la revigoration des institutions pédagogiques de Stormfall, plus de jeunes de Stormfall resteraient offrir leurs talents aux efforts futurs de la ville.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Pédagogie Améliorée
+Le travail est terminé sur la rénovation des instituts pédagogiques de Stormfall. Beaucoup plus d'apprentissages sont offerts, permettant aux jeunes gens d'apprendre leur métier au sein de la cité. Une nouvelle université a été ouverte aussi, créant une nouvelle génération d'intellectuels repoussant les limites de l'innovation. Ceci a donné aux industries de Stormfall une nouvelle vigueur.
+Les Instituts Pédagogiques ont été améliorés, créant un boost de Productivité à Stormfall.
+Scieries
+Stormfall dépend d'une provision constante de bois pour beaucoup de ses industries. En ce moment, la cité n'a pas de moyen efficace pour scier les bûches en planches à utiliser dans la construction de fermes, granges, et navires, pour citer quelques exemples. Si vous veniez à investir dans la construction de nouvelles scieries, Stormfall pourrait produire du bois de construction bien plus vite, rendant les projets nécessitant du bois plus faisables.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Scieries Construites
+Un nouveau réseau de Scieries a été établi dans la région autour de Stormfall. Avec cette innovation, la cité est maintenant capable de produire des quantités accrues de bois de construction avec une plus grande efficacité, revigorant les efforts de construction de Stormfall où qu'ils soient.
+Les Scieries sont terminées, créant un boost de Productivité à Stormfall.
+Mines de Fer
+Le fer est une ressource de base pour toute ville. Stormfall dépend d'une provision stable de fer pour forger de nouvelles armes, des rivets pour la construction de navires, et des plaques de toit pour chaque bâtiment. Il y a des dépôts de fer près de Stormfall, dans les hauts-plateaux. Si vous veniez à construire du nouvel équipement et à recruter des mineurs pour ce travail, Stormfall n'aurait plus à dépendre des imports à l'étranger et aurait une source facile de fer pour les besoins de la cité.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La productivité sera augmentée de manière permanente.</font><br></br>
+Mines de Fer Creusées
+L'excavation d'une nouvelle mine de fer a été terminée, apportant une source stable de fer à Stormfall. Maintenant, avec cette provision de fer, les projets de la cité ne sont plus étranglés par le fait de devoir attendre que les matériaux appropriés soient importés.
+Les Mines de Fer sont terminées, créant un boost de Productivité à Stormfall.
+Carrière de Pierre
+La pierre est l'une des ressources les plus importantes pour une cité souhaitant étendre son territoire et sa portée. Les routes pavées permettent une meilleur connexion aux partenaires commerciaux, les briques rendent les maisons plus robustes face aux éléments. Si vous investissiez dans l'excavation d'une nouvelle carrière, les efforts de croissance de Stormfall seraient multipliés.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Carrière de Pierre Creusée
+La carrière de pierre a été creusée, donnant à Stormfall un accès rapide et facile à une provision de pierre pour tous ses besoins de construction. Étant donné combien de projets de construction à Stormfall dépendent d'une source fiable de pierre, ceci devrait rendre ces projets plus faisables à l'avenir.
+La Carrière de Pierre a été creusée, créant un boost de Productivité à Stormfall.
+Initiative de Logement
+Les citoyens les plus pauvres de Stormfall, ceux des bas quartiers, forment le plus gros de la force de travail de la cité. Beaucoup d'entre eux vivent dans la pauvreté la plus abjecte, des trous dans leurs toits et des embruns s'infiltrant dans leurs maisons. À cause de cette situation, la maladie paralyse et tue de nombreux hommes et femmes qui travailleraient par ailleurs pour soutenir leur famille. Si vous investissiez dans une initiative pour le logement qui améliorerait leurs conditions de vie, votre force de travail serait largement revigorée.\n\n<font size="20" font face="Wolcen" color="#509FFF">Outcomes :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Initiative de Logement Terminée
+La nouvelle initiative pour le logement est un succès, avec de nouvelles maisons améliorée construites dans les zones défavorisées de la cité. Ceci a donné à vos citoyens un nouveau sentiment de sécurité, car ils n'ont plus à s'inquiéter des éléments qui pourraient détruire leurs maisons délabrées, et peuvent plutôt se focaliser sur leur travail et leurs vies.
+L'Initiative de Logement est terminée, créant un boost de Productivité à Stormfall.
+Phare
+L'approche des quais de Stormfall est dangereuse. Pour aider les navires commerçants à y entrer, le phare de Stormfall deviendrait une balise, prévenant les vaisseaux du terrain difficile en proximité. Après avoir été ballotté par les tempêtes depuis des siècles, le phare est maintenant délabré, ce qui signifie que le commerce maritime avec Stormfall est une affaire risquée. Si vous rénoviez le phare, cela aiderait à renforcer nos liens commerciaux avec d'autres villes.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Phare Rénové
+Les rénovations sur le phare de Stormfall sont terminées. Il est de nouveau une balise brillante pour les partenaires commerciaux de Stormfall, les guidant au travers la Côte des Épaves et jusque dans les quais de Stormfall sains et saufs. Maintenant que le phare est terminé, moins des navires entrants risquent d'être détruits en livrant leur cargaison, ce qui signifie que plus de richesses circuleront dans Stormfall.
+Le Phare a été rénové, créant un boost de Productivité à Stormfall.
+Théâtre
+Il y a eu peu de raisons de chanter et danser à Stormfall ces derniers temps. Très peu de divertissements ont offert aux citoyens une évasion de leur quotidien. Si vous investissiez dans une nouvelle compagnie de théâtre et recrutiez des comédiens pour mettre des spectacles en scène de temps à autre, la joie apportée à vos citoyens aurait un effet positif sur leur moral et leur bonjeur, améliorant leur productivité dans le long-terme.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Théâtre Construit
+La construction du nouveau théâtre est terminée, avec des spectacles prévus sur un programme hebdomadaire. Avec une nouvelle distraction pour les divertir après une dure semaine de travail, les citoyens de Stormfall quittent les spectacles revigorés pour la semaine de travail à venir.
+Le Théâtre a été construit, créant un boost de Productivité à Stormfall.
+Initiative Faille
+À cause de la poussée d'énergie à Anankis en dessous de Stormfall, de nombreux tremblements ont craquelé la terre environnante. De ces craquements ont émergé toutes sortes de monstres, harcelant la population locale et rendant le travail des fermiers bien plus dangereux qu'il ne devrait l'être. Si vous investissiez dans une initiative pour fermer ces failles, les environs de Stormfall seraient bien moins dangereux, permettant à vos citoyens de continuer leur travail sans craindre d'être dévorés vivants.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Initiative Faille Terminée
+L'Initiative Faille a connu quelques difficultés, mais en fin de compte, les failles dans la campagne de Stormfall ont été fermées. Les citoyens qui vivent sur les terres agricoles ne craignent plus les créatures qui rôdent dans les sous-bois. Avec moins de pertes souffertes, vos fermiers peuvent travailler en paix et labourer les champs à une plus grande intensité.
+L'Initiative Faille est terminée, créant un boost de Productivité à Stormfall.
+Réserves de Vivres
+Stormfall n'est pas vierge de catastrophes. Le climat est imprévisible, et les tempêtes pour laquelle elle a été nommée sont une menace constante pour le peuple. Les terres agricoles sont inondées assez souvent pour que ce soit une pression constante, et les citoyens sont souvent délogés par les raids des Écorcheurs en plus des inondations. Si vous investissiez dans la création de réserves de vivres autour de la cité, cela compenserait les conséquences de tels désastres, et permetterait à la cité de continuer ses fonctions en temps de crise.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Réserves de Vivres Établies
+Des réserves de vivres ont été créees tout autour de Stormfall, assurant que chacun de ses citoyens aient accès à des ressources d'urgences si une catastrophe survient et qu'ils sont tous privés de leur moyens de vie. Avec ce rassurement, vos citoyens se sentiront plus capables de continuer leur travail sans craindre leur avenir.
+Les Réserves de Vivres ont été établies, créant un boost de Productivité à Stormfall.
+Postes de Contrôle Militaire
+Le monde de Wolcen est un lieu dangereux, ce qui rend tout périple pour rejoindre d'autres lieux et cités une aventure risquée. Des bandits, comme des loups, rôdent les routes commerciales en espérant trouver des proies faciles. Si vous mettiez en place des postes de contrôle armés le long des routes vers Stormfall, il y aurait moins de chance que les caravanes en approche se fassent démolir avant de pouvoir partager leurs biens.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Des postes de contrôle militaire ont terminé d'être mis en place le long des routes les plus importantes vers Stormfall. Rassuré par l'engagement de Stormfall pour protéger leurs caravanes, les partenaires commerciaux de la cité sont plus heureux que jamais d'échanger leurs biens avec le Joyau de la Mer.
+Postes de Contrôle Militaire Mis en Place
+Les Postes de Contrôle Militaires ont été établis, créant un boost de Productivité à Stormfall.
+Mine de Crystaux d'Énergie
+Tandis que les usages des cristaux d'énergie deviennent de plus en plus évidents, leur demande s'accroit graduellement. Des projets d'industrialisation jusqu'à l'alimentation d'armes comme les Tourelles Radieuses de Stormfall, les cristaux d'énergie sont la clé de toute croissance à venir pour la cité, et Stormfall devrait s'afficher aux devants de cette croissance. Si vous investissiez dans un effort pour creuser les cristaux d'énergie, Stormfall pourrait mener la voie de l'innovation technologique et industrielle.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La Productivité sera augmentée de manière permanente.</font><br></br>
+Mine de Cristaux Creusée
+Le travail d'excavation est terminé et une nouvelle mine de cristaux d'énergie a été mise en place. Avec cette nouvelle source d'énergie à exploiter, Stormfall n'a pas à s'inquiéter de la plausibilité de créer des nouveaux équipements et armes alimentés d'énergie, ou à s'inquiéter que ses équipement pré-existents deviennent obsolètes.
+La Mine de Cristaux d'Énergie a été creusée, créant un boost de Productivité.
+Comité Préparatoire
+Malgré une variété de nouvelles initiatives proposées dans toute la cité, ces initiatives nécessitent des préparatifs minutieux avant de pouvoir être mis en action. Le Conseil recommande qu'un 'Comité Préparatoire' soit mis en place pour superviser la gestion des projets de la cité. Ce faisant, ils espèrent s'assurer que les ressources soient investies sagement et de manière efficace, permettant que la cité ait plus de projets simultanés.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les Projets suivants seront déverrouillés : "Construire le Laboratoire d'Enneract", "Construire la Banque".\nVotre Maximum de projets actifs augmentera de un.</font><br></br>
+Comité Préparatoire Terminé
+Le Comité Preparatoire a été mis en place, élaboré d'un nombre d'artisans, architectes, et représentants nobles dans tout Stormfall. Si vous le souhaitez, vous pouvez construire la Banque de Diamant et le Laboratoire d'Enneract. Qui plus est, l'allocation des ressources devrait être plus efficace maintenant, rendant possible la gestion de plus de projets citadins qu'il ne semblait possible.
+Le Comité Préparatoire a été mis en place ; de nouvelles initiatives attendent vos investissements.
+Comité Préparatoire (II)
+Le Comité Préparatoire souhaite élargir ses capacités encore plus pour soutenir de nouveaux projets dans la cité. Ils croient pouvoir améliorer certains de leurs procédés, et veulent que la force de travail subisse l'entraînement nécessaire pour que ceci devienne une réalité.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les Projets suivants seront déverrouillés : "Rénover l'Assemblée des Commerces", "Construire l'Instillateur", et "Construire la Chambre du Siphon".\nVos projets actifs maximum seront augmentés de 1.</font><br></br>
+Comité Préparatoire (II) Terminé
+Le Comité Préparatoire a terminé ses formations, ce qui signifie qu'un nombre de nouvelles initiatives attendent vos investissements. Si vous le souhaitez, vous pouvez maintenant rénover l'Assemblée des Commerces de Stormfall, et construire deux des engins de Demetra : sa Chambre de Siphon et son Instillateur d'Energie. Qui plus est, l'allocation des ressources devrait être plus efficace, rendant possible la gestion de plus de projets citadins qu'il ne semblait possible.
+Le Comité Préparatoire a terminé ses formations ; de nouvelles initiatives attendent vos investissements.
+Comité Préparatoire (III)
+Le Comité Préparatoire souhaite élargit ses capacités encore plus pour soutenir de nouveaux projets dans la cité. Ils croient pouvoir améliorer certains de leurs procédés, et veulent que la force de travail subisse l'entraînement nécessaire pour que ceci devienne une réalité.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Les Projets suivants seront déverrouillés : "Construire la Forge de Transmutation", "Rénover le Chantier Naval", et le Projet Marché Noir "Établir Contact : 'Le Curateur'".\nVos projets actifs maximum seront augmentés de 1.</font><br></br>
+Comité Préparatoire (III) Terminé
+Le Comité Préparatoire a terminé ses formations, ce qui signifie qu'un nombre de nouvelles initiatives attendent vos investissements. Si vous le souhaitez, vous pouvez maintenant construire la Forge de Transmutation de Demetra, rénover le Chantier Naval de Stormfall, et commencer à établir des contacts dans le Marché Noir. Qui plus est, l'allocation des ressources devrait être plus efficace, rendant possible la gestion de plus de projets citadins qu'il ne semblait possible.
+Le Comité Préparatoire a terminé ses formations ; de nouvelles initiatives attendent vos investissements.
+Transmuter un objet
+Quand un objet est placé dans la forge, même Demetra ne sait pas ce que la forge recrachera. Tout ce qu'elle sait, c'est que l'objet prendra une forme différente et que ses propriétés changeront totalement de ce qu'elles étaient autrefois.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Votre objet choisi sera transformé en objet différent.</font><br></br>
+Objet transmuté
+Après un moment, l'objet que vous avez placé au sein de la Forge de Transmutation est devenu quelque chose de différent. Demetra était folle de joie à la vue des résultats, et s'est hâtée de vous envoyer l'objet transmuté.
+La transmutation a fonctionné.
+Créer 1 000 Affinités Primordiales
+Créer 5 000 Affinités Primordiales
+Créer 10 000 Affinités Primordiales
+Créer 50 000 Affinités Primordiales
+Créer 100 000 Affinités Primordiales
+Pour extraire l'énergie magique de votre corps, Demetra doit d'abord calibrer la chambre du siphon pour vous. Une fois calibré, elle vous attachera et retirera votre énergie, vous payant en or en retour.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La quantité d'Affinité Primordiale de votre choix sera convertie en or.</font><br></br>
+Conversion terminée
+Une fois la Chambre du Siphon calibrée, Demetra vous y a attaché et a commencé le procédé d'extraction. Quand vous avez émergé, vous vous êtes senti un peu affaibli, mais la bourse d'or que Demetra vous a donné en valait bien la peine.
+Demetra a extrait de l'Affinité Primordiale de votre corps et vous a donné de l'or en retour.
+Créer 10 000 pièces d'or
+Créer 50 000 pièces d'or
+Créer 100 000 pièces d'or
+Créer 500 000 pièces d'or
+Créer 1 000 000 de pièces d'or
+Pour transgérer de l'énergie magique de ses réserves jusqu'à votre corps, Demetra devra d'abord calibrer le siège de l'Instillateur d'Énergie. Une fois calibrer, elle vous attachera au siège et imprégnera votre corps d'énergie magique.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">La quantité d'Or de votre choix sera convertie en Affinité Primordiale.</font><br></br>
+Conversion terminée
+Après avoir calibré l'Instillateur d'Énergie, Demetra vous a branché à son siège et ses réserves d'énergie magique. Vous avez ressenti une poussée d'énergie traverser vos bras et votre poitrine, vous emplissant d'une vigueur renouvelée. Vous avez donné son or à Demetra et vous êtes reparti.
+Demetra a imprégné votre corps d'Affinité Primordiale en échange de l'or que vous lui avez donné.
+Obtenir des Réactifs Éthérés
+Le Curateur a accés à une réserve ample de Réactifs Éthérés, mais vous les procurer aura un prix, en temps et en ressources. Vous devrez trouver une offrande appropriée pour le Curateur si vous voulez compléter cette démarche.\n\n<font size="20" font face="Wolcen" color="#509FFF">Issues :</font><br></br>\n<font color="#509FFF">Butin reçu : Réactifs Éthérés.</font>
+Réactifs Éthérés Obtenus
+Mohabi a recruté les services du Curateur qui, après un temps, a pu se procurer le Réactif Éthéré que vous vouliez.
+Le Curateur vous a obtenu un Réactif Éthéré.
+COURIER EVENT
+Nouvelles Venant d'à l'Étranger
+Les représentants de Stormfall à l'étranger sont revenus faire leurs rapports sur les affaires actuelles. Ils ont des pistes, et parfois, des offrandes, à porter à votre attention. Ils vous invitent à regarder ce qu'ils ont.

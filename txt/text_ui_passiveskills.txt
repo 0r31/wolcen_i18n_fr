@@ -1,0 +1,749 @@
+ORIGINAL TEXT
+Vous ne pouvez atteindre ce passif pour le moment
+Roue du Destin
+Points Restants
+Confirmer
+Fermer le Portail des Destins
+Vous avez des points en attente de confirmation. Voulez-vous les valider ?
+Réinitialiser la spécialisation
+Souhaitez-vous réinitialiser la Porte des Destins ? Vous récupérerez tous vos points de compétences actives, passives, et de caractéristiques.
+Réinitialiser les points passifs
+La Roue des Destins a été modifiée depuis votre dernière session et nous avons dû réinitialiser vos points.
+Ce talent n'est pas encore implémenté, le prendre ne vous coûtera rien.
+Vous devez sélectionner un anneau avant d'utiliser la rotation.
+Vous devez sélectionner un anneau avant d'utiliser la rotation.
+Vous n'avez pas assez de points à dépenser.
+Vous avez encore des points en cours d'attribution
+Soldat
+Coup Lourd
+Coup Lourd
+Intrépide
+Puissance Zélée
+Puissance Zélée
+Exécution Élégante
+Mortel
+Sagacité Surnaturelle
+La Carte Chance
+<font color="#c5b14d"><i>« Allez ! Allez ! C'est l'heure de la boucherie les gars ! Montrez-moi de quoi vos tripes sont faites ! » </i></font>\n\n<font size="24" color="#c5b14d"><b>Almarik, Membre de l’Unité d’Assaut</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plupart des armées créent leur propre mythologie, composée de héros hors du commun pour inspirer les soldats. Les détracteurs rejettent souvent l'existence de ces héros, les traitant comme des mythes artificiels créés pour de la propagande de guerre. Cependant, celui que l'on appel « Soldat Almarik » est bel et bien une réalité. Malgré ses capacités hors du commun, il a fait son nom en gardant volontairement le rang le plus bas dans l’armée des Purificateurs. Penser à autres chose que l’art de tuer n’est pas pour lui. Il est bien plus confortable sur le champ de bataille.</font>
+Les Attaques ont plus de chance de faire des Coups Critiques.
+Rapide de la Gâchette
+Célérité
+Tenace
+Discipliné
+Le Feu de l'Action
+<font color="#c5b14d"><i>«Pour chaque coup qu'vous prenez, vous en rendez deux. Un pour les goumer, l'autre pour foutre leurs corps en charpie.» </i></font>\n\n<font size="24" color="#c5b14d"><b>Almarik, Membre de l’Unité d’Assaut</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plupart des armées créent leur propre mythologie, composée de héros hors du commun pour inspirer les soldats. Les détracteurs rejettent souvent l'existence de ces héros, les traitant comme des mythes artificiels créés pour de la propagande de guerre. Cependant, celui que l'on appel « Soldat Almarik » est bel et bien une réalité. Malgré ses capacités hors du commun, il a fait son nom en gardant volontairement le rang le plus bas dans l’armée des Purificateurs. Penser à autres chose que l’art de tuer n’est pas pour lui. Il est bien plus confortable sur le champ de bataille.</font>
+Subir des dégâts vous octroie plus de Rage.
+Discipliné
+Compétent
+Compétent
+Entraîné à Souffrir
+Fidèle
+Endurant
+Peau Chimiquement Perfectionnée
+Second Souffle
+<font color="#c5b14d"><i>« Les Purificateurs protègent l’humanité de maux surnaturels du monde… cheh une bande de chattes ! Je joue le jeu parce qu’ils me laissent massacrer des gens ! » </i></font>\n\n<font size="24" color="#c5b14d"><b>Almarik, Membre de l’Unité d’Assaut</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plupart des armées créent leur propre mythologie, composée de héros hors du commun pour inspirer les soldats. Les détracteurs rejettent souvent l'existence de ces héros, les traitant comme des mythes artificiels créés pour de la propagande de guerre. Cependant, celui que l'on appel « Soldat Almarik » est bel et bien une réalité. Malgré ses capacités hors du commun, il a fait son nom en gardant volontairement le rang le plus bas dans l’armée des Purificateurs. Penser à autres chose que l’art de tuer n’est pas pour lui. Il est bien plus confortable sur le champ de bataille.</font>
+Lorsque vous êtes en-dessous d'un certain seuil de Points de Vie, votre Régénération de Vie se déclenche. Cet effet a un temps de recharge.
+Inflexible
+Entraîné à Souffrir
+Sanguinaire
+Maître du Front
+Cruauté
+Pouvoir Primitif
+Capacité Mystique
+Des Dieux parmi les Hommes
+<font color="#c5b14d"><i>« Les forts dominent les faibles. Pas de négociation, pas de compromis. Les guerriers les plus forts méritent la richesse la plus grande, et nous allons nous servir chez ceux qui ne peuvent pas se protéger. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Einjar, Baron du Clan de la Larme de Sang</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d"> >Chaque civilisation a ses histoires horrifiques de hordes barbares massacrant et pillant des peuples innocents. La plupart du temps ces histoires exagérées ne sont que des comtes pendant les longues soirées d’hiver. Mais ces descriptions cauchemardesques rattrapèrent la fiction quand les Ravageurs de la Larme de Sang attaquèrent les terres de Varg. Un guerrier terrifiant dépeint comme un tourbillon de fer et de sang devint leur seigneur de la guerre. Dans son aura ils ont atteint un nouveau degré de sauvagerie : du cannibalisme, des rituels de sang, du démembrement… leur folie est désormais sans bornes.</font>
+Les dégâts Physiques, Toxiques et des Blessures sont augmentés. Vous ne pouvez plus faire d'autres types de dégâts.
+Chair Marquée
+Frénésie Bestiale
+<font color="#c5b14d"><i>« La peur de la mort transforme les gens en guerriers. Être entouré par des ennemis vous accablants de toute part fera de vous une créature de guerre, émissaire de la mort. Enfin... ça, c'est si vous survivez. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Einjar, Baron du Clan de la Larme de Sang</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Chaque civilisation a ses histoires horrifiques de hordes barbares massacrant et pillant des peuples innocents. La plupart du temps ces histoires exagérées ne sont que des comtes pendant les longues soirées d’hiver. Mais ces descriptions cauchemardesques rattrapèrent la fiction quand les Ravageurs de la Larme de Sang attaquèrent les terres de Varg. Un guerrier terrifiant dépeint comme un tourbillon de fer et de sang devint leur seigneur de la guerre. Dans son aura ils ont atteint un nouveau degré de sauvagerie : du cannibalisme, des rituels de sang, du démembrement… leur folie est désormais sans bornes.</font>
+Augmente les dégâts pour chaque ennemi à portée de Mêlée.
+Predateur du Champ de Bataille
+Affrontez-les tous
+Coup de Sang
+Puissance déchaînée
+Puissance déchaînée
+Puissance déchaînée
+Rapide comme l'Éclair
+Brutalité
+Un Festin pour les Corbeaux
+<font color="#c5b14d"><i>« On ne sème pas mais on récolte. On rejoint les corbeaux pour le festin. Notre table est le champ de bataille ! »</i></font>\n\n<font size="24" color="#c5b14d"><b>Einjar, Baron du Clan de la Larme de Sang</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Chaque civilisation a ses histoires horrifiques de hordes barbares massacrant et pillant des peuples innocents. La plupart du temps ces histoires exagérées ne sont que des comtes pendant les longues soirées d’hiver. Mais ces descriptions cauchemardesques rattrapèrent la fiction quand les Ravageurs de la Larme de Sang attaquèrent les terres de Varg. Un guerrier terrifiant dépeint comme un tourbillon de fer et de sang devint leur seigneur de la guerre. Dans son aura ils ont atteint un nouveau degré de sauvagerie : du cannibalisme, des rituels de sang, du démembrement… leur folie est désormais sans bornes.</font>
+Octroie du Drain de Vie pour les attaques et les sorts. Le Drain de Vie se déclenche à la prochaine Régénération de Vie.
+Don de Sang
+Déchireur de Chair
+Tourbillon d'Acier
+Tourbillon d'Acier
+Tourbillon d'Acier
+Rapidité
+Insensible
+Massacre Compulsif
+<font color="#c5b14d"><i>« Nous n'accepterons plus d’armes de la République ! Ni de tributs de Varg ! Maintenant ils meurent, ils vont tous mourir dans un requiem infini de carnage et lamentations ! Ma hache a soif ! »</i></font>\n\n<font size="24" color="#c5b14d"><b>Einjar, Baron du Clan de la Larme de Sang</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Chaque civilisation a ses histoires horrifiques de hordes barbares massacrant et pillant des peuples innocents. La plupart du temps ces histoires exagérées ne sont que des comtes pendant les longues soirées d’hiver. Mais ces descriptions cauchemardesques rattrapèrent la fiction quand les Ravageurs de la Larme de Sang attaquèrent les terres de Varg. Un guerrier terrifiant dépeint comme un tourbillon de fer et de sang devint leur seigneur de la guerre. Dans son aura ils ont atteint un nouveau degré de sauvagerie : du cannibalisme, des rituels de sang, du démembrement… leur folie est désormais sans bornes.</font>
+Plus vous avez de Rage, plus vous faites de dégâts. Cet effet s'applique à tous les types de dégâts.
+Appétit Sanguinaire
+Rage débridée
+La Mort Matérielle
+Sauvagerie Cannibale
+Déchiqueteur
+Faucheur Sanguinaire
+<font color="#c5b14d"><i>« Arrêtez de courir, garçon. Ton sang est gâché sur la terre. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Einjar, Baron du Clan de Larme de Sang</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Chaque civilisation a des histoires horrifiques des hordes de barbares qui massacrent et pillent le peuple innocent. La plupart de temps ces histoires exagérées essaient de faire des frissons pendant les soirs longs de l’hiver. Mais ces descriptions cauchemardesques rattrapent la fiction quand les Ravageurs de Larme de Sang attaquent les terres de Varg. Un guerrier terrifiant dépeint comme un tourbillon de fer et de carnage devient leur seigneur de la guerre. Dans son aura ils ont atteint une nouvelle profondeur de sauvagerie : du cannibalisme, des rituels de sang, du démembrement… la folie est sans bornes.</font>
+Un pourcentage des dégâts Physiques deviennent des dégâts des Blessures.
+Prétorien
+Mur Insensible
+Puissance
+Nul ne Passera
+Défense Parfaite
+Courage et Altruisme
+<font color="#c5b14d"><i>« Les Sans-Roi sont sensés protéger Laibon. Cependant, alors que le crime devient incontrôlable aux quatre coins du royaume, les Sans-Roi refusent d’intervenir. Je préférerais mourir en cherchant un homme mort au lieu de gâcher ma vie en suivant des principes superficiels. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Mah'alam, cinquième bouclier des Sans-Roi</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Le royaume de Laibon a une longue tradition d’assigner ses plus forts guerriers à la protection de leur dirigeant. Cependant, il y a plusieurs décennies, leur roi a disparu suivant une série d’événements tragiques. Depuis, ces guerriers sont devenu les ‘Sans-Roi,’ ils s’entraînent sans cesse, sans but, toujours prêts à suivre le serment qu’ils ont prêté quand la couronne reviendra. Un des Sans-Roi a choisi de ne plus attendre ; il est parti du royaume pour traquer des indices pouvant le mener à retrouver son souverain. Si d'aventure il arrivait trop tard pour le sauver,  alors il le vengerait et ramènerait la couronne dans son royaume afin de choisir un nouveau roi.</font>
+Bloquer un coup octroie un Bonus au Score de Résistances à vous et à vos alliés.
+Sang Immortel
+Représailles Anticipées
+<font color="#c5b14d"><i>« Le premier bouclier des Sans-Roi nous disait : « Si l'un d'entre nous tombe, ne pleurez pas. Ne donnez pas cela à votre adversaire. Ramassez le bouclier de celui qui tombe, et utilisez le pour casser le crâne de l’ennemi. » Si mon roi est mort, je n’ose pas imaginer ce que j’infligerais à son meurtrier. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Mah'alam, cinquième bouclier des Sans-Roi</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Le royaume de Laibon a une longue tradition d’assigner ses plus forts guerriers à la protection de leur dirigeant. Cependant, il y a plusieurs décennies, leur roi a disparu suivant une série d’événements tragiques. Depuis, ces guerriers sont devenu les ‘Sans-Roi,’ ils s’entraînent sans cesse, sans but, toujours prêts à suivre le serment qu’ils ont prêté quand la couronne reviendra. Un des Sans-Roi a choisi de ne plus attendre ; il est parti du royaume pour traquer des indices pouvant le mener à retrouver son souverain. Si d'aventure il arrivait trop tard pour le sauver,  alors il le vengerait et ramènerait la couronne dans son royaume afin de choisir un nouveau roi.</font>
+Chaque point de Résistance Physique augmente les dégâts infligés avec tous les Types de dégâts, mais réduit votre Score de coup Critique.
+Vengeance Légitime
+Vengeance Légitime
+Persévérance
+Peau de Fer
+Peau de Fer
+Peau de Fer
+Rapide Comme l'Éclair
+Brutalité
+Égide des Sans-Roi
+<font color="#c5b14d"><i>« Le cœur de mon roi bat encore, je peux le sentir, comme un appel à l’action. Je ne peux pas me reposer tant qu'il n'est pas en sureté,  par conséquent ma veille commence. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Mah'alam, cinquième bouclier des Sans-Roi</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Le royaume de Laibon a une longue tradition d’assigner ses plus forts guerriers à la protection de leur dirigeant. Cependant, il y a plusieurs décennies, leur roi a disparu suivant une série d’événements tragiques. Depuis, ces guerriers sont devenu les ‘Sans-Roi,’ ils s’entraînent sans cesse, sans but, toujours prêts à suivre le serment qu’ils ont prêté quand la couronne reviendra. Un des Sans-Roi a choisi de ne plus attendre ; il est parti du royaume pour traquer des indices pouvant le mener à retrouver son souverain. Si d'aventure il arrivait trop tard pour le sauver,  alors il le vengerait et ramènerait la couronne dans son royaume afin de choisir un nouveau roi.</font>
+Vous bénéficier des Chances de Blocage avec n'importe quelle arme
+Technique Peu Orthodoxe
+Bénédiction Royale
+Robuste
+Robuste
+Robuste
+Cible la Point Faible
+Régénération Corporelle
+Vœu Sacré
+<font color="#c5b14d"><i>« Notre souverain est un homme-dieu, un phare béni avec les secrets de Création ! Sa lignée a gardé notre royaume de la longue nuit pendant des centaines d’années… mais maintenant qu'il a disparu, sans descendance pour prendre le relais, on ne peut que craindre le pire pour nos terres. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Mah'alam, cinquième bouclier des Sans-Roi</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Le royaume de Laibon a une longue tradition d’assigner ses plus forts guerriers à la protection de leur dirigeant. Cependant, il y a plusieurs décennies, leur roi a disparu suivant une série d’événements tragiques. Depuis, ces guerriers sont devenu les ‘Sans-Roi,’ ils s’entraînent sans cesse, sans but, toujours prêts à suivre le serment qu’ils ont prêté quand la couronne reviendra. Un des Sans-Roi a choisi de ne plus attendre ; il est parti du royaume pour traquer des indices pouvant le mener à retrouver son souverain. Si d'aventure il arrivait trop tard pour le sauver,  alors il le vengerait et ramènerait la couronne dans son royaume afin de choisir un nouveau roi.</font>
+Bloquer une attaque ennemie lui inflige Faiblesse.
+Foi des Sans-Roi
+Discipline Laibonienne
+Croisade en Solitaire
+Don Béni
+Aumône Divine
+Manne Bénie
+<font color="#c5b14d"><i>« La magnificence de notre chef sacré était sans limite. Tout le monde mangeait à sa faim. Quand son inspiration divine est partie, nos vivres ont commencé à baisser. Maintenant au fond de notre désespoir, le simple fait que nous survivions est un petit miracle. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Mah'alam, cinquième bouclier des Sans-Roi</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Le royaume de Laibon a une longue tradition d’assigner ses plus forts guerriers à la protection de leur dirigeant. Cependant, il y a plusieurs décennies, leur roi a disparu suivant une série d’événements tragiques. Depuis, ces guerriers sont devenu les ‘Sans-Roi,’ ils s’entraînent sans cesse, sans but, toujours prêts à suivre le serment qu’ils ont prêté quand la couronne reviendra. Un des Sans-Roi a choisi de ne plus attendre ; il est parti du royaume pour traquer des indices pouvant le mener à retrouver son souverain. Si d'aventure il arrivait trop tard pour le sauver,  alors il le vengerait et ramènerait la couronne dans son royaume afin de choisir un nouveau roi.</font>
+Les Globes de Vie octroient un Bonus temporaire à toutes vos Résistances en plus de vous soigner.
+Sentinelle
+Technique Raffiné
+Technique Raffiné
+Agile
+Coups Précis
+Coups Précis
+Célérité
+Vif d'esprit
+Guerre Éclair
+Soldat de l'Ombre
+<font color="#c5b14d"><i> « Nous approchons à cheval mais nous attaquons à pied. Ils ne doivent jamais entendre notre approche, sinon c’est la mort certaine. Au moment où ils se rendent compte que nous les flanquons, nous devons déjà être en train de repartir à cheval. Personne ne joue au héros dans mon équipe. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Triss, Le Dragon Volant</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La prise d'information est la clé pour gagner une guerre. C’est une jolie phrase que les étudiants apprennent dans les académies militaires de la République, mais elle a de grandes implications réelles sur le champ de bataille. La demande pour des soldats rapides et discrets est en croissance constante ; traquer les positions des ennemis, servir derrière les lignes ennemies et même les infiltrer pour les saboter.  Ces unités sont l’épine dorsale qui permet aux Inquisiteurs de prendre des décisions stratégiques. Un de ces soldats s’est fait un nom : Le Dragon Volant, une éclaireuse d’une unité de cavalerie légère dédiée au sabotage de chaînes logistique ennemies. Sa réputation la décrie comme si efficace que ses sabotages seuls peuvent suffire à saper le morale d’une armée entière.</font>
+Vos Vitesses d'Attaque et d'Incantation sont augmentées.
+As de la Gâchette
+Mobile
+Formation en Endurance
+Escarmouche Planifiée
+Évasion de Dernier Recours
+<font color="#c5b14d"><i> « Beaucoup de généraux disent que la peur est l’ennemie. Ils sont assis confortablement, dirigeant les troupes à des kilomètres de la première ligne. Quand tu es découvert derrière les lignes ennemies et que tu as besoin de courir pour ta vie, cette peur peut être la seule raison que tu survives. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Triss, Le Dragon Volant</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La prise d'information est la clé pour gagner une guerre. C’est une jolie phrase que les étudiants apprennent dans les académies militaires de la République, mais elle a de grandes implications réelles sur le champ de bataille. La demande pour des soldats rapides et discrets est en croissance constante ; traquer les positions des ennemis, servir derrière les lignes ennemies et même les infiltrer pour les saboter.  Ces unités sont l’épine dorsale qui permet aux Inquisiteurs de prendre des décisions stratégiques. Un de ces soldats s’est fait un nom : Le Dragon Volant, une éclaireuse d’une unité de cavalerie légère dédiée au sabotage de chaînes logistique ennemies. Sa réputation la décrie comme si efficace que ses sabotages seuls peuvent suffire à saper le morale d’une armée entière.</font>
+Vous régénérez des points d'Endurance lorsque vous passez sous un certain seuil de Points de Vie. Cet effet a un temps de recharge.
+Montée d'Adrénaline
+Résilient
+Résilient
+Métabolisme Chimiquement Perfectionné
+Endurant
+Manœuvres Évasives
+Flexible
+Agent Secret
+<font color="#c5b14d"><i> « Si tu veux mieux comprendre l’ennemi, tu devras le rejoindre. Que cela soit une armée régulière ou une secte occulte, cela revient au même. Tu as besoin de penser comme eux et bouger comme eux si tu veux survivre. La partie qui reste toujours la plus difficile, c’est de sortir du rôle, s'extraire de la zone et aller faire un rapport. »</i></font>\n\n<font size="24" color="#c5b14d"><b>Triss, Le Dragon Volant</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La prise d'information est la clé pour gagner une guerre. C’est une jolie phrase que les étudiants apprennent dans les académies militaires de la République, mais elle a de grandes implications réelles sur le champ de bataille. La demande pour des soldats rapides et discrets est en croissance constante ; traquer les positions des ennemis, servir derrière les lignes ennemies et même les infiltrer pour les saboter.  Ces unités sont l’épine dorsale qui permet aux Inquisiteurs de prendre des décisions stratégiques. Un de ces soldats s’est fait un nom : Le Dragon Volant, une éclaireuse d’une unité de cavalerie légère dédiée au sabotage de chaînes logistique ennemies. Sa réputation la décrie comme si efficace que ses sabotages seuls peuvent suffire à saper le morale d’une armée entière..</font>
+Augmente votre Score d'Esquive
+Inflexible
+Métabolisme Chimiquement Perfectionné
+Assassin
+Désordre Élaboré
+Arme Entretenue
+Affinité Serpentine
+Toxines Concentrée
+Bénédiction de la Légion de Jade
+<font color="#c5b14d"><i>"Mille poisons, mille rôles."</i></font>\n\n<font size="24" color="#c5b14d"><b>Li-Wei, Maître du Légion de Jade</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">La plupart des territoires de l’Empire Kuei sont couverts de jungle. Ses villes sont connectées par un réseau de routes commerciales patrouillées par les soldats impériaux. Mais pendant ces dernières quinze années, le Légion de Jade a harcelé les caravanes à travers l’empire.\nSa nature insaisissable a généré de nombreux mythes, au sujet de leurs motivations et culture. Jusqu’à aujourd’hui, un des secrets les meilleurs gardés est que le chef actuel de la Légion de Jade est un agent contrôlé par l’empereur.Il a infiltré et assassiné l’ancien chef et a pris sa position. Maintenant, l’empereur manipule le Légion de Jade pour justifier des impôts agressifs à travers son royaume.</font>
+Un pourcentage des dégâts Physiques est convertit en dégâts Toxiques.
+Entraînement Physique
+Ombre sournoise
+<font color="#c5b14d"><i>"Pas un seul Légionnaire de Jade n'a jamais été interrogé. Nos manœuvres de fuite n’ont pas leur pareil. Quand à ceux qui se font attrapés, ils  n’hésitent jamais à faire le sacrifice ultime. La toxine cachée dans une fausse dent est très efficace pour préserver leur honneur : la mort vaut mieux que l’échec ."</i></font>\n\n<font size="24" color="#c5b14d"><b>Li-Wei, Maître du Légion de Jade</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">La plupart des territoires de l’Empire Kuei sont couverts de jungle. Ses villes sont connectées par un réseau de routes commerciales patrouillées par les soldats impériaux. Mais pendant ces dernières quinze années, le Légion de Jade a harcelé les caravanes à travers l’empire.\nSa nature insaisissable a généré de nombreux mythes, au sujet de leurs motivations et culture. Jusqu’à aujourd’hui, un des secrets les meilleurs gardés est que le chef actuel de la Légion de Jade est un agent contrôlé par l’empereur.Il a infiltré et assassiné l’ancien chef et a pris sa position. Maintenant, l’empereur manipule le Légion de Jade pour justifier des impôts agressifs à travers son royaume.</font>
+Les Roulades peuvent traverser les ennemis.
+Art de l'Évasion
+Traqueur Irrésistible
+Corps et Esprit
+Insaisissable
+Rapide Comme l'Éclair
+Souple
+Exécution Clandestine
+<font color="#c5b14d"><i>"L’assassinat est une discipline étrange. Un prix pour une vie, c’est simple sur la surface. Mais la préparation, les circonstances et l’exécution en soi ont leurs propres complexités. Et bien entendu il ne peut jamais y avoir de témoins."</i></font>\n\n<font size="24" color="#c5b14d"><b>Li-Wei, Maître du Légion de Jade</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">La plupart des territoires de l’Empire Kuei sont couverts de jungle. Ses villes sont connectées par un réseau de routes commerciales patrouillées par les soldats impériaux. Mais pendant ces dernières quinze années, le Légion de Jade a harcelé les caravanes à travers l’empire.\nSa nature insaisissable a généré de nombreux mythes, au sujet de leurs motivations et culture. Jusqu’à aujourd’hui, un des secrets les meilleurs gardés est que le chef actuel de la Légion de Jade est un agent contrôlé par l’empereur.Il a infiltré et assassiné l’ancien chef et a pris sa position. Maintenant, l’empereur manipule le Légion de Jade pour justifier des impôts agressifs à travers son royaume.</font>
+Vous infligez plus de dégâts lorsqu'il n'y a qu'un seul ennemi à Proximité.
+Un Adversaire Méritant
+Paranoïa 
+Rapidité
+Rapidité
+Rapidité
+Cibler le Point Fable
+Fortitude Mentale
+Frappe Fantôme
+<font color="#c5b14d"><i>"Ton mouvement doit être imprévisible,  les attaques que l'on ne voit pas venir sont les plus mortelles."</i></font>\n\n<font size="24" color="#c5b14d"><b>Li-Wei, Maître du Légion de Jade</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">La plupart de la territoire de l’Empire Kuei est couverte de jungle. Ces villes sont connectées par un réseau de routes commerciales patrouillées par les soldats impériaux. Mais pendant ces dernières quinze années, le Légion de Jade a harcelé les caravanes avec les embuscades à travers l’empire.\nSa nature insaisissable a encouragé les mythes, créés pour expliquer les motivations et habitudes. Jusqu’à aujourd’hui, un des secrets les meilleurs gardés est que le chef actuel du Légion de Jade est un agent salarié par l’empire. Il l’a infiltré, assassine l’ancien chef et pris sa position. Maintenant, l’empereur manipule le Légion de Jade pour justifier les impôts agressifs à travers son royaume.</font>
+Les Ruées ont plus de chances d'être des Coups Critiques.
+Vigueur du Chasseur
+À Portée de Mort
+Visée Impécable
+Instinct de Tueur
+Instinct de Tueur
+La Mort Sans Merci
+<font color="#c5b14d"><i>"Si tu n’as pas l’intention de tuer, ne dégaine pas."</i></font>\n\n<font size="24" color="#c5b14d"><b>Li-Wei, Maître du Légion de Jade</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">La plupart des territoires de l’Empire Kuei sont couverts de jungle. Ses villes sont connectées par un réseau de routes commerciales patrouillées par les soldats impériaux. Mais pendant ces dernières quinze années, le Légion de Jade a harcelé les caravanes à travers l’empire.\nSa nature insaisissable a généré de nombreux mythes, au sujet de leurs motivations et culture. Jusqu’à aujourd’hui, un des secrets les meilleurs gardés est que le chef actuel de la Légion de Jade est un agent contrôlé par l’empereur.Il a infiltré et assassiné l’ancien chef et a pris sa position. Maintenant, l’empereur manipule le Légion de Jade pour justifier des impôts agressifs à travers son royaume.</font>
+Vos Dégâts Critiques sont augmentés, mais vos dégâts non-critiques sont réduits.
+Rôdeur
+Rafales Inarrêtable
+Rapidité
+Tir Mortel
+Tir Mortel
+Quoi qu'il arrive
+<font color="#c5b14d"><i> “J’ai vu tant de groupes mourir de la perfidie de ces terres. Les prévenir des terreurs auxquels ils vont faire face ne changent pas leur destin… il faut le vivre pour comprendre.  Si on survit une fois, on pourra survivre une deuxième fois et enfin on pourra se considérer 'formé'."</i></font>\n\n<font size="24" color="#c5b14d"><b>Blue, Ranger des Transhumants et l’homme le plus isolé connu</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Tel un oiseau migratoire, la ville volante d’Archion suit un style de vie nomadique. Elle a trois points d’ancrage, le plus à l'Est est au-dessus d’un lagon sur la côte d’un des deux continents inexplorés, qui rend cette ville la plus exposée aux dangers exotiques et inconnus. Une fois par an, des groupes de rangers courageux sont envoyés pour explorer ces terrs exotiques. Peu reviennent, et ceux qui survivent ramènent souvent avec eux des maladies mentales qui désagrégent leur esprit. Tout le monde sait qu’on ne doit pas rester sur ce continent plus d’une nuit… sauf Blue, un loup solitaire qui a appris comment survivre tout seul pendant des semaines. À l'heure actuelle, Blue n’a pas partagé son secret ni les choses qu’il a découvertes.</font>
+Vos projectiles Percent les ennemis proches, ce qui leur permet de toucher des ennemis qui se trouvent derrière eux.
+Conditionnement Physique
+Chasse Persistante
+<font color="#c5b14d"><i> “Traquer un animal c’est apprendre à le connaître. Sans s'arrêter aux dents recourbées et à la queue barbelée, on découvre où il mange, où il dort, où il chasse. En le chassant jusqu’à ce qu'il s’effondre à terre, on prend finalement la vie que l'on connait si bien."</i></font>\n\n<font size="24" color="#c5b14d"><b>Blue, Ranger des Transhumants et l’homme le plus isolé connu</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Tel un oiseau migratoire, la ville volante d’Archion suit un style de vie nomadique. Elle a trois points d’ancrage, le plus à l'Est est au-dessus d’un lagon sur la côte d’un des deux continents inexplorés, qui rend cette ville la plus exposée aux dangers exotiques et inconnus. Une fois par an, des groupes de rangers courageux sont envoyés pour explorer ces terrs exotiques. Peu reviennent, et ceux qui survivent ramènent souvent avec eux des maladies mentales qui désagrégent leur esprit. Tout le monde sait qu’on ne doit pas rester sur ce continent plus d’une nuit… sauf Blue, un loup solitaire qui a appris comment survivre tout seul pendant des semaines. À l'heure actuelle, Blue n’a pas partagé son secret ni les choses qu’il a découvertes.</font>
+Les ennemis dont le mouvement est altéré (sous stase, ralentis, étourdis, ou gelés) subissent plus de dégâts.
+Assaut Handicapant
+Barrage Accablant
+Corps et Esprit
+Insaisissable
+Insaisissable
+Insaisissable
+Rapide Comme l'Éclair
+Souple
+Enseignements d'Archion
+<font color="#c5b14d"><i> “Quand je suis à Archion, les jeunes me demandent qu’est-ce qu’ils doivent faire pour devenir comme moi... Je leur réponds d'écouter leurs instructeurs, après tout, nous sommes les meilleurs archers du monde. Mais la réalité c'est que je ne veux pas qu’ils suivent mon pas. Ces terres méritent de restées intouchées, loin de l'influence des Hommes. Je m'y aventure pour y trouver réconfort et solitude, pas pour les conquérir."</i></font>\n\n<font size="24" color="#c5b14d"><b>Blue, Ranger des Transhumants et l’homme le plus isolé connu</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Tel un oiseau migratoire, la ville volante d’Archion suit un style de vie nomadique. Elle a trois points d’ancrage, le plus à l'Est est au-dessus d’un lagon sur la côte d’un des deux continents inexplorés, qui rend cette ville la plus exposée aux dangers exotiques et inconnus. Une fois par an, des groupes de rangers courageux sont envoyés pour explorer ces terrs exotiques. Peu reviennent, et ceux qui survivent ramènent souvent avec eux des maladies mentales qui désagrégent leur esprit. Tout le monde sait qu’on ne doit pas rester sur ce continent plus d’une nuit… sauf Blue, un loup solitaire qui a appris comment survivre tout seul pendant des semaines. À l'heure actuelle, Blue n’a pas partagé son secret ni les choses qu’il a découvertes.</font>
+Les Attaques et Sorts qui lancent des Projectiles lancent un Projectile supplémentaire. Les dégâts de chaque Projectile sont réduits.
+Dans le Mille
+Tir Mortel
+Tirer pour Tuer
+Tirer pour Tuer
+Tirer pour Tuer
+Tir Perforant
+Fortitude Mentale
+Observation Concentrée
+<font color="#c5b14d"><i> “Tuer une autre créature vivante ne doit pas être fait sans raison. Quand je le peux, je réfléchis à chaque flèche, en reconnaissant son potentiel mortel. Si ce potentiel s’aligne avec mon intention, elle atteindra toujours sa cible."</i></font>\n\n<font size="24" color="#c5b14d"><b>Blue, Ranger des Transhumants et l’homme le plus isolé connu</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Tel un oiseau migratoire, la ville volante d’Archion suit un style de vie nomadique. Elle a trois points d’ancrage, le plus à l'Est est au-dessus d’un lagon sur la côte d’un des deux continents inexplorés, qui rend cette ville la plus exposée aux dangers exotiques et inconnus. Une fois par an, des groupes de rangers courageux sont envoyés pour explorer ces terrs exotiques. Peu reviennent, et ceux qui survivent ramènent souvent avec eux des maladies mentales qui désagrégent leur esprit. Tout le monde sait qu’on ne doit pas rester sur ce continent plus d’une nuit… sauf Blue, un loup solitaire qui a appris comment survivre tout seul pendant des semaines. À l'heure actuelle, Blue n’a pas partagé son secret ni les choses qu’il a découvertes.</font>
+Vous infligez plus de dégâts lorsque vous êtes Loin des ennemis.
+Distance Mortelle
+Espace Personnel
+Rapidité
+Mort rapide
+Mort rapide
+Distance de Sûreté
+<font color="#c5b14d"><i> “Première règle d'auto-préservation : la curiosité tue. Si quelque chose t’approche et que tu n’es pas sûr de ses intentions, tire ou court, mais reste pas les bras balants."</i></font>\n\n<font size="24" color="#c5b14d"><b>Blue, Ranger des Transhumants et l’homme le plus isolé connu</b></font>\n_________________________________________________________   \n
+<font color="#c5b14d">Tel un oiseau migratoire, la ville volante d’Archion suit un style de vie nomadique. Elle a trois points d’ancrage, le plus à l'Est est au-dessus d’un lagon sur la côte d’un des deux continents inexplorés, qui rend cette ville la plus exposée aux dangers exotiques et inconnus. Une fois par an, des groupes de rangers courageux sont envoyés pour explorer ces terrs exotiques. Peu reviennent, et ceux qui survivent ramènent souvent avec eux des maladies mentales qui désagrégent leur esprit. Tout le monde sait qu’on ne doit pas rester sur ce continent plus d’une nuit… sauf Blue, un loup solitaire qui a appris comment survivre tout seul pendant des semaines. À l'heure actuelle, Blue n’a pas partagé son secret ni les choses qu’il a découvertes.</font>
+Plus les ennemis sont éloignés de vous, plus vos Projectiles leur infligent de dégâts (jusqu'à une certaine limite).
+Érudit
+Concentration Renforcée
+Concentration Renforcée
+Détermination
+Adepte
+Adepte
+Physicien
+Consultant en Sorcellerie
+Expert en Anatomie
+Stratège de l'Usure
+<font color="#c5b14d"><i>Patience, Inquisiteur. Nos adversaires sont coincés et ne bougent pas. La meilleure stratégie peut être de ne faire rien faire… Laissez-les pourir lentement. Forcez-les à nous charger par désespoir. Nous les écraserons à ce moment précis.  </i></font>\n\n<font size="24" color="#c5b14d"><b> Jeremiah, Conseiller de Bataille de la 4e Légion des Purificateurs</b></font>\n_________________________________________________________   \n<font color="#c5b14d">Il y a besoin de prévisions, stratégies et connaissances pour diriger un bataillon efficacement. C'est pourquoi les Inquisiteurs et Justicars s’entourent de spécialistes qui connaissent le terrain, la culture et l’anatomie de ses ennemis. Pour les Purificateurs, ces ennemis sont occultes, ce qui amène les académiciens à étudier la sorcellerie malgré le fait sa pratique soit interdite. Une mince frontière qui a conduit beaucoup de conseillers à la folie et au bûcher. Cependant, le Conseiller Jeremiah a réussi à maîtriser les arts interdits en secret, les utilisant pour devenir un stratège de génie. Il a refusé de prendre des opportunités de promotion, content de rester dans l’ombre d'Inquisiteurs ambitieux pendant qu'il continu d'approfondir ses connaissances occultes.</font>
+Augmente votre Score d’Application des Afflictions avec tous les types d'Afflictions
+Tir Rapide
+Intelligence Émotionelle
+Sens de l'Observation
+Dévouement Inflexible
+Soif de Connaissance
+<font color="#c5b14d"><i>"Au sein de la République, les soldats se font marteler qu’ils doivent être prêt de se sacrifier pour la cause commune. Mais pas sous mon commandement. La vie d’un Purificateur doit être protégée, afin qu’il puisse découvrir les mystères des cultes. Plus on accumule de savoir, plus notre puissance augmente."</i></font>\n\n<font size="24" color="#c5b14d"><b> Jeremiah, Conseiller de Bataille de la 4e Légion des Purificateurs</b></font>\n_________________________________________________________   \n<font color="#c5b14d">Il y a besoin de prévisions, stratégies et connaissances pour diriger un bataillon efficacement. C'est pourquoi les Inquisiteurs et Justicars s’entourent de spécialistes qui connaissent le terrain, la culture et l’anatomie de ses ennemis. Pour les Purificateurs, ces ennemis sont occultes, ce qui amène les académiciens à étudier la sorcellerie malgré le fait sa pratique soit interdite. Une mince frontière qui a conduit beaucoup de conseillers à la folie et au bûcher. Cependant, le Conseiller Jeremiah a réussi à maîtriser les arts interdits en secret, les utilisant pour devenir un stratège de génie. Il a refusé de prendre des opportunités de promotion, content de rester dans l’ombre d'Inquisiteurs ambitieux pendant qu'il continu d'approfondir ses connaissances occultes.</font>
+Les Globes de Vie restaurent votre Bouclier de Force en plus de vos Points de Vie.
+Dévouement Inflexible
+Endurci
+Endurci
+Inébranlable
+Cerveau Chimiquement Perfectionné
+Résolution Héroïque
+Résistance Zélée
+Volonté des Purificateurs
+<font color="#c5b14d"><i> « S’ils découvraient mes pouvoirs, je serais relégué au rang de traître. Les Purificateurs voient le monde en noir et blanc : tout ce qui est magique est de la sorcellerie et provient d'un pacte avec des forces maléfiques. Quelquefois je veux leur partager ce que j’ai appris, mener la République à un niveau inattendu de pouvoir en traitant l’occulte comme un pouvoir maitrisable plutôt que comme une malédiction. Cependant, ils sont loin d’être prêt pour ce genre de nuances. » ><b> Jeremiah, Conseiller de Bataille de la 4e Légion des Purificateurs</b></font>\n_________________________________________________________   \n<font color="#c5b14d">Il y a besoin de prévisions, stratégies et connaissances pour diriger un bataillon efficacement. C'est pourquoi les Inquisiteurs et Justicars s’entourent de spécialistes qui connaissent le terrain, la culture et l’anatomie de ses ennemis. Pour les Purificateurs, ces ennemis sont occultes, ce qui amène les académiciens à étudier la sorcellerie malgré le fait sa pratique soit interdite. Une mince frontière qui a conduit beaucoup de conseillers à la folie et au bûcher. Cependant, le Conseiller Jeremiah a réussi à maîtriser les arts interdits en secret, les utilisant pour devenir un stratège de génie. Il a refusé de prendre des opportunités de promotion, content de rester dans l’ombre d'Inquisiteurs ambitieux pendant qu'il continu d'approfondir ses connaissances occultes.</font>
+Quand votre Bouclier de Force est plein, les dégâts reçus sont réduits.
+Inflexible
+Inébranlable
+Cabaliste
+Clarté d'Esprit
+Tourmenteur
+Maître des Maux
+Maître des Maux
+Décomposition Insidieuse
+<font color="#c5b14d"><i> « Depuis ma jeunesse, je ressens une urgence constante et oppressante. En vieillissant, je me suis rendu compte que la mort en soi est associée à l'immobilisme. Quand vous affrontez des ennemis puissants, estropiez-les, l'ordre naturel de l'univers s'occupera de les terminer. » ><b> L’Augure, Messie de l'Illumination</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plus grande collection d’Enneracts est possédée par un homme singulier : un augure qui dirige la Cabale de l'Illumination. Dans les profondeurs de la ville sous-terraine de Salander, il a construit une académie pour ses étudiants afin d'apprendre à manipuler ces anciens artefacts. Cependant, l’augure est prudent ; il garde les Enneracts les plus puissants dans une chambre forte au centre d’un labyrinthe que personne n’a jamais résolu. Selon sa réputation, il a maîtrisé tous les sorts et secrets qu’il a récolté.</font>
+Lorsque vous infligez une Affliction, le nombre d'Applications sur l'ennemi affecté est augmenté. Les dégâts que vous infligez avec toutes les sources autres que celles qui infligent des dégâts sur le temps sont réduits.
+Ancienne Babiole
+Sagacité Primordiale
+<font color="#c5b14d"><i> « La plupart des Hommes ont oublié  l’existence même des Primoridaux. Pas moi. S'ils sont silencieux de nos jours, des échos de leurs enseignements sont partout pour ceux qui comprennent la création. » ><b> L’Augure, Messie de l'Illumination</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plus grande collection d’Enneracts est possédée par un homme singulier : un augure qui dirige la Cabale de l'Illumination. Dans les profondeurs de la ville sous-terraine de Salander, il a construit une académie pour ses étudiants afin d'apprendre à manipuler ces anciens artefacts. Cependant, l’augure est prudent ; il garde les Enneracts les plus puissants dans une chambre forte au centre d’un labyrinthe que personne n’a jamais résolu. Selon sa réputation, il a maîtrisé tous les sorts et secrets qu’il a récolté.</font>
+Les Applications d'Afflictions infligées par vos Coups Critiques peuvent infliger des Dégâts Critiques.
+Connaissances Ancestrales
+Techniques d'un Autre Monde
+Aura Protectrice
+Perspicacité Aiguisée
+Perspicacité Aiguisée
+Perspicacité Aiguisée
+Rapide Comme l'Éclair
+Concentration
+Afflictions Douloureuses
+<font color="#c5b14d"><i> « Ils n'étaient qu'un. Ils ont essayé de se séparer, mais ils restent liés par leur origine commune. Il est rare que quelqu’un comprenne que la Glace, la Foudre et le Feu doivent être maîtrisés ensemble. » ><b> L’Augure, Messie de l'Illumination</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plus grande collection d’Enneracts est possédée par un homme singulier : un augure qui dirige la Cabale de l'Illumination. Dans les profondeurs de la ville sous-terraine de Salander, il a construit une académie pour ses étudiants afin d'apprendre à manipuler ces anciens artefacts. Cependant, l’augure est prudent ; il garde les Enneracts les plus puissants dans une chambre forte au centre d’un labyrinthe que personne n’a jamais résolu. Selon sa réputation, il a maîtrisé tous les sorts et secrets qu’il a récolté.</font>
+Au lieu d'appliquer une seule Affliction, vous pouvez maintenant en appliquer deux en même temps.
+Décrépitude Handicapante
+Tourmenteur
+Décrépitude Handicapante
+Mort Assurée
+Infirmité Progressive
+Afflictions tenaces
+Forte Détermination
+Pouvoir des Premiers Hommes
+<font color="#c5b14d"><i> « La fierté et la stupidité sont le fléau des Hommes modernes. Comment osent-ils penser que nous sommes au sommet de notre évolution ? En fait, nous l’avons déjà passé depuis des siècles ! Les Enneracts qu’ils utilisent pour l’énergie sont des rappels douloureux du fait que notre espèce n’est qu’une ombre de notre gloire passée. » ><b> L’Augure, Messie de l'Illumination</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plus grande collection d’Enneracts est possédée par un homme singulier : un augure qui dirige la Cabale de l'Illumination. Dans les profondeurs de la ville sous-terraine de Salander, il a construit une académie pour ses étudiants afin d'apprendre à manipuler ces anciens artefacts. Cependant, l’augure est prudent ; il garde les Enneracts les plus puissants dans une chambre forte au centre d’un labyrinthe que personne n’a jamais résolu. Selon sa réputation, il a maîtrisé tous les sorts et secrets qu’il a récolté.</font>
+Vous avez une chance de doubler vos Applications d'Afflictions lorsque vous infligez une Affliction.
+Étude des Artefacts
+Specialiste en Enneracts
+Énergie Affaiblissante
+Maîtrise Magique
+Maîtrise Magique
+Offrande aux Immortels
+<font color="#c5b14d"><i> « Avec le bon rituel, prendre une vie avec la sorcellerie peut transférer la force de vie de la victime au seigneur Déchu dont la puissance était sollicitée. Les Déchus ont soif de cette énergie et vous convaincrons de les nourrir plus en échange de puissance. Mes étudiants sont formés pour résister à cette tentation, mais le reste du monde reste vulnérable à leur influence. » ><b> L’Augure, Messie d’Illumination</b></font>\n_________________________________________________________   \n<font color="#c5b14d">La plus grande collection d’Enneracts est possédée par un homme singulier : un augure qui dirige la Cabale de l'Illumination. Dans les profondeurs de la ville sous-terraine de Salander, il a construit une académie pour ses étudiants afin d'apprendre à manipuler ces anciens artefacts. Cependant, l’augure est prudent ; il garde les Enneracts les plus puissants dans une chambre forte au centre d’un labyrinthe que personne n’a jamais résolu. Selon sa réputation, il a maîtrisé tous les sorts et secrets qu’il a récolté.</font>
+Tuer un ennemi affecté par une Affliction vous octroie un Bonus temporaire aux dégâts.
+Sorcier
+Dominateur
+Incantation Rapide
+Manipulation des Élements
+Adepte en Sorcellerie
+Énergie Résiduelle
+<font color="#c5b14d"><i> « La magie est imprévisible. Invoquer l’énergie d’un Déchu est chaotique et elle peut s'échapper de votre corps d’une façon inattendue. Les cultistes les plus faibles ont souvent ce genre de problème ; ils ont les yeux plus gros que le ventre et sont consommés par leur propre magie. » ><b> Kardis, le Bâton Noir</b></font>\n_________________________________________________________   \n<font color="#c5b14d"> Il y a une ville de pauvre réputation dotée d'un écosystème unique. Loin des civilisations, Gomora accueille tous les cultes sur son île sans distinction, aussi diabolique et insidieux soient-ils. Les puissants Arbitres gardent la ville sous contrôle. Mais dans les coins les plus sombres de cette ville tordue, les pires cauchemars prennent vie. Cette situation a contribué à l'émergence d'un héros. Son surnom est le Bâton Noir de Gomora, une sorcière aussi perfide que le mal qu’elle combat. Elle a maîtrisé la sorcellerie et est devenue une dévoreureuse de foi, ce qui explique pourquoi les cultistes sont si terrifiés d’elle. </font>
+Lancer un sort augmente les dégâts de vos Attaques pendant une courte période de temps. Les dégâts de ces Attaques sont du même Type que le dernier Sort lancé.
+Grande Conscience de Soi
+Le Devoir d'Exterminer
+<font color="#c5b14d"><i> « Gomora est envahie de cultistes ; des rongeurs sales et sournois qui n’existent que pour faire du mal aux autres. Cependant, avec autant d'entre eux dans la même ville, les tuer devient un sport. » ><b> Kardis, le Bâton Noir</b></font>\n_________________________________________________________   \n<font color="#c5b14d"> Il y a une ville de pauvre réputation dotée d'un écosystème unique. Loin des civilisations, Gomora accueille tous les cultes sur son île sans distinction, aussi diabolique et insidieux soient-ils. Les puissants Arbitres gardent la ville sous contrôle. Mais dans les coins les plus sombres de cette ville tordue, les pires cauchemars prennent vie. Cette situation a contribué à l'émergence d'un héros. Son surnom est le Bâton Noir de Gomora, une sorcière aussi perfide que le mal qu’elle combat. Elle a maîtrisé la sorcellerie et est devenue une dévoreureuse de foi, ce qui explique pourquoi les cultistes sont si terrifiés d’elle. </font>
+Augmente votre maximum de Rage et de Volonté.
+Obligation Pervertie
+Obligation Pervertie
+Instinct de Conservation
+Perspicacité Aiguisée
+Perspicacité Aiguisée
+Perspicacité Aiguisée
+Rapide Comme l'Éclair
+Concentration
+Maîtrise de la Pénombre
+<font color="#c5b14d"><i> « Faites attention, disent-ils. Faites attention car quand vous regardez dans l’abîme, il vous regarde en retour. La frontière est souvent floue : est-ce que je suis entourée d'ombres ? Ou est-ce que je suis devenue les ombres ? » ><b> Kardis, le Bâton Noir</b></font>\n_________________________________________________________   \n<font color="#c5b14d">   Il y a une ville de pauvre réputation dotée d'un écosystème unique. Loin des civilisations, Gomora accueille tous les cultes sur son île sans distinction, aussi diabolique et insidieux soient-ils. Les puissants Arbitres gardent la ville sous contrôle. Mais dans les coins les plus sombres de cette ville tordue, les pires cauchemars prennent vie. Cette situation a contribué à l'émergence d'un héros. Son surnom est le Bâton Noir de Gomora, une sorcière aussi perfide que le mal qu’elle combat. Elle a maîtrisé la sorcellerie et est devenue une dévoreureuse de foi, ce qui explique pourquoi les cultistes sont si terrifiés d’elle. </font>
+Votre Score de Coup Critique avec les Sorts est augmenté lorsque votre Volonté est au-dessus d'un certain seuil.
+Vocations Sombres
+Contrôle de Soi
+Maîtrise Magique
+Maîtrise Magique
+Maîtrise Magique
+Contrôle de Soi
+Impatient
+Résistance à la Corruption
+<font color="#c5b14d"><i> « Avoir de la moralité vous tuera à Gomora. Personne n’est ‘bon’. Ici, on n’est mesuré que par la force de ses croyances. » ><b> Kardis, le Bâton Noir</b></font>\n_________________________________________________________   \n<font color="#c5b14d"> Il y a une ville de pauvre réputation dotée d'un écosystème unique. Loin des civilisations, Gomora accueille tous les cultes sur son île sans distinction, aussi diabolique et insidieux soient-ils. Les puissants Arbitres gardent la ville sous contrôle. Mais dans les coins les plus sombres de cette ville tordue, les pires cauchemars prennent vie. Cette situation a contribué à l'émergence d'un héros. Son surnom est le Bâton Noir de Gomora, une sorcière aussi perfide que le mal qu’elle combat. Elle a maîtrisé la sorcellerie et est devenue une dévoreureuse de foi, ce qui explique pourquoi les cultistes sont si terrifiés d’elle. </font>
+Lorsque vous êtes affecté par une Affliction, les dégâts sur la durée affectent votre Bouclier de Force avant votre Santé.
+Bijou Antique
+Forte Détermination
+Domination Profane
+Magie Vorace
+Magie Vorace
+Dévoreur de Foi
+<font color="#c5b14d"><i> « Quand ces bâtards sont coupés de la puissance de leur maître, ca chamboule toute leur vie. Seuls, incapables, effrayés. Ils ne méritent aucune pitié.Aucune. » ><b> Kardis, le Bâton Noir</b></font>\n_________________________________________________________   \n<font color="#c5b14d">  Il y a une ville de pauvre réputation dotée d'un écosystème unique. Loin des civilisations, Gomora accueille tous les cultes sur son île sans distinction, aussi diabolique et insidieux soient-ils. Les puissants Arbitres gardent la ville sous contrôle. Mais dans les coins les plus sombres de cette ville tordue, les pires cauchemars prennent vie. Cette situation a contribué à l'émergence d'un héros. Son surnom est le Bâton Noir de Gomora, une sorcière aussi perfide que le mal qu’elle combat. Elle a maîtrisé la sorcellerie et est devenue une dévoreureuse de foi, ce qui explique pourquoi les cultistes sont si terrifiés d’elle. </font>
+L'Absorption de Vie vous permet de régénérer du Bouclier de Force au lieu de restaurer des Points de Vie lorsque vous infligez des dégâts.
+Tisseur Temporel
+Retournement Lunaire
+Flétrir en Rêve
+Flétrir en Rêve
+Virage Temporel
+Flétrir en Rêve
+Âme Impossible
+Jeunesse au Futur
+Ce que le temps ne peut guérir
+<font color="#c5b14d"><i>"Elle m'a surpris en train de la suivre et aussitôt, elle s'est mis le poignet à nu. Elle l'avait coupé avec une fiole cassée quand elle était adolescente, et s'est servie de cette blessure pour délier ma propre chair à travers le temps. Je me demande... est-ce que ça lui a fait mal aussi ?"</i></font>\n\n<font size="24" color="#c5b14d"><b>Eris Castille, la Nomade</b></font>\n_________________________________________________________\n<font color="#c5b14d">Sa proie ralentit alors qu'elle tire sur l'Éther qui donne forme au temps, creusant un trou dans la matière élastique qui compose le monde avant d'écraser ses ennemis à l'intérieur. Mais au final, Eris Castille n'a qu'une seule cible :\n\nElle, au passé.\n\nLa fille semble en deuil, mais déterminée. Eris sait que ce deuil la poussera à tirer Anulai-Tai de l'Abysse pour faire arrêter le temps et l'entropie. Elle le regrettera, mais trop tard. Eris doit arrêter la fille qu'elle était, et si elle doit être la seule à traverser la frontière du passé, ainsi soit-il. Même si sa cible est plus intelligente, rapide, puissante, qui pourrait prédire Eris mieux qu'Eris ?</font>
+Lorsque vous infligez des dégâts à un ennemi sous Stase, il subit de nouveau les dégâts après quelques secondes.
+Blessures Respectueuses
+Obsolescence
+Obsolescence
+Virage Temporel
+Décompte
+Amorti
+Âme Impossible
+Jeunesse au Futur
+Vélocité Dérobée
+Si vous appliquez Stase sur un ennemi avec une Attaque, vous gagnez un point de "Paradoxe Céleste". Chaque point de "Paradoxe Céleste" augmente votre Vitesse d'Incantation.\n\nSi vous appliquez Stase sur un ennemi avec un Sort, vous gagnez un point de "Paradoxe Corporel". Chaque point de "Paradoxe Corporel" augmente votre Vitesse d'Attaque.
+<font color="#c5b14d"><i>"Quand on force quelque chose de mobile à s'arrêter, une énergie est produite. Dans mes rêveries insensées, je me suis demandé quelle énergie pourrait venir de l'immobilité de tout Wolcen."</i></font>\n\n<font size="24" color="#c5b14d"><b>Eris Castille, la Nomade</b></font>\n_________________________________________________________\n<font color="#c5b14d">Sa proie ralentit alors qu'elle tire sur l'Éther qui donne forme au temps, creusant un trou dans la matière élastique qui compose le monde avant d'écraser ses ennemis à l'intérieur. Mais au final, Eris Castille n'a qu'une seule cible :\n\nElle, au passé.\n\nLa fille semble en deuil, mais déterminée. Eris sait que ce deuil la poussera à tirer Anulai-Tai de l'Abysse pour faire arrêter le temps et l'entropie. Elle le regrettera, mais trop tard. Eris doit arrêter la fille qu'elle était, et si elle doit être la seule à traverser la frontière du passé, ainsi soit-il. Même si sa cible est plus intelligente, rapide, puissante, qui pourrait prédire Eris mieux qu'Eris ?</font>
+Réserve en Épargne
+Jonction Intense
+<font color="#c5b14d"><i>"Je ne suis pas une imbécile. Je sais que tout mal que je lui fais me heurte moi aussi. Mais j'ai développé une résilience qu'elle n'aura jamais l'opportunité d'avoir."</i></font>\n\n<font size="24" color="#c5b14d"><b>Eris Castille, la Nomade</b></font>\n_________________________________________________________\n<font color="#c5b14d">Sa proie ralentit alors qu'elle tire sur l'Éther qui donne forme au temps, creusant un trou dans la matière élastique qui compose le monde avant d'écraser ses ennemis à l'intérieur. Mais au final, Eris Castille n'a qu'une seule cible :\n\nElle, au passé.\n\nLa fille semble en deuil, mais déterminée. Eris sait que ce deuil la poussera à tirer Anulai-Tai de l'Abysse pour faire arrêter le temps et l'entropie. Elle le regrettera, mais trop tard. Eris doit arrêter la fille qu'elle était, et si elle doit être la seule à traverser la frontière du passé, ainsi soit-il. Même si sa cible est plus intelligente, rapide, puissante, qui pourrait prédire Eris mieux qu'Eris ?</font>
+Une partie des dégâts que vous recevez est différée, et ces dégâts différés n'interrompent pas la régénération du Bouclier de Force.\n\nVotre maximum de Points de Vie et de Bouclier de Force est réduit.
+Ténacité Travaillée
+Façonneur des Abysses
+Dot Gutturale
+Présage Impie
+Présage Impie
+Tranquille dans la Misère
+Rayon Agonisant
+Lien Insinué
+Ombre Apaisante
+Affliction Occulte
+<font color="#c5b14d"><i>"Il vaut mieux consommer l'Abysse à faible dose. Vous êtes chanceux : vous allez goûter tout un festin."</i></font>\n\n<font size="24" color="#c5b14d"><b>Calchas, Héraut de l'Abysse</b>
+</font>\n_________________________________________________________\n<font color="#c5b14d">Quand un portail s’ouvre depuis l’Abysse, tout son et lumière est arraché à notre monde puis tiré dans le néant. Tandis que les démons s'élancent pour vous saisir, vous tenterez d’appeler à l’aide et vous découvrirez qu’aucun son ne sort de votre bouche.\n\nPourtant, l'Envoyée a quand même tiré profit de cet abîme.\n\nDans son auberge, les cordes d’un violon se taisent momentanément pendant que l'Envoyée fait son affaire. Des vagabonds possédés et hybrides en tous genres se jettent des regards en sirotant leurs verres, tentant tant bien que mal de se détendre dans cet étrange havre pour le surnaturel. L'Envoyée leur impose une trêve, et en retour ils paient un tribut d’informations et de puissance magique pour qu’elle arrange une petite transaction. Quant à ceux qui osent briser la trêve, ils font connaissance de manière plus <i>intime</i> avec l’Abysse.</font>
+Les dégâts Occultes que vous infligez avec des Attaques sont augmentés pour chaque Application de Malédiction sur un ennemi.
+Serment de Damnation
+Ses Berceuses Murmurées
+Ses Berceuses Murmurées
+Tranquille dans la Misère
+Chant du Maître de Pactes
+Cerceuil Insonorisé
+Lien Insinué
+Ombre Apaisante
+Pacte Fatal
+<font color="#c5b14d"><i>"C'est vrai, j'ai quelques uns de ces pactes moi-même. Mais vous ne pouvez pas vous attendre à ce qu'ils aient le même effet sur vous que sur moi. Dit clairement, nous ne jouons pas au même niveau."</i></font>\n\n<font size="24" color="#c5b14d"><b>Calchas, Héraut de l'Abysse</b>
+</font>\n_________________________________________________________\n<font color="#c5b14d">Quand un portail s’ouvre depuis l’Abysse, tout son et lumière est arraché à notre monde puis tiré dans le néant. Tandis que les démons s'élancent pour vous saisir, vous tenterez d’appeler à l’aide et vous découvrirez qu’aucun son ne sort de votre bouche.\n\nPourtant, l'Envoyée a quand même tiré profit de cet abîme.\n\nDans son auberge, les cordes d’un violon se taisent momentanément pendant que l'Envoyée fait son affaire. Des vagabonds possédés et hybrides en tous genres se jettent des regards en sirotant leurs verres, tentant tant bien que mal de se détendre dans cet étrange havre pour le surnaturel. L'Envoyée leur impose une trêve, et en retour ils paient un tribut d’informations et de puissance magique pour qu’elle arrange une petite transaction. Quant à ceux qui osent briser la trêve, ils font connaissance de manière plus <i>intime</i> avec l’Abysse.</font>
+Toutes les Applications d'Afflictions que vous infligez vous sont également appliquées. Lorsque vous atteignez 10 Applications d'un Type d'Affliction, ce Type d'Affliction est purgé et vous octroie ainsi qu'à vos alliés un Bonus temporaire dépendant du type d'Affliction purgée.\n\nLes Stases purgées augmentent la Vitesse de Déplacement.\n\nLes Malédictions purgées augmentent le Score de Résistances.\n\nLes Faiblesses purgées augmentent les dégâts infligés.\n\nSi un autre type d'affliction est purgée, les Points de Vie et le Bouclier de Force se régénèrent.
+Bouclier Blessé
+Effigie Masochiste
+<font color="#c5b14d"><i>"S'il vous plaît, asseyez-vous. J'aime que mes invités participent à un exercice mental d'empathie. Quand la douleur de l'un affecte l'autre aussi, les négociations se passent beaucoup mieux."</i></font>\n\n<font size="24" color="#c5b14d"><b>Calchas, Héraut de l'Abysse</b>
+</font>\n_________________________________________________________\n<font color="#c5b14d">Quand un portail s’ouvre depuis l’Abysse, tout son et lumière est arraché à notre monde puis tiré dans le néant. Tandis que les démons s'élancent pour vous saisir, vous tenterez d’appeler à l’aide et vous découvrirez qu’aucun son ne sort de votre bouche.\n\nPourtant, l'Envoyée a quand même tiré profit de cet abîme.\n\nDans son auberge, les cordes d’un violon se taisent momentanément pendant que l'Envoyée fait son affaire. Des vagabonds possédés et hybrides en tous genres se jettent des regards en sirotant leurs verres, tentant tant bien que mal de se détendre dans cet étrange havre pour le surnaturel. L'Envoyée leur impose une trêve, et en retour ils paient un tribut d’informations et de puissance magique pour qu’elle arrange une petite transaction. Quant à ceux qui osent briser la trêve, ils font connaissance de manière plus <i>intime</i> avec l’Abysse.</font>
+Le Bouclier de Force maximum est doublé.\n\nVos Points de Vie ne peuvent excéder 5% de votre Bouclier de Force maximum.
+Cri Souffrant
+Flèche Blanche
+Traqueur Implacable
+Engelure
+Engelure
+Appel de la Nature
+Rêve de Chaleur
+La Glace Éveillera
+Chasseur Chassé
+Stalactite Affamé
+<font color="#c5b14d"><i>"La pointe de la flèche est si froide qu'elle cautérise la blessure en pénétrant le corps : la viande autour se fige, glacée. Si je frappe juste, ce sera la dernière chose que vous ressentirez avant de succomber complètement au givre."</i></font>\n\n<font size="24" color="#c5b14d"><b>Vidar, Chasseur de Champblanc</b></font>\n_________________________________________________________\n<font color="#c5b14d">Vidar a évanoui la beauté du palais royal d'une seule flèche : les gardes ont accouru de leurs casernes, les serviteurs ont fuit vers les sorties. Quelle importance ? Vidar sauverait le peu de grâce qui demeurait.\n\nSes flèches géleraient la chair en un matériel éternel et sans âge. Il tira sur chaque garde, se mettant à couvert derrière les colonnes et laissant des figures glacées derrière lui. Cela lui rappelait la chasse à l'ours avec son père dans leur village natal recouvert de glace depuis longtemps. Il traversa chaque barricade jusqu'à trouver sa cible dans un donjon.\n\nIl n'était pas préoccupé par les femmes, mais Etheliel aimerait celle-ci : une peau pure sans imperfections, un charme désuet même en pleurant. Il toucha la joue de la Reine de Varg, l'apaisant avant de viser et de l'immortaliser.</font>
+Les dégâts sont augmentés en fonction du nombre de Percées restantes lorsque le Projectile touche un ennemi.
+Dard Cruel
+Éclats Bombardés
+Éclats Bombardés
+Appel de la Nature
+Pointes Traversantes
+Sensibilité Primitive
+La Glace Éveillera
+Chasseur Chassé
+Grêle Hivernale
+<font color="#c5b14d"><i>"Les nuits sont longues dans la toundra. J'ai nommé chacunes de ces flèches, mes seules compagnons. Je sais laquelle à goûté le plus de sang. Aimerais-tu le savoir aussi ?"</i></font>\n\n<font size="24" color="#c5b14d"><b>Vidar, Chasseur de Champblanc</b></font>\n_________________________________________________________\n<font color="#c5b14d"><font color="#c5b14d">Vidar a évanoui la beauté du palais royal d'une seule flèche : les gardes ont accouru de leurs casernes, les serviteurs ont fuit vers les sorties. Quelle importance ? Vidar sauverait le peu de grâce qui demeurait.\n\nSes flèches géleraient la chair en un matériel éternel et sans âge. Il tira sur chaque garde, se mettant à couvert derrière les colonnes et laissant des figures glacées derrière lui. Cela lui rappelait la chasse à l'ours avec son père dans leur village natal recouvert de glace depuis longtemps. Il traversa chaque barricade jusqu'à trouver sa cible dans un donjon.\n\nIl n'était pas préoccupé par les femmes, mais Etheliel aimerait celle-ci : une peau pure sans imperfections, un charme désuet même en pleurant. Il toucha la joue de la Reine de Varg, l'apaisant avant de viser et de l'immortaliser.</font>
+Lorsqu'un projectile touche un ennemi, il rebondit et touche un autre ennemi, infligeant des dégâts de Froid. Les projectiles ne rebondissent pas si ils peuvent encore Percer.
+Force Équilibrée
+Traçage de Précision
+<font color="#c5b14d"><i>"Mon père m'a enseigné d'apprendre à connaître ma proie : comment ils bougent, s'ils ont vite peut, ce qu'ils mangent. Je ne crois pas connaître de proie mieux que l'humain."</i></font>\n\n<font size="24" color="#c5b14d"><b>Vidar, Chasseur de Champblanc</b></font>\n_________________________________________________________\n<font color="#c5b14d">Vidar a évanoui la beauté du palais royal d'une seule flèche : les gardes ont accouru de leurs casernes, les serviteurs ont fuit vers les sorties. Quelle importance ? Vidar sauverait le peu de grace qui demeurait.\n\nSes flèches congelaient la chair en un matériel éternel et sans age. Il tira sur chaque garde, se mettant à couvert derrière les colonnes et laissant des figure glacées derrière lui. Cela lui rappelait la chasse à l'ours avec son père dans leur village natal, recouvert de glace depuis longtemps. Il traversa chaque barricade jusqu'à trouver sa cible dans un donjon.\n\nIl n'était pas préoccupé par les femmes, mais Etheliel aimerait celle-ci : une peau pure sans imperfections, un charme désuet même en pleurant. Il toucha la joue de la Reine de Varg, l'apaisant avant de viser et de l'immortaliser.</font>
+Chaque seconde que vous passez en combat vous octroie des points de "Sang Froid" qui augmentent vos dégâts. Si vous êtes touché, vous perdez vos points de "Sang Froid".
+Poursuivant Étudié
+Brise-Siège
+Inexorable Vitalité
+Idole Chromatique
+Idole Obsidienne
+Effort Futile
+Monolithe
+Éboulement
+Liberté Renée
+Ancre Salvatrice
+<font color="#c5b14d"><i>"Vous les enseignes, vous pensez pouvoir tout fuir. Croyez-moi : parfois, endurer les coups vous mettra en meilleure posture pour contre-attaquer."</i></font>\n\n<font size="24" color="#c5b14d"><b>Arran Ventevif, Capitaine du Taille-Vague.</b></font>\n_________________________________________________________\n<font color="#c5b14d">Arran Ventevif, à la tête de mercenaires de la Flotte Radieuse, vint à Lejre à bord du Taille-Vague. La ville était assiégée par la République Unie de l'Humanité. Quand son peuple ne put payer pour sa défense, Arran reçut l'ordre de baisser les armes.\n\nIl considéra les villageois, morts de faim à cause du blocus, et se souvint d'avoir eu faim lui aussi. Enfreignant aux ordres, il marcha pour moissonner les idiots Républicains, bravant chaque flèche sans hésiter.\n\nSix forgerons en visite de Vulkaïn le remercièrent en renforçant son armure et son vaisseau à l'aide d'un acier forgé de lave. Maintenant, Arran navigue à bord du Taille-Vague, mastodonte imbattable protégeant les démunis.</font>
+Vous recevez un bonus qui dépend du type d'armure que vous avez équipée. \n\nUne armure de Cogneur vous donnera un bonus de Régénération de Vie pour chaque Point de Vie sur l'armure.\n\nUne armure Lourde doublera ses Scores de Résistances.\n\nUne armure de Renégat vous permettra de Régénérer de la Vie et du Bouclier de Force lorsque vous Esquivez. Le montant sera déterminé par le nombre de Points de Vie accordés par l'armure.\n\nUne armure de Sorcier vous permettra de régénérer du Bouclier de Force en fonction du bonus de Bouclier de Force apporté par l'armure.
+Gains Élevés
+Imposition Brutale
+Imposition Brutale
+Effort Futile
+Fléau des Tyrants
+Jamais Submergé
+Éboulement
+Liberté Renée
+Bannière Belliqueuse
+<font color="#c5b14d"><i>"Place deux combattants au talent à peu près équivalent l'un devant l'un l'autre. Maintenant, imagine que l'un de ces types soit pauvre, et l'autre riche. Qui s'en sort vivant ? Le talent, c'est bien, mais un matériel digne de ce nom remporte les combats."</i></font>\n\n<font size="24" color="#c5b14d"><b>Arran Ventevif, Capitaine du Taille-Vague.</b></font>\n_________________________________________________________\n<font color="#c5b14d">Arran Ventevif, à la tête de mercenaires de la Flotte Radieuse, vint à Lejre à bord du Taille-Vague. La ville était assiégée par la République Unie de l'Humanité. Quand son peuple ne put payer pour sa défense, Arran reçut l'ordre de baisser les armes.\n\nIl considéra les villageois, morts de faim à cause du blocus, et se souvint d'avoir eu faim lui aussi. Enfreignant aux ordres, il marcha pour moissonner les idiots Républicains, bravant chaque flèche sans hésiter.\n\nSix forgerons en visite de Vulkaïn le remercièrent en renforçant son armure et son vaisseau à l'aide d'un acier forgé de lave. Maintenant, Arran navigue à bord du Taille-Vague, mastodonte imbattable protégeant les démunis.</font>
+Vous gagnez régulièrement des points de "Fortification" jusqu'à un certain maximum. Chaque point de "Fortification" augmente vos Chances de Blocage. Les points de "Fortification" disparaissent lorsque vous Bloquez une attaque.
+Heaume Fier
+Vaisseau Déboutant
+<font color="#c5b14d"><i>"Si la Mer des Tourments n'a pas su entailler la coque du Taille-Vague, rien ne la touchera jamais ! Venez camarades ! À vos positions !"</i></font>\n\n<font size="24" color="#c5b14d"><b>Arran Ventevif, Capitaine du Taille-Vague.</b></font>\n_________________________________________________________\n<font color="#c5b14d">Arran Ventevif, à la tête de mercenaires de la Flotte Radieuse, vint à Lejre à bord du Taille-Vague. La ville était assiégée par la République Unie de l'Humanité. Quand son peuple ne put payer pour sa défense, Arran reçut l'ordre de baisser les armes.\n\nIl considéra les villageois, morts de faim à cause du blocus, et se souvint d'avoir eu faim lui aussi. Enfreignant aux ordres, il marcha pour moissonner les idiots Républicains, bravant chaque flèche sans hésiter.\n\nSix forgerons en visite de Vulkaïn le remercièrent en renforçant son armure et son vaisseau à l'aide d'un acier forgé de lave. Maintenant, Arran navigue à bord du Taille-Vague, mastodonte imbattable protégeant les démunis.</font>
+Lorsque vous restez sur place, vous gagnez régulièrement un point "Impitoyable". Chaque point "Impitoyable" réduit votre Vitesse de Déplacement et augmente vos dégâts. Si vous vous déplacez, vous perdez un point "Impitoyable" après quelques secondes.
+Pare Sûre
+Lame Crépusculaire
+Bonds aux Yeux Bandés
+Sauts Voilés
+Sauts Voilés
+Endurance Balanchine
+Saturnales
+Récital Virtuose
+Corps Éphémères
+Ombre Connectée
+<font color="#c5b14d"><i>Mon ombre est ma jumelle. Elle peut se mouvoir comme moi et me ressembler, mais comme une jumelle elle est douée d'une volonté propre dans le monde."</i></font>\n\n<font size="24" color="#c5b14d"><b>Sybil, Sage des Ténèbres</b></font>\n_________________________________________________________\n<font color="#c5b14d">Le Credo du Crépuscule refuse d'élire un nouveau Sage des Ténèbres : ils clament que la précédente, Sybil, vit encore et vivra jusqu'au retour de Moros. Les témoins disent que son ombre danse sur la brise nocturne, des soupçons de blanc où les lames de son éventail tourbillonnaient.\n\nSybil était si dévouée au Crépuscule qu'elle s'est liée à la danse de la lumière et de l'ombre, dissolvant sa forme en leur sein. Elle a rejeté toutes les parties superflues de sa personne et est devenue comme de l'encre filant dans l'ondre marine. Ils disent que son ombre fraîche repose sur les mortels en perdition, car elle voit en eux le tourment de Moros. Le Crédo du Crépuscule espère son retour, fixant le ciel nocturne.</font>
+Lorsque vous utilisez la Roulade, les ennemis qui se trouvent sur votre chemin subissent des dégâts et un Leurre est placé à votre point de départ.
+Équilibre Périlleux
+Adagio Coupant
+Adagio Coupant
+Endurance Balanchine
+Le Monde Un Théâtre
+Lueur Sur la Brise
+Récital Virtuose
+Corps Éphémères
+Premier Mouvement de la Création
+<font color="#c5b14d"><i>"Souvenez-vous que la vie est née non seulement de Moros, mais d'Anathëa aussi. Le jeu de la lumière et de l'ombre peut produire son propre pouvoir."</i></font>\n\n<font size="24" color="#c5b14d"><b>Sybil, Sage des Ténèbres</b></font>\n_________________________________________________________\n<font color="#c5b14d">Le Credo du Crépuscule refuse d'élire un nouveau Sage des Ténèbres : ils clament que la précédente, Sybil, vit encore et vivra jusqu'au retour de Moros. Les témoins disent que son ombre danse sur la brise nocturne, des soupçons de blanc où les lames de son éventail tourbillonnaient.\n\nSybil était si dévouée au Crépuscule qu'elle s'est liée à la danse de la lumière et de l'ombre, dissolvant sa forme en leur sein. Elle a rejeté toutes les parties superflues de sa personne et est devenue comme de l'encre filant dans l'ondre marine. Ils disent que son ombre fraîche repose sur les mortels en perdition, car elle voit en eux le tourment de Moros. Le Crédo du Crépuscule espère son retour, fixant le ciel nocturne.</font>
+Vous avez 5 points d'"Emprise des Ténèbres" et d'"Emprise de la Lumière". Lorsque vous utilisez un Sort, vous gagnez 1 point d'"Emprise des Ténèbres" et perdez 1 point d'"Emprise de la Lumière". Lorsque vous utilisez une Attaque, vous gagnez 1 point d'"Emprise de la Lumière" et perdez 1 point d'"Emprise des Ténèbres". Lorsque les points atteignent 6/4, ils atteignent l'Équilibre. Lorsque vous êtes dans cet état, vous recevez les Bonus suivants:\n\nUn pourcentage de votre bonus aux dégâts d'Attaques est ajouté à votre bonus aux dégâts des Sorts.\n\nUn pourcentage de votre bonus aux dégâts des Sorts est ajouté à votre bonus aux dégâts d'Attaques.
+Souffle Limité
+Fumée Valsante
+<font color="#c5b14d"><i>"Les ombres sont jetées dans la lumière : mais il y a ceux qui peuvent les jeter dans l'obscurité. Là, nos formes deviennent imperceptibles et sans limites."</i></font>\n\n<font size="24" color="#c5b14d"><b>Sybil, Sage des Ténèbres</b></font>\n_________________________________________________________\n<font color="#c5b14d">Le Credo du Crépuscule refuse d'élire un nouveau Sage des Ténèbres : ils clament que la précédente, Sybil, vit encore et vivra jusqu'au retour de Moros. Les témoins disent que son ombre danse sur la brise nocturne, des soupçons de blanc où les lames de son éventail tourbillonnaient.\n\nSybil était si dévouée au Crépuscule qu'elle s'est liée à la danse de la lumière et de l'ombre, dissolvant sa forme en leur sein. Elle a rejeté toutes les parties superflues de sa personne et est devenue comme de l'encre filant dans l'ondre marine. Ils disent que son ombre fraîche repose sur les mortels en perdition, car elle voit en eux le tourment de Moros. Le Crédo du Crépuscule espère son retour, fixant le ciel nocturne.</font>
+Lorsque vous utilisez la Roulade, vous devenez invisible et votre prochaine Attaque inflige des dégâts d'Ombre supplémentaires.
+Effort Prolongé
+Exorciste
+Chasseur Distant
+Ballast Terrestre
+Ballast Terrestre
+Corps Profane
+Dissolution Ésotérique
+Fléau du Sorcier
+Poids et Force
+Tatouage Éclatant
+<font color="#c5b14d"><i>"Précepte CCCLXVI : Ces paroles qui m'ont servies, je jure de les garder sur ma peau où elles pourront repousser les actes du mal."</i></font>\n\n<font size="24" color="#c5b14d"><b>Ivan Kahn, Professeur de Démonologie</b></font>\n_________________________________________________________\n<font color="#c5b14d"><i>Précepte CLXI : Ce qui a blessé blessera encore.</i>\n\nProfesseur Ivan Kahn restreignit le pouvoir qui émanait de ses tatouages, et passa un pistolet à silex en argent et un coutelas dans sa ceinture. Tout le monde le paierai cette fois-ci.\n\n<i>Précepte CLXXIII : Tourne toi d'abord vers ton mari, tes enfants, ou ta femme pour les signes de possession démoniaque.</i>\n\nIvan se maudit, cognant sa tête contre le mur. Pourquoi ne l'avait-il pas vu ? Comment avait-il pu laisser ça arriver ?\n\n<i>Précepte CCXXXIX: N'entrez pas dans l'Eriebe, où reposent les âmes, car vous risquez de devenir l'esclave des esprits.</i>\n\nIvan secoua la tête. Zoltan l'attendait. Les marques sur les bras d'Ivan brûlaient si fort qu'il créa une brèche à travers l'Éther menant au monde des morts d'où il ne reviendrait pas sans son amour.</font>
+Si vous n'êtes pas touché pendant quelques secondes, vous gagnez un point de "Doctrine". Lorsque vous êtes touché, vous ignorez alors un pourcentage des dégâts reçus et perdez un point de "Doctrine". Pour chaque point que vous avez, la réduction des dégâts est augmentée.
+Indifférence
+Point d'Annulation
+Point d'Annulation
+Corps Profane
+Mangeur de Péché
+Code Insaisissable
+Fléau du Sorcier
+Poids et Force
+Argent Sacré
+<font color="#c5b14d"><i>"Précepte CCLXXIII : Que mes mains soient propres dans l'acte de tuer. Que le débris de métal que nous appelons balle soit imprégnée de vertueuse volonté et porte au coeur de mon ennemi."</i></font>\n\n<font size="24" color="#c5b14d"><b>Ivan Kahn, Professeur de Démonologie</b></font>\n_________________________________________________________\n<font color="#c5b14d"><i>Précepte CLXI : Ce qui a blessé blessera encore.</i>\n\nProfesseur Ivan Kahn restreignit le pouvoir qui émanait de ses tatouages, et passa un pistolet à silex en argent et un coutelas dans sa ceinture. Tout le monde le paierai cette fois-ci.\n\n<i>Précepte CLXXIII : Tourne toi d'abord vers ton mari, tes enfants, ou ta femme pour les signes de possession démoniaque.</i>\n\nIvan se maudit, cognant sa tête contre le mur. Pourquoi ne l'avait-il pas vu ? Comment avait-il pu laisser ça arriver ?\n\n<i>Précepte CCXXXIX: N'entrez pas dans l'Eriebe, où reposent les âmes, car vous risquez de devenir l'esclave des esprits.</i>\n\nIvan secoua la tête. Zoltan l'attendait. Les marques sur les bras d'Ivan brûlaient si fort qu'il créa une brèche à travers l'Éther menant au monde des morts d'où il ne reviendrait pas sans son amour.</font>
+Vous avez 5 points de "Munition Consacrée" qui se rechargent régulièrement. "Munition Consacrée" se recharge également lorsque vous utilisez la Roulade.\n\nPour chaque point de "Munition Consacrée" que vous avez, vos dégâts de Projectiles sont augmentés.\n\nPour chaque point de "Munition Consacrée" manquant, vos dégâts en Mêlée sont augmentés.
+Enthousiasme
+Recherche en Terrain
+<font color="#c5b14d"><i>"Précepte CXXXII : Les connaissances que je gagne en bataille n'appartiennent pas à moi seul. Je ne suis qu'un grain de poussière dans le Grand Projet, et comme je me repose sur le savoir d'autrui, je permettrai à d'autres de se reposer sur le mien."</i></font>\n\n<font size="24" color="#c5b14d"><b>Ivan Kahn, Professeur de Démonologie</b></font>\n_________________________________________________________\n<font color="#c5b14d"><i>Précepte CLXI : Ce qui a blessé blessera encore.</i>\n\nProfesseur Ivan Kahn restreignit le pouvoir qui émanait de ses tatouages, et passa un pistolet à silex en argent et un coutelas dans sa ceinture. Tout le monde le paierai cette fois-ci.\n\n<i>Précepte CLXXIII : Tourne toi d'abord vers ton mari, tes enfants, ou ta femme pour les signes de possession démoniaque.</i>\n\nIvan se maudit, cognant sa tête contre le mur. Pourquoi ne l'avait-il pas vu ? Comment avait-il pu laisser ça arriver ?\n\n<i>Précepte CCXXXIX: N'entrez pas dans l'Eriebe, où reposent les âmes, car vous risquez de devenir l'esclave des esprits.</i>\n\nIvan secoua la tête. Zoltan l'attendait. Les marques sur les bras d'Ivan brûlaient si fort qu'il créa une brèche à travers l'Éther menant au monde des morts d'où il ne reviendrait pas sans son amour.</font>
+Lorsque vous tuez un Champion ennemi, vous gagnez 1 point de "Chasseur de Tête" jusqu'à un certain maximum. Chaque point augmente vos dégâts Matériels pendant quelques secondes. Vos points seront réinitialisés si vous n'en obtenez pas de nouveau sur un certain laps de temps.
+Charge Périlleuse
+Eos
+Éclairage des Aveugles
+Main de la Dame
+Main de la Dame
+Dernier Sacrement
+Purge
+Chant Sacré
+Imposition des Mains
+Attaquant Pieux de l'Aube
+<font color="#c5b14d"><i>“Rappelez-vous ceci quand nous marchons en guerre. Nous ne nous battons ni pour le plaisir, la cruauté, ou la faveur politique. Nous nous battons pour le lendemain de l'humanité. Quand vous tenez votre ennemi, frappez profond. Frappez juste.”</i></font>\n\n<font size="24" color="#c5b14d"><b>Gernese, Eos de la Confrérie de l'Aube</b></font>\n_________________________________________________________ \n <font color="#c5b14d">“Un apprenti que je ne nommerai pas vint à moi et dit: ‘Je suis à la fin de mon apprentissage et Anathëa n'est toujours pas venue à moi. Qu'est ce que je fais de mal ?’ Voici ma réponse :\n\nNous ne pouvons pas demander que la Dame de l'Aube porte chacun de nos espoirs. Si je peux brûler les impies, c'est seulement parce que je réfléchis la lumière de mes camarades. Soyez des phares pour les uns les autres. Quand vous pourfendez vos ennemis, les aveuglez de la lumière de la Dame, les assourdissez du Chant Brûlant, souvenez-vous : Anathëa est à vos côtés dans la bataille, elle est dans les temples quand chantent les Hiérophantes, elle est la légèreté de vos cœurs quand vient le repos du soir.”</font>
+Les ennemis sont tués instantanément si leurs Points de Vie sont en-dessous d'un certain seuil. Ne fonctionne que sur les Serviteurs et Spécialistes ennemis.
+Mort Soudaine
+Rituel Lumineux
+Rituel Lumineux
+Adoubement
+Purge
+Sermon Armé
+Touche Divine
+Remède Instruit
+Prière Inlassable
+<font color="#c5b14d"><i>“Ne désespérez pas ! Avec moi, maintenant ! Montrez leur comme notre foi nous protège face à la calamité !”</i></font>\n\n<font size="24" color="#c5b14d"><b>Gernese, Eos de la Confrérie de l'Aube</b></font>\n_________________________________________________________ \n <font color="#c5b14d">“Un apprenti que je ne nommerai pas vint à moi et dit: ‘Je suis à la fin de mon apprentissage et Anathëa n'est toujours pas venue à moi. Qu'est ce que je fais de mal ?’ Voici ma réponse :\n\nNous ne pouvons pas demander que la Dame de l'Aube porte chacun de nos espoirs. Si je peux brûler les impies, c'est seulement parce que je réfléchis la lumière de mes camarades. Soyez des phares pour les uns les autres. Quand vous pourfendez vos ennemis, les aveuglez de la lumière de la Dame, les assourdissez du Chant Brûlant, souvenez-vous : Anathëa est à vos côtés dans la bataille, elle est dans les temples quand chantent les Hiérophantes, elle est la légèreté de vos cœurs quand vient le repos du soir.”</font>
+Lorsque vos Points de Vie sont en-dessous d'un certain seuil, vous priez et accordez un Bonus aux Scores de Résistances de vos alliés pendant quelques secondes, en plus de relever les alliés KO. Temps de recharge long.
+Retour Renommé
+Balise des Perdus
+<font color="#c5b14d"><i>“Je ne sais ni comment ou pourquoi j'ai reçu ce don. Mais par le sortilège et l'épée, je m'en servirais au service de la Dame de l'Aube, et je verrai le soleil se lever une fois de plus pour l'humanité.”</i></font>\n\n<font size="24" color="#c5b14d"><b>Gernese, Eos de la Confrérie de l'Aube</b></font>\n_________________________________________________________ \n <font color="#c5b14d">“Un apprenti que je ne nommerai pas vint à moi et dit: ‘Je suis à la fin de mon apprentissage et Anathëa n'est toujours pas venue à moi. Qu'est ce que je fais de mal ?’ Voici ma réponse :\n\nNous ne pouvons pas demander que la Dame de l'Aube porte chacun de nos espoirs. Si je peux brûler les impies, c'est seulement parce que je réfléchis la lumière de mes camarades. Soyez des phares pour les uns les autres. Quand vous pourfendez vos ennemis, les aveuglez de la lumière de la Dame, les assourdissez du Chant Brûlant, souvenez-vous : Anathëa est à vos côtés dans la bataille, elle est dans les temples quand chantent les Hiérophantes, elle est la légèreté de vos cœurs quand vient le repos du soir.”</font>
+Lorsque votre Bouclier de Force est au-dessus d'un certain seuil, vos dégâts de Sorts Sacrés sont augmentés.\n\nLorsque votre Bouclier de Force est en-dessous d'un certain seuil, vos dégâts d'Attaques Sacrées sont augmentés.\n\nNe fonctionne que si votre Bouclier de Force est au-dessus de 0.
+Perception Consacrée
+Oracle de la Trinité
+De Tempête et de Flamme
+Champ Vrillant
+Répulsion Suscitée
+Pavis Érodé
+Crystallisation
+Détournement de Foi
+Immolation
+Ferveur Antique
+<font color="#c5b14d"><i>"Pas un des usurpateurs ne sait se servir de son pouvoir. Trop obnubilés par la rétention de leur forme et leur identité pour se soumettre à une évolution authentique."</i></font>\n\n<font size="24" color="#c5b14d"><b>Ashoret, Prophète de la Trinité</b></font>\n_________________________________________________________\n<font color="#c5b14d">Depuis que le Primordial du Changement s'est divisé en trois — Etheliel, Beelmalik, et Abanazaar — son nom a été oublié de tous sauf un.\n\nProphète Ashoret, dernier fidèle du Changement, méprisait ses trois usurpateurs : des enfants gâtés effrayés par toutes choses étrangères, la cause de la stagnation du monde. Ashoret ébaucha un plan pour ramener le Changement. Il déroba le pouvoir des vénérateurs des trois Primordiaux Déchus, les combinant en une tempête cataclysmique. Il déchira les toits de leurs temples, condamna les corps des fidèles à exploser de puissance élémentaire, anéantissant leurs congrégations.\n\nJusqu'au jour où le Primordial se lève des cendres de sa progéniture, l'omnitempête marchera.</font>
+Utiliser des Compétences Élémentaires vous octroie des "Affinités. Chaque Affinité a des effets différents basés sur son Type d'Élément.\n\nL'"Affinité de Beelmalik" augmente votre Score de Coup Critique pendant quelques secondes.\n\nL'"Affinité d'Abanazaar" augmente vos dégâts pendant quelques secondes.\n\nL'"Affinité d'Etheliel" augmente votre Score d'Application d'Affliction pendant quelques secondes.
+Allégiance Double
+Vous permet d'avoir deux "Affinités" actives.
+Descente Audacieuse
+Descente Audacieuse
+Pavis Érodé
+Matière en Dissolution
+Abris Orageux
+Détournement de Foi
+Champ Vrillant
+Déstabilisation Élémentaire
+<font color="#c5b14d"><i>"Si je perd ma forme, si je me perd 'moi', ce sera un passage vers une nouvelle forme. Ne pleurez ni ne souriez pour ma défaite, car je suis toujours victorieux."</i></font>\n\n<font size="24" color="#c5b14d"><b>Ashoret, Prophète de la Trinité</b></font>\n_________________________________________________________\n<font color="#c5b14d">Depuis que le Primordial du Changement s'est divisé en trois — Etheliel, Beelmalik, et Abanazaar — son nom a été oublié de tous sauf un.\n\nProphète Ashoret, dernier fidèle du Changement, méprisait ses trois usurpateurs : des enfants gâtés effrayés par toutes choses étrangères, la cause de la stagnation du monde. Ashoret ébaucha un plan pour ramener le Changement. Il déroba le pouvoir des vénérateurs des trois Primordiaux Déchus, les combinant en une tempête cataclysmique. Il déchira les toits de leurs temples, condamna les corps des fidèles à exploser de puissance élémentaire, anéantissant leurs congrégations.\n\nJusqu'au jour où le Primordial se lève des cendres de sa progéniture, l'omnitempête marchera.</font>
+Lorsque votre Volonté est en-dessous d'un certain seuil, vous avez une faible chance de déclencher une explosion à chaque fois que vous utilisez une Compétence. L'explosion inflige à vous et à vos ennemis subissez des dégâts basée sur un pourcentage de vos Points de Vie ou du Bouclier de Force(le plus élevé), et un pourcentage de votre Volonté est régénéré.\n\nLe Type de dégâts est choisi aléatoirement entre Foudre, Feu, et Froid.
+Climat Instable
+Omnitempête
+<font color="#c5b14d"><i>"Nous nous sommes gardés des éléments avec des murs épais et des fondations de pierre. Ce n'est pas ainsi que vous devions être. Nous sommes devenus tendres. Faibles. Mais j'aiderai tout le monde à se rappeler du vrai potentiel de leurs corps."</i></font>\n\n<font size="24" color="#c5b14d"><b>Ashoret, Prophète de la Trinité</b></font>\n_________________________________________________________\n<font color="#c5b14d">Depuis que le Primordial du Changement s'est divisé en trois — Etheliel, Beelmalik, et Abanazaar — son nom a été oublié de tous sauf un.\n\nProphète Ashoret, dernier fidèle du Changement, méprisait ses trois usurpateurs : des enfants gâtés effrayés par toutes choses étrangères, la cause de la stagnation du monde. Ashoret ébaucha un plan pour ramener le Changement. Il déroba le pouvoir des vénérateurs des trois Primordiaux Déchus, les combinant en une tempête cataclysmique. Il déchira les toits de leurs temples, condamna les corps des fidèles à exploser de puissance élémentaire, anéantissant leurs congrégations.\n\nJusqu'au jour où le Primordial se lève des cendres de sa progéniture, l'omnitempête marchera.</font>
+Utiliser certaines compétences élémentaires permet de lancer d'autres sorts.\n\nLes sorts de Foudre peuvent déclencher une chaîne d'éclair.\n\nLes sorts de Feu peuvent déclencher un météore.\n\nLes sorts de Froid peuvent déclencher un pic de givre.
+Chair Précaire
+Portepeste
+Corps des Tourbières
+Peaux Muantes des Masses
+Peaux Muantes des Masses
+Remède À La Bonne Santé
+Pacte de Pourriture
+Terre Éveillée
+Têtes Vers le Bas
+Fossoyeur
+<font color="#c5b14d"><i>"Il y a de grands trésors à trouver dans un cadavre. Seulement les gens sont beaucoup trop… frileux."</i></font>\n\n<font size="24" color="#c5b14d"><b>Kiraan, Traqueur des Cadavres</b></font>\n_________________________________________________________\n<font color="#c5b14d">Kiraan était le seul enfant de sa génération à survivre la peste de Prestwich. Il passait ses journées avec les malades mourants, regardant leurs vies se défiler avec une curiosité macabre. Son penchant pour la mort et son immunité à la peste lui méritèrent le surnom de "Traqueur des Cadavres". Il fut exilé dans les bras ouverts du Culte de Bezeriel.\n\nKiraan maîtrisa vite la magie du poison et de la mort, son aptitude perturbant les autres cultistes. Il se fatigua du vieux dogme du culte et se résolut à créer une nouvelle secte pour récolter la foi des agonisants. Tandis que son armée de morts-vivants grandit, sa vision approche sa réalisation : un monde toujours au bord de l'extinction, alimentant son dieu putride avec la foi des désespérés.</font>
+Les ennemis qui meurent à côté de vous ont une chance de laisser tomber un Globe Vert. Si vous le ramassez, le Globe Vert augmentera vos dégâts Toxiques pendant une courte durée. Chaque Globe ramassé augmente le Bonus.
+Force Vitale des Hordes
+Les Invocations qui meurent près de vous laissent également tomber un globe vert.
+Muscle Dépouillé
+Muscle Dépouillé
+Remède À La Bonne Santé
+Recherche du Soleil Mort
+Têtes Vers le Bas
+Terre Éveillée
+Têtes Vers le Bas
+Émanations Toxiques
+<font color="#c5b14d"><i>"Faible. Faible, faible, faible. Ces poumons n'ont pas été faits pour ce monde. Vivre c'est se décomposer, s'empoisonner lentement. Pourquoi ne pas décomposer pour toujours? Pourquoi est-ce que ça doit prendre fin ?"</i></font>\n\n<font size="24" color="#c5b14d"><b>Kiraan, Traqueur des Cadavres</b></font>\n_________________________________________________________\n<font color="#c5b14d">Kiraan était le seul enfant de sa génération à survivre la peste de Prestwich. Il passait ses journées avec les malades mourants, regardant leurs vies se défiler avec une curiosité macabre. Son penchant pour la mort et son immunité à la peste lui méritèrent le surnom de "Traqueur des Cadavres". Il fut exilé dans les bras ouverts du Culte de Bezeriel.\n\nKiraan maîtrisa vite la magie du poison et de la mort, son aptitude perturbant les autres cultistes. Il se fatigua du vieux dogme du culte et se résolut à créer une nouvelle secte pour récolter la foi des agonisants. Tandis que son armée de morts-vivants grandit, sa vision approche sa réalisation : un monde toujours au bord de l'extinction, alimentant son dieu putride avec la foi des désespérés.</font>
+Les ennemis subissent une Application de Poison à intervalles réguliers lorsqu'ils se trouvent près de vous.
+Mesure Essentielle
+Sacrifice de Chair
+<font color="#c5b14d"><i>"Il est étrange de parler aux mortels. Ils perçoivent la conscience comme limitée à un corps unique. Ils n'ont pas connu... la liberté."</i></font>\n\n<font size="24" color="#c5b14d"><b>Kiraan, Traqueur des Cadavres</b></font>\n_________________________________________________________\n<font color="#c5b14d">Kiraan était le seul enfant de sa génération à survivre la peste de Prestwich. Il passait ses journées avec les malades mourants, regardant leurs vies se défiler avec une curiosité macabre. Son penchant pour la mort et son immunité à la peste lui méritèrent le surnom de "Traqueur des Cadavres". Il fut exilé dans les bras ouverts du Culte de Bezeriel.\n\nKiraan maîtrisa vite la magie du poison et de la mort, son aptitude perturbant les autres cultistes. Il se fatigua du vieux dogme du culte et se résolut à créer une nouvelle secte pour récolter la foi des agonisants. Tandis que son armée de morts-vivants grandit, sa vision approche sa réalisation : un monde toujours au bord de l'extinction, alimentant son dieu putride avec la foi des désespérés.</font>
+Vos maximum de Points de Vie et de Bouclier de Force sont réduits, mais vos Invocations subissent moins de dégâts.
+Litanie Sans Fin
+Litanie Sans Fin
+Litanie Sans Fin
+Maître d'Armes
+Omnipratique
+Butée Maligne
+Rafale de Coups
+Induration
+Précision Fracturante
+Butée Maligne
+Haute Évasion
+Posture Vertueuse
+<font color="#c5b14d"><i>"Vous êtes pareil que tous les autres soi-disant maîtres dont j'ai été l'élève. Vous vous affaiblissez pour la tradition, apprenez des formes médiocres à cause du nom sur le manuel. Dans votre prochaine vie, ne me faites pas perdre de temps."</i></font>\n\n<font size="24" color="#c5b14d"><b>Satine, Baronesse de Tissarine</b></font>\n_________________________________________________________\n<font color="#c5b14d">Aucun mercenaire n'est aussi légendaire que Satine, Maîtresse d'Armes. S'étant entraînée avec des maîtres de toutes disciplines, elle s'est gardée de toute faiblesse. Engagée pour éliminer une milice rebelle à Laibon, elle a émergé de leur cachette trempée de sang, après les avoir tous tués. Avec la récompense monumentale de cet exploit, elle a construit la ville de Tissarine.\n\nLes seigneurs qui veulent l'engager échouent très souvent, car elle n'est plus intéressée par l'or. Son seul objectif est une fleur sauvage rare, l'Aster Noire. Certains disent qu'elle la veut pour faire du poison, d'autres pour une collection privée. Personne n'ose demander. Elle travaille pour qui peut localiser ces fleurs, une légende en poursuivant une autre avec un talent martial sans rival.</font>
+Vous débloquez les Postures "Exposition Meurtrière" et "Résolution Vaillante" et leurs Bonus associés. Utiliser la Roulade vous permet de changer de Posture.\n\nEn Posture d'"Exposition Meurtrière", votre score aux Résistances est réduit, mais vos Attaques de Base ont une chance d'infliger des dégâts doubles, y compris leurs Coups Critiques.\n\nEn Posture de "Résolution Vaillante", vos Vitesses d'Attaque et d'Incantation sont réduites, mais vos Chances de Blocages sont augmentées.
+Posture Ingénieuse
+Fente Calculée
+Pluie de Danger
+Induration
+Précision Fracturante
+Rebond Percussif
+Fente Calculée
+Barrière Vigoureuse
+Fières Représailles
+<font color="#c5b14d"><i>"Je n'ai jamais permis à quelqu'un de me mettre sur la défensive, et vous n'échapperez pas à cette règle. Ou avez-vous cette dextérité ? Pouvez-vous continuer à calculer vos coups alors que le sang bat dans vos oreilles, vous avertissant de votre mort imminente ?"</i></font>\n\n<font size="24" color="#c5b14d"><b>Satine, Baronesse de Tissarine</b></font>\n_________________________________________________________\n<font color="#c5b14d">Aucun mercenaire n'est aussi légendaire que Satine, Maîtresse d'Armes. S'étant entraînée avec des maîtres de toutes disciplines, elle s'est gardée de toute faiblesse. Engagée pour éliminer une milice rebelle à Laibon, elle a émergé de leur cachette trempée de sang, après les avoir tous tués. Avec la récompense monumentale de cet exploit, elle a construit la ville de Tissarine.\n\nLes seigneurs qui veulent l'engager échouent très souvent, car elle n'est plus intéressée par l'or. Son seul objectif est une fleur sauvage rare, l'Aster Noire. Certains disent qu'elle la veut pour faire du poison, d'autres pour une collection privée. Personne n'ose demander. Elle travaille pour qui peut localiser ces fleurs, une légende en poursuivant une autre avec un talent martial sans rival.</font>
+Si vous Bloquez une Attaque ennemie, vous infligez instantanément une contre-attaque dont les dégâts sont basés sur un pourcentage des dégâts de votre Arme.
+Pare Mathématique
+Élan Pugiliste
+<font color="#c5b14d"><i>"Retirez vos paroles. Ce n'est pas de ma faute si vous vous attendiez à un simple match d'escrime. Dans un vrai combat, personne ne recule pour permettre à l'autre de se relever. Je ne suis pas seulement une guerrière, je suis <i>la</i> guerrière, et je ne m'abaisserai pas à faire le pantin dansant pour vous distraire."</i></font>\n\n<font size="24" color="#c5b14d"><b>Satine, Baronesse de Tissarine</b></font>\n_________________________________________________________\n<font color="#c5b14d">Aucun mercenaire n'est aussi légendaire que Satine, Maîtresse d'Armes. S'étant entraînée avec des maîtres de toutes disciplines, elle s'est gardée de toute faiblesse. Engagée pour éliminer une milice rebelle à Laibon, elle a émergé de leur cachette trempée de sang, après les avoir tous tués. Avec la récompense monumentale de cet exploit, elle a construit la ville de Tissarine.\n\nLes seigneurs qui veulent l'engager échouent très souvent, car elle n'est plus intéressée par l'or. Son seul objectif est une fleur sauvage rare, l'Aster Noire. Certains disent qu'elle la veut pour faire du poison, d'autres pour une collection privée. Personne n'ose demander. Elle travaille pour qui peut localiser ces fleurs, une légende en poursuivant une autre avec un talent martial sans rival.</font>
+Infliger 4 attaques d'affilée avec la même Arme sur une courte période de temps vous octroie un bonus dépendant du type d'Arme.\n\nLes armes à une main infligent toujours un coup critique à la 4ème Attaque de Base.\n\nLes haches, épées, marteaux à deux mains infligent toujours un Étourdissement de zone à la 4ème Attaque de Base.\n\nLes arcs tirent des Projectiles sur 360 degrés autour de vous à la 4ème Attaque de Base.\n\nLes Bâtons tirent toujours plusieurs Projectiles à la 4ème Attaque de Base.
+Cessation
+Enfant de la Furie
+Point d'Ébullition
+Indignation
+Indignation
+Ignifuge
+Souffle de Vouivre
+Phlogiston
+Flamme Immortelle
+Appétit Furieux
+<font color="#c5b14d"><i>"..."</i></font>\n\n<font size="24" color="#c5b14d"><b>Grande Gueule, Brasier de Geldspar</b></font>\n_________________________________________________________\n<font color="#c5b14d">Les incendies les plus destructeurs commencent avec une étincelle minuscule.\n\nL'installation Geldspar de la Confrérie de l'Aube avait traité des centaines d'exorcismes quand elle rencontra le géant muet que les gens de la région appelaient Grande Gueule. Ses signes de possession étaient faibles, mais quand il se réveilla, la folie déferla sur lui. Il déchira les rangs des exorcistes, brûlant tout sur son passage. Ses haches frappaient en impacts rapides et percutants.\n\nÀ ce rythme, le feu s'évanouit bientôt en braises et en charbon : le Démon de Furie avait perdu sa mainmise sur Grande Gueule. De la fumée, deux mains pénombrales sont venues reposer sur son visage et une voix lui a murmuré : "Suis-moi. Réparons tout ça ensemble." Plein de remords et sans connaître sa raison d'être sur cette terre, il obéit.</font>
+La Volonté générée est transformée en Rage.\n\nVotre Régénération de Volonté s'applique désormais à la Rage.
+Frappes Frénétiques
+Si votre Rage est au-dessus d'un certain niveau, vos compétences infligent des dégâts doubles mais coûtent plus cher en ressource.
+Étincelle Primordiale
+Étincelle Primordiale
+Ignifuge
+Conflagration
+Croute Volcanique
+Phlogiston
+Esprit Autarcique
+Étreinte Boursouflante
+<font color="#c5b14d"><i>"..."</i></font>\n\n<font size="24" color="#c5b14d"><b>Grande Gueule, Brasier de Geldspar</b></font>\n_________________________________________________________\n<font color="#c5b14d">Les incendies les plus destructeurs commencent avec une étincelle minuscule.\n\nL'installation Geldspar de la Confrérie de l'Aube avait traité des centaines d'exorcismes quand elle rencontra le géant muet que les gens de la région appelaient Grande Gueule. Ses signes de possession étaient faibles, mais quand il se réveilla, la folie déferla sur lui. Il déchira les rangs des exorcistes, brûlant tout sur son passage. Ses haches frappaient en impacts rapides et percutants.\n\nÀ ce rythme, le feu s'évanouit bientôt en braises et en charbon : le Démon de Furie avait perdu sa mainmise sur Grande Gueule. De la fumée, deux mains pénombrales sont venues reposer sur son visage et une voix lui a murmuré : "Suis-moi. Réparons tout ça ensemble." Plein de remords et sans connaître sa raison d'être sur cette terre, il obéit.</font>
+Lorsque vous touchez un ennemi qui subit un certain nombre d'Applications de Brûlure, vos Coups ont une chance de consumer les Applications de Brûlure et infliger des dégâts supplémentaires basés sur le nombre d'Applications consumées.
+Frappe Bouleversante
+Flammes en Rafales
+<font color="#c5b14d"><i>"..."</i></font>\n\n<font size="24" color="#c5b14d"><b>Grande Gueule, Brasier de Geldspar</b></font>\n_________________________________________________________\n<font color="#c5b14d">Les incendies les plus destructeurs commencent avec une étincelle minuscule.\n\nL'installation Geldspar de la Confrérie de l'Aube avait traité des centaines d'exorcismes quand elle rencontra le géant muet que les gens de la région appelaient Grande Gueule. Ses signes de possession étaient faibles, mais quand il se réveilla, la folie déferla sur lui. Il déchira les rangs des exorcistes, brûlant tout sur son passage. Ses haches frappaient en impacts rapides et percutants.\n\nÀ ce rythme, le feu s'évanouit bientôt en braises et en charbon : le Démon de Furie avait perdu sa mainmise sur Grande Gueule. De la fumée, deux mains pénombrales sont venues reposer sur son visage et une voix lui a murmuré : "Suis-moi. Réparons tout ça ensemble." Plein de remords et sans connaître sa raison d'être sur cette terre, il obéit.</font>
+À chaque fois que vous touchez un ennemi, vous recevez un point de "Déchaînement Furieux". Chaque point de "Déchaînement Furieux" augmente vos scores de vitesse d'attaque, d'absorption de vie, et de résistances.
+Rancune Abreuvée
+Alastor
+Décharge Externe
+Condensateur
+Condensateur
+Générateur Alimenté de Particules
+Détachement Impartial
+Redirection Électrique
+Boucliers Immatériels Intégrés
+Transfert Statique
+<font color="#c5b14d"><i>“Cible principale trouvée. Sélection d'une cible secondaire pour à des fins de rétroaction électrique.”</i></font>\n\n<font size="24" color="#c5b14d"><b>Alastor #273</b></font>\n_________________________________________________________ \n <font color="#c5b14d">Tout ce que connaissait l'Alastor #273 était le service de la République. Mais quand ses pouvoirs d'Exalté se manifestèrent, il s'aperçut que sa vie serait en jeu si ses maîtres le découvrait. Il se mit à la recherche d'un seigneur qui chérirait ses talents.\n\nLe Culte d'Ezaneal avait besoin d'une main pour tester les machines du chaos. Ils l'injectèrent de métal et de câbles, neutralisèrent faim et douleur, et l'armèrent de canons et de gantelets électriques. Renforcé, il repartir pour la République.\n\nDisposant de tout témoin de ses pouvoirs, il construit sa réputation en exécutant un décrèt sur le Prince de Vulkaïn. Les académiciens débattraient des conséquences de cette assassinat, mais Alastor #273 ne ressentait que la satisfaction d'une cible éliminée.</font>
+Vous recevez un point de "Surcharge" qui augmente vos dégâts à chaque fois que vous utilisez une Attaque de Base. Lorsque vous utilisez une Compétence, tous les points de "Surcharge" sont consommés et le Bonus aux dégâts octroyé par vos points de "Surcharge" est doublé.
+Effort Prolongé
+Contrôle du Poul
+Contrôle du Poul
+Générateur Alimenté de Particules
+Invasion Éléctrique
+Boucliers Immatériels Intégrés
+Redirection Électrique
+Boucliers Immatériels Intégrés
+Corde Neurale Intraveineuse
+<font color="#c5b14d"><i>“Intégration de nouvelles composantes pour dépasser les limites énergétiques. L'implant vertébral crée des niveaux d'adrénaline accrus, tandis que le générateur administre un flux constant de courant électrique.”</i></font>\n\n<font size="24" color="#c5b14d"><b>Alastor #273</b></font>\n_________________________________________________________ \n <font color="#c5b14d">Tout ce que connaissait l'Alastor #273 était le service de la République. Mais quand ses pouvoirs d'Exalté se manifestèrent, il s'aperçut que sa vie serait en jeu si ses maîtres le découvrait. Il se mit à la recherche d'un seigneur qui chérirait ses talents.\n\nLe Culte d'Ezaneal avait besoin d'une main pour tester les machines du chaos. Ils l'injectèrent de métal et de câbles, neutralisèrent faim et douleur, et l'armèrent de canons et de gantelets électriques. Renforcé, il repartir pour la République.\n\nDisposant de tout témoin de ses pouvoirs, il construit sa réputation en exécutant un décrèt sur le Prince de Vulkaïn. Les académiciens débattraient des conséquences de cette assassinat, mais Alastor #273 ne ressentait que la satisfaction d'une cible éliminée.</font>
+Lorsque vous infligez un Coup Critique à un ennemi, votre Vitesse d'Attaque est augmentée pendant quelques instants.
+Poussée Vigilante
+Fléchette Choquante
+<font color="#c5b14d"><i>“Exécution : Bonne. Course entre le point de ralliement et l'emplacement de la cible réalisée en trois secondes de moins que prévu. Les signaux vitaux de la cible ont chuté après une seule frappe.”</i></font>\n\n<font size="24" color="#c5b14d"><b>Alastor #273</b></font>\n_________________________________________________________ \n <font color="#c5b14d">Tout ce que connaissait l'Alastor #273 était le service de la République. Mais quand ses pouvoirs d'Exalté se manifestèrent, il s'aperçut que sa vie serait en jeu si ses maîtres le découvrait. Il se mit à la recherche d'un seigneur qui chérirait ses talents.\n\nLe Culte d'Ezaneal avait besoin d'une main pour tester les machines du chaos. Ils l'injectèrent de métal et de câbles, neutralisèrent faim et douleur, et l'armèrent de canons et de gantelets électriques. Renforcé, il repartir pour la République.\n\nDisposant de tout témoin de ses pouvoirs, il construit sa réputation en exécutant un décrèt sur le Prince de Vulkaïn. Les académiciens débattraient des conséquences de cette assassinat, mais Alastor #273 ne ressentait que la satisfaction d'une cible éliminée.</font>
+Vous avez des points de "Batterie". Cette ressource est désormais utilisée en plus de leur coût normal pour toutes les Compétences Utilitaires et de Foudre. Cette ressource peut avoir n'importe quelle valeur entre -100 et 100. Lorsque la charge de Batterie est positive, vos dégâts sont augmentés. Lorsque la charge de Batterie est négative, vos dégâts sont réduits.\n\nLes Batteries se régénèrent sur le temps et en utilisant vos attaques.\n\nCes Compétences consomment toujours leur Ressource de base en plus de la Batterie.
+Présence Saisissante
+Offrande aux Immortels
+Dégâts de Feu augmentés en tuant des ennemis qui Brûlent
+Offrande aux Immortels
+Dégâts de Froid augmentés en tuant des ennemis Gelés
+Offrande aux Immortels
+Dégâts de Foudre augmentés en tuant des ennemis Choqués
+Offrande aux Immortels
+Dégâts Physiques augmentés en tuant des ennemis Étourdis
+Offrande aux Immortels
+Dégâts de Blessure augmentés en tuant des ennemis qui Saignent
+Offrande aux Immortels
+Dégâts Sacrés augmentés en tuant des ennemis Affaiblis
+Offrande aux Immortels
+Dégâts d'Ombre augmentés en tuant des ennemis Maudits
+Offrande aux Immortels
+Dégâts Toxiques augmentés en tuant des ennemis Empoisonnés
+Offrande aux Immortels
+Dégâts d'Éther augmentés en tuant des ennemis sous Stase
+Affinité d'Abanazaar
+Bonus aux dégâts des Compétences.
+Affinité d'Etheliel
+Augmente vos chances d'infliger des Afflictions aux ennemis
+Affinité de Beelmalik
+Augmente les chances de coup critique
+Point(s) de Chasseur de Tête
+Chaque point de "Chasseur de Tête" octroie un bonus aux dégâts Matériels
+Posture d'Exposition Meurtrière
+Les Attaques ont une chance d'infliger double dégâts au prix de vos Résistances
+Posture de Résolution Vaillante
+Augmente les Chances de Blocage et l'Efficacité du Blocage au prix d'une Vitesse d'Attaque et d'Incantation réduites
+Point(s) de Déchaînement Furieux
+Point(s) d'Impitoyable
+Point(s) de Fortification
+Point(s) de Doctrine
+Point(s) de Munition Consacrée
+Point(s) de Sang Froid
+Point(s) de Batterie
+Point(s) de Surcharge
+Point(s) d'Emprise des Ténèbres
+Point(s) d'Emprise de la Lumière
+Vélocité Dérobée : Vitesse d'Attaque
+Point(s) de Paradoxe Corporel
+Vélocité Dérobée : Vitesse d'Incantation
+Point(s) de Paradoxe Céleste
