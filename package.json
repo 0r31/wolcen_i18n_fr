@@ -1,6 +1,6 @@
 {
-  "name": "wolcen",
-  "version": "1.0.0",
+  "name": "wolcen_i18n_fr",
+  "version": "1.0.15.0",
   "description": "",
   "main": "app.js",
   "scripts": {
