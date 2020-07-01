@@ -10,7 +10,7 @@ const TXT_FOLDER = `${__dirname}/txt`;
 const TXT_EXT = '.txt';
 
 const DIST_FOLDER = `${__dirname}/dist`;
-const DIST_PACKAGE = 'fr.zip';
+const DIST_PACKAGE = 'french_xml.pak';
 
 function parse_xml(input_file, output_file) {
   var parser = new xml2js.Parser();
