@@ -95,12 +95,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Chatter while idle in town</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Chatter while idle in town</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Bavardage lorsque inactif en ville</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialog_townchatter1_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I can't get her to speak. It's as though the fog is there, surrounding her, shrouding the world. I look into her eyes see nothingness. I don't know what to do...</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Je peux pas la faire parler. C'est comme si le brouillard était là, l'entourait, voilait son monde. Je regarde dans ses yeux et je ne vois rien. Je ne sais pas quoi faire...</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Je ne peux pas la faire parler. C'est comme si le brouillard était là, l'entourait, voilait son monde. Je regarde dans ses yeux et je ne vois rien. Je ne sais pas quoi faire...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialog_townchatter1_2</Data></Cell>
@@ -200,7 +200,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialog_townchatter5_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Yeah, some of it. It can't all be true though, can it? There's no way one person, one human person, could do all that and come away alive.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Oui, de quelques uns. Mais ils ne peuvent pas être vrais, si ? Il est impossible pour une seule personne humaine, de faire tout ça et survivre.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Oui, de quelques uns. Mais ils ne peuvent pas être vrais, si ? Il est impossible, pour une seule personne humaine, de faire tout ça et survivre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialog_townchatter5_3</Data></Cell>
@@ -270,7 +270,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialog_townchatter6_8</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I - you're right, of course. I just can't stand it... I don't even know if he's alive - I could be waiting for a ghost</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Je... tu as raison, bien sur. Mais je ne le supporte pas... Je ne sais même pas s'il est en vie... Je suis peut-être en train d'attendre un fantôme.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Je... tu as raison, bien sûr. Mais je ne le supporte pas... Je ne sais même pas s'il est en vie... Je suis peut-être en train d'attendre un fantôme.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialog_townchatter6_9</Data></Cell>
@@ -485,7 +485,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Returning to Stormfall</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Returning to Stormfall</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: De retour à Stormfall</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_stormfallreturn_1</Data></Cell>
@@ -640,7 +640,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_palaceselection_6</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Annaruz, would you stop, that will never - Oh, {Mylord|Mylady}, I did not see you enter. Was there something you needed?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Annaruz, allez-vous donc arrêter, ça ne marchera... Oh, {Monseigneur|Ma Dame}, je vous ai pas vu rentrer. Vous avez besoin de quelque chose ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Annaruz, allez-vous donc arrêter, ça ne marchera... Oh, {Monseigneur|Ma Dame}, je ne vous ai pas vu rentrer. Vous avez besoin de quelque chose ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_palaceselection_7</Data></Cell>
@@ -770,7 +770,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_cityprojectend_6</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Work was difficult, but it is to be expected... come, behold the fruits of their labour</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Le travail a été difficile, mais il fallait s'y attendre... venez, voyez le fruits de leur travail.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Le travail a été difficile, mais il fallait s'y attendre... venez, voyez le fruit de leur travail.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_cityprojectend_7</Data></Cell>
@@ -890,12 +890,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Seeker's Garrison</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Seeker's Garrison</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Garnison des Chercheurs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_seekersfirstselect_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">{Mylord|Mylady}, you are aware of Stormfall's Seekers, are you not?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">{Monseigneur|Ma Dame}, vous êtes au courant pour les Chercheurs de Stormfall, n'est ce pas ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">{Monseigneur|Ma Dame}, vous êtes au courant pour les Chercheurs de Stormfall, n'est-ce pas ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_seekersfirstselect_2</Data></Cell>
@@ -910,7 +910,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_seekersfirstselect_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I suggest that that we rebuild the garrison, and have someone... worldly, shall we say, advising them.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Je suggère que nous rebâtissons la garnison, et que nous ayons quelqu'un de... mondain, disons, pour les conseiller.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Je suggère que nous rebâtissions la garnison, et que nous ayons quelqu'un de... mondain, disons, pour les conseiller.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_seekersfirstselect_5</Data></Cell>
@@ -950,7 +950,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_seekersfirstselect_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">And so I thought, if the Purple Phoenix doesn't want to take advantage of these tales of mine... who else do I know that could make use of them?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Et donc j'ai pensé, si le Phénix Violet ne veut pas profiter de ces contes... qui d'autre pourrait s'en servir ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Et donc j'ai pensé, si le Phénix Pourpre ne veut pas profiter de ces contes... qui d'autre pourrait s'en servir ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_seekersfirstselect_13</Data></Cell>
@@ -1245,7 +1245,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Diamond Bank</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Diamond Bank</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Banque du Diamant</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_bankfirstselect_1</Data></Cell>
@@ -1380,7 +1380,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Dark Market</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Dark Market</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Marché Noir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_marketfirstselect_1</Data></Cell>
@@ -1445,7 +1445,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_marketrarityupgrade_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I have secured another contact, my friend. He deals in all manner of rare equipment, so if you wish to find a rarer version of something you own, Mohabi can do that for you.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">J'ai établi un autre contact, mon {ami|amie}. Il trafique tous genres d'équipements rares, alors si vous voulez une version plus rare de votre équipement, Mohabi peut vous le trouver.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">J'ai établi un autre contact, mon {ami|amie}. Il trafique tout genre d'équipements rares, alors si vous voulez une version plus rare de votre équipement, Mohabi peut vous le trouver.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_marketqualityupgrade_1</Data></Cell>
@@ -1685,7 +1685,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell ss:StyleID="s20"/>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Gameplay: Trade Assembly</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Trade Assembly</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Assemblée des Commerces</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_assemblyfirstselect_1</Data></Cell>
@@ -1960,7 +1960,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_assemblyfailure_3</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I have a new report for you from one of our missions. The, uh, contents... They are a bit graphic... perhaps its best to call it a failure and leave it at that.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">J'ai un rapport pour vous concernant une mission. Le, euh, contenu... C'est un peu choquant... peut-être vaut-il mieux déclarer la mission un échec et ne rien ajouter.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">J'ai un rapport pour vous concernant une mission. Le, euh, contenu... C'est un peu choquant... peut-être vaut-il mieux déclarer la mission comme un échec et ne rien ajouter.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_assemblyfailure_4</Data></Cell>
@@ -1985,7 +1985,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Enneract Lab</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Enneract Lab</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Laboratoire d'Enneracts</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_labfirstselect_1</Data></Cell>
@@ -2045,7 +2045,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_labfirstselect_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">{Hmmm, well perhaps I'll make an initial investment and we can go from there.|Hmmm, well perhaps I'll make an initial investment and we can go from there.}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">{Hmmm, peut-être que je vais faire un premier investissement, et on pourra voir ce qui se passe.|Hmmm, peut-être que je vais faire un premierinvestissement, et on pourra voir ce qui se passe.}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">{Hmmm, peut-être que je vais faire un premier investissement, et on pourra voir ce qui se passe.|Hmmm, peut-être que je vais faire un premier investissement, et on pourra voir ce qui se passe.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_labfirstselect_13</Data></Cell>
@@ -2330,7 +2330,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Injector Seat</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Injector Seat</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Instillateur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_injectorfirstselect_1</Data></Cell>
@@ -2485,7 +2485,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Transmutation Forge</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Transmutation Forge</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Forge de Transmutation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_forgefirstselect_1</Data></Cell>
@@ -2510,7 +2510,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_forgefirstselect_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">In a way. You see, I theorize that weapons, armour - any item you could think of - have potential energy trapped within them that dictates their shape and properties</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">D'une certaine manière. J’étudie le fait que les armes, les armures, n'importe quels objets, détiennent une énergie potentielle qui dicte leur formes et leurs propriétés.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">D'une certaine manière. J’étudie le fait que les armes, les armures, n'importe quel objet, détiennent une énergie potentielle qui dicte leurs formes et leurs propriétés.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_forgefirstselect_6</Data></Cell>
@@ -2560,7 +2560,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_forgeupgraded_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">As you requested, I've altered the transmutation process - there's a chance that anything you put in will change into something even more powerful! Give it a go!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Comme vous l'avez demandé, j'ai changé le procédé de transmutation, il y a une chance pour que ce que vous placez à l'intérieur devienne plus puissant ! Allez-y !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Comme vous l'avez demandé, j'ai changé le procédé de transmutation, il y a une chance pour que ce que vous placiez à l'intérieur devienne plus puissant ! Allez-y !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_forgeselect_1</Data></Cell>
@@ -2670,7 +2670,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Shipyard</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Shipyard</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Chantier Naval</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_shipyardfirstselect_1</Data></Cell>
@@ -2735,7 +2735,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_shipyardfirstselect_13</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I'll say! I'm the one who came up with it!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Je ne le vous dis pas ! C'était la mienne !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Je ne le vous fais pas dire ! C'était la mienne !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_shipyardfirstselect_14</Data></Cell>
@@ -2750,7 +2750,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Wonders</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Wonders</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Merveilles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_oneskillpointwonder_1</Data></Cell>
@@ -2790,7 +2790,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"/>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Gameplay: Consumables</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Consumables</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gameplay: Consommables</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_consumables_1</Data></Cell>
@@ -2800,7 +2800,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_consumables_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">If you want something done, do it yourself, isn't that right?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">On n'est jamais mieux servi que par soi-même, n'est ce pas ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">On n'est jamais mieux servi que par soi-même, n'est-ce pas ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_consumables_3</Data></Cell>

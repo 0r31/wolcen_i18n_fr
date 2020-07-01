@@ -4518,7 +4518,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_CampExposition_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">And who am I supposed to send? I have no men to spare Valeria! But we still need the Helion back or all is lost!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qui suis-je censé envoyer ? Je n'ai aucun homme de libre Valeria ! Mais il nous faut l'Helion ou tout sera perdu !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qui suis-je censé envoyer ? Je n'ai aucun homme de libre Valeria ! Mais il nous faut l'Hélion ou tout sera perdu !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_CampExposition_3</Data></Cell>
@@ -4628,7 +4628,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I want to reassemble the mythical Helion, the artefact that founded the Brotherhood of Dawn.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Je veux reconstituer l'Helion mythique, l'artefact qui a fondé la Confrérie de l'Aube.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Je veux reconstituer l'Hélion mythique, l'artefact qui a fondé la Confrérie de l'Aube.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_5</Data></Cell>
@@ -4653,7 +4653,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_9</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">The next part is what bothers me. He wants to send you alone to get the first part of the Helion. Well now that Edric is gone, I'm not losing you to a suicide mission, no matter how desperate we are.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est ce qui vient après qui m'inquiète. Il veut t'envoyer sans accompagnement chercher le premier fragment du Helion. Maintenant qu'Edric a disparu, je ne te perdrai pas sur une mission suicide, qu'importe que la situation soit désespérée.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est ce qui vient après qui m'inquiète. Il veut t'envoyer sans accompagnement chercher le premier fragment de l'Hélion. Maintenant qu'Edric a disparu, je ne te perdrai pas sur une mission suicide, qu'importe que la situation soit désespérée.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_10</Data></Cell>
@@ -4678,7 +4678,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_14</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">They never came back, but there is a chance that that half of the Helion is still there.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Ils ne sont jamais revenus, mais il y a une chance que la moitié du Helion soit encore là.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ils ne sont jamais revenus, mais il y a une chance que la moitié de l'Hélion soit encore là.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_15</Data></Cell>
@@ -4893,7 +4893,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_15</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">This is the way to Cordanon and we still have to find the first piece of the Helion. We knew that the cult of the Aberrant destroyed the city. So buckle up Val 'cause we're going that way.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est le chemin vers Cordanon et on doit encore trouver le premier fragment du Helion. On sait que le Culte de l'Abérrant a détruit la cité. Alors accroche-toi Val parce qu'on va y aller.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est le chemin vers Cordanon et on doit encore trouver le premier fragment de l'Hélion. On sait que le Culte de l'Abérrant a détruit la cité. Alors accroche-toi Val parce qu'on va y aller.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_16</Data></Cell>
@@ -5128,7 +5128,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_FF_ApproachCordanon_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">The Helion's first part must be somewhere in there. We snatch it and we get the hell out of here.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">La première moitié du Helion doit être quelque part la dedans. On le prend et on sort le plus vite possible.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">La première moitié de l'Hélion doit être quelque part la dedans. On le prend et on sort le plus vite possible.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_FF_ApproachCordanon_5</Data></Cell>
@@ -5308,7 +5308,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">That's not what we came here for. We have to find the Helion first!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">On n'est pas là pour ça. Le Helion est notre priorité !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On n'est pas là pour ça. Le Hélion est notre priorité !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_3</Data></Cell>
@@ -5363,7 +5363,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">She is correct. If it is the Helion you are after, then we happen to know its exact location, deep into the heart of our domain.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Elle a raison. Si c'est bien l'Helion que vous cherchez, nous savons exactement où il se trouve, au plus profond du cœur de notre domaine.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Elle a raison. Si c'est bien l'Hélion que vous cherchez, nous savons exactement où il se trouve, au plus profond du cœur de notre domaine.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_13</Data></Cell>
@@ -5388,7 +5388,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_17</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Fine, Lambach. Show me to the Helion but don't harm her.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Très bien, Lambach. Montrez-moi l'Helion mais ne lui faites pas de mal.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Très bien, Lambach. Montrez-moi l'Hélion mais ne lui faites pas de mal.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_18</Data></Cell>
@@ -5458,7 +5458,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_EnterIncubation_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">The only thing you should share right now is the Helion.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">La seule chose que vous devriez partager est l'Helion.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">La seule chose que vous devriez partager est l'Hélion.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_EnterIncubation_6</Data></Cell>
@@ -5618,7 +5618,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_ValeriaClone_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">This need to stop Lambach... where is the damned Helion so that we finish this?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Ceci doit prendre fin Lambach... où est ce satané Helion qu'on puisse en finir ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ceci doit prendre fin Lambach... où est ce satané Hélion qu'on puisse en finir ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_ValeriaClone_6</Data></Cell>
@@ -5643,7 +5643,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_PersonalChamber_3</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Sorry to disappoint, Lambach, but it will have to be a no. You said you knew where the piece of the Helion was, I don't see anything.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Ça m'embête de vous décevoir, Lambach, mais c'est non. Vous avez dit savoir où le fragment du Helion se trouvait, et je ne vois rien.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ça m'embête de vous décevoir, Lambach, mais c'est non. Vous avez dit savoir où le fragment de l'Hélion se trouvait, et je ne vois rien.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_PersonalChamber_4</Data></Cell>
@@ -5733,7 +5733,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">I got the first piece of the Helion.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">J'ai la première moitié du Helion.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">J'ai la première moitié de l'Hélion.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_3</Data></Cell>
@@ -5753,7 +5753,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_6</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Unfortunately resting isn't an option. We have to join my Brothers garrisoned at the Vault of Truth where the second half of the Helion awaits. Once it's whole again, they will march with us on the Republican fortress of Crimson Keep.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Malheureusement, il n'est pas question de se reposer. Nous devons rejoindre mes Frères en garnison à la Cathédrale de la Vérité où la seconde moitié du Helion nous attend. Quand il sera de nouveau entier, ils marcheront avec nous vers la forteresse républicaine de Fort-Carmin.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Malheureusement, il n'est pas question de se reposer. Nous devons rejoindre mes Frères en garnison à la Cathédrale de la Vérité où la seconde moitié de l'Hélion nous attend. Quand il sera de nouveau entier, ils marcheront avec nous vers la forteresse républicaine de Fort-Carmin.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_7</Data></Cell>
@@ -5818,7 +5818,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_19</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Well, we know what we have to do. Hand me the piece of the Helion and get ready to depart: the road ahead won't be pleasant.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien, nous savons ce qu'il reste à faire. Donne moi le fragment du Helion, et préparez-vous tous deux à partir: la route qui nous attend ne sera pas agréable.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien, nous savons ce qu'il reste à faire. Donne moi le fragment de l'Hélion, et préparez-vous tous deux à partir: la route qui nous attend ne sera pas agréable.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s17"><Data ss:Type="String">ACT3 Dialog</Data></Cell>
@@ -6383,7 +6383,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_15</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Good. We'll assemble the Helion, and use its power to stop Ahriman's conjuring.&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien. Nous assemblerons l'Helion, et utiliserons son pouvoir pour halter l'invocation de Ahriman.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien. Nous assemblerons l'Hélion, et utiliserons son pouvoir pour halter l'invocation de Ahriman.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_16</Data></Cell>
@@ -6408,12 +6408,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_20</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">What will happen if we use the Helion? Gernese?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Que se passera-t-il si on utilise l'Helion? Gernese ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Que se passera-t-il si on utilise l'Hélion? Gernese ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_21</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Anathëa, the Lady of Dawn herself created the Helion by imbuing part of herself into it. She gave it to our ancestors so that we would have a weapon to summon her powers to defend mankind if everything else had failed.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Anathëa, la Dame de l'Aube elle-même a crée l'Helion en l'imprégnant d'une partie d'elle. Elle l'a offert à nos ancêtres pour que nous ayons une arme qui permette d'invoquer ses pouvoirs pour défendre l'humanité en dernier recours.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Anathëa, la Dame de l'Aube elle-même a crée l'Hélion en l'imprégnant d'une partie d'elle. Elle l'a offert à nos ancêtres pour que nous ayons une arme qui permette d'invoquer ses pouvoirs pour défendre l'humanité en dernier recours.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_22</Data></Cell>
@@ -6433,7 +6433,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_24</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Realizing that the price to pay was too big, our ancestors broke the Helion in half and hid its pieces in two vaults, forbidding its reconstruction.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Réalisant que le prix à payer était trop lourd, nos ancêtres ont scindé en deux l'Helion et ont caché ses fragments dans deux chambres fortes, interdisant sa reconstruction.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Réalisant que le prix à payer était trop lourd, nos ancêtres ont scindé en deux l'Hélion et ont caché ses fragments dans deux chambres fortes, interdisant sa reconstruction.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_25</Data></Cell>
@@ -6648,7 +6648,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_SinadrahelDefeat3_1</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{Okay, back to Gernese. The Helion will be whole again.|Okay, back to Gernese. The Helion will be whole again.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Bon, retournons voir Gernese. L'Helion sera de nouveau complet.|Bon, retournons voir Gernese. L'Helion sera de nouveau complet.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Bon, retournons voir Gernese. L'Hélion sera de nouveau complet.|Bon, retournons voir Gernese. L'Hélion sera de nouveau complet.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk2_1</Data></Cell>
@@ -6663,7 +6663,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk2_3</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Let the Helion fulfil its function once again! Anathëa, may your light break Fury's Ascent!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Que l'Helion remplisse à nouveau sa fonction ! Anathëa, que ta lumière mette fin à l'Ascension de la Furie !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Que l'Hélion remplisse à nouveau sa fonction ! Anathëa, que ta lumière mette fin à l'Ascension de la Furie !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk2_4</Data></Cell>
@@ -7218,12 +7218,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_4</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{We didn't come alone. As we speak a group of Daybreakers escort the Helion toward the main gate. With it, we'll stop the ritual.|We didn't come alone. As we speak a group of Daybreakers escort the Helion toward the main gate. With it, we'll stop the ritual.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Helion à la porte principale. Avec lui, nous mettrons fin au rituel.|Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Helion à la porte principale. Avec lui, nous mettrons fin au rituel.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Hélion à la porte principale. Avec lui, nous mettrons fin au rituel.|Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Hélion à la porte principale. Avec lui, nous mettrons fin au rituel.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_5</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">The Helion? It is reassembled? Then there is not a second to waste, those Daybreakers will get slaughtered if the gate isn't opened when they reach it.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">L'Helion ? Il a été reconstitué ? Alors il n'y a pas une seconde à perdre, ces Portejours se feront massacrer si on ne leur ouvre pas la porte à temps.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">L'Hélion ? Il a été reconstitué ? Alors il n'y a pas une seconde à perdre, ces Portejours se feront massacrer si on ne leur ouvre pas la porte à temps.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_6</Data></Cell>
@@ -7313,7 +7313,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest3_RR1_Heimlock1_1</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Who is the Helion's carrier?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qui est le porteur du Helion ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qui est le porteur de l'Hélion ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest3_RR1_Heimlock1_2</Data></Cell>
@@ -7588,7 +7588,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_ValeriaTalk1_6</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">We're running out of time. We need the Helion!&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous perdons du temps. Il nous faut l'Helion !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous perdons du temps. Il nous faut l'Hélion !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_ValeriaTalk1_7</Data></Cell>
@@ -7608,7 +7608,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_ValeriaTalk1_10</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{I will. Get the Helion.|I will. Get the Helion.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Je m'en occupe. Trouvez l'Helion.|Je m'en occupe. Trouvez l'Helion.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Je m'en occupe. Trouvez l'Hélion.|Je m'en occupe. Trouvez l'Hélion.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_HeimlockValeria2_1</Data></Cell>
@@ -7788,7 +7788,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest5_HA_Heimlock1_1</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Even if you won, she would fall into the abyss. Your sister is gone, the Helion is gone. This is all pointless: Fury's Ascent is nigh. Submit!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Même si tu gagnais, elle sombrerait quand même dans l'Abysse. Ta soeur est perdue, l'Helion est perdu. Tout était en vain : l'Ascension de la Furie est proche. Soumets-toi !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Même si tu gagnais, elle sombrerait quand même dans l'Abysse. Ta soeur est perdue, l'Hélion est perdu. Tout était en vain : l'Ascension de la Furie est proche. Soumets-toi !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest5_HA_Heimlock1_2</Data></Cell>

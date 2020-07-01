@@ -119,7 +119,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_PhysicalImbued</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Physical Imbued</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement  Physique</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Enchantement Physique</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_SacredImbued</Data></Cell>
@@ -349,7 +349,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_ProtectiveDome</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Dome Shield</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Dome de Protection</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dôme de Protection</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_BossModifier_SimulacrumDebuff</Data></Cell>

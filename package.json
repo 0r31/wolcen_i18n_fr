@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "7z a ./dist/french_xml.zip ./xml/* && mv ./dist/french_xml.zip ./dist/french_xml.pak"
   },
   "author": "",
   "license": "ISC",

@@ -145,7 +145,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gserror_Friendlist_Remove_NotFriend</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">This WolcenTag can't be removed because it isn't in your friendlist.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">This WolcenTag can't be Remove because it isn't in your Friendlist.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ce Wolcen Tag ne peut pas être supprimé car il n'est pas dans votre liste d'amis.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s18"><Data ss:Type="String">Wolcen Tag</Data></Cell>

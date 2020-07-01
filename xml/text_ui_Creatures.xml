@@ -421,7 +421,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Pacified_Veteran</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Pacified Purifier Veteran</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Purificateur Vétéran Pacifié</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Vétéran Purificateur Pacifié</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Pacified_Siegebeast</Data></Cell>
@@ -501,22 +501,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omega</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Omega Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Omega</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Oméga</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Screecher</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Beta Screecher</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Beta Hurleur</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Hurleur Bêta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spitter</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Beta Spitter</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Beta Cracheur</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Cracheur Bêta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spawner</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Beta Spawner</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Beta</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Bêta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Minispitter</Data></Cell>
@@ -526,7 +526,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_1</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Omega Female Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Omega Féminin</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Femelle Svriir Oméga</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_PoisonAlpha</Data></Cell>
@@ -546,22 +546,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_2</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Sea Omega Female Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Omega Féminin des Côtes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Femelle Svriir Oméga des Côtes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omega_2</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Sea Omega Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Omega des Côtes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Oméga des Côtes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spawner_2</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Sea Beta Spawner</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Beta de la Mer</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Bêta de la Mer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Screecher_2</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Sea Beta Screecher</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Hurleur Beta de la Mer</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Hurleur Bêta de la Mer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Minispitter_2</Data></Cell>
@@ -581,22 +581,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omega_3</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Caves Omega Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Omega des Grottes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Oméga des Grottes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Screecher_3</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Caves Beta Screecher</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Hurleur des Grottes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Hurleur Bêta des Grottes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spitter_3</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Caves Beta Spitter</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Cracheur des Grottes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Cracheur Bêta des Grottes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spawner_3</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Caves Beta Spawner</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Svriir des grottes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Svriir Bêta des grottes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_PoisonAlpha_3</Data></Cell>
@@ -611,7 +611,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_3</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Caves Omega Female Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Omega Féminin des Grottes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Femelle Svriir Oméga des Grottes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Morgon</Data></Cell>
@@ -631,7 +631,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Alpha_Fire</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Fireblood Alpha Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Alpha Svriir Sang-de-Feu</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Alpha Sang-de-Feu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Minispitter_Fire</Data></Cell>
@@ -641,7 +641,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omega_Fire</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Fireblood Omega Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Oméga Svriir Sang-de-Feu</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Oméga Sang-de-Feu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Baby_Fire</Data></Cell>
@@ -651,22 +651,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_Fire</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Fireblood Omega Female Svriir</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Svriir Oméga Féminin Sang-de-Feu</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Femelle Oméga Svriir Sang-de-Feu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Screecher_Fire</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Fireblood Beta Screecher</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Beta Hurleur Sang-de-Feu</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Hurleur Bêta Sang-de-Feu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spawner_Fire</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Fireblood Beta Spawner</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Beta Sang-de-Feu</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Génitrice Bêta Sang-de-Feu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Svriirs_Spitter_Fire</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Fireblood Beta Spitter</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Beta Cracheur Sang-de-Feu</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Cracheur Bêta Sang-de-Feu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">Outlaws</Data></Cell>
@@ -676,7 +676,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_MeleeBandit</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Flayer Raider</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Maraudeur des Écorcheurs</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maraudeur Écorcheur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_RangedBandit</Data></Cell>
@@ -696,27 +696,27 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_Trapper</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Flayer Sapper</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Écorcheur Saboteur</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Saboteur Écorcheur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_Trapper_Stun</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Flayer Staggerer</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Écorcheur Piéton</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Piéton Écorcheur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_KennelMaster</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Flayer Kennel Master</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Écorcheur Maître du Chenil</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maître du Chenil Écorcheur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_Wallbreaker</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Flayer Wallbreaker</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Écorcheur Briseur de Bouclier</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Briseur de Bouclier Écorcheur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Outlaws_Thug</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Flayer Warmaster</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Écorcheur Maître de Guerre</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maître de Guerre Écorcheur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">Outlaws: Shadow wildlings</Data></Cell>
@@ -786,7 +786,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Republic_MeleeSoldier</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Purifier Shock Infantry</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Purificateur d'Infanterie de Choc</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Infanterie de Choc Purificatrice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Republic_Assassin</Data></Cell>
@@ -796,12 +796,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Republic_RangeSoldier</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Purifier Missile Infantry</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Purificateur d'Infanterie de Tir</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Infanterie de Tir Purificatrice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Republic_Sniper</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Purifier Railgunner</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Purificateur Tireur d’Élite</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tireur d’Élite Purificateur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Republic_Golgoth</Data></Cell>
@@ -866,7 +866,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Untainted_Eviscerator</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Untainted Shadowblade</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Immaculé Ombrelame</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ombrelame Immaculé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Charger</Data></Cell>
@@ -881,7 +881,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AIName_Eviscerator</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Untainted Shadowblade</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Immaculé Ombrelame</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ombrelame Immaculé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_AIName_Tracker</Data></Cell>

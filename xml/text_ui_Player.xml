@@ -509,7 +509,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_ailments_chances</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Ailments Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affliction</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Affliction</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_allattributes_damage</Data></Cell>
@@ -574,7 +574,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleedchance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Bleed Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d’infliger Saignement</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d’infliger Saignement</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_bleeddamage</Data></Cell>
@@ -724,12 +724,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dodgechance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Passive Dodge Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Esquive</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Esquive</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s20"><Data ss:Type="String">ui_cs_dodgechance_score</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Dodge Chance Score</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Chance d'Esquive</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'Esquive</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_dotattackinflictchance_score</Data></Cell>
@@ -779,12 +779,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezescore</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze Chance Score</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Score d'application</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Score de Gel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezechance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Freeze Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'infliger Gel</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'infliger Gel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_freezeduration</Data></Cell>
@@ -899,7 +899,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisonchance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Poison Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Empoisonnement</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Empoisonnement</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_poisondamage</Data></Cell>
@@ -1019,7 +1019,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockchance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Shock Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d’Électrocution</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d’Électrocution</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_shockdamage</Data></Cell>
@@ -1074,7 +1074,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasischance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Stasis Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'infliger Stase</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'infliger Stase</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stasisdurationmod</Data></Cell>
@@ -1099,7 +1099,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stunchance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Stun Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Étourdissement</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Étourdissement</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_stunduration</Data></Cell>
@@ -1154,7 +1154,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknesschance</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Weakness Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affaiblissement</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Affaiblissement</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_cs_weaknessduration</Data></Cell>
@@ -1274,7 +1274,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentbleed_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Bleed Ailment Type. This Ailment deals Rend Damage to Targets over time and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Bleeding while afflicted with the Bleed Ailment.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Saignement. Cette Affliction inflige des dégâts0 de Type Blessure à vos cibles sur la durée, et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles Saignent tant qu'elles sont affectées par Saignement.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Saignement. Cette Affliction inflige des dégâts de Type Blessure à vos cibles sur la durée, et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles Saignent tant qu'elles sont affectées par Saignement.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentburn_tooltip</Data></Cell>
@@ -1284,7 +1284,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentcurse_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Curse Ailment Type. This Ailment increases the Damage received by Targets and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Cursed while afflicted with the Curse Ailment.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Malédiction. Cette Affliction augmente les dégâts reçus par vos cibles et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Maudites tant qu'elles sont affectées par Malédiction.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Malédiction. Cette Affliction augmente les dégâts reçus par vos cibles et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Maudites tant qu'elles sont affectées par Malédiction.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentfreeze_tooltip</Data></Cell>
@@ -1294,7 +1294,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentpoison_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Poison Ailment Type. This Ailment deal Toxic Damage to Enemies over time and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Poisoned while afflicted with the Poison Ailment</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Poison. Cette Affliction inflige des dégâts Toxiques à vos cibles sur la durée, et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Empoisonnées tant qu'elles sont affectées par Poison.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Poison. Cette Affliction inflige des dégâts Toxiques à vos cibles sur la durée, et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Empoisonnées tant qu'elles sont affectées par Poison.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailments_chances_tooltip</Data></Cell>
@@ -1309,12 +1309,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentshock_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Shock Ailment Type. This Ailment deals Lightning Damage to the initial Target over time, and deals additional Lightning Damage to other Shocked Targets around them. This Ailment can be stacked onto Targets up to your Maximum Ailment Stacks value. Targets are considered to be Shocked while afflicted with the Shock Ailment.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Choc. Cette Affliction inflige des dégâts de Type Foudre à la cible initiale sur la durée, et inflige des dégats Foudre additionnels aux Cibles Choquées autour d'elle. Cette Affliction peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Choquées tant qu'elles sont affectées par Choc.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Choc. Cette Affliction inflige des dégâts de Type Foudre à la cible initiale sur la durée, et inflige des dégats Foudre additionnels aux Cibles Choquées autour d'elle. Cette Affliction peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Choquées tant qu'elles sont affectées par Choc.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentstasis_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Stasis Ailment Type. This Ailment decreases the Target's Movement, Attack, and Spell Casting Speeds and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Slowed while afflicted with the Stasis Ailment. </Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Stase. Cette Affliction diminue le Mouvement, l'Attaque, et la Vitesse d'Incantation de la Cible, et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Lentes tant qu'elles sont affectées par Stase. </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Stase. Cette Affliction diminue le Mouvement, l'Attaque, et la Vitesse d'Incantation de la Cible, et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Lentes tant qu'elles sont affectées par Stase. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentstun_tooltip</Data></Cell>
@@ -1324,7 +1324,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_ailmentweakness_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Weakness Ailment Type. This Ailment decreases the Damage dealt by the Target and can be stacked onto them up to your Maximum Ailment Stacks value. Targets are considered to be Weakened while afflicted with the Weakness Ailment.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Faiblesse. Cette Affliction diminue les dégâts infligés par la Cible et peut-être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Affaiblies tant qu'elles sont affectées par Faiblesse.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Affliction de Type Faiblesse. Cette Affliction diminue les dégâts infligés par la Cible et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Affaiblies tant qu'elles sont affectées par Faiblesse.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allattributes_damage_tooltip</Data></Cell>
@@ -1334,7 +1334,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allcriticalchance_tooltip</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">The global modifier to your Critical Chance with all weapons and spells.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre modificateur global de Chance de Coup Critique d'Attaques et Compétences.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre modificateur global de Chances de Coup Critique d'Attaques et Compétences.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_allcriticaldamage_tooltip</Data></Cell>
@@ -1349,7 +1349,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attackcriticalchance_score_tooltip</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Your Attack Critical Chance Score is a modifier applied to your Attack Critical Chance.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué aux Chances de Coup Critique des Attaques.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Modificateur appliqué au score de Coup Critique des Attaques.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_attackspeed_score_tooltip</Data></Cell>
@@ -1539,7 +1539,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dodgechance_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Your total Passive Dodge Chance against all incoming attacks. Completing a Passive Dodge will completely ignore the effects of the incoming Damage, regardless of its Type.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre total de Chance d'Esquive. Esquiver ignore complètement les dégâts, quel que soit leur Type.</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Votre total de Chances d'Esquive. Esquiver ignore complètement les dégâts, quel que soit leur Type.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_dotattackinflictchance_score_tooltip</Data></Cell>
@@ -1939,7 +1939,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_physical_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Stun Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Étourdissement</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Étourdissement</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_poison_statusailmentbasechance</Data></Cell>
@@ -1979,7 +1979,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_agility_dodgechance_score</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Dodge Chance</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Esquive</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Esquive</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_agility_attackspeed_score</Data></Cell>
@@ -1999,12 +1999,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotattackinflictchance_score</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Ailment Chance on Attack</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affliction sur une Attaque</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Affliction sur une Attaque</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotspellinflictchance_score</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Ailment Chance on Spell</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Chance d'Affliction sur un Sort</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Chances d'Affliction sur un Sort</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_cs_tooltiponhover_physical_resistance</Data></Cell>

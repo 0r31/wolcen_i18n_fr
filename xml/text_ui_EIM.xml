@@ -2069,7 +2069,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_eim_self_shock</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">The Shock Stacks are on the target and user</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Applications d'Électrocution sont appliqués à la Cible et au Lanceur</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les Applications d'Électrocution sont appliquées à la Cible et au Lanceur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_eim_shadow_damage_percent</Data></Cell>
@@ -2694,12 +2694,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_eim_burn_stacks_consumption_chance_for_instant_damage</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">When Hitting an Enemy with an Attack, %1 Chance to consume the Burn Stacks you inflicted when their Burn Stacks exceed %2, increasing Damage of the Hit by %3 per consumed stack</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Lorsque vous touchez un ennemi avec une Attaque, vous avez %1 chances de consumer les Applications de Brûlure si il en a plus de %2, augmentant les dégâts de %3 par Application consumée</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Lorsque vous touchez un ennemi avec une Attaque, vous avez %1 chances de consommer les Applications de Brûlure si il y en a plus de %2, augmentant les dégâts de %3 par Application consommée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_eim_burn_stacks_consumption_propagate_stacks_on_kill</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Enemies killed by an attack that consumed Burn Stacks transfers %1 Burn Stacks to Enemies considered Nearby</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis tués par une attaque qui a consumé des Applications de Brûlures transfèrent %1 Applications de Brûlures aux ennemis considérés à Proximité</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les ennemis tués par une attaque qui a consommé des Applications de Brûlures transfèrent %1 Applications de Brûlures aux ennemis considérés à Proximité</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_eim_stack_anger_uses_mechanic</Data></Cell>
@@ -2844,7 +2844,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_eim_stat_bonus_from_helmet</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Allows Bonuses to be applied depending on Helmet equipped</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Permet à des Bonus de s'appliquer en fonction du type d'armure de tête équipé</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Permet à des Bonus de s'appliquer en fonction du type d'armure de tête équipée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_eim_stat_bonus_from_helmet_warrior</Data></Cell>

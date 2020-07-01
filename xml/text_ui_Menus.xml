@@ -403,7 +403,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_title_lang_change_warning</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Language Change</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Language Change</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Changement de langue</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -424,7 +424,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_lang_change_warning</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">This language change will only take effect once you have  returned to the main menu.</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">This language change will only take effect once you have  returned to the main menu.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ce changement de langue prendra effet après être revenu au menu principal.</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -907,7 +907,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_confirmReturnToMainMenu</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Are you sure you want to return to the main menu?</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Êtes vous sûr de vouloir revenir au menu principal?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Êtes-vous sûr de vouloir revenir au menu principal?</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -2944,7 +2944,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_mm_GameMode_Campaign_Help</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Begin your journey through the World of Wolcen in Act 1 of the Story Campaign!</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Commencez votre chemin au Monde de Wolcen dans Acte 1 de la Campagne Narrative</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Commencez votre chemin à travers le Monde de Wolcen dans l'Acte 1 de la Campagne Narrative</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -3091,7 +3091,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_confirmQuestChange</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Are you sure you want to change quests? Progress on your current quest may be lost. </Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Vous êtes sûr que vous voulez changer de quête? Votre progres dans votre quête actuelle peut être perdue.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Êtes-vous sûr que vous voulez changer de quête? Votre progrès dans votre quête actuelle peut être perdue.</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -7858,7 +7858,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_mm_kb_skill_secondary</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Secondary Attack</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Secondary Attack</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Attaque secondaire</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -7879,7 +7879,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_mm_kb_skill_weapon</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Basic Attack</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Basic Attack</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Attaque standard</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
@@ -8215,7 +8215,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_popup_content_rebindingkey</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Press any key to rebind or Escape to cancel</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur une touche pour changer le raccourcie ou appuyez sur cancel pour annuler.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Appuyez sur une touche pour changer le raccourci ou appuyez sur cancel pour annuler.</Data></Cell>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>
     <Cell ss:StyleID="s21"/>

@@ -91,7 +91,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Track Down Evil</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Traquez le Mal</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Traquer le Mal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KON_QuestLabel</Data></Cell>
@@ -111,7 +111,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_OUTW_Trapper</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Flayer Sappers&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Écorcheur Saboteurs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Saboteurs Écorcheurs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Reaper</Data></Cell>
@@ -141,12 +141,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_SOUTW_Shaman</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Morosian Seers&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Devins Morosien&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Devins Morosiens&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_REPU_Sniper</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Republican Railgunners&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Purificateur Tireurs d’Élite&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Tireurs d’Élite Purificateurs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Sniper</Data></Cell>
@@ -171,12 +171,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_REPU_Veteran</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Purifier Veterans&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Purificateur Vétérans&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Vétérans Purificateurs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Veteran</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elite &quot;Pacified Purifier Veterans&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Purificateur Vétérans Pacifiés&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer l’Élite &quot;Vétérans Purificateurs Pacifiés&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Cultist</Data></Cell>
@@ -321,7 +321,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_OUTW_Trapper</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill the &quot;Flayer Sappers&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les &quot;Écorcheurs Saboteurs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les &quot;Saboteurs Écorcheurs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_COSS_Halfbreed</Data></Cell>
@@ -461,7 +461,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRI_AlphaPoison</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Svriirs Alphas&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Svriirs Alpha&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRIF_AlphaFire</Data></Cell>
@@ -476,7 +476,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWF_Trapper</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Flayer Sappers&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Écorcheur Saboteurs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Saboteurs Écorcheurs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWSB_KennelMaster</Data></Cell>
@@ -551,7 +551,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIP_Spitter</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Beta Spitters&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Beta Cracheurs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Cracheurs Beta&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIW_Spawner</Data></Cell>
@@ -561,12 +561,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIF_Spitter</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Fireblood Beta Spitters&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Beta Cracheurs Sang-de-Feu&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Cracheurs Sang-de-Feu Beta&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIFW_Screecher</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Kill Elder &quot;Beta Screechers&quot;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Beta Hurleurs&quot;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tuer les Anciens &quot;Hurleurs Beta&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_EG_KNT_StepNameLabel_CALL_Cultist</Data></Cell>

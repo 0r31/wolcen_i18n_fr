@@ -109,7 +109,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_2DIntro_1</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Heimlock: If you can't defeat me, how do you plan to defeat the supernatural forces that feed and prey on mankind?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Si vous ne pouvez pas me vaincre, comment espèrez vous vaincre les forces occultes qui hantent l'humanité ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Si vous ne pouvez pas me vaincre, comment espèrez-vous vaincre les forces occultes qui hantent l'humanité ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_2DIntro_2</Data></Cell>
@@ -124,7 +124,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_2DIntro_4</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Heimlock: I feel it alright. Just as I feel yours.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je la ressens evidemment. Tout comme je ressens la tienne.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je la ressens évidemment. Tout comme je ressens la tienne.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_2DIntro_5</Data></Cell>
@@ -209,7 +209,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_DialogCutscene_2DIntro_21</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Maëlys: The Senate voted for your retaliation campaign! They’re sending the Purifiers to march on the Brotherhood of Dawn!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Maëlys : Le senat a voté votre campagne de représailles ! Ils envoient les Purificateurs marcher sur la Fraternité de l'Aube !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maëlys : Le sénat a voté votre campagne de représailles ! Ils envoient les Purificateurs marcher sur la Fraternité de l'Aube !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_DialogCutscene_2DIntro_22</Data></Cell>
@@ -409,7 +409,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_intertitle_content_yudai</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Now that the odds are even, you fight off Yudai wielding powerful ancient powers.\n\nMeanwhile Valeria is slowly recovering from her concussion, confused by your display of witchcraft...</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Maintenant que les chances sont égales, vous repoussez Yudai grâce à de puissants pouvoirs antiques.\n\nPendant ce temps, Valeria se remet lentement de sa concussion, surprise par votre étalage de sorcellerie....</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maintenant que les chances sont égales, vous repoussez Yudai grâce à de puissants pouvoirs antiques.\n\nPendant ce temps, Valeria se remet lentement de sa commotion, surprise par votre étalage de sorcellerie....</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s17"><Data ss:Type="String">ACT1 Dialog</Data></Cell>
@@ -519,7 +519,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MeetValeria_18</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Valeria: That… does not seem like something a demon would say.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria&#160;: Ca… ça ne sonne pas comme un truc que dirait un démon. </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria&#160;: Ça… ça ne sonne pas comme un truc que dirait un démon. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MeetValeria_19</Data></Cell>
@@ -1019,7 +1019,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_CoreGainingPower1_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Mizzeonth: By draining the fear that invades the surface city, it fuels Anankis’ core with a tremendous power.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Mizzeonth&#160;: En drainant la peur qui envahit la ville à  surface, cela alimente le noyau d’Anankis avec une puissance énorme.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Mizzeonth&#160;: En drainant la peur qui envahit la ville à la surface, cela alimente le noyau d’Anankis avec une puissance énorme.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_CoreGainingPower1_5</Data></Cell>
@@ -1359,32 +1359,32 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: Forward, Daybreakers! Leave no shadows!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Forward, Daybreakers! Leave no shadows!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: En avant Portejours ! Ne laissez aucune ombre !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: The Dawn rises on me. </Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: The Dawn rises on me. </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: L'aube se lève sur moi. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_3</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Hierophant: And its light knows no bounds.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Hierophant: And its light knows no bounds.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Hierophant: Et sa lumière ne connaît aucune frontière.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Hierophant: And its light knows no bounds.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Hierophant: And its light knows no bounds.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Hierophant: Et sa lumière ne connaît aucune frontière.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Hierophant: And its light knows no bounds.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Hierophant: And its light knows no bounds.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Hierophant: Et sa lumière ne connaît aucune frontière.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_6</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: Get purged!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Get purged!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Sois éliminé!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_7</Data></Cell>
@@ -1394,37 +1394,37 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_8</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: We have a wild card of our own.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: We have a wild card of our own.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Nous avons notre propre joker.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_9</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Janaris: Prepare for release.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Prepare for release.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Préparez-vous à la libération.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_10</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: They were buying time.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: They were buying time.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Ils étaint en train de gagner du temps.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_11</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: Pull back.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Pull back.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Repliez-vous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: Pull back!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Pull back!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Repliez-vous !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_13</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: Pull back, now!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Pull back, now!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Repliez-vous, maintenant !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_14</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Janaris: Now.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Now.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Maintenant.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_15</Data></Cell>
@@ -1444,27 +1444,27 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_18</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: You will pay for the death of my brothers. We'll find a way through.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: You will pay for the death of my brothers. We'll find a way through.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Tu paieras pour la mort de mes frères. Nous trouverons un chemin.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_19</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Janaris: Oh I'm sure you would, in time. But time, as you know, is man's most precious commodity. One you so desperately lack right now.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Oh I'm sure you would, in time. But time, as you know, is man's most precious commodity. One you so desperately lack right now.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Oh je suis sûr que vous trouverez à temps. Mais le temps, comme vous le savez, est une denrée très rare pour les hommes. Une denrée dont vous manquez désespérement à cet instant.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_20</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: What does that mean?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: What does that mean?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese: Qu'est-ce-que cela signifie?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_21</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Janaris: You will soon find out.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: You will soon find out.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: Vous le découvrirez bientôt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ShamanBrotherhood_22</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Janaris: &quot;Daybreaker&quot;.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: &quot;Daybreaker&quot;.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Janaris: &quot;Portejour&quot;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s20"><Data ss:Type="String">Zima breaks spell</Data></Cell>
@@ -1529,7 +1529,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: Are you okay? Where's the Brotherhood?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Ca va ? Où est la Confrérie ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Ça va ? Où est la Confrérie ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_13</Data></Cell>
@@ -1689,7 +1689,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: Why not? I've thought a lot about this. The Republic might be ignorant and wrong about a great many things, but the core values Heimlock and the Purifiers gave us, are still worth something.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Pourquoi pas ? J'ai ai beaucoup pensé. Les republicains sont peut-être ignorants sur beaucoup de choses, mais les valeurs qu'Heimlock et les Purificateurs nous ont inculqué tiennent le coup.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Pourquoi pas ? J'ai ai beaucoup pensé. Les républicains sont peut-être ignorants sur beaucoup de choses, mais les valeurs qu'Heimlock et les Purificateurs nous ont inculqués tiennent le coup.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_6</Data></Cell>
@@ -1714,7 +1714,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_10</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Valeria: Not sure he deserves the opportunity to…</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Mais pas sur qu'il mérite l'opportunité de s'ex…</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Mais pas sûr qu'il mérite l'opportunité de s'ex…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_11</Data></Cell>
@@ -1759,7 +1759,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_19</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: Why didn't you leave when I told you to?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Pourquoi n'es tu pas {parti|partie} quand je te l'ai demandé ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Pourquoi n'es-tu pas {parti|partie} quand je te l'ai demandé ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_20</Data></Cell>
@@ -1814,7 +1814,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_30</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: Listen carefully. You may not comprehend my actions, but such is certain: only enslavement awaits you if you share the path of the Brotherhood.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Ecoutez attentivement. Vous ne comprenez peut-être pas mes actions, mais ceci est certain : seul l'esclavage vous attends si vous vous associez à la Confrérie.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Écoutez attentivement. Vous ne comprenez peut-être pas mes actions, mais ceci est certain : seul l'esclavage vous attend si vous vous associez à la Confrérie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_31</Data></Cell>
@@ -1894,7 +1894,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_46</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Justicar Azenhal: What's going on?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Justicar Azenhal : Qu'est ce qu'il se passe ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Justicar Azenhal : Qu'est-ce qu'il se passe ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_47</Data></Cell>
@@ -1909,12 +1909,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_49</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Justicar Azenhal: Get in formation! Formation! Protect the railguns!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Justicar Azenhal : Mettez vous en formation ! Formation ! Protègez les Tireurs-d'élite !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Justicar Azenhal : Mettez-vous en formation ! Formation ! Protègez les Tireurs-d'élite !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_50</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Valeria: What are these things?!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Qu'est ce que c'est que ces choses ?!</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Qu'est-ce que c'est que ces choses ?!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockAmbush_51</Data></Cell>
@@ -1934,7 +1934,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_RepublicFlesh_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Justicar Azenhal: Stand or die! Purity in&#45;- </Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Justicar Azenhal : Battez-vous ou mourrez ! Pureté dans le sacrifice !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Justicar Azenhal : Battez-vous ou mourez ! Pureté dans le sacrifice !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_RepublicFlesh_2</Data></Cell>
@@ -1979,7 +1979,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_7</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: I have warned you. Time and time again I have warned you to go your own way. Not once did you listen to me. Edric died because of it, and now... you're forcing my hand yet again.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je vous ai {avertis|averties}. Encore et encore je vous ai {avertis|averties} de partir de votre coté. Pas une fois vous m'avez écouté. Edric est mort à cause de cela, et vous me forcez la main encore une fois.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je vous ai {avertis|averties}. Encore et encore je vous ai {avertis|averties} de partir de votre coté. Pas une fois vous ne m'avez écouté. Edric est mort à cause de cela, et vous me forcez la main encore une fois.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_8</Data></Cell>
@@ -1994,7 +1994,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_10</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: Ahriman deceived me. I paid for that mistake by losing most of my free will, keeping just enough of it to masquerade as a Grand Inquisitor, and for few, as a father.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Ahriman m'a trompé. J'ai payé cette erreur en perdant le plus gros de ma liberté, gardant juste suffisement de celle-ci pour avoir l'air d'un Grand Inquisiteur, et pour certains, d'un père.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Ahriman m'a trompé. J'ai payé cette erreur en perdant le plus gros de ma liberté, gardant juste suffisamment de celle-ci pour avoir l'air d'un Grand Inquisiteur, et pour certains, d'un père.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_11</Data></Cell>
@@ -2004,12 +2004,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Valeria: You manipulated the senate so that the Purifiers would crush the Brotherhood of Dawn's resistance against Ahriman... your will was not your own, I get it. But why did you not tell us?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Tu as manipulé le Senat pour que les Purificateurs annihilent la résistance de la Fraternité de l'Aube contre Ahriman… ta volonté n'était pas la tienne, je comprends. Mais pourquoi ne pas nous avoir parlé ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Tu as manipulé le Sénat pour que les Purificateurs annihilent la résistance de la Fraternité de l'Aube contre Ahriman… ta volonté n'était pas la tienne, je comprends. Mais pourquoi ne pas nous avoir parlé ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_13</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: I am but a slave. Letting you know would have only put you in harm's way.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je ne suis qu'un esclave. Vous en parler vous aurais mis en danger.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je ne suis qu'un esclave. Vous en parler vous aurait mis en danger.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_14</Data></Cell>
@@ -2019,12 +2019,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_15</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: I am bound to him with a pact. Something that cannot be undone.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je lui suis lié par un pacte. Ce qui ne peut être rompu.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je lui suis lié par un pacte. Quelque chose qui ne peut être rompu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_16</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: You should run now. He won't accept further interference in his plans.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Courrez maintenant. Il n'acceptera pas plus d'interférences avec ses plans.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Courez maintenant. Il n'acceptera pas plus d'interférences avec ses plans.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_17</Data></Cell>
@@ -2044,12 +2044,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_20</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Valeria: Fight back! You can resist!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Combats ! Resistes lui !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valeria : Combats ! Résiste lui !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_21</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: I will make it painless, daughter.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je ne te ferais pas souffrir, ma fille.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je ne te ferai pas souffrir, ma fille.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockCordanon_22</Data></Cell>
@@ -2134,7 +2134,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_LambachKilled_6</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: This better be worth it.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Cela a intêret à valoir le coup.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Cela a intérêt à valoir le coup.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s20"><Data ss:Type="String">Act III Introduction</Data></Cell>
@@ -2149,7 +2149,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_GerneseIntro_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gernese: There, the Helion shall be made whole again.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese : Là-bas, l'Helion y sera reforgé.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese : Là-bas, l'Hélion y sera reforgé.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_GerneseIntro_3</Data></Cell>
@@ -2174,12 +2174,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_1</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">%1: {The second piece.|The second piece}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {La second partie.|La second partie.}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {La seconde partie.|La seconde partie.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: {I know you're around. Show yourself: Sinadrahel.|I know you're around. Show yourself: Sinadrahel.}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Je sais que tu es là. Montres toi : Sinadrahel.|Je sais que tu es là. Montres toi : Sinadrahel.}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Je sais que tu es là. Montre-toi : Sinadrahel.|Je sais que tu es là. Montre-toi : Sinadrahel.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_3</Data></Cell>
@@ -2194,7 +2194,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Sinadrahel: Let me soothe your pain. I can bring you peace.&#10;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Laisse moi atténuer ta souffrance. Je peux t'apporter la paix.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Laisse-moi atténuer ta souffrance. Je peux t'apporter la paix.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_6</Data></Cell>
@@ -2209,7 +2209,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_8</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: {If you came here for the Helion, I'm afraid your disappointment has just begun.|If you came here for the Helion, I'm afraid your disappointment has just begun.}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Si tu es venu pour l'Helion, je crains que ta déception ne fasse que commencer.|Si tu es venu pour l'Helion, je crains que ta déception ne fasse que commencer.}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Si tu es venu pour l'Hélion, je crains que ta déception ne fasse que commencer.|Si tu es venu pour l'Hélion, je crains que ta déception ne fasse que commencer.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_9</Data></Cell>
@@ -2229,7 +2229,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_12</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Sinadrahel: Give me your wrath! ALL OF IT!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Donne moi ta colère ! TOUTE TA COLERE !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Donne-moi ta colère ! TOUTE TA COLÈRE !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_13</Data></Cell>
@@ -2259,7 +2259,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_18</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Sinadrahel: Do not worry. The demons of Fury will ineluctably pour from the abyss once the Blind Prince is here.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Ne t'inquiètes pas. Les démons de la furie vont inévitablement deferler de l'abysse une fois que le Prince Aveugle est parmi nous.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Ne t'inquiète pas. Les démons de la furie vont inévitablement déferler de l'abysse une fois que le Prince Aveugle sera parmi nous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_19</Data></Cell>
@@ -2269,7 +2269,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_20</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Sinadrahel: Ulzeragh, Lothaï, join me!&#10;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Ulzeragh, Lothaï, rejoignez moi !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : Ulzeragh, Lothaï, rejoignez-moi !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_21</Data></Cell>
@@ -2284,7 +2284,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_23</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Lothaï: Now, we feast.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Lothaï : Maintenant, consumons.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Lothaï : Maintenant, festoyons.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s20"><Data ss:Type="String">Heimlock Overcomes Instigator Control</Data></Cell>
@@ -2304,27 +2304,27 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockInstigator_3</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Instigator of Fury: Thrall: Kill them.&#10;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Instigateur de la Furie : Tue les.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Instigateur de la Furie : Tue-les.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockInstigator_4</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Heimlock: No.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : No.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Non.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockInstigator_5</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Instigator of Fury: What did you say?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Instigateur de la Furie : Qu'as-tu dis ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Instigateur de la Furie : Qu'as-tu dit ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockInstigator_6</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Heimlock: I will serve you no longer.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je ne vous servirais plus.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je ne vous servirai plus.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockInstigator_7</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Instigator of Fury: You -will- obey his command!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Instigateur de la Furie : Tu obéiras ses commandes !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Instigateur de la Furie : Tu obéiras à ses ordres !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HeimlockInstigator_8</Data></Cell>
@@ -2374,7 +2374,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MonolithFight_2</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">%1: What is that ?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Qu'est ce que c'est ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : Qu'est-ce que c'est ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MonolithFight_3</Data></Cell>
@@ -2459,17 +2459,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MonolithFight_19</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Heimlock: Show me your wrath!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Montre moi ta colère !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Montre-moi ta colère !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MonolithFight_20</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Heimlock: I know your every move, child. I made you, molded you.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je connais chacune de tes attaques, mon enfant. Je t'ai fais, je t'ai façonné.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Je connais chacune de tes attaques, mon enfant. Je t'ai fait, je t'ai façonné.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MonolithFight_21</Data></Cell>
     <Cell ss:StyleID="s25"><Data ss:Type="String">Heimlock: Let me ease your pain, daughter.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Laisse moi arrêter tes souffrances, ma fille.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Heimlock : Laisse-moi arrêter tes souffrances, ma fille.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_MonolithFight_22</Data></Cell>
@@ -2519,7 +2519,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HelionFired_1</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Gernese: Take care of him, we must close the portal now!&#10;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese : Occupes toi de lui, il faut fermer le portail maintenant !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese : Occupe-toi de lui, il faut fermer le portail maintenant !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_HelionFired_2</Data></Cell>
@@ -2564,17 +2564,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ThirdActConcludes_2</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">%1: {What's happening?|What's happening?}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Qu'est ce qu'il se passe ?|Qu'est ce qu'il se passe ?}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Qu'est-ce qu'il se passe ?|Qu'est-ce qu'il se passe ?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ThirdActConcludes_3</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">%1: {Gernese!? What's happening!|Gernese!? What's happening!}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Gernese !? Qu'est ce qu'il se passe ?|Gernese !? Qu'est ce qu'il se passe ?}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Gernese !? Qu'est-ce qu'il se passe ?|Gernese !? Qu'est-ce qu'il se passe ?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ThirdActConcludes_4</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Gernese: Ahriman is splitting to get a part of himself through the portal!</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese : Ahriman est entrain de se scinder pour faire passer une partie de lui à travers le portail !</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Gernese : Ahriman est en train de se scinder pour faire passer une partie de lui à travers le portail !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_ThirdActConcludes_5</Data></Cell>
@@ -2664,7 +2664,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_2</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Valence: Stormfall has suffered enough, we cannot afford to bicker amongst ourselves any longer</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valence : Stormfall a suffisement souffert, on ne peut pas se permettre de continuer à se diviser…</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valence : Stormfall a suffisamment souffert, on ne peut pas se permettre de continuer à se diviser…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_3</Data></Cell>
@@ -2689,7 +2689,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_7</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Tabbitha: Yes, you see, after Damaskus... gave up his throne, we entered a period of transition; and the way things work during such periods makes it difficult to authorise anything. We must all agree, unanimously, to inititate a project.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tabbitha : Oui, voyez-vous, après que Damaskus… ait rendu sa couronne, nous sommes rentrés dans une période de transition ; et la manière dont les affaires fonctionnent dans une telle période rend difficile la validation du moindre projet. Nous devons tous valider unaniment la moindre initiative.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tabbitha : Oui, voyez-vous, après que Damaskus… ait rendu sa couronne, nous sommes rentrés dans une période de transition ; et la manière dont les affaires fonctionnent dans une telle période rend difficile la validation du moindre projet. Nous devons tous valider unanimement la moindre initiative.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_8</Data></Cell>
@@ -2699,12 +2699,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_9</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Valence: As a neutral party you have no conflicting interests, and each House has an equal chance of seeing their interests furthered by your decisions.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Valence : En tant qu'entité neutre vous n'avez pas de conflits d'intérêts, et chaque maisonnée a une chance égale de voir ses intérêts avancés par vos décisions.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Valence : En tant qu'entité neutre vous n'avez pas de conflits d'intérêts, et chaque maisonnée a une chance égale de voir ses intérêts avancer par vos décisions.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_10</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Tabbitha: And then, of course, there is the people: they adore you. And why would they not? Your record is indeed exceptional, and your moral standing a beacon for all during these times of uncertainty</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Tabbitha : Et il y a également le peuple : ils vous adorent. Et comment pourrait-il en être autrement ? Vos actions sont impressionnantes, vous êtes une inspiration pour tous en ces temps incertains.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Tabbitha : Et il y a également le peuple : il vous adore. Et comment pourrait-il en être autrement ? Vos actions sont impressionnantes, vous êtes une inspiration pour tous en ces temps incertains.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamecutscene_11</Data></Cell>

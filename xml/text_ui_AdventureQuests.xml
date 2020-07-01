@@ -240,7 +240,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">B_A_Q_StepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Board</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Retournez auprès d'Eugene &quot;Le Fringant&quot;</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Retournez auprès d'Eugène &quot;Le Fringant&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">B_A2_Q_QuestNameLabel</Data></Cell>
@@ -265,7 +265,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">B_A2_Q_StepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Expedition Map</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Retournez voir Eugene &quot;le Fringuant&quot; via la carte d'Expedition</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Retournez voir Eugène &quot;le Fringuant&quot; via la carte d'Expédition</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">System</Data></Cell>

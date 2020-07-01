@@ -402,12 +402,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_restartRequired</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Restart required</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Restart required</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Redémarrage nécessaire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_restartRequired</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Please restart the game to apply your changes</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Please restart the game to apply your changes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Veuillez redémarrer le jeu pour appliquer les changements</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_cannot_revive_when_nemesis_is_alive</Data></Cell>
@@ -517,7 +517,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_content_npc1_popup</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Mandates are simple missions achieved in exchange of a reward.\nTaking a Mandate from the Mandate Board will open a portal. Do you wish to continue?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt;In the wake of recent events Stormfall remained considerably crippled and unable to properly defend its lands. Hiring the mercenary group known as the Host of the Purple Phoenix was one of the only measures that the Council of Houses managed to agree on now that Damaskus relinquished his throne.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Les mandats sont des missions simples complétées en échange d'un récompense.\nPrendre un Mandat du Tableau des Mandats ouvrira un portail. Souhaitez-vous continuer ?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt;En raison des évènements passés Stormfall est considérablement handicapée et incapable de bien défendre ses terres. Recruter le groupe mercenaire qu'on appelle le Cercle du Phénix Pourpre était l'une des seules mesures sur laquelle le Conseil des Maisons ait pu s'accorder maintenant que Damaskus ait abdiqué son trône.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Les mandats sont des missions simples complétées en échange d'un récompense.\nPrendre un Mandat du Tableau des Mandats ouvrira un portail. Souhaitez-vous continuer ?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt;En raison des évènements passés Stormfall est considérablement handicapée et incapable de bien défendre ses terres. Recruter le groupe mercenaire qu'on appelle le Cercle du Phénix Pourpre était l'une des seules mesures sur laquelle le Conseil des Maisons ait pu s'accorder maintenant que Damaskus a abdiqué son trône.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_popup_title_createCharacterBeforeJoiningGroup</Data></Cell>
@@ -697,17 +697,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_eviscerator_impale_other_player</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Your ally is trapped by an Untainted Shadowblade!\nAttack it to save them!</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Un allié est piégé par un Immaculé Ombrelame!\nAttaquez-le pour le sauver !</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un allié est piégé par un Ombrelame Immaculé!\nAttaquez-le pour le sauver !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_eviscerator_impale_local_player</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">You are trapped by an Untainted Shadowblade!\nAllies must attack it to save you!</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous êtes piégé par un Immaculé Ombrelame!\nVos alliés doivent l'attaquer pour vous sauver !</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous êtes piégé par un Ombrelame Immaculé!\nVos alliés doivent l'attaquer pour vous sauver !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_charger_killspawns</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">An Untainted Zealot has appeared!\nKill the clones to defeat it!</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Un Immaculé Fanatique est apparu!\nTuez ses clones pour le vaincre !</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Un Fanatique Immaculé est apparu!\nTuez ses clones pour le vaincre !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_QuestLabel</Data></Cell>
@@ -767,7 +767,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">You and Edric are almost through the Flayers' territory. Smoke rises from the Brotherhood of Dawn's camp; the Purifier's army shouldn't be far now.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous et Edric ont presque traversé le territoire des Écorcheurs. La fumée monte du camp de la Fraternité de l’Aube ; l’armée des Purificateurs ne doit pas être trop loin d’ici.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous et Edric avez presque traversé le territoire des Écorcheurs. La fumée monte du camp de la Fraternité de l’Aube ; l’armée des Purificateurs ne doit pas être trop loin d’ici.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_UmbraRelay_title</Data></Cell>
@@ -817,7 +817,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">The Purifiers camp shouldn't be far now. There is little doubt that Maëlys is already on the way to 'welcome' you and Edric. You must reach Grand Inquisitor Heimlock and plead your case to cease the infighting about your supposed 'witchcraft'.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Le camp des Purificateurs semble être proche maintenant. Il n’y a pas de doute que Maëlys se prépare déjà de vous ‘accueillir’. Vous devez atteindre Grand Inquisiteur Heimlock et donner votre point de vue afin d’arrêter les conflits internes au sujet de votre ‘sorcellerie’.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le camp des Purificateurs semble être proche maintenant. Il n’y a pas de doute que Maëlys se prépare déjà à vous ‘accueillir’. Vous devez atteindre le Grand Inquisiteur Heimlock et donner votre point de vue afin d’arrêter les conflits internes au sujet de votre ‘sorcellerie’.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_title</Data></Cell>
@@ -827,7 +827,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Sinister voices echo from the depths, chanting in unison. Doesn't sound like good news.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Des voix sinistres résonnent dans les profondeurs ; elles chantent à l’unisson. Cela ne peut-être un bon présage.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Des voix sinistres résonnent dans les profondeurs ; elles chantent à l’unisson. Cela ne semble pas être un bon présage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_title</Data></Cell>
@@ -837,7 +837,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">After informing the Merchant-Prince in details about what's happening below Stormfall, he will share with you the position of Valeria that his scouts have retrieved.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 2]&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Après avoir informer le Prince-Marchand en détail des évènements sous Stormfall, il partagera avec vous l'emplacement de Valeria que ses éclaireurs ont trouvé.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter vous emménera vous et votre groupe au Chapitre 2]&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Après avoir informé le Prince-Marchand en détail des évènements sous Stormfall, il partagera avec vous l'emplacement de Valeria que ses éclaireurs ont trouvé.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter vous emménera vous et votre groupe au Chapitre 2]&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_MercyArena_title</Data></Cell>
@@ -847,7 +847,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_MercyArena_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Mercy seems to rule from this arena. To get Zima's help and break the Shadow-wall, you need to put him down. If legends about him are true, expect the worst.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Pitié semble régner depuis cette arène. Pour obtenir l'aide de Zima et briser le Mur de Ténèbres, vous devez le terrasser. Si les légendes à son sujet son vraies, attendez-vous au pire.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pitié semble régner depuis cette arène. Pour obtenir l'aide de Zima et briser le Mur de Ténèbres, vous devez le terrasser. Si les légendes à son sujet sont vraies, attendez-vous au pire.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_title</Data></Cell>
@@ -857,7 +857,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">You arrive just in time to witness Zima breaking the shadow wall. Hopefully someone survived the onslaught on the other side…</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous arrivez juste à temps pour voir Zima écrouler le mur de ténèbres. Espérons que quelqu'un ait survécu l'assaut de l'autre côté…</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous arrivez juste à temps pour voir Zima détruire le mur de ténèbres. Espérons que quelqu'un ait survécu à l'assaut de l'autre côté…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_InnerSanctum_title</Data></Cell>
@@ -907,7 +907,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_LambachBossFight_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">In order to get to the Helion's first piece, it's now time to face the Lambach and end its horrors… if that's even possible.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Pour arriver au premier fragment du Hélion, il est temps de confronter le Lambach et mettre fin à ses horreurs… si c'est même possible.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pour arriver au premier fragment de l'Hélion, il est temps de confronter le Lambach et mettre fin à ses horreurs… si c'est même possible.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_ACT2_to_ACT3_title</Data></Cell>
@@ -917,7 +917,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT2_TC_ACT2_to_ACT3_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Now that Gernese has the first piece of the Helion, you must journey north with the survivors of the Vault of Hope, to obtain the second piece and assemble the mythical weapon.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 3]&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Maintenant que Gernese détient le premier fragment du Hélion, vous devez partir vers le nord avec les survivants de la Cathédrale de l'Espoir, afin d'obtenir le second fragment et reconstituer l'arme mythique.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter vous emménera vous et votre groupe au Chapitre 3]&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Maintenant que Gernese détient le premier fragment de l'Hélion, vous devez partir vers le nord avec les survivants de la Cathédrale de l'Espoir, afin d'obtenir le second fragment et reconstituer l'arme mythique.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepter vous emménera vous et votre groupe au Chapitre 3]&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_InnerSanctum_title</Data></Cell>
@@ -927,7 +927,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_InnerSanctum_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">The second piece of the Helion should be in the sanctum. Given it hasn't been breached yet, it should be safe to proceed.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Le second fragment du Hélion devrait être dans le sanctuaire. Étant donné qu'il n'a pas encore été enfreint, la voie devrait être libre.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le second fragment de l'Hélion devrait être dans le sanctuaire. Étant donné qu'il n'a pas encore été profané, la voie devrait être libre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_RW1_WW1_title</Data></Cell>
@@ -947,7 +947,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_Trenches_text</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Valeria and you will have to crush the reinforcements sent by the forces of Fury and use their portal to get up the remparts.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Valeria et vous devrez anéantir les renforts envoyer par les forces de la Furie et utiliser leur portail pour arriver aux remparts.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Valeria et vous devrez anéantir les renforts envoyés par les forces de la Furie et utiliser leur portail pour arriver aux remparts.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_vote_ACT3_TowerTop_title</Data></Cell>
@@ -1057,7 +1057,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s22"><Data ss:Type="String">ui_merchant_altar</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Fate-Adjucatrix Zeitgeist</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Adjudicatrix Fatidique Zeitgeist</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fate-Adjucatrix Zeitgeist</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ui_merchant_dungeon_end</Data></Cell>
@@ -1167,7 +1167,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_desc</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">You can choose to add random modifiers to this expedition, increasing the difficulty. If you complete it under these conditions, your loot drops will be more frequent and of higher rarity.\n\nDo you accept the challenge?</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs à cette Expédition, augmentant la difficulté. Si vous la complétez sous ces conditions, vous aurez du butin plus fréquemment et de meilleur qualité.\n\nAcceptez vous le défi?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs à cette Expédition, augmentant la difficulté. Si vous la complétez sous ces conditions, vous aurez du butin plus fréquemment et de meilleure qualité.\n\nAcceptez vous le défi?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_map_modifier_bonuses</Data></Cell>
@@ -1297,7 +1297,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_modifier_desc</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">You can choose to add random modifiers to this expedition, increasing the difficulty. If you complete it under these conditions, your loot drops will be more frequent and of higher rarity.\n\nDo you accept the challenge?</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs à cette Expédition, augmentant la difficulté. Si vous la complétez sous ces conditions, vous aurez du butin plus fréquemment et de meilleur qualité.\n\nAcceptez vous le défi?</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous pouvez choisir d'ajouter des modificateurs à cette Expédition, augmentant la difficulté. Si vous la complétez sous ces conditions, vous aurez du butin plus fréquemment et de meilleure qualité.\n\nAcceptez vous le défi?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s24"><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
@@ -1567,7 +1567,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s25"><Data ss:Type="String">ui_ic_right_click_to_trade_item</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to offer item for trade</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique-droit pour échanger un objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour échanger un objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
@@ -1582,47 +1582,47 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_sell</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to sell</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour vendre cet objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour vendre cet objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_retrieve_item</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Left-click to pick up this item</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour ramasser cet objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour ramasser cet objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_store_item</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to store this item</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour ranger cet objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour ranger cet objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_learn_skill</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to learn this skill or obtain Primordial Affinity if you already do</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour apprendre cette compétence</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour apprendre cette compétence</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_equip</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to equip this item</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique droit pour équiper cet objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour équiper cet objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_unsocket</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to remove gems from this item</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites un clique droit pour supprimer les gemmes de cet objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites un clic droit pour supprimer les gemmes de cet objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_right_click_to_sell_skill_for_knowledge</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to trade this Enneract for Primordial Affinity</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites un clique droit pour échanger cet Enneract contre de l'Affinité primordiale</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Faites un clic droit pour échanger cet Enneract contre de l'Affinité primordiale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ui_ic_right_click_to_select_reagent</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to select the Ethereal Reagent and left-click to apply it to an item</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique-droit pour sélectionner le Réactif Éthéré et clique-gauche pour l'appliquer à un objet</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour sélectionner le Réactif Éthéré et clique-gauche pour l'appliquer à un objet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ui_ic_right_click_to_unlock_dye</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Right-click to consume this item and unlock the associated color in your collection</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Clique-droit pour consommer cet objet et ajouter la couleur associée à votre collection</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Clic droit pour consommer cet objet et ajouter la couleur associée à votre collection</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_ic_drop_on_item_to_socket</Data></Cell>

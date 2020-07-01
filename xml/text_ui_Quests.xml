@@ -245,7 +245,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle1</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Grand Inquisitor Heimlock saved you as well as your childhood friends Valeria and Edric when you were five years old. He drafted the three of you into his Republican army of Purifiers.</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">A l'âge de 5 ans, le Grand Inquisiteur Heimlock vous sauva vous et vos amis d'enfance Valeria et Edric. Il vous enrôla tous les trois au sein des Purificateurs, une des armées de la République .</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">A l'âge de 5 ans, le Grand Inquisiteur Heimlock vous sauva vous et vos amis d'enfance Valeria et Edric. Il vous enrôla tous les trois au sein des Purificateurs, une des armées de la République.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_text_Intertitle2</Data></Cell>
@@ -315,7 +315,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecoutez les Alentours</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écoutez les Alentours</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_EventQuestNameLabel</Data></Cell>
@@ -325,7 +325,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_EventStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Banish the Damned Creatures</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannissez les Créatures Damnés</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannissez les Créatures Damnées</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabel</Data></Cell>
@@ -340,7 +340,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabelUpdate2</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Resist Yudaï</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Resister à Yudaï</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Résister à Yudaï</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main1</Data></Cell>
@@ -360,7 +360,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S1_StepDescriptionLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les alentours</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q1_S2_StepNameLabel</Data></Cell>
@@ -420,7 +420,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les Alentours</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les Alentours</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel2</Data></Cell>
@@ -540,7 +540,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q2_S14_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les alentours</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">Act1_Main3</Data></Cell>
@@ -720,12 +720,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S6_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Banish the Damned Creatures</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir les Créatures Damnés</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bannir les Créatures Damnées</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Delve deeper into the Necropolis</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer plus profondément dans la Necropolis</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Explorer plus profondément dans la Nécropole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A1_Q4_S8_StepNameLabel</Data></Cell>
@@ -955,7 +955,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Ecouter les alentours</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Écouter les alentours</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A2_Q1_S3_UpdateStepNameLabel2</Data></Cell>
@@ -1710,12 +1710,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Thrive in Champion of Stormfall Mode</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Prospérer dans mode Champion de Stormfall</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prospérer dans le mode Champion de Stormfall</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q4_S8_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Thrive in Champion of Stormfall Mode</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Prospérer dans mode Champion de Stormfall</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Prospérer dans le mode Champion de Stormfall</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

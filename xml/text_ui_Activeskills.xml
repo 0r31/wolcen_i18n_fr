@@ -216,7 +216,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="105.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_enneract_lore</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;&quot;Enneracts resurface every now and then. Those lucky enough to find them, not knowing any better, usually sell them on to be siphoned into energy crystals which fuel weapons or industry.\n\nScholars have theorized that they may contain a small fragment of a divine entity's power, stored in an ancient but definitely manmade device. \n\nWhile mages may spend their life studying a few Enneracts to replicate their signature essence and cast spells, a select few are drawn to them and are able to absorb the energy within, making it theirs in an instant.&quot;&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;« Les Enneracts refont surface de temps en temps. Les chanceux qui les trouvent, souvent ignorants de leur capacité, les revendent pour être converti en cristaux d’énergie, une source d'énergie puissante pour les armes et l’industrie. \n\nLes savants ont théorisé que les Enneracts contiennent un petit morceau du pouvoir d’une entité divine, gardé dans un ancien appareil créé par les Homme. \n\nPendant que des mages passent toute leur vie à étudier une poignée d’Enneracts pour répliquer leur essence et lancer des sorts, certains sont des sorciers ; ils peuvent absorber le pouvoir d’un Enneract immédiatement et solliciter son pouvoir instantanément. »&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;« Les Enneracts refont surface de temps en temps. Les chanceux qui les trouvent, souvent ignorants de leur capacité, les revendent pour être convertis en cristaux d’énergie, une source d'énergie puissante pour les armes et l’industrie. \n\nLes savants ont théorisé que les Enneracts contiennent un petit morceau du pouvoir d’une entité divine, gardé dans un ancien appareil créé par les Hommes. \n\nPendant que des mages passent toute leur vie à étudier une poignée d’Enneracts pour répliquer leur essence et lancer des sorts, certains sont des sorciers ; ils peuvent absorber le pouvoir d’un Enneract immédiatement et solliciter son pouvoir instantanément. »&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_BaseAttack</Data></Cell>
@@ -241,7 +241,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboUnarmed_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;A Republican Instructor once told you: &quot;So you're good at throwing punches eh? Great. Now pick up a weapon or go home&quot;. Which was a little ironic, given that the military academy was your home.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Un instructeur républicain vous a dit une fois : « Donc tu files des bons coups de poing, c’est ça ? Chapeau. Maintenant prends une arme ou rentres chez toi. » L'ironie fut frappante vu que &quot;chez toi&quot; était l'académie militaire.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Un instructeur républicain vous a dit une fois : « Donc tu files des bons coups de poing, c’est ça ? Chapeau. Maintenant prends une arme ou rentre chez toi. » L'ironie fut frappante vu que &quot;chez toi&quot; était l'académie militaire.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboShield</Data></Cell>
@@ -281,7 +281,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboDualWield_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Traditional fighters tend to consider the shield as the superior option. Clearly they have never fought the Screaming Furies of Laibon: a regiment of women dual wielding kopeshes while shouting fear away.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt; Les guerriers traditionnels considèrent le bouclier comme le choix supérieur. Ils n'ont clairement jamais combattu les Furies Hurlantes de Laibon : un régiment de femmes qui brandissent deux khopesh en criant tels des banshees.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt; Les guerriers traditionnels considèrent le bouclier comme le choix supérieur. Ils n'ont clairement jamais combattu les Furies Hurlantes de Laibon : un régiment de femmes qui brandissent deux khopeshs en criant tels des banshees.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboGreatSword</Data></Cell>
@@ -311,7 +311,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboWarhammer_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;A jest only truly appreciated by battlehammer users: &quot;Before a tournament, a knight spends two hours turtling behind three layers of thick fullplate armor. Scared of being late, he hurries in the arena and asks his unarmoured challenger &quot;What time is it?&quot; The lowborn picks up his maul and answers: &quot;It's hammer time!&quot;.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Une blague qui n’est réellement appréciée que par ceux qui utilisent les masses à deux mains : « Avant un tournoi, un chevalier passe deux heures à se préparer, se protégeant de trois couches d’armure épaisse. Par peur d’être en retard, il courre dans l’arene en cliquetant et demande à son adversaire dépourvu d'armure: « Quelle heure est-t-il ? ». L’homme de basse extraction se saisit de sa masse à deux mains et répond « C’est l'heure de marteler ! »&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Une blague qui n’est réellement appréciée que par ceux qui utilisent les masses à deux mains : « Avant un tournoi, un chevalier passe deux heures à se préparer, se protégeant de trois couches d’armure épaisse. Par peur d’être en retard, il court vers l’arène et demande à son adversaire dépourvu d'armure: « Quelle heure est-t-il ? ». L’homme de basse extraction se saisit de sa masse à deux mains et répond « C’est l'heure de marteler ! »&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboBattleaxe</Data></Cell>
@@ -326,7 +326,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboBattleaxe_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Some see fighting as a dance, an art, a poetic display of murder. Meanwhile, others wield a big fat greataxe and chop people in half as casually as a butcher cuts meat. To each their own.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Certains traitent les combats comme une danse, un art, une démonstration poétique de meurtre. A l'opposé, d’autres brandissent une bonne grosse hache a deux mains bien tranchante et coupent en deux les gens comme un boucher le ferait d'une pièce de viande. Chacun ses goûts. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Certains traitent les combats comme une danse, un art, une démonstration poétique de meurtre. A l'opposé, d’autres brandissent une bonne grosse hache à deux mains bien tranchante et coupent en deux les gens comme un boucher le ferait d'une pièce de viande. Chacun ses goûts. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboDualDaggers</Data></Cell>
@@ -341,7 +341,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboDualDaggers_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Murderers, sociopaths and assassins all seem to share an unhealthy fetish for knives. Some researchers tried to understand this phenomenon. Their endeavour did not yield any conclusive results, given that half of them gave up after the first half got slaughtered, all with the same cause of death: multiple stabbings.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les meurtriers, sociopathes et assassins partagent une obsession rebutante pour les couteaux. Quelques chercheurs ont essayé de comprendre ce phénomène. Ce projet n’a pas mené aux résultats conclusifs, vu qu’une moitié de chercheur l’abandonné après l’autre moitié a été tuée, toujours par les coups de poignard.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les meurtriers, sociopathes et assassins partagent une obsession rebutante pour les couteaux. Quelques chercheurs ont essayé de comprendre ce phénomène. Ce projet n’a pas mené aux résultats conclusifs, puisqu’une moitié de chercheurs a abandonné après que l’autre moitié ait été tué de la même manière : coups de poignard multiples.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboPistol</Data></Cell>
@@ -356,7 +356,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboPistol_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;There's an old saying in the explorer's guild of Stormfall: &quot;Do not bring a sword to a gunfight&quot;.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Il y a un vieil adage parmi des membres de la guilde d’exploreurs à Stormfall : « N’apportez pas une épée a une fusillade. »&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Il y a un vieil adage parmi des membres de la guilde d’explorateurs à Stormfall : « N’apportez pas une épée à une fusillade. »&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_ComboDualPistols</Data></Cell>
@@ -836,7 +836,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_HolyDive_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa, Primordial of Dawn, descended on the defeated Army of Alia's first king and gave them the Helion. She healed their wounded and weary, and taught them that mankind's strongest weapon was hope.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa, Primordiale de l'Aube, descendit voir l'armée vaincue du premier roi d'Alia et leur fit don du Helion. Elle guérit leurs blessés et leur apprit que l'arme la plus redoutable de l'homme s'appelait espoir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa, Primordiale de l'Aube, descendit voir l'armée vaincue du premier roi d'Alia et leur fit don de l'Hélion. Elle guérit leurs blessés et leur apprit que l'arme la plus redoutable de l'homme s'appelait espoir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_AST_RingOfPain</Data></Cell>
