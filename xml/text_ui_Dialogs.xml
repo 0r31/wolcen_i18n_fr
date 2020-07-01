@@ -4273,7 +4273,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_13</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">At first the waters of the Galatha River dried up all of a sudden, it used to flow gently from the nearby town of Helmshire down to our walls and past us toward the Galatha Falls.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Au départ les eaux de la Rivière Galatha se sont asséchées tout d'un coup. Auparavant elle ruisselait doucement près de la ville voisine de Helmshire jusqu'à nos murs et au delà jusqu'aux Chutes de Galatha.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Au départ les eaux de la Rivière Galatha se sont asséchées tout d'un coup. Auparavant elle ruisselait doucement près de la ville voisine de Helmshire jusqu'à nos murs et au-delà jusqu'aux Chutes de Galatha.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_14</Data></Cell>

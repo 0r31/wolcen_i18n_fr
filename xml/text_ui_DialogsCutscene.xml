@@ -2204,7 +2204,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_7</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Sinadrahel: I needed you to open the Inner Sanctum. And you didn't disappoint.</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : J'avais besoin que tu m'ouvres le Sanctum. Et tu ne m'as pas déçu.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sinadrahel : J'avais besoin que tu m'ouvres le Sanctuaire Intérieur. Et tu ne m'as pas déçu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_8</Data></Cell>
@@ -2219,7 +2219,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_10</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: {I attuned to her lights. As long as I stand the Inner Sanctum will answer me!|I attuned to her lights. As long as I stand the Inner Sanctum will answer me!}</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Je suis béni de ses lumières. Tant que je tiens debout, le Sanctum me répondra !|Je suis béni de ses lumières. Tant que je tiens debout, le Sanctum me répondra !}</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">%1 : {Je suis béni de ses lumières. Tant que je tiens debout, le Sanctuaire Intérieur me répondra !|Je suis béni de ses lumières. Tant que je tiens debout, le Sanctuaire Intérieur me répondra !}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_11</Data></Cell>

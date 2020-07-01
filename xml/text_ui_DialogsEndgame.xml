@@ -1400,7 +1400,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_marketfirstselect_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">And sometimes, to procure the best equipment, one must look beyond the &quot;usual channels&quot;. You understand?</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Et parfois, pour obtenir le meilleur équipement, il faut aller au delà des &quot;voies habituelles&quot;. Vous comprenez ?</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Et parfois, pour obtenir le meilleur équipement, il faut aller au-delà des &quot;voies habituelles&quot;. Vous comprenez ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgamedialogue_marketfirstselect_5</Data></Cell>

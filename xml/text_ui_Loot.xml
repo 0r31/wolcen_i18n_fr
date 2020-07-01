@@ -597,7 +597,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_2HHammer_T9</Data></Cell>
     <Cell ss:StyleID="s30"><Data ss:Type="String">Skull-Crusher Maul</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Merlin Brise-Crane</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Merlin Brise-Crâne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_2HHammer_T10</Data></Cell>
@@ -627,7 +627,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_2HHammer_T15</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Smasher's Judgement</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Mallet du Jugement</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Maillet du Jugement</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_2HHammer_T16</Data></Cell>
@@ -957,7 +957,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_rend_dagger_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;During the war of the Primordials, the eternal lovers Anathëa and Moros organized an assault on the Red Mountain, the throne of Ashtaroth, Lord of Flesh. Amidst the raging battle, the ground quaked as they realized the landscape itself was alive and about to engulf everything. They had no other choice than to obliterate the whole organic mountain to survive. This could very well be one of its shards that survived throughout the eons.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Durant la guerre des Primordiaux, les amants éternels Anathëa et Moros prirent d’assaut le Mont Vermeil, siège d’Astaroth, Seigneur de la Chair. La bataille faisait rage lorsque le sol se mit à trembler. Ils réalisèrent alors que la montagne était vivante et s’apprêtait à tout engloutir, et n’eurent d’autre choix que d’oblitérer cette structure organique pour survivre.  Ceci pourrait bien être un éclat de cette montagne qui a traversé les âges.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Durant la guerre des Primordiaux, les amants éternels Anathëa et Moros prirent d’assaut le Mont Vermeil, siège d’Astaroth, Seigneur de la Chair. La bataille faisait rage lorsque le sol se mit à trembler. Ils réalisèrent alors que la montagne était vivante et s’apprêtait à tout engloutir, et n’eurent d’autre choix que d’oblitérer cette structure organique pour survivre. Ceci pourrait bien être un éclat de cette montagne qui a traversé les âges.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_2h_axe</Data></Cell>
@@ -967,7 +967,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_2h_axe_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Big Bill was a blacksmith's apprentice. But repairing horses’ irons bored him, he dreamed about being as an evil-slashing hero with the sharpest axe the world had ever known. The blacksmithing prodigy got to work, every night he would hammer hard at the anvil, shaping his lethal ambitions into an axe he would call ‘Edgy’.\n\nRumor has it that Big Bill accidentally beheaded himself at night while training in the backyard. Yet, Edgy remains as a deadly work of art.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gros Bill était un apprenti forgeron, mais réparer des fers à cheval ne le stimulait plus. Il s’imaginait devenir un héros affrontant des entités démoniaques avec la hache la plus tranchante que le monde ait connu.Le forgeron prodige se mit au travail, jour et nuit il s’attela à frapper l’enclume de son marteau, donnant forme à ses ambitions létales dans une arme qu’il appellerait “Tailladeuse”.\n\nLes rumeurs racontent que Gros Bill trancha sa propre tête par accident alors qu’il s'entraînait dans son arrière-cour. Mais Tailladeuse reste une oeuvre d’art très efficace.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gros Bill était un apprenti forgeron, mais réparer des fers à cheval ne le stimulait plus. Il s’imaginait devenir un héros affrontant des entités démoniaques avec la hache la plus tranchante que le monde ait connu. Le forgeron prodige se mit au travail, jour et nuit il s’attela à frapper l’enclume de son marteau, donnant forme à ses ambitions létales dans une arme qu’il appellerait “Tailladeuse”.\n\nLes rumeurs racontent que Gros Bill trancha sa propre tête par accident alors qu’il s'entraînait dans son arrière-cour. Mais Tailladeuse reste une oeuvre d’art très efficace.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_shield_thing</Data></Cell>
@@ -987,7 +987,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_shield_shadow_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The battle for creation was raging. Old alliances showed great heroism but were losing the fight nonetheless. To avoid the end of times, Moros, the Primordial of Dusk, rode into battle on a gigantic shadow chimaera whose wings covered the entire battlefield.\n\nHe flew directly to his offspring to confront him: the Fallen conqueror leading this unstoppable army. Knowing he would not win the fight in time, Moros tethered himself to his foe and banished himself into the abyss. Both of them were trapped by the ritual, but his dreaded shadow-beast survived and flew away. A scale lost by the creature was then forged into this shield, and it might be the only evidence that the creature ever existed.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La bataille pour la création faisait rage. Les anciennes alliances brillaient par leur héroïsme, mais perdaient le combat malgré tout. Moros, le Primordial du Crépuscule, rejoignit alors les affrontements sur le dos d’une gigantesque chimère d’ombre dont les ailes recouvraient l’ensemble du champs de bataille.\n\nIl fallait éviter la fin des temps. Il se dirigea tout droit sur sa progéniture: le conquérant Déchu menant son armée instoppable. Conscient qu’il ne pourrait remporter la victoire à temps, Moros se lia à son ennemi et se bannit lui-même dans les abysses. Ils disparurent tous les deux lors du rituel, mais sa terrifiante chimère d’ombres survécut et s’envola. L’une des écailles perdues par cette créature a été forgée pour devenir un bouclier, et est très probablement l’unique témoignage de son existence.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La bataille pour la création faisait rage. Les anciennes alliances brillaient par leur héroïsme, mais perdaient le combat malgré tout. Moros, le Primordial du Crépuscule, rejoignit alors les affrontements sur le dos d’une gigantesque chimère d’ombre dont les ailes recouvraient l’ensemble du champ de bataille.\n\nIl fallait éviter la fin des temps. Il se dirigea tout droit sur sa progéniture: le conquérant Déchu menant son armée instoppable. Conscient qu’il ne pourrait remporter la victoire à temps, Moros se lia à son ennemi et se bannit lui-même dans les abysses. Ils disparurent tous les deux lors du rituel, mais sa terrifiante chimère d’ombres survécut et s’envola. L’une des écailles perdues par cette créature a été forgée pour devenir un bouclier, et est très probablement l’unique témoignage de son existence.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_poison_dagger</Data></Cell>
@@ -1137,7 +1137,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s22"><Data ss:Type="String">ui_unique_shadow_catalyst_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Fairy tales speak of a woman bathed in shade who roams the world of Wolcen, dancing gracefully throughout the land. She appears and fades away on a whim, her fan cutting through the air, its movement summoning a mollifying breeze.\n\nOnce, she appeared often as many invited her soothing presence. But when a sorcerer stole her phylactery for his rituals, nightmares crept back into the dreams of those she’d been healing. She untethered herself from her captive phylactery at the cost of much of her power, and now passes unseen in the world.&lt;/i&gt;&lt;/font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les contes parlent d'une femme baignée d'obscurité qui erre dans le monde de Wolcen, dansant avec grâce tout autour du monde. Elle apparaît et s'évanouit sans raison, son éventail coupant l'air, son mouvement appelant une brise apaisante.\n\nAutrefois, elle apparaissait plus souvent car nombreux sont ceux qui invitaient sa douce présence. Mais lorsqu'un sorcier vola son phylactère pour ses rituels, les cauchemars se réintroduirent dans les rêves de ceux qu'elle avait guéri. Elle se détacha de son phylactère captif au coût de son pouvoir, et passe dorénavant invisible dans le monde.&lt;/i&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les contes parlent d'une femme baignée d'obscurité qui erre dans le monde de Wolcen, dansant avec grâce tout autour du monde. Elle apparaît et s'évanouit sans raison, son éventail coupant l'air, son mouvement appelant une brise apaisante.\n\nAutrefois, elle apparaissait plus souvent car nombreux sont ceux qui invitaient sa douce présence. Mais lorsqu'un sorcier vola son phylactère pour ses rituels, les cauchemars se réintroduirent dans les rêves de ceux qu'elle avait guéris. Elle se détacha de son phylactère captif au coût de son pouvoir, et passe dorénavant invisible dans le monde.&lt;/i&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ui_unique_dominion_staff</Data></Cell>
@@ -1157,7 +1157,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_driftwood_bow_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ebba of Varg awoke swaddled in seaweed, two hundred feet away from her shipwreck. She found a wrought-iron joint in the debris: a miracle. With it, she fashioned a ramshackle bow stringed with plant fibres to hunt the beasts of the Baktorai islands.\n\nWhen Macksfesten found her and had her board his ship, she threw the bow overboard and announced: “Here’s a miracle for the next castaway.”&lt;/i&gt;&lt;/font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ebba de Varg se réveilla enveloppée d'algues, à deux cents pieds de son épave. Elle trouva, parmi les débris, une articulation en fer forgé : un miracle. Avec, elle façonna un arc rafistolé dont la corde était faite de fibres de plantes, afin de chasser les bêtes des Îles Baktorai.\n\nQuand Macksfesten la trouva et la fit border son vaisseau, elle jeta l'arc par dessus bord et annonça : &quot;Voilà un miracle pour le prochain naufragé.&quot;&lt;/i&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ebba de Varg se réveilla enveloppée d'algues, à deux cents pieds de son épave. Elle trouva, parmi les débris, une articulation en fer forgé : un miracle. Avec, elle façonna un arc rafistolé dont la corde était faite de fibres de plantes, afin de chasser les bêtes des Îles Baktorai.\n\nQuand Macksfesten la trouva et la fit monter à bord de son vaisseau, elle jeta l'arc par dessus bord et annonça : &quot;Voilà un miracle pour le prochain naufragé.&quot;&lt;/i&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">Staves</Data></Cell>
@@ -1197,7 +1197,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_Staff_T7</Data></Cell>
     <Cell ss:StyleID="s30"><Data ss:Type="String">Shaman Staff</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Baton de Shaman</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Bâton de Shaman</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_Staff_T8</Data></Cell>
@@ -1212,12 +1212,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_Staff_T10</Data></Cell>
     <Cell ss:StyleID="s30"><Data ss:Type="String">Staff of Dawn's Benediction</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Baton Bénédicteur de l'Aube</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Bâton Bénédicteur de l'Aube</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_Staff_T11</Data></Cell>
     <Cell ss:StyleID="s30"><Data ss:Type="String">Staff of Torment's Curse</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Baton Malédicteur du Tourment</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Bâton Malédicteur du Tourment</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_Staff_T12</Data></Cell>
@@ -1227,7 +1227,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_Staff_T13</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Mandibular Stave</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Baton Mandibulaire</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Bâton Mandibulaire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_Staff_T14</Data></Cell>
@@ -1242,7 +1242,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_Staff_T16</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Stave of Venality</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Baton de Vénalité</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Bâton de Vénalité</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">Catalyst</Data></Cell>
@@ -1302,7 +1302,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Weapon_Catalyst_T11</Data></Cell>
     <Cell ss:StyleID="s30"><Data ss:Type="String">Foreboding Memento</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Menaçant Souvenir</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Souvenir Menaçant</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_Weapon_Catalyst_T12</Data></Cell>
@@ -1547,7 +1547,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">Ui_OutfitVeteran_Armband_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Caked in mud and heavy with water. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Couvertes de boue et lestées d'eau.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Couverte de boue et lestée d'eau.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_OutfitVeteran_Pants</Data></Cell>
@@ -1577,7 +1577,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_poison_lore</Data></Cell>
     <Cell ss:StyleID="s30"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bezeriel grew fond of observing a beautiful maiden from the tribes of the First Men, so exuberant was she. Taking the shape of a pale charming man, he offered her this ring to show his admiration.\n\nShe smiled as she put the ring to her finger, but it was not to last: Her skin started to wither, her lifeforce consumed and absorbed within the ring’s gem in a matter of seconds. Her body was never found, for all that remained of her was dust.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bezeriel développa un intérêt pour pour une jouvencelle qui incarnait tout ce qu’il y avait de plus attrayant dans la jeunesse. Il prit la forme d’un homme séduisant, et lui offrit cet anneau, manifestant toute son admiration.\n\nElle sourit et revêtit l’anneau, mais le plaisir fut de courte durée. Sa peau se flétrit et son énergie vitale fut consumée en quelques secondes, absorbée par la gemme de l’anneau. Son corps ne fut jamais retrouvé, et pour cause, il n’en restait plus que des cendres. Seule la chanson de la “Jouvencelle perdue” contée par les bardes témoigne de son funeste destin.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bezeriel développa un intérêt pour une jouvencelle qui incarnait tout ce qu’il y avait de plus attrayant dans la jeunesse. Il prit la forme d’un homme séduisant, et lui offrit cet anneau, manifestant toute son admiration.\n\nElle sourit et revêtit l’anneau, mais le plaisir fut de courte durée. Sa peau se flétrit et son énergie vitale fut consumée en quelques secondes, absorbée par la gemme de l’anneau. Son corps ne fut jamais retrouvé, et pour cause, il n’en restait plus que des cendres. Seule la chanson de la “Jouvencelle perdue” contée par les bardes témoigne de son funeste destin.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_hit_hard</Data></Cell>
@@ -1617,7 +1617,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_belt_lucky_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;O’Maley had collected lucky charms his whole life, attaching them to his belt so that he could become the luckiest man alive. And he did. It’s only on his deathbed when his last servant slipped on a sock and broke his neck, that he realized that luck is always balanced.\n\nFor him to be so fortuitous, others around him had to be severely unlucky. All the people that he cherished eventually got hurt and died due to the vacuum of luck that this belt would create around him.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;O’maley a passé sa vie à collectionner des porte-bonheurs et les attacher à sa ceinture pour devenir l’homme le plus chanceux du monde. Et ce fut le cas. Il ne comprit que sur son lit de mort que la chance était neutre, lorsque son dernier serviteur glissa sur une chaussette et se brisa la nuque.\n\nPour que le destin lui sourit autant, ceux qui l’entouraient devaient souffrir d‘infortune. Sa ceinture était un tel gouffre à chance que toutes les personnes qu’il a chéri ont fini blessées ou mortes.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;O’maley a passé sa vie à collectionner des porte-bonheurs et les attacher à sa ceinture pour devenir l’homme le plus chanceux du monde. Et ce fut le cas. Il ne comprit que sur son lit de mort que la chance était neutre, lorsque son dernier serviteur glissa sur une chaussette et se brisa la nuque.\n\nPour que le destin lui sourit autant, ceux qui l’entouraient devaient souffrir d‘infortune. Sa ceinture était un tel gouffre à chance que toutes les personnes qu’il a chéries ont fini blessées ou mortes.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_amulet_crownsbrooch</Data></Cell>
@@ -1657,7 +1657,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_shoulder_envoywar_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt; “Power. Destruction. Conquest.\n\nI am A-dra-ma-lech.\nI bring war.\n\nAnd from now on, so do you.”\n\nSomething truly powerful and nefarious uses that spaulder as a relic: A demon sent by Baäpheth, the Fallen Archduke of War. Even if the entity wishes to assist you right now, no wise man would take his chances. The promise of power always has a dreadful cost.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt; “Pouvoir. Destruction. Conquête.\n\nJe suis A-dra-ma-lech.\n\nJ’apporte la guerre.\n\nEt dès maintenant, toi aussi.”\n\nQuelque chose de particulièrement puissant et malfaisant transpire de cette relique: un démon envoyé par Baäpheth, l’Archiduc déchu de la Guerre. L’entité qui l’habite souhaite vous aider pour le moment, mais il ne serait pas sage de tenter sa chance, les promesses de pouvoir ont toujours un coût très élevé.&lt;/i&gt;&lt;/Font</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt; “Pouvoir. Destruction. Conquête.\n\nJe suis A-dra-ma-lech.\n\nJ’apporte la guerre.\n\nEt dès maintenant, toi aussi.”\n\nQuelque chose de particulièrement puissant et malfaisant transpire de cette relique: un démon envoyé par Baäpheth, l’Archiduc déchu de la Guerre. L’entité qui l’habite souhaite vous aider pour le moment, mais il ne serait pas sage de tenter sa chance, les promesses de pouvoir ont toujours un coût très élevé.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_glove_argandsheart</Data></Cell>
@@ -1667,7 +1667,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_glove_argandsheart_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Thirty-five years ago, the Vargian city of Argand chose to shelter a devious cult within its walls. The population celebrated the newfound prosperity while accepting the unspeakable horrors the authorities had to perform to sustain this unholy alliance.\n\nBut the Primordial of Purity was on the hunt: the cult was fueling power to a Fallen he was tracking. Sarisel appeared at the gates of Argand and butchered the entire population to force the evil cult to reveal itself.\n\nOnly children were spared during the cleansing, most of them sheltering themselves within the high temple’s sanctum around a revered energy crystal. The litany of cries mixed with the energy deployed by Sarisel empowered the gem with a magic that no mortal should possess.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Il y a trente-cinq ans, la cité vargienne d’Argand a pris la décision d’héberger un culte déviant en ses murs. La population célébrait le retour à la prospérité et acceptait les horreurs indicibles qui permettaient à cette alliance de tenir.\n\nMais le Primordial de la Pureté était en chasse: le culte alimentait le pouvoir d’un déchu qu’il traquait. Sarisel apparut aux portes d’Argand et massacra la population pour forcer le culte malfaisant à se montrer.\n\nSeuls les enfants furent épargnés pendant la purge, et la plupart d’entre eux avaient trouvé refuge dans le sanctum du grand temple autour d’un cristal d’énergie vénéré. La litanie de pleurs mêlée à l’énergie déployée par Sarisel agrégea la gemme d’une magie qu’aucun mortel ne devrait posséder.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Il y a trente-cinq ans, la cité vargienne d’Argand a pris la décision d’héberger un culte déviant en ses murs. La population célébrait le retour à la prospérité et acceptait les horreurs indicibles qui permettaient à cette alliance de tenir.\n\nMais le Primordial de la Pureté était en chasse: le culte alimentait le pouvoir d’un déchu qu’il traquait. Sarisel apparut aux portes d’Argand et massacra la population pour forcer le culte malfaisant à se montrer.\n\nSeuls les enfants furent épargnés pendant la purge, et la plupart d’entre eux avaient trouvé refuge dans le sanctuaire du grand temple autour d’un cristal d’énergie vénéré. La litanie de pleurs mêlée à l’énergie déployée par Sarisel agrégea la gemme d’une magie qu’aucun mortel ne devrait posséder.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_ring_sisters</Data></Cell>
@@ -1707,7 +1707,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_pants_Abyssal_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;In his weakened state, Moros has almost no presence within the mortal plain. His time in the Abyss drags on, living in a purgatory of ceaseless combat. However, when the moon covers the sun in an all-shrouding eclipse, he can look upon his followers for a brief moment and receive a fraction of their prayers.\n\nSo say the Sages of Twilight, the spiritual guardians of the Cult of Moros. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Dans son état affaibli, Moros, Primordial du Crépuscule, a une présence amoindrie parmi les mortels. Son temps dans l’Abîme s'éternise, sa vie un purgatoire de combats incessants. Cependant, quand la lune couvre le soleil dans une éclipse qui enveloppe tout, il peut regarder ses disciples brièvement et recevoir une fraction de leurs prières.\n\nLes Sages du Crépuscule, gardiens spirituels du Culte de Moros, portent des tenues consacrées afin de réaliser des rituels provoquant ces éclipses.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Dans son état affaibli, Moros, Primordial du Crépuscule, a une présence amoindrie parmi les mortels. Son temps dans l’Abîme s'éternise, sa vie est un purgatoire de combats incessants. Cependant, quand la lune couvre le soleil dans une éclipse qui enveloppe tout, il peut regarder ses disciples brièvement et recevoir une fraction de leurs prières.\n\nLes Sages du Crépuscule, gardiens spirituels du Culte de Moros, portent des tenues consacrées afin de réaliser des rituels provoquant ces éclipses.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_helmet_torturemask</Data></Cell>
@@ -1727,7 +1727,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_helmet_genesis_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As Dusk and Dawn intertwined in impassioned dance, mortal life was inspired by their union. There was conflict amongst the Primordials about the place of humanity; their disagreements soon became a full-blown war. Legends say that Dusk and Dawn combined their powers to establish the mythic Army of Genesis.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant que la Crépuscule et l’Aube s’entremêlaient dans une danse passionnée, la vie mortelle s’inspirait de cet union. Mais un conflit naissait parmi les Primordiaux concernant la place de l’humanité ; ce désaccord bientôt devint une guerre véritable. Un savoir oublié raconterait comment le Crépuscule et l’Aube combinèrent leurs pouvoirs afin de créer ensemble la mythique Armée de la Genèse.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant que la Crépuscule et l’Aube s’entremêlaient dans une danse passionnée, la vie mortelle s’inspirait de cette union. Mais un conflit naissait parmi les Primordiaux concernant la place de l’humanité ; ce désaccord bientôt devint une guerre véritable. Un savoir oublié raconterait comment le Crépuscule et l’Aube combinèrent leurs pouvoirs afin de créer ensemble la mythique Armée de la Genèse.&lt;/i&gt;&lt;/Font&gt; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_chest_agony</Data></Cell>
@@ -1747,7 +1747,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_amulet_kardis_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Kardis, the Blackstaff of Gomora, was born into the Cult of Bezeriel. Her mother, a competent witch, dreamt of becoming Bezeriel’s champion and joined the ritual. As the rite began, she was soon overwhelmed, unable to control the power of death. Crying in pain, the witch suddenly collapsed on the bier, dead. Watching an Immortal Maw devour her mother’s corpse, Kardis had to flee. She escaped, taking only her mother’s amulet. She poured her rage into the necklace and swore to become a powerful sorceress to wipe her city of its sins. Her fervent desire to cleanse Gomora twisted the pendant into the symbol of the Jewel of the Pariahs. How she lost her treasured amulet is a mystery.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Kardis, le Bâton Noir de Gomora, est née dans le Culte de Bezeriel. Sa mère, une puissante sorcière, rêvait de devenir la championne de Bezeriel et prépara le rite de passage. Les incantations commençait, mais elle fut bientôt accablée, incapable de contrôler l’essence de mort. Criant de souffrance, la sorcière s’écroula. L’esprit de Karis fut marqué par l’image d’une Gueule Immortelle dévorant le cadavre de sa mère. Elle échappa, portant l’amulette de sa mère en seul souvenir. Les années passèrent alors qu’elle déversait sa colère dans ce collier. Elle jura de devenir une sorcière puissante afin d’écraser le mal qui étraignait sa ville de Gomora. Alors que sa puissance montait, le pendentif devenait progressivement plus tordu. Comment elle perdit sa précieuse amulette reste un mystère.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Kardis, le Bâton Noir de Gomora, est née dans le Culte de Bezeriel. Sa mère, une puissante sorcière, rêvait de devenir la championne de Bezeriel et prépara le rite de passage. Les incantations commençaient, mais elle fut bientôt accablée, incapable de contrôler l’essence de mort. Criant de souffrance, la sorcière s’écroula. L’esprit de Karis fut marqué par l’image d’une Gueule Immortelle dévorant le cadavre de sa mère. Elle s'échappa, portant l’amulette de sa mère en seul souvenir. Les années passèrent alors qu’elle déversait sa colère dans ce collier. Elle jura de devenir une sorcière puissante afin d’écraser le mal qui étraignait sa ville de Gomora. Alors que sa puissance montait, le pendentif devenait progressivement plus tordu. Comment elle perdit sa précieuse amulette reste un mystère.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_shoulder_purifier</Data></Cell>
@@ -1772,7 +1772,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_vanity_chest</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Beauty Eternal</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Beauté Eternelle</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Beauté Éternelle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_vanity_chest_lore</Data></Cell>
@@ -1797,7 +1797,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_warmonger_helmet_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The horns bellow. The banners are raised. The battle begins. The clansmen storm the hall, mighty roars fill the air. Roasted birds pulled to pieces in an instant, the cartilage snaps like dry wood.\n\nTough bread is ripped apart, tension on both sides mounting until the loaf yields. Whole hogs impaled repeatedly, slabs of flesh and crystallized fat are torn from the bones and consumed greedily. Red wine is toasted and spilled in revelry, waves of viscous liquid bathing the battlefield in a burgundy haze.\n\nThis is what it means to be a Blood Tear raider.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les cornes résonnent. Les bannières claquent dans le vent. La bataille commence. Les membres du clan courent dans le couloir, un grondement puissant rempli l'air. Des oiseaux carbonisés tombent en morceaux en un éclair, le cartilage craque comme du bois sec.\n\nDu pain dur est rompu, la tension augmentant de chaque coté jusqu'à ce que la miche se déchire. Des sangliers entiers sont empalés encore et encore, des lambeaux de chair et de graisse cristalisée sont arrachés jusqu'aux os et consommés avidement. Le vin rouge est versé et renversé, des flaques de liquides brunâtres jonchent le champ de bataille.\n\nC'est l'essence de l'existence d'un maraudeur du clan de la Larme de sang.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les cornes résonnent. Les bannières claquent dans le vent. La bataille commence. Les membres du clan courent dans le couloir, un grondement puissant rempli l'air. Des oiseaux carbonisés tombent en morceaux en un éclair, le cartilage craque comme du bois sec.\n\nDu pain dur est rompu, la tension augmentant de chaque coté jusqu'à ce que la miche se déchire. Des sangliers entiers sont empalés encore et encore, des lambeaux de chair et de graisse cristallisée sont arrachés jusqu'aux os et consommés avidement. Le vin rouge est versé et renversé, des flaques de liquides brunâtres jonchent le champ de bataille.\n\nC'est l'essence de l'existence d'un maraudeur du clan de la Larme de sang.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_warmonger_chest</Data></Cell>
@@ -1817,7 +1817,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_copper_boots_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As the Republic continues its campaign of conquest, the earth trembles at their might.This 'noble' crusade threatens the great Kingdom of Varg and its clans. Many clans, from established dynasties to reclusive sects, refuse to cooperate due to petty disputes.\n\nThe Bronze Wolves are a militia created by Countess Odelia, recruiting soldiers across Varg to face the Republican menace. She aims to unite the clans with political guile and bargaining to amass an unbeatable army, with burnished bronze armor so lustrous that its shine can be seen for miles.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Alors que la République continue sa campagne de conquête, la terre tremble de son pouvoir. Cette croisade noble menace le grand Royaume de Varg et ses clans. Plusieurs clans, des dynasties établies aussi bien que des sectes isolées refusent de coopérer à cause de disputes mesquines.\n\nLes Loups de bronze, une milice créée par la comtesse Odelia, recrutent des soldats dans tout Varg pour s'opposer à la menace républicaine. Elle souhaite unir tous les clans grâce à sa ruse politique et ses négociations pour établir une armée invincible avec des armures de bronze si lustrées que leurs reflets peut être vus à des lieues à la ronde.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Alors que la République continue sa campagne de conquête, la terre tremble de son pouvoir. Cette croisade noble menace le grand Royaume de Varg et ses clans. Plusieurs clans, des dynasties établies aussi bien que des sectes isolées refusent de coopérer à cause de disputes mesquines.\n\nLes Loups de bronze, une milice créée par la comtesse Odelia, recrutent des soldats dans tout Varg pour s'opposer à la menace républicaine. Elle souhaite unir tous les clans grâce à sa ruse politique et ses négociations pour établir une armée invincible avec des armures de bronze si lustrées que leurs reflets peuvent être vus à des lieues à la ronde.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_shaman_shoulder</Data></Cell>
@@ -1847,7 +1847,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_mag_boots_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;These boots are used by Archion’s Departed to manipulate gravity and slow their terminal velocity, allowing them to leap from the flying city and explore the frontier wilderness below. The previous owner of this pair was killed in the hostile wildlands, but her body was found by Blue, the most secluded known human.\n\nBlue recognised the ranger as a recruit he had instructed, once wide-eyed and brimming with enthusiasm. He returned the boots to Archion, offering them to the family of the deceased with his condolences.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ces bottes sont utilisées par les défunts d'Archion pour manipuler la gravité et ralentir leur vitesse terminale, leur permettant de sauter de la ville volante et d'explorer la frontière sauvage en dessous. Le précédent propriétaire de cette paire de bottes a été tué dans des contrées sauvages et hostiles mais son corps a été retrouvé par Blue, un des humains les plus isolés de la planète.\n\nBlue reconnut le rôdeur, une ancienne recrue pleine d'enthousiasme qu'il avait formé jadis. Il ramena les bottes à Archion et les offrit à la famille du défunt en leur présentant ses condoléances.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ces bottes sont utilisées par les défunts d'Archion pour manipuler la gravité et ralentir leur vitesse terminale, leur permettant de sauter de la ville volante et d'explorer la frontière sauvage en dessous. Le précédent propriétaire de cette paire de bottes a été tué dans des contrées sauvages et hostiles mais son corps a été retrouvé par Blue, un des humains les plus isolés de la planète.\n\nBlue reconnut le rôdeur, une ancienne recrue pleine d'enthousiasme qu'il avait formée jadis. Il ramena les bottes à Archion et les offrit à la famille du défunt en leur présentant ses condoléances.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_ezaneal_chest</Data></Cell>
@@ -1887,7 +1887,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_exorcism_amulet_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The nameless one awoke in the middle of smoking rubble, confused yet untouched by the fires. Bodies everywhere, dried and tangled. All ornaments had burned away, but for a glint of gold in a cadaver’s fist. It was a medallion, upon closer examination, pulsing with a furious energy. He felt his chest thrum with rage again, when the shadow spirit that had soothed him reappeared. This amulet, she told him, was a symbol of those he had hurt. So long as he carried it, he should remember not to do harm.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;L'homme sans nom s'est évéillé au milieu de débris en fumée, confus mais préservé des flammes. Des corps partout, déssechés et enchevêtrés. Tout ornements avaient brûlés, à part une lueur d'or dans le poing d'un cadavre. C'était un médaillon, à y regarder de plus près, dégageant une énergie furieuse. Il sentit la rage lui brûler au coeur, quand l'esprit des ombres qui l'avait apaisé réapparut. Cette amulette, lui dit-elle, était un symbole du tort qu'il avait fait à ces gens. Tant qu'il le portait, il devait se souvenir de ne pas faire de mal.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;L'homme sans nom s'est évéillé au milieu de débris en fumée, confus mais préservé des flammes. Des corps partout, déssechés et enchevêtrés. Tous les ornements avaient brûlés, à part une lueur d'or dans le poing d'un cadavre. C'était un médaillon, à y regarder de plus près, dégageant une énergie furieuse. Il sentit la rage lui brûler au coeur, quand l'esprit des ombres qui l'avait apaisé réapparut. Cette amulette, lui dit-elle, était un symbole du tort qu'il avait fait à ces gens. Tant qu'il le portait, il devait se souvenir de ne pas faire de mal.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_figurehead_boots</Data></Cell>
@@ -1937,7 +1937,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_alastor_amulet_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Alastor #273 fixes his mind on his target. Everything beyond that is a grey fog, excepting the tools of war ready for his usage. The energy from Ezaneal’s device is magnetic, leading him from one impact to the next. He hasn’t rested in years; he doesn't need to. Every warm body he cuts down feeds him with an electric pulse.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Alastor #273 fixe ses pensées sur sa cible. Tout ce qui est au delà est un brouillard gris, excepté les outils de guerre prêts pour son usage. L'énergie venant de l'appareil d'Ezaneal est magnétique, le menant d'un impact au prochain. Il ne s'est pas reposé depuis des années ; il n'en a pas besoin. Chaque corps chaud qu'il terrasse le nourrit avec une pulsion électrique.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Alastor #273 fixe ses pensées sur sa cible. Tout ce qui est au-delà est un brouillard gris, excepté les outils de guerre prêts pour son usage. L'énergie venant de l'appareil d'Ezaneal est magnétique, le menant d'un impact au prochain. Il ne s'est pas reposé depuis des années ; il n'en a pas besoin. Chaque corps chaud qu'il terrasse le nourrit avec une pulsion électrique.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_trinity_belt</Data></Cell>
@@ -1977,7 +1977,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_abyssal_ring_lore</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Voidforging is a perilous gamble. A demonologist will draw ritual circles before creating a bridge to the Abyss and allowing a single demon to enter the mortal world. They’ll collect a small quantity of Abyssal residue from the entity’s bound body and swiftly cast the creature back into the Abyss. Voidforged items can be dangerous, especially with long-term use, but their unique magical properties make them invaluable.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La Forge-vide est un pari dangereux. Un démonologiste dessinera des cercles rituels avant de créer un pont vers l'Abysse et permettra à un démon unique d'entrer dans le monde des vivants. Les participants collecterons une petite quantité de résidu Abyssal de son corps lié et jetterons vite la créature dans l'Abysse de nouveau. Les objets Forge-vide peuvent être dangereux, surtout à long-terme, mais leurs propriétés magiques les rendent précieux.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La Forge-vide est un pari dangereux. Un démonologiste dessinera des cercles rituels avant de créer un pont vers l'Abysse et permettra à un démon unique d'entrer dans le monde des vivants. Les participants collecteront une petite quantité de résidu Abyssal de son corps lié et jetteront vite la créature dans l'Abysse de nouveau. Les objets Forge-vide peuvent être dangereux, surtout à long-terme, mais leurs propriétés magiques les rendent précieux.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_unique_curse_ring</Data></Cell>
@@ -2812,7 +2812,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s20"><Data ss:Type="String">ui_Armor_Warrior_Helmet_T12</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Giant's Cranium</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Crane de Géant</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Crâne de Géant</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s20"><Data ss:Type="String">ui_Armor_Warrior_Pauldron_T12</Data></Cell>
@@ -3152,7 +3152,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Armor_Rogue_Pauldron_T7</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Hardskull Spaulder</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Spalière à Crane Dur</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Spalière à Crâne Dur</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_Armor_Rogue_Armguard_T7</Data></Cell>
@@ -4497,7 +4497,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ic_offensivesocket</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Color=&quot;#CA3D65&quot;&gt;Offensive (I)&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Offensif</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Color=&quot;#CA3D65&quot;&gt;Offensif (I)&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ic_offensivesocket_2</Data></Cell>
@@ -4527,7 +4527,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ic_supportsocket</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">&lt;Font Color=&quot;#4171EB&quot;&gt;Support (I)&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Soutien</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Color=&quot;#4171EB&quot;&gt;Soutien (I)&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_ic_supportsocket_2</Data></Cell>
@@ -4667,7 +4667,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_lightninggem_tier03</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Raw Lapis Lazuli</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Lapis-Lazuli brute</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Lapis-Lazuli brut</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_lightninggem_tier04</Data></Cell>
@@ -5067,7 +5067,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_shadowgem_tier03</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Raw Sapphire</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Saphir brute</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Saphir brut</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_shadowgem_tier04</Data></Cell>
@@ -5657,62 +5657,62 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier01</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Chipped Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte ébréchée</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite ébréchée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier02</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Crude Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte grossière</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite grossière</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier03</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Raw Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte brute</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite brute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier04</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Flawed Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte défectueuse</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite défectueuse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier05</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier06</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Fine Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte polie</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite polie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier07</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Precious Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte immaculée</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite immaculée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier08</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Pristine Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte immaculée ouvragée</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite immaculée ouvragée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier09</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Perfect Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte précieuse</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite précieuse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier10</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Exquisite Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte précieuse ouvragée</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite précieuse ouvragée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier11</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Royal Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte parfaite</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite parfaite</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier12</Data></Cell>
     <Cell ss:StyleID="s31"><Data ss:Type="String">Eternal Aetherite</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Aetheryte parfaite ouvragée</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Éthérite parfaite ouvragée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_gem_aethergem_tier13</Data></Cell>
@@ -5777,7 +5777,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_1</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Grey Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Gris Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Gris Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_2</Data></Cell>
@@ -5852,7 +5852,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_16</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Red Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Rouge Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Rouge Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_17</Data></Cell>
@@ -5927,7 +5927,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_31</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Orange Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Orange Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Orange Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_32</Data></Cell>
@@ -6002,7 +6002,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_46</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Yellow Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Jaune Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Jaune Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_47</Data></Cell>
@@ -6077,7 +6077,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_61</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Kaki Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Kaki Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Kaki Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_62</Data></Cell>
@@ -6152,7 +6152,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_76</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Green Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Vert Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Vert Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_77</Data></Cell>
@@ -6227,7 +6227,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_91</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Azure Blue Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Bleu Azur Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Bleu Azur Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_92</Data></Cell>
@@ -6302,7 +6302,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_106</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Blue Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Bleu Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Bleu Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_107</Data></Cell>
@@ -6377,7 +6377,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_121</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Purple Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Violet Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Violet Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_122</Data></Cell>
@@ -6452,7 +6452,7 @@
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_136</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Pale Pink Dye</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Rose Pale</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Teinture Rose Pâle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_loc_key_dye_137</Data></Cell>
@@ -6487,22 +6487,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="127.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent1_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Rerolls all magic effects when used on an item. It will consume all socketed gems to guarantee a magic effect whose power depends on the gems' level, and whose type is chosen randomly among all the types of gems on the item.&#10;&#10;\n\nThis item cannot be applied on legendary and unique items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Modifie tous les effets magiques lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Modifie tous les effets magiques lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="76.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent1_lore</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The process of creating an Entropy Orb is a dangerous endeavour that most of the time leads to the death of its creator. First, one would have to obtain an Erieban Tear and an Abyssal Tear, then the daring artificer would have to engage in a merging ritual, encasing the creative force within the void. \n\nThe mistake that spells the doom of most ritualists is failing to encase the creative force, instead allowing the void to feed on it, which causes a chain reaction leading to an implosion from which no human can survive.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le procédé de création d'une Orbe d'Entropie est dangereux et mène la plupart du temps à la mort du créateur. D'abord, il faudrait trouver une Larme d'Erièbe et une Larme Abyssale, avant que l'artificier ne s'engage dans un rituel de fusion, enfermant l'énergie créatrice dans le vide.\n\nL'erreur qui marque souvent la mort des ritualistes est de manquer à enfermer l'énergie créatrice, permettant au vide de s'en nourrir, ce qui provoque une réaction en chaîne menant à une implosion à laquelle aucun être humain ne peut survivre.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le procédé de création d'une Orbe d'Entropie est dangereux et mène la plupart du temps à la mort du créateur. D'abord, il faudrait trouver une Larme d'Erièbe et une Larme Abyssale, avant que l'artificier ne s'engage dans un rituel de fusion, enfermant l'énergie créatrice dans le vide.\n\nL'erreur qui marque souvent la mort des ritualistes est d'échouer à enfermer l'énergie créatrice, permettant au vide de s'en nourrir, ce qui provoque une réaction en chaîne menant à une implosion à laquelle aucun être humain ne peut survivre.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent2_name</Data></Cell>
     <Cell ss:StyleID="s29"><Data ss:Type="String">Ohm’s Echo</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">Echo d'Ohm</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Écho d'Ohm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="76.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent2_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Removes a random magic effect and adds another when used on an item. It will consume all socketed gems to guarantee a new magic effect whose power depends on the gems' level, and whose type is chosen randomly among all the types of gems on the item.&#10;&#10;\n\nThis item cannot be applied on legendary and unique items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire et en ajoute un nouveau lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire et en ajoute un nouveau lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent2_lore</Data></Cell>
@@ -6517,12 +6517,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="76.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent3_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Adds a new random magic effect when used on an item. It will consume all socketed gems to guarantee a new magic effect whose power depends on the gems' level, and whose type is chosen randomly among all the types of gems on the item.&#10;&#10;\n\nThis item cannot be applied on legendary and unique items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Ajoute un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Ajoute un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent3_lore</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;What happens after the end of a mortal life? While most compensate for their ignorance by finding refuge in spirituality, others become obsessed with what lies beyond the Veil of Death.\n\nSome shamans and necromancers even managed to interact with the inacessible land of the dead known as &quot;Eriebe&quot;. Through ill-gotten knowledge, an even rarer few have learned to lure specters and souls through the Veil of Death, and harvest the residual energy those entities carry in from Eriebe.\n\nThese cold energy orbs have unique properties, rumour telling they can be transformed into any kind of matter or energy in the proper hands.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Que se passe-t-il à la fin d'une vie mortelle ? Certains compensent leur ignorance par le refuge de la foi, d'autres deviennent obsédés par ce qui repose au delà du Voile de la Mort.\n\nCertains shamans et nécromanciers parviennent même à intéragir avec le pays des morts presque inaccessible nommé &quot;Erièbe&quot;. Au travers de savoirs illicites, un nombre plus petit encore a appris à appâter des spectres et des âmes au travers du Voile, pour récolter le résidu énergétique que ces entités apportent d'Erièbe.\n\nCes orbes d'énergie froide ont des propriétés uniques, la rumeur court que dans de bonnes mains, ils peuvent être transformés en n'importe quelle matière ou énergie.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Que se passe-t-il à la fin d'une vie mortelle ? Certains compensent leur ignorance par le refuge de la foi, d'autres deviennent obsédés par ce qui repose au-delà du Voile de la Mort.\n\nCertains shamans et nécromanciers parviennent même à intéragir avec le pays des morts presque inaccessible nommé &quot;Erièbe&quot;. Au travers de savoirs illicites, un nombre plus petit encore a appris à appâter des spectres et des âmes au travers du Voile, pour récolter le résidu énergétique que ces entités apportent d'Erièbe.\n\nCes orbes d'énergie froide ont des propriétés uniques, la rumeur court que dans de bonnes mains, ils peuvent être transformés en n'importe quelle matière ou énergie.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent4_name</Data></Cell>
@@ -6532,12 +6532,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="76.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent4_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Removes a random magic effect when used on an item. It will consume all socketed gems to guarantee keeping a magic effect whose type is chosen randomly among all the types of gems on the item. Greater gems power allow the keeping of higher level magic effects.&#10;\n\nThis item cannot be applied on legendary and unique items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nVous ne pouvez pas utiliser cet objet sur les légendaires et les uniques.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="89.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent4_lore</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Demonologists and scholars of the supernatural have theorized voidcrafting for generations. Only the most daring or powerful of them manage the extraordinary feat of summoning a demon from the abyss and harvesting the residual Abyssal energy that clings to it.\n\nBut for those that delve into that art, it can also become a very lucrative endeavour to sell those abyssal orbs to those that know how to use them. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les démonologistes et académiciens du surnaturel ont théorisé le Forge-Vide depuis des générations. Seul les plus audacieux et puissnts parviennent à l'exploit d'invoquer un démon de l'Abysse et récolter le résidu d'énergie Abyssale qui lui colle au corps.\n\nMais pour ceux qui se plongent dans cet art, il peut devenir rentable de vendre ces orbes abyssales à ceux qui savent s'en servir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les démonologistes et académiciens du surnaturel ont théorisé le Forge-Vide depuis des générations. Seul les plus audacieux et puissants parviennent à l'exploit d'invoquer un démon de l'Abysse et récolter le résidu d'énergie Abyssale qui lui colle au corps.\n\nMais pour ceux qui se plongent dans cet art, il peut devenir rentable de vendre ces orbes abyssales à ceux qui savent s'en servir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent1_legendary_name</Data></Cell>
@@ -6547,7 +6547,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent1_leg_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Rerolls all magic effects when used on an item. It will consume all socketed gems to guarantee a magic effect whose power depends on the gems' level, and whose type is chosen randomly among all the types of gems on the item.&#10;&#10;\n\nThis item can only be applied on legendary items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Modifie tous les effets magiques lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Modifie tous les effets magiques lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent2_legendary_name</Data></Cell>
@@ -6557,7 +6557,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent2_leg_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Removes a random magic effect and adds another when used on an item. It will consume all socketed gems to guarantee a new magic effect whose power depends on the gems' level, and whose type is chosen randomly among all the types of gems on the item.&#10;&#10;\n\nThis item can only be applied on legendary items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire et en ajoute un nouveau lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire et en ajoute un nouveau lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent3_legendary_name</Data></Cell>
@@ -6567,7 +6567,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent3_leg_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Adds a new random magic effect when used on an item. It will consume all socketed gems to guarantee a new magic effect whose power depends on the gems' level, and whose type is chosen randomly among all the types of gems on the item.&#10;&#10;\n\nThis item can only be applied on legendary items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Ajoute un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Ajoute un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent4_legendary_name</Data></Cell>
@@ -6577,7 +6577,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_reagent4_leg_gameplaydesc</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Removes a random magic effect when used on an item. It will consume all socketed gems to guarantee keeping a magic effect whose type is chosen randomly among all the types of gems on the item. Greater gems power allow the keeping of higher level magic effects.&#10;&#10;\n\nThis item can only be applied on legendary items.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consumera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Enlève un effet magique aléatoire lorsque vous l'utilisez sur un objet. Cela consommera toutes les gemmes serties pour garantir un effet dont la puissance dépend du niveau de la gemme, et dont l'effet est choisi aléatoirement parmi tous les types de gemmes serties sur l'objet.\n\nNe fonctionne que sur les objets légendaires.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s25"><Data ss:Type="String">Endgame Consumables</Data></Cell>
@@ -6697,7 +6697,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgame_hallucinatorydevice_lore_GoldenScarabDungeonChallenge</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Popular belief is that the precious Goldroot is the favourite plant of creatures nicknamed &quot;Wealth Omens&quot;. So much so that the two seem to have a mystical connection. Failed alchemists have for a long time tried to transform that plant into a powerful incense that could reveal the bond between the two. Goldroot dust have recently surfaced on blackmarkets indicating that at least one of them has succeeded...  &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La croyance populaire dit que la Racine d'Or est la plante préférée des créatures dites &quot;Présages d'Opulence&quot;. Tant que les deux semblent avoir un lien mystique. Des alchimistes râtés ont longtemps tenté de changer cette plance en un encens si puissant qu'il révèlerait la connexion entre les deux. La poussière de Racine d'Or a fait surface dans les marchés noirs récemment, indiquant qu'au moins une personne a réussi...&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La croyance populaire dit que la Racine d'Or est la plante préférée des créatures dites &quot;Présages d'Opulence&quot;. Tant que les deux semblent avoir un lien mystique. Des alchimistes râtés ont longtemps tenté de changer cette plante en un encens si puissant qu'il révèlerait la connexion entre les deux. La poussière de Racine d'Or a fait surface dans les marchés noirs récemment, indiquant qu'au moins une personne a réussi...&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s21"><Data ss:Type="String">ui_endgame_map_name_ChestRoom</Data></Cell>
@@ -6752,7 +6752,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_endgame_hallucinatorydevice_lore_UberLambachP1</Data></Cell>
     <Cell ss:StyleID="s32"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;An incense concocted in the wilderness surrounding Three Peaks. If listened to closely, the echoes of forgotten memories can be felt crawling into your ears, wiggling their way into your head and making room for their cursed remembrance. You can hear the familiar sucking of flesh, the looming redness of an unfathomable creature, and a name that you thought would never be uttered again: Lambach.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Un encens concocté dans les terres sauvages autour de Trois-Pics. Si on écoute attentivement, les échos de souvenirs oubliés peuvent être ressentis, s'introduisant dans les oreilles, se faufilant dans la tête et se creusant un emplacement pour leur maudite mémoire. Tu peux ressentir la suction familière de la chair, la lueur rouge d'une créature inimaginable, et un nom que tu pensais ne jamais plus entendre : Lambach.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Un encens concocté dans les terres sauvages autour de Trois-Pics. Si on écoute attentivement, les échos de souvenirs oubliés peuvent être ressentis, s'introduisant dans les oreilles, se faufilant dans la tête et se creusant un emplacement pour leur maudite mémoire. Tu peux ressentir la succion familière de la chair, la lueur rouge d'une créature inimaginable, et un nom que tu pensais ne jamais plus entendre : Lambach.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
