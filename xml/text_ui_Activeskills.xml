@@ -1106,7 +1106,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_ArrowsRain_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar, once Primordial of Fire, ravaged a continent pursuing his unrequited love, his envy consuming and melting everything, the ground itself turning to lava in his wake.\n\nWhile Hephaäron was his enemy, he remained a keen opportunist. He got to work, installing a forge near the melting continent and shaping its burning metals into superdense flaming arrowheads meant to feed the mouth of Krearion.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazar, autrefois Primordial du Feu, ravagea un continent alors qu'il poursuivait un amour non réciproque, son envie consommait et fondait tout ce qu’il traversait, la terre se transformant en lave sous ses pas.\n\nMalgré le fait qu’ils étaient ennemis, Hephaäron restait un opportuniste. Il installa une forge près du continent qui était entrain de fondre et utilisa ses métaux brûlants pour en faire des pointes de flèches superdenses destinées à nourrir Krearion.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazar, autrefois Primordial du Feu, ravagea un continent alors qu'il poursuivait un amour non réciproque, son envie consommait et fondait tout ce qu’il traversait, la terre se transformant en lave sous ses pas.\n\nMalgré le fait qu’ils étaient ennemis, Hephaäron restait un opportuniste. Il installa une forge près du continent qui était en train de fondre et utilisa ses métaux brûlants pour en faire des pointes de flèches très denses destinées à nourrir Krearion.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_ArrowsRain_variant_6</Data></Cell>
@@ -1286,7 +1286,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Bladeslinger_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;While cleansing a village captured by Bezeriel’s followers, Sarisel encountered an Immortal Maw, one of the Fallen Archduke of Doom's gluttonous minions. These high-ranking cultists serve Bezeriel through mirroring his behaviour, consuming all dead flesh they encounter. The Immortal Maw swallowed Omeagram, its reinforced gullet enduring the internal damage, so Sarisel was forced to tear apart its immense, obese carcass with his bare hands. Omeagram became tainted with the necrotic poison of Bezeriel, rendering it impure, and thus Sarisel banished it to Hephaäron's Armoury of Creation.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant qu’il nettoyait un village prit par les cultistes de Bezeriel, Sarisel rencontra une Gueule Immortelle, un des sbires gloutons de l’Archiduc Déchu de la Fatalité. Ces créatures de haut rang servent Bezeriel en reflétant son comportement ; elles consomment toute la chair morte qu’elles rencontrent. La Gueule Immortelle avala Omeagram, son œsophage endurant les dommages interne, Sarisel fut obligé de déchirer sa carcasse immense et obèse à mains nues. Omeagram devint corrompu du poison nécrotique de Bezeriel, la rendant impur. Sarisel la bannie à l’armurerie de la Création d'Hephaäron.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant qu’il nettoyait un village prit par les cultistes de Bezeriel, Sarisel rencontra une Gueule Immortelle, un des sbires gloutons de l’Archiduc Déchu de la Fatalité. Ces créatures de haut rang servent Bezeriel en reflétant son comportement ; elles consomment toute la chair morte qu’elles rencontrent. La Gueule Immortelle avala Omeagram, son œsophage endurant les dommages interne, Sarisel fut obligé de déchirer sa carcasse immense et obèse à mains nues. Omeagram devint corrompue du poison nécrotique de Bezeriel, la rendant impure. Sarisel l'a bannie à l’armurerie de la Création d'Hephaäron.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Bladeslinger_variant_6</Data></Cell>
@@ -1461,7 +1461,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Bomb_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anything can be infused with power through faith and rituals. Explosive powder is no different. The Empyrean Mortar's ammunitions use powder steeped in viscera which is consecrated by fanatics of Ezaneal's cult in gory rituals.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;N’importe quoi peut être infusé de puissance avec de la foi et les rituels. La poudre explosive n’est pas une exception. Les munitions du Mortier Empyréen utilisent de la poudre trempée dans des viscères consacrés par les fanatiques du culte d’Ezaneal grâce à de sanglants rituels.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;N’importe quoi peut être infusé de puissance avec de la foi et les rituels. La poudre explosive n’est pas une exception. Les munitions du Mortier Empyréen utilisent de la poudre trempée dans des viscères consacrées par les fanatiques du culte d’Ezaneal grâce à de sanglants rituels.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Bomb_variant_6</Data></Cell>
@@ -1496,7 +1496,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Bomb_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Deep beneath the treacherous sands of the Laibonite desert can be found an underground laboratory used by the brightest followers of Ezaneal. These twisted cultists are experimenters that would sacrifice anything to further their research. They despise disturbances so much that they mined an absurdly large perimeter around the facility, making the whole region a deadzone in the process.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Dans la profondeur des sables du désert de Laibon, se trouve un laboratoire sous-terrain dirigé par les disciples d’Ezaneal les plus brillants. Ces cultistes tordus sont des savants qui sacrifieraient n’importe quoi pour avancer leurs recherches. Ils détestent être perturbés et ont piégé un périmètre énorme autour de leur repaire, rendant toute la région une zone morte.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Dans la profondeur des sables du désert de Laibon, se trouve un laboratoire souterrain dirigé par les disciples d’Ezaneal les plus brillants. Ces cultistes tordus sont des savants qui sacrifieraient n’importe quoi pour avancer leurs recherches. Ils détestent être perturbés et ont piégé un périmètre énorme autour de leur repaire, rendant toute la région une zone morte.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Bomb_variant_9</Data></Cell>
@@ -1636,7 +1636,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_BrutalStrike_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;When battlehammers were revealed to humans, mortal war became a much more tempestuous affair. The sharpening of swords gave way to the forging of maces, the rumbling thunder of a building storm. Battles became cacophonies of dull clangs as plate mail caved under the pressure of maul strikes and bones cracked sharply, a thundering hurricane littered with strikes of Lightning. Gaavanir is the embodiment of such a storm.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Quand les masses à deux mains furent révélées aux humains, les guerres mortelles devinrent une affaire beaucoup plus tempétueuse. L’aiguisement des épées laissa place à la forge de masses, le tonnerre grondant d’un orage en approche. Les batailles devinrent des cacophonies de bruits métalliques étouffés lorsque les armures en plaques cedaient sous la pression des coup de massues et que les os craquaient sous la pression, un ouragan rugissant éclairé de coups de foudre, Gaavavnir incarne cet orage incessant.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Quand les masses à deux mains furent révélées aux humains, les guerres mortelles devinrent une affaire beaucoup plus tempétueuse. L’aiguisement des épées laissa place à la forge de masses, le tonnerre grondant d’un orage en approche. Les batailles devinrent des cacophonies de bruits métalliques étouffés lorsque les armures en plaques cédaient sous la pression des coup de massues et que les os craquaient sous la pression, un ouragan rugissant éclairé de coups de foudre, Gaavavnir incarne cet orage incessant.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_BrutalStrike_variant_6</Data></Cell>
@@ -1671,7 +1671,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_BrutalStrike_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gaavanir slumbers in the Armory of Creation. Its very existence inspired the concept of battlehammers to craftsmen and blacksmiths around the world. Ever since, battlefields have been littered with broken skulls and crushed rib cages.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gaavanir dort dans l’Armurerie de la Création. Son existence inspira le concept de Marteau de Bataille aux artisans et forgerons à travers le monde. Depuis, les champs de bataille ont été parsemé de crânes fendus et de cages thoraciques écrasées. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gaavanir dort dans l’Armurerie de la Création. Son existence inspira le concept de Marteau de Bataille aux artisans et forgerons à travers le monde. Depuis, les champs de bataille ont été parsemés de crânes fendus et de cages thoraciques écrasées. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_BrutalStrike_variant_9</Data></Cell>
@@ -2501,7 +2501,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_DualStrike_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Merging two moons inside something as tiny as a blade is a dangerous endeavor even for a Primordial. Without proper mastery the resulting object could become so dense that it would crumble and become an all-devouring black hole. This intense power can manipulate time and space itself.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Fusionner deux lunes dans quelque chose d'aussi petit qu’une lame est un projet dangereux même pour un Primordial. Sans une vraie maîtrise l’objet qui en résulte peut devenir si dense qu’il peut s’effondrer sur lui même devenant un trou noir qui dévore tout. Un tel pouvoir pourrait servir à manipuler le temps et et l’espace.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Fusionner deux lunes dans quelque chose d'aussi petit qu’une lame est un projet dangereux même pour un Primordial. Sans une vraie maîtrise l’objet qui en résulte peut devenir si dense qu’il peut s’effondrer sur lui-même devenant un trou noir qui dévore tout. Un tel pouvoir pourrait servir à manipuler le temps et l’espace.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_DualStrike_variant_5</Data></Cell>
@@ -2516,7 +2516,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_DualStrike_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sazanek was gifted to Moros to thank him for his assistance. The Primordial of Dusk had little use for such a weapon, but carried it with him as a sign of Hephaäron’s gratitude. Over time, the blades absorbed his crepuscular energy and changed color from a gleaming silver to a deep dark blue. It was returned to the Armory of Creation before long, Moros was concerned that a weapon of such quality would never be used.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sazanek était un cadeau pour Moros afin de le remercier pour son assistance. Le Primordial du Crépuscule n’avait nul besoin d'une telle arme, mais il la portait néanmoins comme un signe de gratitude d'Hephaäron. Au fil du temps, la lame absorba de l’énergie du Crépuscule et changea d'une couleur argent étincelant à un bleu-foncé sombre. Prit de remord sur le fait qu'une telle arme ne soit jamais utilisée, Moros décida de remettre cette arme au sein de l'Armurerie de la Création.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sazanek était un cadeau pour Moros afin de le remercier pour son assistance. Le Primordial du Crépuscule n’avait nul besoin d'une telle arme, mais il la portait néanmoins comme un signe de gratitude d'Hephaäron. Au fil du temps, la lame absorba de l’énergie du Crépuscule et changea d'une couleur argent étincelant à un bleu-foncé sombre. Pris de remord sur le fait qu'une telle arme ne soit jamais utilisée, Moros décida de remettre cette arme au sein de l'Armurerie de la Création.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_DualStrike_variant_6</Data></Cell>
@@ -2666,7 +2666,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Fireball_variant_3_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Jealousy goes hand in hand with envy. Abanazaar's obsessive desire to own Anathëa created in him a raging madness when he discovered her heart already belonged to Moros, Primordial of Dusk. Ever since, Abanazaar has tried to smother all the darkness and twilights of the world, illuminating them with his fiery lights, turning landscapes to smoldering pile of embers if he has to, as long as no shadows remain, eradicating all traces of his rival's legacy.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La jalousie va de paire avec l’envie. Le désir obsessif d'Abanazar pour Anathëa lui a valu de déchaïner sa rage quand il découvrit que son cœur était déjà détenu par Moros, Primordial du Crépuscule. Depuis, Abanazar essaye d’étouffer toute l’obscurité du monde, les illuminant avec ses lumières brûlantes, transformant les paysages en tas de charbons ardents si nécessaire, pourvu que les ombres ne restent pas, éradiquant toutes traces de l’héritage de son adversaire.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La jalousie va de paire avec l’envie. Le désir obsessif d'Abanazar pour Anathëa lui a valu de déchaîner sa rage quand il découvrit que son cœur était déjà détenu par Moros, Primordial du Crépuscule. Depuis, Abanazar essaye d’étouffer toute l’obscurité du monde, les illuminant avec ses lumières brûlantes, transformant les paysages en tas de charbons ardents si nécessaire, pourvu que les ombres ne restent pas, éradiquant toutes traces de l’héritage de son adversaire.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Fireball_variant_4</Data></Cell>
@@ -3211,7 +3211,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_FrostNova_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hidden temples of Etheliel are haunting sights: their chilling halls display all types of frozen creatures that were brought there for 'immortality' by cultists. In order to curry her favor, the cultists have unholy rituals at the heart of the temple where they freeze young, beautiful prisoners as sacrifice.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les temples d’Etheliel sont des vues ensorcelantes : leurs halls glacent le sang via des exposions morbides de tout types de créatures gelées rapportés par les cultistes pour préserver leur ‘immortalité’. Afin de s’attirer les bonnes grâces d’Etheliel, les cultistes font des rituels profanes au cœur de ces temples où ils gèlent de belles et jeunes victimes en sacrifice pour Etheliel,&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les temples d’Etheliel sont des vues ensorcelantes : leurs halls glacent le sang via des expositions morbides de créatures gelées de tout type rapportées par les cultistes pour préserver leur ‘immortalité’. Afin de s’attirer les bonnes grâces d’Etheliel, les cultistes font des rituels profanes au cœur de ces temples où ils gèlent de belles et jeunes victimes en sacrifice pour Etheliel.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_FrostNova_variant_5</Data></Cell>
@@ -3261,7 +3261,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_FrostNova_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Etheliel knows generosity when it comes to sharing her power with mortals: she sees sorcerers and cultists as mere pawns serving her great ambition whenever they summon her cold embrace. Every time her Frost touches the world, she moves one step closer to her ultimate victory. In a way, ignorant sorcerers are just as dangerous as malignant cultists.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Etheliel est généreuse lorsqu'elle partage ses pouvoirs avec les mortels : elle considère les sorciers et cultistes comme de simples pions qui servent son ambition d'étendre son étreinte. Chaque fois que son gel touche le monde, elle approche à sa victoire ultime pas par pas. D’une certaine manière, les sorciers ignorants sont aussi dangereux que les cultistes malveillants.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Etheliel est généreuse lorsqu'elle partage ses pouvoirs avec les mortels : elle considère les sorciers et cultistes comme de simples pions qui servent son ambition d'étendre son étreinte. Chaque fois que son gel touche le monde, elle s'approche de la victoire ultime pas à pas. D’une certaine manière, les sorciers ignorants sont aussi dangereux que les cultistes malveillants.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_FrostNova_variant_9</Data></Cell>
@@ -3366,7 +3366,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hook_variant_3</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Chain-slinger</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Maitre des Chaïnes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Maitre des Chaînes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hook_variant_3_desc</Data></Cell>
@@ -3386,7 +3386,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hook_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Equipped with Kirenas, Sarisel was fighting a powerful demon lord. He used the grappling hook to pull it to him, but the demon was too strong and stood firm. The two gauged each other for a moment, holding the chain. That's when Sarisel chose to revert the mechanism of Kirenas, pulling himself towards his target. Caught off-guard, the demon lord was put down in a single blow to the head.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Utilisant Kirenas, Sarisel se battait contre un puissant démon. Il utilisa le grappin pour le tirer a lui, mais le démon resta ferme et immovible. Les deux se jaugèrent pour un moment, en tenant la chaîne du grappin. Sarisel décida d’inverser le mécanisme de Kirenas et se tira vers sa cible. Pris par surprise, son advenrsaire fut tué sur le coup.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Utilisant Kirenas, Sarisel se battait contre un puissant démon. Il utilisa le grappin pour le tirer a lui, mais le démon resta ferme et immovible. Les deux se jaugèrent pour un moment, en tenant la chaîne du grappin. Sarisel décida d’inverser le mécanisme de Kirenas et se tira vers sa cible. Pris par surprise, son adversaire fut tué sur le coup.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hook_variant_5</Data></Cell>
@@ -3406,7 +3406,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hook_variant_6</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Preserving Momentum</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Garder l'Elan</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Garder l'Élan</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hook_variant_6_desc</Data></Cell>
@@ -3751,7 +3751,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Laser_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Unlike Anulai-Tai, Bezeriel is not unnerved by the passage of time. The Fallen Archduke of Doom is only conscious of his hunger. Everything around him; his cultists, the other Abbathus, even the decomposing flesh he consumes, suffers over time, but not him. He thrives off of the decay, a scavenger of life and a timeless acquaintance of the Fallen Duke of Infinity.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Contrairement à Anulai-Tai, Bezeriel n’est pas perturbé pas le passage du temps. L’Archiduc Déchu de la fatalité n’est conscient que de sa faim. Tout qui l’entoure ; ses disciples, les autres Abbathus, même la chair pourrissante qu’il consomme, se décompose au fil du temps. Mais pas lui. Il dépend du pourrissement, un charognard de vie et une connaissance intemporelle du Duc Déchu de l’Infini.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Contrairement à Anulai-Tai, Bezeriel n’est pas perturbé pas le passage du temps. L’Archiduc Déchu de la fatalité n’est conscient que de sa faim. Tout ce qui l’entoure ; ses disciples, les autres Abbathus, même la chair pourrissante qu’il consomme, se décompose au fil du temps. Mais pas lui. Il dépend du pourrissement, un charognard de vie et une connaissance intemporelle du Duc Déchu de l’Infini.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Laser_variant_6</Data></Cell>
@@ -3926,7 +3926,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Leap_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron forged magical neck rings for Anathëa, the Lady of Dawn. With them, her voice of pure light was imbued and became the Searing Song, allowing her to pierce the darkest nights. In return she gave him a single bright smile, which he immortalized by infusing its sacred shimmer into the blade of Ishmir. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron forgea des anneaux de cou magiques à Anathëa, la dame de l’Aube. Grâce à eux, sa voix de lumière pure devint la Chant Brûlant, transpercant les nuits les plus sombre. En échange, elle lui donna un simple sourir, qu’il immortalisa en imprégnant son chatoiement sacré dans la lame d’Ishmir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron forgea des anneaux de cou magiques à Anathëa, la dame de l’Aube. Grâce à eux, sa voix de lumière pure devint la Chant Brûlant, transpercant les nuits les plus sombre. En échange, elle lui donna un simple sourire, qu’il immortalisa en imprégnant son chatoiement sacré dans la lame d’Ishmir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Leap_variant_6</Data></Cell>
@@ -3961,7 +3961,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Leap_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The sight of the spear's head piercing the flesh, the painful deathrattle of the skewered foe, its warm blood splattering the face of the impaler: madmen and berserkers thirst for these grim sights to create an unstoppable momentum of destruction.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La vue de la tête de la lance perçant la chair, la râle d’agonie de l’adversaire embroché, l’éclaboussure de son sang chaud sur le visage de l’empaleur : les berserkers et les fous ont soif de ces vues sinistres pour alimenter leur élan irrésistible de destruction.&lt;/i&gt;&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La vue de la tête de la lance perçant la chair, le râle d’agonie de l’adversaire embroché, l’éclaboussure de son sang chaud sur le visage de l’empaleur : les berserkers et les fous ont soif de ces vues sinistres pour alimenter leur élan irrésistible de destruction.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Leap_variant_9</Data></Cell>
@@ -4106,7 +4106,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Reave_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;When Baäpheth was captured by Anathëa and her Army of Genesis, the guards could not hold him long. A regiment of them rushed to his captivity chamber after hearing a commotion. Baäpheth swung wildly with his shackled arm and the chain cut clean through the first soldier’s armored torso. An arrogant smirk spread across Baäpheth’s face as he wrapped the chains around his hands. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Même s'il était libre, Baäpheth n’en était pas moins faible, blessé et désarmé. Un régiment de gardes s'est précipité vers sa cellule en entendant la chute du mur. Baäpheth fit tournoyé ses bras entravés et la chaîne découpa le torse cuirassé du premier soldat. Un rictus arrogant alluma le visage de Baäpheth alors qu’il entourait la chaîne autour de ses mains. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Même s'il était libre, Baäpheth n’en était pas moins faible, blessé et désarmé. Un régiment de gardes s'est précipité vers sa cellule en entendant la chute du mur. Baäpheth fit tournoyer ses bras entravés et la chaîne découpa le torse cuirassé du premier soldat. Un rictus arrogant alluma le visage de Baäpheth alors qu’il entourait la chaîne autour de ses mains. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Reave_variant_6</Data></Cell>
@@ -4316,7 +4316,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SacredGround_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The Brotherhood of Dawn worships Anathëa. Even after being chased from the Kingdom of Alia once the United Republic of Mankind took over, they stayed true to their oaths and remained powerful knights, shielding innocents from the terrors of the night.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La Confrérie de l’Aube vénère Anathëa. Même après avoir été chassé du Royaume d’Alia suivant la prise de pouvoir de la République Unie de l’Humanité, ils n’ont pas trahis leur serments et restèrent de puissants chevaliers, protégeant les innocents des terreurs de la nuit.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;La Confrérie de l’Aube vénère Anathëa. Même après avoir été chassé du Royaume d’Alia suivant la prise de pouvoir de la République Unie de l’Humanité, ils n’ont pas trahi leur serments et restèrent de puissants chevaliers, protégeant les innocents des terreurs de la nuit.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SacredGround_variant_9</Data></Cell>
@@ -4326,7 +4326,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SacredGround_variant_9_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">While inside this Skill's Area-of-Effect, your Ailment Chance Score is increased.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vos chances d'appliquer des Afflictions est augmenté lorsque vous êtes dans la zone d'effet.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vos chances d'appliquer des Afflictions sont augmentées lorsque vous êtes dans la zone d'effet.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SacredGround_variant_10</Data></Cell>
@@ -4441,7 +4441,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SpreadShot_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;While Hephaäron built Krearion, his apprentice was in charge of creating its arrows. He experimented with the design, and decided on an explosive arrowhead as standard. Hephaäron was furious and claimed that the apprentice was unable to understand the purity of his design. Such crass, mindless violence contrasts with Hephaäron’s finely crafted weapons that carried out their function efficiently and with simplicity. This disagreement was the first step towards eccentricity that led Ezaneal to be the devious inventor he is today.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant que Hephaäron construisait Krearion, son apprenti avait pour tâche la création de ses flèches. Il experimenta et décida d’utiliser une pointe de flèche explosive par défaut. Hephaäron devint furieux et prétendit que l’apprenti ne pouvais pas comprendre la pureté de ses conceptions. Ce genre de grossièreté insensible contraste avec les armes finement réalisées de Hephaäron qui réalisent leur fonction avec élégance et simplicité. Ce désaccord fût le premier pas vers l’excentricité qui causa la transformation d’Ezaneal en l’inventeur sournois qu’il est maintenant.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant que Hephaäron construisait Krearion, son apprenti avait pour tâche la création de ses flèches. Il experimenta et décida d’utiliser une pointe de flèche explosive par défaut. Hephaäron devint furieux et prétendit que l’apprenti ne pouvait pas comprendre la pureté de ses conceptions. Ce genre de grossièreté insensible contraste avec les armes finement réalisées de Hephaäron qui réalisent leur fonction avec élégance et simplicité. Ce désaccord fût le premier pas vers l’excentricité qui causa la transformation d’Ezaneal en l’inventeur sournois qu’il est maintenant.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SpreadShot_variant_5</Data></Cell>
@@ -4456,7 +4456,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SpreadShot_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The bow is the most common weapon for hunters in the cult of Bezeriel. As they collect flesh for him to consume, yanking out the arrows from the corpses, the arrowheads become more and more putrid as the gory residue builds up between each kill. It rots over time, making each shot ever more lethal.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;L’arc est l’arme la plus commune pour les chasseurs du culte de Bezeriel. En récoltant la chair qu’il consume, les pointes de leurs flèches devienent de plus en plus putrides, les résidus sanglants de chaque proie abattue s’accumulant. Elles pourrissent au fil de temps, rendant chaque tir de plus en plus létal.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;L’arc est l’arme la plus commune pour les chasseurs du culte de Bezeriel. En récoltant la chair qu’il consume, les pointes de leurs flèches deviennent de plus en plus putrides, les résidus sanglants de chaque proie abattue s’accumulant. Elles pourrissent au fil de temps, rendant chaque tir de plus en plus létal.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SpreadShot_variant_6</Data></Cell>
@@ -4641,7 +4641,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Teleport_variant_6_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Aether Damage is dealt to Enemies between the start and end points of the teleport. \n\nIncreases the Stasis Chance Score of this Skill.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Fait des Dégâts d'Aether aux ennemis situés entre le début et la fin du téléport. Augmente les chances d'appliquer Stasis.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fait des Dégâts d'Éther aux ennemis situés entre le début et la fin du téléport. Augmente les chances d'appliquer Stasis.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Teleport_variant_7</Data></Cell>
@@ -4671,7 +4671,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Teleport_variant_9</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Aethereal Bounce</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Bond Aéthéré</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bond Éthéré</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Teleport_variant_9_desc</Data></Cell>
@@ -5016,7 +5016,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_WarCry_variant_8_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The warcry removes Crowd Control Effects from you and your Allies.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce sort retire tous les effets Crowd Control de vous et vos alliés à portée.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ce sort retire tous les effets de contrôle de foule de vous et vos alliés à portée.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_WarCry_variant_8_Lore</Data></Cell>
@@ -5096,7 +5096,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_WarCry_variant_15_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;During the great War of the Primordials, Baäpheth engaged and fought against Anathëa, the Lady of Dawn. While The First Warrior's prowess could not be matched in battle, Anathëa's resisted his frenzying shouts and her raw power was still enough to rival him for a while. \n\nIn the end, Baäpheth had the upper hand and wounded Anathëa, some of her lights escaped her body uncontrollably, engulfing and searing Baäpheth inside and out. Both were considerably weakened by the experience and unable to land the final blow.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant la grande guerre des Primordiaux, Baäpheth combatit Anathëa, la Dame de l’Aube. Bien que le Premier Guerrier était un guerrier hors-pair, Anathëa résista à ses cris enrageants et son pouvoir fut suffisant pour rivaliser un temps avec lui. Au final, Baäpheth pris le dessus et blessa Anathëa, un peu de sa lumière échappa son corps, qui envellopa et brûla le corps de Baäpheth de l’interieur. Les deux furent considérablement affaiblis par l’expérience et ne purent pas asséner le coup de grâce.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pendant la grande guerre des Primordiaux, Baäpheth combattit Anathëa, la Dame de l’Aube. Bien que le Premier Guerrier était un guerrier hors-pair, Anathëa résista à ses cris enrageants et son pouvoir fut suffisant pour rivaliser un temps avec lui. Au final, Baäpheth pris le dessus et blessa Anathëa, un peu de sa lumière échappa son corps, qui enveloppa et brûla le corps de Baäpheth de l’interieur. Les deux furent considérablement affaiblis par l’expérience et ne purent pas asséner le coup de grâce.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_WarCry_variant_16</Data></Cell>
@@ -5271,7 +5271,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_WhirlWind_variant_15_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron was frustrated; he could barely carry the weapon, let alone use it. Despite his best efforts, the sword refused to stay upright. He asked Baäpheth, the First Warrior to test the weapon. Baäpheth held the sword high, feeling its crushing weight, then switched stance so that the weapon fell behind him. He launched into a sequence of spinning strikes, sending shockwaves of air bursting in all directions. Baäpheth’s only comment: the sword needed a heavier pommel, to balance out the dense blade.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron était frustré ; il pouvait à peine lever la lame, encore moins s'en servir. Malgré tout ses efforts, l'épée ne tenait pas droit. Il demanda à Baäpheth, le Premier Guerrier, de tester l'arme. Baäpheth tint l'épée en l'air, ressentant son poids écrasant, puis changea sa posture pour que la lame repose derrière lui. Il démarra une séquence de frappes tourbillonantes, envoyant des vagues de choc dans l'air en toutes directions. Baäpheth n'eut qu'un commentaire: l'épée avait besoin d'un pommeau plus lourd pour l'équilibrer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron était frustré ; il pouvait à peine lever la lame, encore moins s'en servir. Malgré tout ses efforts, l'épée ne tenait pas droit. Il demanda à Baäpheth, le Premier Guerrier, de tester l'arme. Baäpheth tint l'épée en l'air, ressentant son poids écrasant, puis changea sa posture pour que la lame repose derrière lui. Il démarra une séquence de frappes tourbillonantes, envoyant des vagues de choc dans l'air dans toutes les directions. Baäpheth n'eut qu'un commentaire: l'épée avait besoin d'un pommeau plus lourd pour l'équilibrer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_WhirlWind_variant_16</Data></Cell>
@@ -5291,7 +5291,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Adds an additional attack to this Skill's combo.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Adds an additional attack to this Skill's combo.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ajoute une attaque supplémentaire à la compétence.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_2</Data></Cell>
@@ -5356,7 +5356,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_7_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anulai-Tai, who would once become the Fallen Archduke of Infinity, was invested with a great kindness in his early days. Slipping through the non-linear chaos, he wove pins into the aether and constructed the fabric of time. At its center, the many threads in the needles found their anchor point in Anulai-Tai himself. His sacrifice meant that life flourished for mortal beings.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anulai-Tai, qui deviendrait l'Archiduc Déchu de l'Infini, était investi d'une grande générosité dans ses premiers jours. Glissant au travers le chaos non-linéaire, il tissa des épingles dans l'éther et construit la tapisserie du temps. À son centre, les innombrables fils dans les aiguilles étaient ancrées en Anulai-Tai lui-même. Son sacrifice signifia l'épanouissement de la vie des mortels.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anulai-Tai, qui deviendrait l'Archiduc Déchu de l'Infini, était investi d'une grande générosité dans ses premiers jours. Glissant au travers le chaos non-linéaire, il tissa des épingles dans l'éther et construisit la tapisserie du temps. En son centre, les innombrables fils dans les aiguilles étaient ancrés en Anulai-Tai lui-même. Son sacrifice signifia l'épanouissement de la vie des mortels.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_8</Data></Cell>
@@ -5406,12 +5406,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_12_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases your Block Chance while casting this Skill. Enemy Hits that are Blocked inflict Stasis on that Enemy.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente les chances de blocage lorsque vous incantez cette compétence, et vous permet d'infliger stase aux attaquants bloqués.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente les chances de blocage lorsque vous lancez cette compétence, et vous permet d'infliger stase aux attaquants bloqués.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_12_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Over the course of history, the threads bound to Anulai-Tai began to torture him, pulling him every which way. He soon came to despise time’s movements and desired them to stop. Moros tried to relieve his burden. While he could never understand the design of the aethereal weave, he held the tapestry together for a time. This legendary era was called the Boundless Dusk, as Moros’ darkness stretched through time while he replaced Anulai-Tai.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Au cours de l'histoire, les fils liés à Anulai-Tai commencèrent à le torturer, le tirant en toutes directions. Il se mit à haïr les mouvements du temps et à désirer qu'ils s'arrêtent. Moros tenta d'alléger son fardeau. Il ne comprenait pas la construction du tissage éthéré, mais il en devint l'ancre pour un laps de temps. Cette période légendaire est nommée le Crépuscule Infini, car les ténèbres de Moros imprègnèrent le temps.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Au cours de l'histoire, les fils liés à Anulai-Tai commencèrent à le torturer, le tirant dans toutes les directions. Il se mit à haïr les mouvements du temps et à désirer qu'ils s'arrêtent. Moros tenta d'alléger son fardeau. Il ne comprenait pas la construction du tissage éthéré, mais il en devint l'ancre pour un laps de temps. Cette période légendaire est nommée le Crépuscule Infini, car les ténèbres de Moros imprègnèrent le temps.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlade_variant_13</Data></Cell>
@@ -5481,7 +5481,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Possession_variant_2_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The Sweet Tooth Worm causes a deep craving for sugar in order to provoke diabetic necrosis in the host body. The worm feasts on this rotting flesh storing it external skin sacks.&#160; If put into contact with freezing temperatures, the Sweet Tooth will immediately enter hibernation and survive off of its supplies. This is the best time to collect them as spellcasting components. Some, such as the faithful of Bezeriel, raise them in warm pools in order to use them sustainably.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le Ver Friand provoque une forte envie de sucre afin de provoquer une nécrose diabétique chez son hôte. Le Ver se régale de cette chair pourrie et la conserve dans ses sacs épidermiques externes. En températures glaciales, le Ver Friand entre immédiatement en hibernation et vit de ses réserves. C'est le meilleur moment d'en faire collection comme composant de sortilège. Certains, comme les fidèles de Bezeriel, les élèvent dans des piscines chaudes pour utiliser d'une manière continue.&quot;&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le Ver Friand provoque une forte envie de sucre afin de provoquer une nécrose diabétique chez son hôte. Le Ver se régale de cette chair pourrie et la conserve dans ses sacs épidermiques externes. Face aux températures glaciales, le Ver Friand entre immédiatement en hibernation et vit de ses réserves. C'est le meilleur moment d'en faire collection comme composant de sortilège. Certains, comme les fidèles de Bezeriel, les élèvent dans des piscines chaudes pour les utiliser de manière continue.&quot;&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Possession_variant_3</Data></Cell>
@@ -5571,7 +5571,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Possession_variant_10_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Underneath each Temple of Bezeriel lies a broad green pool. The priests will open the gates to that underground refuge once per season, allowing filth encrusted beggars to rush in for a bath. There’s a tacit understanding between the priests and the beggars. Everyone has heard the rumours after all: the shadows have allowed something to proliferate in the water. Those who enter them will take something away, hidden underneath their skin.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sous chaque Temple de Bezeriel se trouve un grand bassin vert. Les prêtres ouvrent les portes de ce refuge une fois par saison, permettant aux mendiants crasseux de s'y précipiter pour un bain. Il y a un accord tacite entre les prêtres et les mendiants. Tout le monde connait la rumeur après tout : les ombres ont permi à quelque chose de proliférer dans l'eau. Ceux qui y entrent sortiront avec quelque chose de caché sous leur peau.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sous chaque Temple de Bezeriel se trouve un grand bassin vert. Les prêtres ouvrent les portes de ce refuge une fois par saison, permettant aux mendiants crasseux de s'y précipiter pour un bain. Il y a un accord tacite entre les prêtres et les mendiants. Tout le monde connait la rumeur après tout : les ombres ont permis à quelque chose de proliférer dans l'eau. Ceux qui y entrent sortiront avec quelque chose de caché sous leur peau.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Possession_variant_11</Data></Cell>
@@ -5696,7 +5696,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonMelee_variant_5_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The Hierarch of Infestation once declared outright war upon the worshippers of Anathëa. Targeting a temple north of Varg, where the days are longest, the Shepherds of Plague gathered the sickly beggars put under their protection into a ditch. They doused the wretches with oil and cast a fire into the pit. Desperate for aid and relief, the flaming forces ran amok, devastating the Temple of Dawn.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le Hiérarche de l'Infestation déclara un jour la guerre aux croyants d'Anathëa. Visant un temple au nord de Varg, où les jours sont les plus longs, les Bergers de la Peste rassemblèrent tous les mendiants maladifs sous leur protection dans un fossé. Ils les arrosèrent d'huile et jetèrent une flamme dans le trou. Désespérés pour d'être soulagées ou aidées, les forces enflammées courèrent en toutes directions, dévastant le Temple de l'Aube.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le Hiérarche de l'Infestation déclara un jour la guerre aux croyants d'Anathëa. Visant un temple au nord de Varg, où les jours sont les plus longs, les Bergers de la Peste rassemblèrent tous les mendiants maladifs sous leur protection dans un fossé. Ils les arrosèrent d'huile et jetèrent une flamme dans le trou. Désespérés de n'être soulagées ou aidées, les forces enflammées coururent dans toutes les directions, dévastant le Temple de l'Aube.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonMelee_variant_6</Data></Cell>
@@ -5866,7 +5866,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Though Bezeriel couldn’t obtain a dead sun from Anathëa, his curiosity was peaked by the new form of unlife produced by her brush with death. He shepherded the revenants and taught them to spread their state of being to the First Men. This conflict had allowed consciousness to triumph over the body’s limits.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bien que Bezeriel ne put obtenir un soleil mort d'Anathëa, la forme de mort-vie qu'elle avait involontairement produit piqua sa curiosité. Il se fit guide des revenants et leur apprit à propager leur état parmi les Premiers Hommes. Ce conflit avait permi à la conscience de triompher sur les limites du corps.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bien que Bezeriel ne put obtenir un soleil mort d'Anathëa, la forme de mort-vie qu'elle avait involontairement produit piqua sa curiosité. Il se fit guide des revenants et leur apprit à propager leur état parmi les Premiers Hommes. Ce conflit avait permis à la conscience de triompher sur les limites du corps.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_5</Data></Cell>
@@ -5881,7 +5881,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_5_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The hunters of Bezeriel were mistakenly thought to be clumsy shooters, always missing the vital spots in their prey. Little did those gossiping witnesses know that the archers of Doom didn’t desire to kill. The tips of their arrows were covered in hazardous contaminants. Those beasts and men who were struck by them would carry infection wherever they went, spreading the Hierarch of Infestation’s design around the world.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;On croyait par erreur que les chasseurs de Bezeriel étaient mauvais tireurs, manquant toujours les points vitaux chez leur proie. Mais ces témoins médiseurs ignoraient que les archers de la Fatalité ne désiraient pas tuer. Les pointes de leurs flèches étaient couvertes de produits contagieux. Les bêtes et les hommes touchées par ces pointes porteraient la maladie partout où ils allaient, propageant les desseins du Hiérarche de l'Infestation partout dans le monde.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;On croyait par erreur que les chasseurs de Bezeriel étaient mauvais tireurs, manquant toujours les points vitaux chez leur proie. Mais ces témoins médiseurs ignoraient que les archers de la Fatalité ne désiraient pas tuer. Les pointes de leurs flèches étaient couvertes de produits contagieux. Les bêtes et les hommes touchés par ces pointes porteraient la maladie partout où ils allaient, propageant les desseins du Hiérarche de l'Infestation partout dans le monde.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_6</Data></Cell>
@@ -5896,7 +5896,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_6_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The northmost cults of Bezeriel infringed upon Etheliel’s territory, thereby spreading their own power. Their sacrifices would be buried up to the neck in snow, left to die a slow death of cold. From there, the body would naturally mummify in the ice, mutating into a new form. The Diamond Legion protects these mummies, as their peaceful expressions and smooth skins reflect Etheliel’s ideals. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les cultes de Bézeriel au plus grand nord transgressait sur le territoire d'Etheliel, répandant leur propre pouvoir. Leurs sacrifices y étaient enterrés jusqu'au cou dans la neige, laissés à mourir lentement de froid. De là, les corps se momifieraient naturellement dans la glace, adoptant une nouvelle forme. La Légion de Diamant protège ces momies, car leurs expressions paisibles et leurs peaux sans rides reflètent les idéaux d'Etheliel.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les cultes de l'extrème-nord de Bézeriel transgressaient le territoire d'Etheliel, répandant leur propre pouvoir. Leurs sacrifices y étaient enterrés jusqu'au cou dans la neige, laissés à mourir lentement de froid. De là, les corps se momifieraient naturellement dans la glace, adoptant une nouvelle forme. La Légion de Diamant protège ces momies, car leurs expressions paisibles et leurs peaux sans rides reflètent les idéaux d'Etheliel.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_7</Data></Cell>
@@ -5911,7 +5911,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_7_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As the first generations of the First Men died out, Bezeriel frowned. It seemed unfair that the dead should have no sun of their own though they far outnumbered the living. He went to Anathëa and asked her to give him a dead sun which would oversee the Ailing Marshes where lie those who die of sickness. Anathëa rejected Bezeriel’s request: creating a new sun would be akin to abandoning a child to Bezeriel. The then-lord of mortality resolved that if Anathëa wouldn’t help him, he would corrupt her himself with a great burst of necrotic energy.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Tandis que des générations des Premiers Hommes mourraient, Bezeriel se renfrognait. Il lui semblait injuste que les morts n'aient pas de soleil alors qu'ils étaient plus nombreux que les vivants de loin. Il demanda à Anathëa de lui donner un soleil mort qui surplomberait les Marais Succombantes où reposent ceux qui meurent de maladie. Anathëa refusa: lui créer un nouveau soleil serait comme lui abandonner un enfant. Le seigneur de la mortalité décida que si Anathëa ne voulait pas aider, il la corromprait lui-même d'un grand éclat d'énergie nécrotique.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Tandis que des générations des Premiers Hommes mourraient, Bezeriel se renfrognait. Il lui semblait injuste que les morts n'aient pas de soleil alors qu'ils étaient plus nombreux que les vivants de loin. Il demanda à Anathëa de lui donner un soleil mort qui surplomberait les Marais Succombants où reposent ceux qui meurent de maladie. Anathëa refusa: lui créer un nouveau soleil serait comme lui abandonner un enfant. Le seigneur de la mortalité décida que si Anathëa ne voulait pas aider, il la corromprait lui-même d'un grand éclat d'énergie nécrotique.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonRanged_variant_8</Data></Cell>
@@ -6031,7 +6031,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonChampion_variant_2_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Like all religious cloisters, the Cult of Bezeriel invites competition between its believers, but they may hold the most perverse incarnation of this phenomenon. The Shepherds speak in demeaning terms to their parish, comparing them unfavorably to those who make the ultimate sacrifice: the Immortal Maws. They used to be men, believers who once aspired to the priesthood. The process to change into an Immortal Maw kills most who attempt it, and yet they are honoured as their death brings vigor to the cult.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Comme tout cloître religieux, le Culte de Bezeriel invite la compétition entre ses fidèles, mais ils tiennent l'incarnation la plus perverse de ce phénomène. Les Bergers parlent en termes péjoratifs à leur paroisse, les comparant défavorablement à ceux qui font le plus grand des sacrifices : les Gueules Immortelles. Ils étaient des hommes autrefois, des croyants qui souhaitaient devenir prêtres. Le procédé pour devenir Gueule Immortelle tue la plupart qui s'y tentent, mais ils sont tout de même honorés car leur mort apporte vigueur au culte.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Comme tout cloître religieux, le Culte de Bezeriel invite à la compétition entre ses fidèles, mais ils tiennent l'incarnation la plus perverse de ce phénomène. Les Bergers parlent en termes péjoratifs à leur paroisse, les comparant défavorablement à ceux qui font le plus grand des sacrifices : les Gueules Immortelles. Ils étaient des hommes autrefois, des croyants qui souhaitaient devenir prêtres. Le procédé pour devenir Gueule Immortelle tue la plupart qui le tentent, mais ils sont tout de même honorés car leur mort apporte vigueur au culte.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_SummonChampion_variant_3</Data></Cell>
@@ -6196,7 +6196,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_1_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The vortex left behind by Anulai-Tai’s exit was so strong that those who resisted its pull saw the blood drain out through their skin, helplessly inhaled by the eye of the storm. The raw magic contained in the water and soil crystallized towards the surface before being ripped from the earth. In abandoning time, Anulai-Tai had forced those left behind to confront it.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le vortex laissé par le départ d'Anulai-Tai était si fort que ceux qui y résistaient voyait leur sang tiré au travers leur peau, inhalé par l'oeil de la tempête. La magie pure contenue dans l'eau et la terre se crystallisait à la surface avant d'être arrachée à la terre. En abandonnant le temps, Anulai-Tai avait forcé ceux restés sur Wolcen à s'y confronter.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le vortex laissé par le départ d'Anulai-Tai était si fort que ceux qui y résistaient voyait leur sang tiré au travers leur peau, inhalé par l'oeil de la tempête. La magie pure contenue dans l'eau et la terre se cristallisait à la surface avant d'être arrachée à la terre. En abandonnant le temps, Anulai-Tai avait forcé ceux restés sur Wolcen à s'y confronter.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_2</Data></Cell>
@@ -6261,7 +6261,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_8</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Confluence Of All Things</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Confluence de Toutes Choses</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Confluence de Toute Chose</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_8_desc</Data></Cell>
@@ -6271,7 +6271,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The hole in the Aether's weave has to this day peculiar effects on the weather, with the movements of time causing sudden shifts in the atmosphere and tidal alterations.&#160;Vorticial thunderstorms spell certain death for sailors, and have contributed to the Sea of Torment’s reputation.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le trou dans le tissage de l'éthèr a encore des effets météorologiques particuliers, avec les mouvements du temps provoquant des changements soudains dans l'atmosphère et des altérations dans la marée. Les tempêtes vorticielles sont signes de mort certaine pour les marins, et ont contribué à la réputation de la Mer des Tourments.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le trou dans le tissage de l'éther a encore des effets météorologiques particuliers, avec les mouvements du temps provoquant des changements soudains dans l'atmosphère et des altérations dans la marée. Les tempêtes vorticielles sont signe de mort certaine pour les marins, et ont contribué à la réputation de la Mer des Tourments.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_9</Data></Cell>
@@ -6306,7 +6306,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_11_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anulai-Tai emerged from the First Movement of Creation. He weaved an intricate tapestry from the aether, organising it into time. As the threads of that weave tied into his body, Anulai-Tai suffered from its inexorable motion. Warped by his suffering, he came to tear himself from the strings, digging and digging until at last, he had found his way out. The opening he left behind pulsed like a beating heart, dragging all things into itself like a hungry maw.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anulai-Tai émerga du Premier Mouvement de la Création. Il tissa une tapisserie complexe de l'éthèr, dont il créa le temps. Alors que les fils de ce tissage se raccrochaient à son corps, Anulai-Tai souffrait de leurs mouvements inexorables. Perverti par cette souffrance, il se déchira de ces fils, creusant et creusant le tissage jusqu'à l'avoir traversé. L'ouverture qu'il laissa derrière battait comme une coeur, absorbant toutes choses en elle comme une gueule affamée.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anulai-Tai émerga du Premier Mouvement de la Création. Il tissa une tapisserie complexe de l'éther, dont il créa le temps. Alors que les fils de ce tissage se raccrochaient à son corps, Anulai-Tai souffrait de leurs mouvements inexorables. Perverti par cette souffrance, il se déchira de ces fils, creusant et creusant le tissage jusqu'à l'avoir traversé. L'ouverture qu'il laissa derrière battait comme une coeur, absorbant toutes choses en elle comme une gueule affamée.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_12</Data></Cell>
@@ -6351,7 +6351,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_16</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Aether's Fracture</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Fracture de l'Éthèr</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fracture de l'Éther</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Vortex_variant_16_desc</Data></Cell>
@@ -6391,12 +6391,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_3_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The Cult of Doom holds thousands of prisoners agonizing in pestilence within their dungeons. They’re technically alive, but their flesh can be coaxed into the transformations of death. Within minutes, the human body can double in size as its tissues collapse and release toxins. The flesh swells, releasing a burst of necrotic energy at breaking point. The resulting creatures are at the cult's disposal, ready to be unleashed for their dark purposes.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le Culte de la Fatalité tient des milliers de prisonniers pestiférés à l'agonie dans leurs donjons. Ils sont techniquement en vie, mais leur chair peut-être convaincue de suivre les transformations de la mort. En quelques minutes, le corps humain peut doubler de taille alors que ses tissus s'effondrent et libèrent des toxines. La chair enfle, évacuant un éclat d'énergie nécrotique à son point de rupture. Les créatures qui en résultent sont à la disposition du culte, prêts à être déchaînés pour leur sombres desseins.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Le Culte de la Fatalité tient des milliers de prisonniers pestiférés à l'agonie dans leurs donjons. Ils sont techniquement en vie, mais leur chair peut être convaincue de suivre les transformations de la mort. En quelques minutes, le corps humain peut doubler de taille alors que ses tissus s'effondrent et libèrent des toxines. La chair enfle, évacuant un éclat d'énergie nécrotique à son point de rupture. Les créatures qui en résultent sont à la disposition du culte, prêtes à être déchaînées pour leurs sombres desseins.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_4</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Foul Guardian</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Foul Guardian</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Immonde Gardien</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_4_desc</Data></Cell>
@@ -6411,7 +6411,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">When Cast, you and Allies within this Skill's Area-of-Effect will receive a Buff that increases Ailment Chance Score.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">When Cast, you and Allies within this Skill's Area-of-Effect will receive a Buff that increases Ailment Chance Score.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente les chances d'infliger des Afflictions pour vous et vos alliés présents dans la zone d'effet lorsque vous utilisez la Compétence.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_6</Data></Cell>
@@ -6466,7 +6466,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_10_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;While the practices of the Cult of Doom are horrifying, they are not usually bombastic. The Hierarch of Infestation is an enthusiast of all protracted suffering and slow decay. He feeds and feeds and feeds the beast-Fallen Bezeriel, who exudes energies both poisonous and healing in return.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Si les pratiques du Culte de la Fatalité sont horrifiantes, elles ne sont pas normalement explosives. Le Hiérarche de l'Infestation est un enthousiaste de toute souffrance prolongée et de lentes putréfactions. Il nourrit et nourrit et nourrit la bête-Déchue Bezeriel, qui émane des énergies à la fois empoisonnées et vitales en retour.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Si les pratiques du Culte de la Fatalité sont horrifiantes, elles ne sont normalement pas explosives. Le Hiérarche de l'Infestation est un enthousiaste de toute souffrance prolongée et de lentes putréfactions. Il nourrit et nourrit et nourrit la bête-Déchue Bezeriel, duquel émane des énergies à la fois empoisonnées et vitales en retour.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_11</Data></Cell>
@@ -6481,7 +6481,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_11_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;While Bezeriel has direct control over the process of decomposition, his cults have to contend with worshipping a dead god and the limits of his reach. There are more prosaic ways of weaponizing the human body. If one places a mine underneath the bodies of the dead, some dutiful comrade or bereaved relative is certain to come collecting.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bien que Bezeriel ait le contrôle direct du procédé de décomposition, son culte doit enjamber l'obstacle de vénérer un Primordial mort avec une portée limitée. Il reste des moyens prosaïques d'arsénaliser le corps humain. Si on place une mine à pression sous les corps des morts, un camarade respectueux ou un parent en deuil ne tardera pas à se rappliquer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bien que Bezeriel ait le contrôle direct du procédé de décomposition, son culte doit enjamber l'obstacle de vénérer un Primordial mort avec une portée limitée. Il reste des moyens prosaïques d'arsénaliser le corps humain. Si on place une mine à pression sous les corps des morts, un camarade respectueux ou un parent en deuil ne tardera pas à rappliquer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_CorpseExplosion_variant_12</Data></Cell>
@@ -6586,7 +6586,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Solarfall_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar caught up to Anathëa and tried to plead his case. After all, had fire not spread where her light had dried the land? Was she not able of scorching, burning, and destroying as he was? She recognized the inclination towards fire within her yet turned him away, for she regretted such destructive impulses within herself. In such things did Moros balance her, in a way that Abanazaar could not&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar rattrapa Anathëa et voulut plaider sa cause. Après tout, le feu ne s'était-il pas propagé là où sa lumière avait asséché la terre ? N'était-elle pas aussi capable de roussir, brûler, et détruire que lui ? Elle reconnut l'inclination au feu qui existait en elle mais le refusa tout de même, car elle regrettait avoir de tels instincts. En toutes choses Moros l'équilibrait, d'une manière dont Abanazaar était incapable.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar rattrapa Anathëa et voulut plaider sa cause. Après tout, le feu ne s'était-il pas propagé là où sa lumière avait asséché la terre ? N'était-elle pas aussi capable de roussir, brûler, et détruire que lui ? Elle reconnut l'inclination au feu qui existait en elle mais le refusa tout de même, car elle regrettait avoir de tels instincts. En toute chose Moros l'équilibrait, d'une manière dont Abanazaar était incapable.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Solarfall_variant_6</Data></Cell>
@@ -6651,7 +6651,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Solarfall_variant_11_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;After impressing Abanazaar with the full power of the sun, Anathëa walked away from him, a beam emanating from her in all directions. As he followed, their march was reflected on the earth below: wheat rising green and plentiful before it ran dry, then catching fire in the dry winds of summer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Après avoir faut comprendre à Abanazaar la pleine puissance du soleil, Anathëa se détourna de lui, des rayons émanant d'elle en toutes directions. Alors qu'il la suivit, leur marche se reflétait sur la terre en dessous : le blé se levant vert et abondant avant de s'assécher et de prendre feu dans les vents secs de l'été.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Après avoir faut comprendre à Abanazaar la pleine puissance du soleil, Anathëa se détourna de lui, des rayons émanant d'elle dans toutes les directions. Alors qu'il la suivit, leur marche se reflétait sur la terre en dessous : le blé se levant vert et abondant avant de s'assécher et de prendre feu dans les vents secs de l'été.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Solarfall_variant_12</Data></Cell>
@@ -6946,7 +6946,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Sniper_variant_6</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Aether Piercing Ammunition</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Munitions Perce-Éthèr</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Munitions Perce-Éther</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Sniper_variant_6_desc</Data></Cell>
@@ -7086,7 +7086,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hammer_variant_2_lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Baäpheth and Hephaäron sought to measure their ability in throwing Gaavanir, examined by a jury of other Primordials. Hephaäron made a shorter yet stronger throw, the warhammer crashing into the ground, revealing a chasm full of pure water below the earth. Baäpheth made the longer but weaker throw, creating the winds that ran alongside Gaavanir. The wielders and blacksmiths of the world had an equal claim to Gaavanir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Baäpheth cherchèrent à mesurer leur capacité à lancer Gaavanir, examinés par un jury d'autre Primordiaux. Hephaäron fit un lancer plus court mais plus fort, le marteau se heurtant au sol et révélant un gouffre plein d'eau pure sous le sol. Baäpheth fit un lancer plus haut mais moins puissant, créant les vents qui courèrent aux côtés de Gaavanir. Les guerriers et les forgerons du monde avaient un droit égal à Gaavanir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Baäpheth cherchèrent à mesurer leur capacité à lancer Gaavanir, examinés par un jury d'autre Primordiaux. Hephaäron fit un lancer plus court mais plus fort, le marteau se heurtant au sol et révélant un gouffre plein d'eau pure sous le sol. Baäpheth fit un lancer plus haut mais moins puissant, créant les vents qui coururent aux côtés de Gaavanir. Les guerriers et les forgerons du monde avaient un droit égal à Gaavanir.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hammer_variant_3</Data></Cell>
@@ -7101,7 +7101,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hammer_variant_3_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;When Hephaäron denied Baäpheth as Gaavanir's true wielder, the Primordial of Ambition raised a flaming sword over Gaavanir, aiming to break its handle. Hephaäron did not move, or jump to save his creation. The hammer was of Primordial make, and absorbed not only the strength of the blow but the flames of the blade.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Quand Hephäaron nia Baäpheth comme porteur véritable de Gaavanir, le Primordial de l'Ambition leva une épée enflammée au dessus de Gaavanir, visant à briser sa poignée. Hephaäron ne bougea ni ne sauta pour sauver sa création. Le marteau était de fabrique Primordiale, et non seulement absorba la force du coup mais aussi les flames de la lame.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Quand Hephäaron nia Baäpheth comme porteur véritable de Gaavanir, le Primordial de l'Ambition leva une épée enflammée au dessus de Gaavanir, visant à briser sa poignée. Hephaäron ne bougea ni ne sauta pour sauver sa création. Le marteau était de fabrication Primordiale, et non seulement absorba la force du coup mais aussi les flames de la lame.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hammer_variant_4</Data></Cell>
@@ -7116,7 +7116,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hammer_variant_5</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Awe Inspiring Throw</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Jeter Spectaculaire</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Jet Spectaculaire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Hammer_variant_5_desc</Data></Cell>
@@ -7356,7 +7356,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_RingOfPain_variant_12</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Conniption</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Accés de Colère</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Accès de Colère</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_RingOfPain_variant_12_desc</Data></Cell>
@@ -7436,7 +7436,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_2_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa showed the First Army of Alia how she commanded the dawn’s power, absorbing its rays such that the energy would be cast off during attacks, causing great damage. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa montra à la Première Armée d'Alia comment elle commandait au pouvoir de l'aube, absorbant ses rayons d'une manière tel que l'énergie rebondirait face aux attaques, causant de grands dommages.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa montra à la Première Armée d'Alia comment elle commandait au pouvoir de l'aube, absorbant ses rayons d'une manière telle que l'énergie rebondirait face aux attaques, causant de grands dommages.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_3</Data></Cell>
@@ -7451,7 +7451,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_4</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Solar Logos</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Logos Solaire</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Emblèmes Solaires</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_4_desc</Data></Cell>
@@ -7461,7 +7461,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The soldiers of Alia were bloody from battling the Urhans when Anathëa descended upon them. Her presence was a balm, animating them with a new life when they had known only horror and combat since their infancy. Her light coaxed wounds into closing, bruises into dissolving, aches into abating.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les soldats d'Alia étaient ensanglantés d'avoir combattu les Urhans quand Anathëa descendit parmi eux. Sa présence était un baume, les animant d'une nouvelle vie alors qu'il n'avaient connu que l'horreur et le combat depuis leur tendre enfance. Sa lumière convainquait les blessures de guérir, les bleux de se dissoudre, les vieilles douleurs à s'atténuer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les soldats d'Alia étaient ensanglantés d'avoir combattu les Urhans quand Anathëa descendit parmi eux. Sa présence était un baume, les animant d'une nouvelle vie alors qu'il n'avaient connu que l'horreur et le combat depuis leur tendre enfance. Sa lumière convainquait les blessures de guérir, les bleux de se dissoudre, les vieilles douleurs de s'atténuer.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_5</Data></Cell>
@@ -7546,7 +7546,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_12_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa, Dawn Incarnate, moves through the fabric of the universe as all living things do. The difference between her and humankind is that her power is immense enough to deform the weave of aether for a brief moment. As she dived down and landed amongst her enemies with all the force of Dawn, time held its breath.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa, l'Aube Incarnée, se meut à travers le tissu de l'univers comme le font tous les êtres vivants. La différence entre elle et l'humanité est que son pouvoir est suffisamment immense pour déformer la tapisserie de l'éthèr pour un bref moment. Alors qu'elle plongea et atterrit parmi ses ennemis avec toute la force de l'Aube, le temps retint sa respiration.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Anathëa, l'Aube Incarnée, se meut à travers le tissu de l'univers comme le font tous les êtres vivants. La différence entre elle et l'humanité est que son pouvoir est suffisamment immense pour déformer la tapisserie de l'éther pour un bref moment. Alors qu'elle plongea et atterrit parmi ses ennemis avec toute la force de l'Aube, le temps retint sa respiration.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_HolyDive_variant_13</Data></Cell>
@@ -7611,7 +7611,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Ironguard_variant_3</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Halted Momentum</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Élan Halté</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Élan Stoppé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Ironguard_variant_3_desc</Data></Cell>
@@ -7641,7 +7641,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Ironguard_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Within the Armory of Creation lives the ideal of each weapon. Each warhammer is one of an infinite number of shadows cast by Gaavanir, each spear a shadow of Ishmir. These arms are placed in the lifeless hands of armours, but those armours too cast a shadow. A pale image of them can be seem at times on old battlefields. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Au sein de l'Arsénal de la Création vit l'idéal de chaque arme. Chaque marteau de guerre est l'une des ombres innombrables jetées par Gaavanir, chaque lance une ombre d'Ishmir. Ces armes sont placées dans les mains sans vie d'armures, mais ces entités jettent des ombres aussi. Leur pâles images peuvent être aperçues parfois sur les vieux champs de bataille.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Au sein de l'Arsénal de la Création vit l'idéal de chaque arme. Chaque marteau de guerre est l'une des ombres innombrables jetées par Gaavanir, chaque lance une ombre d'Ishmir. Ces armes sont placées dans les mains sans vie d'armures, mais ces entités jettent des ombres aussi. Leur pâles images peuvent être aperçues parfois sur les anciens champs de bataille.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Ironguard_variant_6</Data></Cell>
@@ -7711,7 +7711,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Ironguard_variant_12_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">When cast, your Force Shield is depleted and a percentage of it is added to the maximum Damage that can be absorbed by the shield.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Lorsque vous utilisez la compétence, votre Bouclier de Force est convertit en dégâts d'absorption.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Lorsque vous utilisez la compétence, votre Bouclier de Force est converti en dégâts d'absorption.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_Ironguard_variant_12_Lore</Data></Cell>
@@ -7961,7 +7961,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlast_variant_2_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Though Moros urged Anathëa to run, she remained at his side. As he turned the arrows of the Primordial traitors' Army back against them, she charged those weapons with a smiting glow, and as they lay dying all the sins they had committed were carried to the light and laid bare.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bien que Moros ait prié Anathëa de courir, elle resta à son côté. Alors qu'il retournait les flèches de l'Armée ennemie contre eux, elle chargea ces armes de la lumière du châtiment, et alors qu'ils reposaient tous dans la mort, les péchés qu'ils avaient commis étaient illuminés et mis à nu.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Bien que Moros ait prié Anathëa de courir, elle resta à ses côtés. Alors qu'il retournait les flèches de l'Armée ennemie contre eux, elle chargea ces armes de la lumière du châtiment, et alors qu'ils reposaient tous dans la mort, les péchés qu'ils avaient commis étaient illuminés et mis à nu.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlast_variant_3</Data></Cell>
@@ -8081,7 +8081,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlast_variant_13_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The forces of Genesis were trapped in a canyon that hugged the Red Mountain, the forces of Ashtaroth converging on them. Moros pushed the surrounding army back with a guff of black ink, warning the enemy not to advance further if they valued their lives. But as more and more forces appeared, overlooking the nearby cliffs, he could only plunge more and more of the landscape into darkness.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les forces de la Genèse étaient piégées dans un canyon adjacent à la Montagne Rouge, les forces d'Ashtaroth convergeant autour d'eux. Moros repoussa l'armée avoisinante avec une vague d'encre noire, avertissant ces hommes de ne pas avancer plus loin s'ils tenaient à leurs vies. Mais à force que des hommes apparaissaient, par dessus les falaises proches, il ne pouvait que plonger de plus en plus de territoire dans l'obscurité.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Les forces de la Genèse étaient piégées dans un canyon adjacent à la Montagne Rouge, les forces d'Ashtaroth convergeant autour d'eux. Moros repoussa l'armée avoisinante avec une vague d'encre noire, avertissant l'ennemi de ne pas avancer plus loin s'ils tenaient à leurs vies. Mais à mesure que des hommes apparaissaient, par dessus les falaises proches, il ne pouvait que plonger de plus en plus de territoire dans l'obscurité.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_Variant_AetherBlast_variant_14</Data></Cell>
@@ -8201,7 +8201,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_WarcryAllResistanceBonus_Desc</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Increase your Resistance to all forms of damage</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente vos Résistances à toutes formes de dégâts</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente vos Résistances à toute forme de dégâts</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_WarcryAllResistanceBonus_Title</Data></Cell>
@@ -8221,7 +8221,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SacredGroundAllResistanceBonus_Desc</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Increase your Resistance to all forms of damage</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente les Résistances à toutes formes de dégâts</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmente les Résistances à toute forme de dégâts</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_SacredGroundAllResistanceBonus_Title</Data></Cell>
@@ -8361,7 +8361,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Mage_Lore</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">The fabric of the world bends under his will, warping his enemies into cracks in space and time. The divine powers of Anulai-Tai were born from a need to organize chaos, and from that day he was the one to force chaos upon others, contorting the bodies of his opponents with gravitational shifts.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Le tissu du monde se plie à sa volonté, déformant ses ennemis dans les interstices de l'espace-temps. Les pouvoirs divins d'Anulai-Tai sont nés d'un besoin d'organisation du chaos et de l'existence. Et depuis ce jour, c'est lui qui a provoqué le désordre, contortant les corps de ses ennemis avec des perturbations gravitationnelles.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Le tissu du monde se plie à sa volonté, déformant ses ennemis dans les interstices de l'espace-temps. Les pouvoirs divins d'Anulai-Tai sont nés d'un besoin d'organisation du chaos et de l'existence. Et depuis ce jour, c'est lui qui a provoqué le désordre, tordant les corps de ses ennemis avec des perturbations gravitationnelles.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Mage_DefaultSkill</Data></Cell>
@@ -8486,7 +8486,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Rogue_Skill01_desc</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Leap backwards and launch a projectile in a cone in front of you, dealing Rend damage. Each kill made with this Aspect generates Aspects of Blood. Each Aspect of Blood consumed increases the damage of the skill and the number of projectiles launched by 1, up to a maximum of 5.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Fait un saut en arrière et lance un projectile en cône en face de vous, infligeant des dégâts de Blessure. Chaque ennemi tué avec cet Aspect génère des Aspects de Sang. Chaque Aspect de Sang consommé augmente les dégâts de la compétence et le nombre de projectile de 1, pour un maximum de 5.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fait un saut en arrière et lance un projectile en cône en face de vous, infligeant des dégâts de Blessure. Chaque ennemi tué avec cet Aspect génère des Aspects de Sang. Chaque Aspect de Sang consommé augmente les dégâts de la compétence et le nombre de projectiles de 1, pour un maximum de 5.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Rogue_Skill01_Lore</Data></Cell>
@@ -8501,7 +8501,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Rogue_Skill02_desc</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Launch into a series of extremely high-speed attacks in an area around your character, dealing Rend damage to all enemies inside it.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous lancez une série d'attaque très rapides autour de votre personnage, infligeant des dégâts de Blessure aux ennemis à proximité.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vous lancez une série d'attaques très rapides autour de votre personnage, infligeant des dégâts de Blessure aux ennemis à proximité.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Rogue_Skill02_Lore</Data></Cell>
@@ -8586,7 +8586,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Warrior_Skill02_desc</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Summon a powerful pillar of flame that deals Fire damage over time. This skill consumes all current stacks of Frenzy to deal increased damage.</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Invoque un puissant pilier de flamme qui inflige des Dégâts de Feu sur la durée. Cette compétence consume tous les bonus de Frénésie pour infliger plus de dégâts.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Invoque un puissant pilier de flamme qui inflige des Dégâts de Feu sur la durée. Cette compétence consomme tous les bonus de Frénésie pour infliger plus de dégâts.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_APO_Warrior_Skill02_Lore</Data></Cell>
@@ -8741,7 +8741,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AST_Param_CurseChance</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Ailment - Cursed Chance: %1</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Chance de Maudire: %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Chance de Malédiction: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AST_Param_CurseStacks</Data></Cell>
@@ -8791,7 +8791,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AST_Param_SharpShooterdamage</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Damage increase per Stack: %1</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmentation de dégâts par application: %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Augmentation des dégâts par application: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AST_Param_SharpShooterMaxStacks</Data></Cell>
@@ -8901,7 +8901,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AST_Param_ROSTime</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Resource consumption time: %1</Data></Cell>
-    <Cell ss:StyleID="s18"><Data ss:Type="String">Temps de consumation de ressource: %1</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Temps de consommation de ressource: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ui_AST_Param_Sacreddamage</Data></Cell>
