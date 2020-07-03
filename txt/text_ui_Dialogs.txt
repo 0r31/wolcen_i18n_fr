@@ -50,7 +50,7 @@ Si un seul Républicain m'a vu me transformer…
 Je n'ai plus qu'à espérer le contraire…
 Que fait-on?
 Franchement ? Je ne sais pas. Nous devrions rejoindre l'Opération Fléau de l'aube, non ?
-{Dans ton état ? En lançant de la magie et te transformant en monstruosités ? Non, non, non, ils vont te brûler vif.|Dans ton état ? En lançant de la magie et te transformant en monstruosités ? Non, non, non, ils vont te brûler vive.}
+{Dans ton état ? En lançant de la magie et te transformant en monstruosité ? Non, non, non, ils vont te brûler vif.|Dans ton état ? En lançant de la magie et te transformant en monstruosité ? Non, non, non, ils vont te brûler vive.}
 Pas Heimlock.
 Peut-être. Mais Maëlys c'est sûr et avec le sourire en plus. Sortons d'ici d'abord, on réfléchira après.
 On ne devrait pas être loin de la Cité-État de Stormfall, on sera sûrement en sécurité là-bas !
@@ -61,12 +61,12 @@ Oh oui.
 Cet endroit pue la mort.
 Ces gens se font décimer… Je ne comprends pas… Les Sviirs n’ont normalement pas cette audace, pas sans bonne raison.
 D'abord, ce démon des âmes, maintenant ça. Y'a quelque chose qui ne va pas ici, quelque chose qui ne va pas du tout.
-Un démon qui se révéle ne peut que signifier que quelque chose de majeur est sur le point d'arriver, mais quoi ?
+Un démon qui se révèle ne peut que signifier que quelque chose de majeur est sur le point d'arriver, mais quoi ?
 La sorcellerie est interdite à Stormfall. Toute personne surprise à se joindre à des sectes néfastes sera pendue.
 Nous devons battre en retraite, nous sommes trop exposés !
 Si on fait ça, les civils se feront massacrer !
 Plutôt eux que nous !
-Euh, les gars... Ils s'approchent ! Qu-qu'est-ce qu'on peut faire ?
+Euh, les gars... Ils s'approchent ! Qu- qu'est-ce qu'on peut faire ?
 Laissez-nous entrer !
 Par pitié !
 Pitié !
@@ -83,7 +83,7 @@ Pour la centième fois, la Cité est déjà remplie de réfugiés. Nous ne laiss
 Écoutez, il faut vraiment que je rentre. Laissez-moi passer...
 Ce n'est pas comme ça que ça marche l'ami. Seuls les conscrits sont autorisés à passer. Ordre du Prince Marchand Damaskus lui-même !
 Donc, vous voulez des combattants ? Je vais combattre. Maintenant, laissez-moi passer.
-{Euh... t'es sérieux, l'ami ? Bon, très bien. Traverses la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall ? Non ? C'est bien ce que je pensais !|Euh... t'es sérieuse, l'amie ? Bon, très bien. Traverses la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall ? Non ? C'est bien ce que je pensais !}
+{Euh... t'es sérieux, l'ami ? Bon, très bien. Traverse la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall ? Non ? C'est bien ce que je pensais !|Euh... t'es sérieuse, l'amie ? Bon, très bien. Traverse la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall ? Non ? C'est bien ce que je pensais !}
 Stormfall, joyau de la mer.
 Voyons quelles surprises tu me réserves.
 Ah ! Du sang neuf ! Rendez-vous à la boutique de Mohabi, il vous équipera ! Gracieuseté de Stormfall !
@@ -92,7 +92,7 @@ Je ne veux pas mourir ! Je ne suis pas un héros, vous entendez ?
 C’est ça ou on te jette en dehors de ces murs !
 Non je vous en prie ! Ne me renvoyez pas là-bas ! C'est un énorme massacre ! Vous n'avez pas vu ! Vous ne savez pas !
 Chhhhuuut ! Meurs en héros ou meurs en lâche ! Décide-toi. Nous avons besoin de guerriers contre les Svriirs, pas de pleurnichards.
-Mais les morts ! Les morts sont remontés avec le tremblement de terre ! Nous l'avons tous vu ! Les Svriirs ne sont pas le problème ! Pourquoi vous ne croyez pas !
+Mais les morts ! Les morts sont remontés avec le tremblement de terre ! Nous l'avons tous vu ! Les Svriirs ne sont pas le problème ! Pourquoi vous ne me croyez pas ?!
 Tu n'as pas honte de mentir. Répugnant.
 Soldat ! Faites votre rapport au Foudrelame Faärad sur le champ de bataille !
 J'ai entendu dire que le soulèvement des Svriirs visant nos fermes et nos réserves de nourriture n’est pas un hasard du tout !
@@ -101,7 +101,7 @@ C'est ab-sur-de ! Pourquoi la République organiserait-elle ça ? Vous n'avez 
 C'est là toute la beauté de la chose ! Une fois que nous serons à genoux, il leur sera facile de nous imposer un protectorat… et ils seront remerciés en plus ! C'est un énorme complot, je vous le dis !
 Vous voulez connaître ma théorie ? Le Prince Marchand est dans une sorte de culte de fous et cela fait partie de leur stratégie ! Tout cela est intentionnel ! Peut-être… peut-être que lui-même est un Svriir avec une sorte de euh… magie ? Ah ! Ce serait un sacré spectacle !
 Arr-arrêtez ça tout de suite. Ces idioties me font saigner les oreilles !
-Hmm, je devrai me battre pour Stormfall si j'espère rester au sein de ses murs.
+Hmm, je devrais me battre pour Stormfall si j'espère rester au sein de ses murs.
 La cité exige que Mohabi donne aux conscrits de quoi tuer les Svriirs, alors Mohabi vous donne de quoi tuer les Svriirs. Mais tout le reste, Mohabi y mettra un prix !
 Attention ! Vous êtes tout ce qui se tient entre les verts et vos familles, alors arrêtez de pleurer et préparez-vous à trancher ! Que chaque coup compte !
 Mais nous ne sommes même pas entraînés ! Comment sommes-nous supposés les tuer ?
@@ -179,35 +179,35 @@ Mais non imbécile ! Recommençons !
 Stormfall bien entendu ! Notre bonne Cité ! Le Joyau de la Mer !
 Nous sommes reconnus pour notre travail du diamant, la cartographie et tout ce qui est lié à la mer ! Notre flotte est incomparable !
 De nobles traits cela va sans dire. Mais ces temps-ci je préférerais que nous soyons reconnus pour notre talent à pulvériser des Svriirs...
-Vous avez intérêt à vous rappeler cette fois : l'Onyx est pour Gomora, le Joyau des Pariahs.
+Vous avez intérêt à vous rappeler cette fois : l'Onyx est pour Gomora, le Joyau des Parias.
 Le seul endroit connu des quatre royaumes qui abrite tout type de sombres cultes, du moment qu'ils respectent la loi.
 De nombreux mythes et histoires inquiétantes entourent cette Cité isolée… magie interdite, objets maudits, rumeurs d'enlevements de psychiques…
 Pourquoi être alliés avec eux me dépasse. Une Cité sale pour les gueux. Nous devrions être au dessus de ça.
 Un Emeraude pour le Joyau des Montagnes. Trois-pics est la cité des mille ponts.
-Elle fusionne trois sommets en une seule Cité. Elle est spécialisée dans les épices, l'insens et le spirituel.
+Elle fusionne trois sommets en une seule Cité. Elle est spécialisée dans les épices, l'encens et le spirituel.
 Et les drogues.
 Plait-il?
 Ahem. Une histoire pour une autre fois.
 Les meilleures épées des quatre royaumes viennent de l'ici : Vulcaïn, le Joyau de l'Acier.
-Leur Rubi est aussi rouge que le volcan sous la Cité. Les armes qu'ils y forgent sont  légendaires aussi bien en qualité qu'en prix.
-L'Améthyste, symbol de….
+Leur Rubis est aussi rouge que le volcan sous la Cité. Les armes qu'ils y forgent sont légendaires aussi bien en qualité qu'en prix.
+L'Améthyste, symbole de….
 Une Alexandrite.
-Ah oui évidemment! Une Alexandrite, symbol de Salander, Joyau de la Terre.
+Ah oui évidemment! Une Alexandrite, symbole de Salander, Joyau de la Terre.
 La Cité est construite sous terre parmi les ruines d'une vieille civilisation. Ils se spécialisent dans le commerce d'artefacts anciens tout autant que leur histoire.
-Archion ! La Cité volante ! Un sapphire représente le Joyau des Nuages !
+Archion ! La Cité volante ! Un saphir représente le Joyau des Nuages !
 La ville a trois points d'ancrage à travers l'année. Elle change de position, vendant du savoir en échange d'esclaves.
 J'ai entendu dire qu'ils obtiennent leurs connaissances de rangers qu'ils envoient sur d'autres continents inexplorés.
-Les pertes qu'ils ont confirme ce que l'on sait déjà: les deux autres continents ne sont pas fait pour les humains. Dommage.
+Les pertes qu'ils ont confirmées ce que l'on sait déjà: les deux autres continents ne sont pas faits pour les humains. Dommage.
 Oh ! J'adore celle-ci ! Une Ambre pour C'tul, le Joyau de la Chasse.
-La ville est construite sur le dos de deux bêtes gigantesques marchant côte à côte. Elle est perpetuellement en mouvement sur de longues plaines.
-Calme toi. Que vendent-t-ils?
+La ville est construite sur le dos de deux bêtes gigantesques marchant côte à côte. Elle est perpétuellement en mouvement sur de longues plaines.
+Calme-toi. Que vendent-t-ils?
 Je… je ne me souviens pas.
 Des créatures exotiques et du cuir de qualité ! Ceci est plus important que le régime alimentaire de ces bêtes qui te passionne.
 Avancez ! Adressez le Prince Marchand Damaskus de Stormfall, gardien du joyau de la mer, de la Cité et de tout son peuple.
 Au nom des habitants de Stormfall, je vous remercie et je vous nomme {champion|championne} de la Cité.
 Hum, monsieur ?
-Messir.
-{Messir, je suis heureux d’avoir pu aider mais j’aimerais vraiment éviter le titre de champion et revenir à ma routine quotidienne.…|Messir, je suis heureuse d’avoir pu aider mais j’aimerais vraiment éviter le titre de championne et revenir à ma routine quotidienne.…}
+Messire.
+{Messire, je suis heureux d’avoir pu aider mais j’aimerais vraiment éviter le titre de champion et revenir à ma routine quotidienne.…|Messire, je suis heureuse d’avoir pu aider mais j’aimerais vraiment éviter le titre de championne et revenir à ma routine quotidienne.…}
 Votre humilité vous honore, mais souriez et réjouissez-vous avec nous, votre courage a sauvé de nombreuses vies. Vous avez fait de cette journée un jour victorieux !
 Mais! Ils ne sont même pas sauvés ! Les Svriirs n'attaquaient pas, ils fuyaient le phénomène des profond-...
 Ça suffit !
@@ -240,7 +240,7 @@ Bonjour, cher client !
 Nos plus plates excuses, nous n'avons plus de chambres disponibles. Vous devrez chercher ailleurs pour trouver une chambre. Euh, rapidement.
 Oui, oui… ce n’est pas ce pour quoi je suis ici. Avez-vous vu une grande blonde dans le coin ? Un peu folle ? Ça vous dit quelque chose ? 
 Je n'ai pas vu une telle femme, monsieur... vous devriez peut-être la chercher dehors.
-Vous êtes bizarre. Tout va bien ? Allo?
+Vous êtes bizarre. Tout va bien ? Allô?
 Partez ! Partez immédiatement !
 Qu'est-ce que ?
 Aha. C'est bien vous.
@@ -275,7 +275,7 @@ Oui. Leur camp brûle au moment même où nous parlons.
 Ils se sont bien battus ?
 Pas assez bien. Notre attaque latérale ne leur a laissé aucune chance de se rassembler pour nous repousser.
 Où est notre camp ?
-Proche. On est remballés et prêts à partir. Stormfall ne serait pas heureuse de savoir qu'une armée républicaine approchait ses frontières.
+Proche. On a remballé et on est prêt à partir. Stormfall ne serait pas heureuse de savoir qu'une armée républicaine approche ses frontières.
 Oh, crois-moi, Stormfall est suffisamment occupée avec ces âmes tourmentées qui errent dans ses campagnes !
 Encore un tremblement de terre ! Tenez-vous prêts ! Le démon que nous avons croisé est en train d'écraser ces terres.
 Ce démon que nous avons croisé est en train de torturer ces terres.
@@ -304,7 +304,7 @@ Bien battus, {mon frère|ma sœur !}
 Je connais cette odeur. Nous brûlons les corps ?
 Pas le choix. Tu as vu la nécromancie comme nous. Nous ne laisserons pas un tas de corps pour alimenter cette secte.
 Nous devrions combattre cette secte pendant que nous sommes ici. Stormfall est remplie de futurs cadavres.
-Tu sais très bien que Stormfall a refusé le protectorat de la République multiples fois. S'ils veulent se battre seuls, laisse-les mourir seuls.
+Tu sais très bien que Stormfall a refusé le protectorat de la République de multiples fois. S'ils veulent se battre seuls, laisse-les mourir seuls.
 Ils ne sont pas simplets, leur souveraineté mourrait si les troupes républicaines gardaient leurs terres pour eux.
 Tout a un prix. Il est temps pour eux de mériter leur souveraineté ou de mourir. Les Purificateurs rentrent. Nous rentrons chez nous, {mon frère|ma sœur}.
 Celui-ci est encore vivant.
@@ -404,7 +404,7 @@ J'entends ses murmures, sa vérité ! Le Dormeur est en moi !
 Je dois sauver le dernier si je veux des réponses !
 Même si nous n'avons pas réussi à vous arrêter, l'un des Primordiaux restants viendra…
 Et ce sera qui ? Hum ? Celui qui dérive dans le vide ? Le fou ? Ou celui trop occupé pour se soucier de quoique ce soit ? En ai-je oublié ?
-Écoutes la triste vérité Mizzeonth : personne ne viendra. Tu es toute seule.
+Écoute la triste vérité Mizzeonth : personne ne viendra. Tu es toute seule.
 Chacune de vos paroles est un poison. Finissez-en.
 {Avec plaisir. Mais d'abord, je dois avoir une petite discussion avec mon futur hôte. Approche !|Avec plaisir. Mais d'abord, je dois avoir une petite discussion avec ma future hôte. Approche !}
 Ah, un visage familier.
@@ -470,14 +470,14 @@ Je ne regarderai pas mon peuple souffrir sans rien faire. Foudrelame!
 Monseigneur?
 Choisissez vos prochaines paroles avec soin Monseigneur. Si ce chaos se répand au dernier quartier, la Maison Noirmarée cessera de soutenir votre règne.
 Tout comme la Maison Ventevif.
-Nous sommes tous trois en accord, votre règne ne vaut rien si les trois grandes maisons se prononcent contre vous. Les gens meurent de faim dans les rues, même la population ne vous soutiendra pas. Vous êtes à court d'options Damaskus: perdez nous, et vous perdez tout.
+Nous sommes tous trois en accord, votre règne ne vaut rien si les trois grandes maisons se prononcent contre vous. Les gens meurent de faim dans les rues, même la population ne vous soutiendra pas. Vous êtes à court d'options Damaskus: perdez-nous, et vous perdrez tout.
 Quels sont vos ordres, Monseigneur ?
 Monseigneur ?
 Tenez la population à distance.
 Sage décision.
 La brume ! Elle enveloppe toute la cité !
 Je n'entends rien du côté des bas quartiers ! Vous voyez quelqu'un ?
-Qu'est ce que c'est que ça ?
+Qu'est-ce que c'est que ça ?
 Vous croyez que c'est toxique ?
 L'air est si froid d'un coup !
 C'est... c'est irréel !
@@ -511,7 +511,7 @@ Eurrgh ! Je ne peux pas te soulever, trop... faible...
 Ne... ne me lâche pas !
 Ne te tiens pas les bras ballants, trouve leur une corde !
 Mais les gardes ne permettent pas au réfugiés de...
-La peste des gardes ! Qu'est ce que tu crois ? Qu'ils mettront une vieille femme au cachot pour avoir sauvé une vie ?
+La peste des gardes ! Qu'est-ce que tu crois ? Qu'ils mettront une vieille femme au cachot pour avoir sauvé une vie ?
 Alors trouve-moi une corde !
 Mais... mais il n'y a aucune corde à trouver... toutes nos fournitures sont soit abandonnées dans la brume soit réquisitionnées par la Garde de la Cité !
 La cité est condamnée si nous ne faisons pas de notre mieux pour nous entraider ! J'en ai fini d'être paralysé par la peur !
@@ -535,7 +535,7 @@ Oui monsieur !
 Alors fiston, dis-moi ce que tu sais.
 Glacial... mort... partout. Les morts se lèvent... des fosses communes qu'on avait creusées pendant l'invasion des Svriirs... on s'est fait massacrer...
 Des signes de Sandor ?
-On s'est retirés... il a choisi de rester en arrière pour trouver l'avant-garde et la ramener ici.
+On s'est retiré... il a choisi de rester en arrière pour trouver l'avant-garde et la ramener ici.
 Qu'ils soient maudits, lui et son sens du devoir !
 Bravo fiston, tu peux te reposer maintenant.
 Que quelqu'un m'aide à le dégager !
@@ -582,7 +582,7 @@ Un Eos, c'est comme un Inquisiteur chez eux. Eos Gernese mène le groupe près d
 Bon d'accord. Et comment tu t'es retrouvée derrière ce... mur de ténèbres ?
 La Confrérie de l'Aube a repéré une bande de guerriers de la Horde venant dans leur direction. Comme les Portejours m'ont aidée à fuir la Republique, j'ai dû me battre à leurs côtés contre les vénérateurs des ténèbres qui nous envahissent.
 On les a écrasés, mais je ne peux pas m'empêcher de penser qu'ils n'étaient pas là pour nous battre et que le front des vénérateurs des ténèbres ne faisait que perdre notre temps pour que leurs shamans accomplissent une sorte de... rituel. Je les ai vus sacrifier l'un des leurs... 	
-Laisse moi deviner : ce mur de ténèbres est issu du rituel ? Ça sent mauvais pour nous.
+Laisse-moi deviner : ce mur de ténèbres est issu du rituel ? Ça sent mauvais pour nous.
 C'est peut-être la première étape d'un grand procédé. Ce sortilège nous coince à cette position.
 Une idée de pourquoi la Horde attaquerait ?
 Honnêtement je ne suis pas convaincue que ce soit l'initiative de la horde, le cultiste que tu viens de tuer menait leur rituel, et il ne faisait certainement pas partie de la tribu. Une autre force est en jeu.
@@ -624,10 +624,10 @@ Car c'est bien ce que nous ferons : venger.
 Et qui suis-je {censé|censée} venger au juste ?
 Ma soeur. Vous tuerez celui qu'on nomme Pitié. Les esprits m'ont porté la nouvelle de sa mort ainsi que de la justice ayant pris la forme {d'un champion: mon vengeur|d'une championne: ma vengeresse}.
 Vous êtes Zima ! Écoutez, si je fais ce que vous dites, vous m'aiderez à mettre fin à son sortilège ?
-C'est pour cette raison que nous nous sommes {rencontrés|rencontrées}. Remettez moi sur mon chemin, je vous remettrai sur le votre.
+C'est pour cette raison que nous nous sommes {rencontrés|rencontrées}. Remettez-moi sur mon chemin, je vous remettrai sur le votre.
 D'ordinaire, je ne pactise pas avec les sorcières, mais je n'ai pas le temps pour ça, marché conclu !
 Enfin libres! L'arène de Pitié est au nord, il paiera sa traîtrise.
-On doit se battre au travers les fanatiques de Pitié. Soyez prêts pour n'importe quoi dans les bois.
+On doit se frayer un chemin parmi les fanatiques de Pitié. Soyez prêts pour n'importe quoi dans les bois.
 Alors... comment avez-vous fini en cage ?
 Ma soeur et moi étions les shamans les plus puissantes de la tribu, suivant les ombres des esprits, l'héritage de nos anciennes coutumes.
 Mais tout cela a changé quand les premiers émissaires sont arrivés...
@@ -637,8 +637,8 @@ Pitié est un imbécile naïf qui n'a pas compris qu'un marché avec les pions d
 Vous vous êtes opposée à sa décision ?
 Nous avons réagi trop tard, son esprit était déjà rempli de mensonges. Tenter de le convaincre était une erreur. Nous aurions dû le tuer.
 Mais la mort est un jeu de patience. Avec vous, il rencontrera sa perte, vengeur.
-Pourquoi le Culte du Dormeur s'est-il intéressé à votre tribu ? Qu'est ce qu'ils veulent ?
-Des télépathes. Nous sacquons des villes à la quête d'humains aux esprits supérieurs, des hôtes idéaux pour la possession d'entités surnaturelles.
+Pourquoi le Culte du Dormeur s'est-il intéressé à votre tribu ? Qu'est-ce qu'ils veulent ?
+Des télépathes. Nous pillons des villes à la quête d'humains aux esprits supérieurs, des hôtes idéaux pour la possession d'entités surnaturelles.
 Nous vendons ces innocents au Culte du Dormeur... qui s'en servent comme des vaisseaux pour leurs seigneurs maléfiques.
 Évidemment, les hôtes sont une des ressources les plus précieuses pour les sectes.
 Qu'espériez-vous avoir en échange ?
@@ -674,7 +674,7 @@ Tu... to... toi ! Ta mort sera effroyable. EFFROYABLE !
 Elle n'a pas été nourrie depuis trois semaines. J'espère que ta chair est tendre.
 Trois esclaves à celui qui terrasse {cet|cette} imbécile !
 Allez...
-Qu'est ce que tu m'ennuies, tu ne sais même pas bien mourir. Qu'est ce que tu veux, bon sang...?
+Qu'est-ce que tu m'ennuies, tu ne sais même pas bien mourir. Qu'est-ce que tu veux, bon sang...?
 Ta tête. Je n'ai aucune "pitié" pour ceux qui marchandent avec les sectes.
 Oh alors c'est pour ça que tu es là ? Pour arrêter notre expansion ?
 Il ne restera rien à gouverner sauf un cimetière quand le Culte du Dormeur en aura fini avec vous !
@@ -694,7 +694,7 @@ Et maintenant je marche derrière une sorcière dans son portail ténébreux... 
 Ombres, entendez mon appel !
 Ssshhhh, sois en paix ma soeur, je suis là. Je te guiderai au travers l'Eriebe, voile de la mort.
 Que s'est-il passé ?
-Qu'est ce que tu crois ? Une vague de tuerie sans fin, c'est ça qui s'est passé... comme rien que j'aie jamais vu !
+Qu'est-ce que tu crois ? Une vague de tuerie sans fin, c'est ça qui s'est passé... comme rien que j'aie jamais vu !
 Reste-t-il des forces ?
 Les derniers Frères que j'ai vus étaient barricadés dans leur Chambre Forte. Ceux qui ont tenté de se battre dehors sont devenus morts-vivants.
 Bon sang, j'avais commencé à bien aimer ces gars-là. Je suppose que ça n'a plus d'importance.
@@ -711,7 +711,7 @@ Réponses à quoi ?
 À tout. Ils connaissent peut-être l'origine de mes pouvoirs, de mon destin. Val, je n'ai aucune idée de qui je suis... c'est peut-être ma seule chance de comprendre...
 Val ? Qu'en dis-tu ?
 Je dis... d'accord, pourquoi pas. Faisons face à une armée à nous deux.
-Qu'est ce qu'on ferait pas pour sa famille...
+Qu'est-ce qu'on ferait pas pour sa famille...
 Val ? On devrait peut-être parler d'un...
 Yah !
 ... plan...
@@ -730,13 +730,13 @@ Où est Edric ?
 Il... il n'a pas survécu.
 Quoi ? Pourquoi ? Comment ? La dernière fois que je l'ai vu Maëlys était encore de son côté, ne me dis pas que la greluche l'a blessé ?
 Non... c'était moi.
-Qu'est ce qui s'est passé ?
+Qu'est-ce qui s'est passé ?
 Peu après que tu as tué Maëlys, il a été promu Justicar à sa place... il s'est mis à ma recherche pour me ramener pour exécution, prétendant que j'avais trahi la République.
 J'ai essayé d'éviter le combat mais... il n'y avait pas moyen... quelque chose s'est emparé de son esprit et l'a retourné contre nous.
 Quelque chose ? Tu veux dire Heimlock ? Le salaud a dû manipuler la loyauté d'Edric pour le retourner contre nous !
-{Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse rester en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie pour nous... ou se souciait.|Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse m'échapper en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie pour nous... ou se souciait.}
+{Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse rester en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie de nous... ou se souciait.|Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse m'échapper en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie de nous... ou se souciait.}
 Pourquoi aurait-il tout d'un coup envoyé Edric pour me tuer ? Ça n'a aucun sens. Nous étions les enfants d'Heimlock, il ne voudrait pas nous dresser les uns contre les autres !
-Ça ne me surprendrait si c'était encore un de ses jeux tordus, pour tester la loyauté d'Edric. Laisse le plus fort des trois survivre, débarrasse-toi des plus faibles ?
+Ça ne me surprendrait pas si c'était encore un de ses jeux tordus, pour tester la loyauté d'Edric. Laisse le plus fort des trois survivre, débarrasse-toi des plus faibles ?
 Merde Edric... pourquoi tu n'as pas pu voir clair...
 Val'... je sais que ce n'est pas facile mais on doit avancer...
 Je... je sais... je... je vais bien.
@@ -753,21 +753,21 @@ Quelqu'un est en vie !?
 Entrez ! Vite ! Ils arrivent !
 Par la merci du soleil !	
 Qui est-{il|elle}?
-Qu'est ce {qu'elle|qu'il} veut ?
+Qu'est-ce {qu'elle|qu'il} veut ?
 Ami ou ennemi ?
 {Laissez-le|Laissez-la} entrer ! Et fermez-moi ce foutu portail !
 Vous l'avez entendu. Ne vous en faites pas, je suis là pour vous aider.
-Nous t'avons déjà {vu|vue}. Tu es {le garçon|la fille} du Mur de Ténèbres, n'est ce pas ?
+Nous t'avons déjà {vu|vue}. Tu es {le garçon|la fille} du Mur de Ténèbres, n'est-ce pas ?
 Oui. Le Mur de Ténèbres est tombé ! Je suis {venu|venue} vous sortir d'ici !
-Valeria est là haut en train d'empêcher que la Chambre soit inondée de nouveaux morts-vivants, alors c'est notre chance d'évacuer tout le monde. Allons y !
+Valeria est là-haut en train d'empêcher que la Chambre soit inondée de nouveaux morts-vivants, alors c'est notre chance d'évacuer tout le monde. Allons y !
 Vous m'écoutez ?
-Tu es {un Exalté|une Exaltée}, n'est ce pas ?
+Tu es {un Exalté|une Exaltée}, n'est-ce pas ?
 Je suis {celui|celle} qui essaie de vous faire bouger !
 Attendez... c'est quoi {un Exalté|une Exaltée} ?
 Les Exaltés sont des personnes exceptionnelles dont les destins sont mêlés avec tous leurs semblables, tirant de leurs expériences personnelles ainsi que tirant des votres.
 Il faut de l'entraînement, mais si tu le cherches, tu devrais ressentir ce lien avec d'autres Exaltés si tu les rencontres. Tu devrais ressentir notre lien.
 Vous dites que ce qui m'arrive vous arrive à vous aussi ?
-Oui. Je suis sûr que tu as plein de questions en tête. Je te dirais ce que je sais quand nous serons saufs. Si Valeria est là haut toute seule, nous ne pouvons pas traîner ici. Nous devons saisir la chance qu'elle nous offre !
+Oui. Je suis sûr que tu as plein de questions en tête. Je te dirais ce que je sais quand nous serons saufs. Si Valeria est là-haut toute seule, nous ne pouvons pas traîner ici. Nous devons saisir la chance qu'elle nous offre !
 Bon d'accord, alors c'est quoi le plan ?
 Nous ouvrirons le Portail de l'Aube et taillerons un chemin jusqu'à la lumière du jour. Parle à mes hommes quand tu seras prêt.
 Vous êtes blessé, vous pensez pouvoir tenir le coup ?
@@ -807,22 +807,22 @@ Unis dans la lumière !
 Un dernier combat, avec le Chant Brûlant à nos côtés !
 Ils envoient tout ce qu'ils ont ! Ils veulent assombrir sa lumière !
 Le jour est à nous ! L'espoir nous illumine !
-Rassemblez vous au Portail de l'Aube, nous sortons en force !
+Rassemblez-vous au Portail de l'Aube, nous sortons en force !
 Vous vous êtes bien débrouillés. Un dernier effort et nous serons sortis de ce cimetière.
-Rassemblez vous autour du feu ! Ses lumières y transparaissent !
+Rassemblez-vous autour du feu ! Ses lumières y transparaissent !
 Toujours vivante ?
 À peu près.
 Tu t'es bien débrouillée, ma soeur.
 Je sais.
-Fait panser tes blessures et repose-toi. Je nous sors de tout ça.
+Fais panser tes blessures et repose-toi. Je nous sors de tout ça.
 Plus facile à dire qu'à faire. Ton amie n'ira nulle part dans son état. Et nous non plus.
 Je me débrouillerai.
 Épargne-moi.
 Ta fierté ne te mènera qu'à une mort prématurée. Nous te remettrons sur pied, mais pour l'instant, tu dois te reposer.
 Alors, maintenant quoi ?
 Amène le conflit aux ennemis. Fais-leur payer la mort de mes adelphes.
-Au départ les eaux de la Rivière Galatha se sont asséchées tout d'un coup. Auparavant elle ruisselait doucement près de la ville voisine de Helmshire jusqu'à nos murs et au delà jusqu'aux Chutes de Galatha.
-Mais avant que nous puissions enquêter, on nous a rapporté une armée de Barbares en marche vers nous. Pendant que nous nous battions contre eux, le Culte du Dormeur à utilisé le lit de la rivière pour envoyer des morts-vivants au point le plus faible de nos murs. C'est ainsi que les impies se sont infiltrés.
+Au départ les eaux de la Rivière Galatha se sont asséchées tout d'un coup. Auparavant elle ruisselait doucement près de la ville voisine de Helmshire jusqu'à nos murs et au-delà jusqu'aux Chutes de Galatha.
+Mais avant que nous puissions enquêter, on nous a rapporté une armée de Barbares en marche vers nous. Pendant que nous nous battions contre eux, le Culte du Dormeur a utilisé le lit de la rivière pour envoyer des morts-vivants au point le plus faible de nos murs. C'est ainsi que les impies se sont infiltrés.
 Suit la rivière, trouve Helmshire, et découvre l'origine de cette marée morte-vivante. Arrête la cause de tout ceci. Toi et moi avons beaucoup à nous dire une fois cette tâche accomplie.
 Trouve Helmshire, arrête les nécromanciens. Compris.
 {Frère|Soeur} ! Reviens en un seul morceau. Compris ?
@@ -850,13 +850,13 @@ Non pas vraiment. Je sais seulement que Yudaï a cupidement tenté de vous rendr
 Un erreur que je ne compte pas reproduire.
 Parlons, {mortel|mortelle}. Je suis curieux vis-à-vis de ton espèce.
 Mon espèce ?
-Nous savons bien tous deux que vous n'appartenez pas au bétail commun, ou vous seriez déjà un vaisseau pour Yudaï. Alors, qu'êtes vous ? {Un sang-mêlé|Une sang-mêlée} ? De quoi ? Qui vous a {créé|créée} ?
+Nous savons bien tous deux que vous n'appartenez pas au bétail commun, ou vous seriez déjà un vaisseau pour Yudaï. Alors, qu'êtes-vous ? {Un sang-mêlé|Une sang-mêlée} ? De quoi ? Qui vous a {créé|créée} ?
 {Un Exalté|Une Exaltée}, quoi que cela puisse être. Vous en savez quelque chose ?
 Très étrange. Vous ne savez pas ce que vous êtes. Prenez garde mon enfant, les ignorants sont des esclaves.
 Vous devez être {perdu|perdue} dans ce vaste monde, pauvre âme.
 Vous vous amusez bien ? Yudaï aussi s'est amusé. Souvenez-vous de qui je suis, les démons ne font pas long feu contre leurs chasseurs, c'est comme ça que ça marche, non?
 Votre courage prend racine dans cette même ignorance, ce qui vous condamnera. J'ai pu me préparer pendant que vous étiez en chemin, constatez.
-Déclare toi, esclave !
+Déclare-toi, esclave !
 C'est... Pitié ?
 Bonne observation ! Vous vous connaissez déjà il me semble ?
 Mais allez ! Je l'ai déjà tué ce type !
@@ -869,7 +869,7 @@ Je vous déposséderai de toute vie !
 Le rituel s'est interrompu ! La marée de morts-vivants est finie.
 Un barrage de glace. C'est comme ça qu'ils ont bloqué la rivière Galatha.
 Vous ne l'enverrez pas là-bas {tout seul|toute seule} !
-Qui suis-je censé envoyer ? Je n'ai aucun homme de libre Valeria ! Mais il nous faut l'Helion ou tout sera perdu !
+Qui suis-je censé envoyer ? Je n'ai aucun homme de libre Valeria ! Mais il nous faut l'Hélion ou tout sera perdu !
 Que se passe-t-il ?
 Tes pouvoirs et toi n'êtes que des outils pour servir à ses fins, c'est ça qui se passe !
 Valeria.
@@ -891,17 +891,17 @@ Stormfall est gérée par le Culte du Dormeur, la cité voisine de Cordanon a é
 Et je suppose que vous avez un plan bien réfléchi pour arrêter tout ça ?
 Non.
 Pas bien réfléchi. Désespéré.
-Je veux reconstituer l'Helion mythique, l'artefact qui a fondé la Confrérie de l'Aube.
+Je veux reconstituer l'Hélion mythique, l'artefact qui a fondé la Confrérie de l'Aube.
 Avec ça, je pourrai conjurer le pouvoir d'Anathëa elle-même, fermant le portail abyssal et mettant fin au rituel.
 Vous êtes sûr que ça fonctionnera ?
 C'est le seul plan qu'on ait, étant donné le temps qu'il reste avant l'Ascension de la Furie.
-Val... qu'en penses tu ?
-C'est ce qui vient après qui m'inquiète. Il veut t'envoyer sans accompagnement chercher le premier fragment du Helion. Maintenant qu'Edric a disparu, je ne te perdrai pas sur une mission suicide, qu'importe que la situation soit désespérée.
+Val... qu'en penses-tu ?
+C'est ce qui vient après qui m'inquiète. Il veut t'envoyer sans accompagnement chercher le premier fragment de l'Hélion. Maintenant qu'Edric a disparu, je ne te perdrai pas sur une mission suicide, qu'importe que la situation soit désespérée.
 Alors je viens avec toi. Au moins si nous échouons, nous échouerons ensemble, non ?
 Nous n'échouerons pas. Qu'importe nos chances.
 Gernese, où se trouve le premier fragment ?
 Il était autrefois détenu dans la Cathédrale de l'Espoir où tu nous as trouvés. Mais après l'attaque de Culte de l'Abérrant sur la cité de Cordanon, un groupe zélé de la Confrérie est entré dans la Chambre, et a pris la relique jusqu'à la cité pour protéger la population du mal.
-Ils ne sont jamais revenus, mais il y a une chance que la moitié du Helion soit encore là.
+Ils ne sont jamais revenus, mais il y a une chance que la moitié de l'Hélion soit encore là.
 Nous suivons les pas d'hommes morts. Ah, ce plan me plait.
 Allons-y Val. Plus vite on s'en occupe, plus vite on rentre à la maison.
 On n'a pas de "maison".
@@ -913,8 +913,8 @@ Je veux nos fusils électromagnétiques sur ces deux traîtres ! Je les veux mor
 Pureté dans le sacrifice !
 Il tente de briser nos rangs ! Tenez-vous prêts ! Fermez les rangs !
 Tenez vos positions soldats !
-Vous êtes soldats purificateurs, battez vous jusqu'au dernier moment ! Pureté dans le Sacrifice !
-Les purificateurs se sont fait écraser !
+Vous êtes des soldats purificateurs, battez-vous jusqu'au dernier moment ! Pureté dans le Sacrifice !
+Les purificateurs se sont faits écraser !
 Je ne suis pas sûr que ce soit pour le mieux, maintenant nous sommes seuls !
 J'ai une impression de déjà-vu, la Bataille de Haute-Col !
 Ce n'est pas le moment pour les souvenirs ! Continue à hacher !
@@ -928,13 +928,13 @@ Enfin il s'est tu.
 Il faisait ce que lui semblait juste.
 Du moment qu'il le fait en silence, ça ne me dérange pas.
 Encore vivants? Je vous souhaite la bienvenue, mes invités.
-On en a râté un. Laisse-moi lui arracher la tête.
+On en a raté un. Laisse-moi lui arracher la tête.
 Attends ! Elle parle... Celle-ci est différente.
-Qu'est ce que tu es censée être, exactement ?
+Qu'est-ce que tu es censée être, exactement ?
 Nous sommes le Lambach, mais oui.
-Qu'est ce que tu es censée être, exactement ?
+Qu'est-ce que tu es censée être, exactement ?
 Ça t'imite ?
-Ça apprend. Nous serions honorés de vous avoir dans notre domaine pour pour mieux comprendre ce que vous êtes censés être.
+Ça apprend. Nous serions honorés de vous avoir dans notre domaine pour mieux comprendre ce que vous êtes censés être.
 Non non non… Ce n'est pas tout à fait exact… De toute façon, nous sommes juste des humains, rien d'intéressant. Vous en avez plein qui fuient en votre direction.
 Ils sont humains. Elle est humaine. Vous êtes quelque chose d'inconnu. Vous êtes {précieux. Précieux|précieuse. Précieuse} pour nous.
 Et moi non ? Charmant.
@@ -944,7 +944,7 @@ Charmant.
 Ça se moque de moi ?
 Je n'en suis même pas sûr.
 Je te dis tout de suite que je ne suis pas à l'aise à l'idée d'entrer dans le domaine de cette créature...
-C'est le chemin vers Cordanon et on doit encore trouver le premier fragment du Helion. On sait que le Culte de l'Abérrant a détruit la cité. Alors accroche-toi Val parce qu'on va y aller.
+C'est le chemin vers Cordanon et on doit encore trouver le premier fragment de l'Hélion. On sait que le Culte de l'Abérrant a détruit la cité. Alors accroche-toi Val parce qu'on va y aller.
 Je ne prévoyais pas de rebrousser chemin. Heimlock est dans cette direction et je veux des réponses... est-ce qu'il travaille pour ces types ?
 Peut-être que le Lambach le sait ? Après tout, c'est Heimlock qui l'a invoqué.
 C'est... irréel. J'ai l'impression qu'on ne sait plus rien sur Heimlock... si c'est vraiment lui.
@@ -980,7 +980,7 @@ Il a aussi dit ne pas avoir le choix.
 Il semblait sincère. Je sens qu'il se bat.
 Je me demande où il a pu partir... il ne peut pas être loin.
 Charmant.
-Qu'est ce que c'est que ça ?
+Qu'est-ce que c'est que ça ?
 On dirait que ça pompe du sang dans les environnements aux alentours... comme un coeur qui bat ?
 On devrait le détruire !
 Plus on se rapproche de Cordanon, plus l'environnement est corrompu.
@@ -992,9 +992,9 @@ Lambach n'a pas fini d'envelopper ces caves. Tant mieux pour nous.
 Ne parle pas trop vite. J'entend des Svriirs au loin. Et je ne pense pas qu'ils seront contents de nous voir.
 
 Cordanon est devant. Le coeur du territoire du Lambach, où sa corruption a commencé.
-La première moitié du Helion doit être quelque part la dedans. On le prend et on sort le plus vite possible.
+La première moitié de l'Hélion doit être quelque part la dedans. On le prend et on sort le plus vite possible.
 Il y a quelque chose devant, restez sur vos gardes.
-Qu'est ce que tu attends ? Fais-le !
+Qu'est-ce que tu attends ? Fais-le !
 Rien qu'un esclave...
 Allez ! Faites-le !
 Rien qu'un esclave !
@@ -1003,9 +1003,9 @@ Les jeux sont finis, ma fille, les esclaves ne méritent pas de famille.
 Aaaaaaaaaah !
 Val !
 Je ne peux pas... il est trop puissant...
-Les Enfants de Heimlock meurent aujourd'hui.
+Les Enfants d'Heimlock meurent aujourd'hui.
 Valeria: Je ne peux pas, il est trop puissant. 
-Heimlock: Les Enfants de Heimlock meurent aujourd'hui !
+Heimlock: Les Enfants d'Heimlock meurent aujourd'hui !
 Lambach: Pitié père ! Tue-moi ! Je renaîtrai comme partie du "nous" !
 Heimlock: Tu ne profaneras ni son corps ni sa mémoire.
 Lambach: Fais ton offre, faiseur de pacte, avant que ton maître ne t'y contraigne.
@@ -1017,7 +1017,7 @@ Lambach: Tu ne peux pas changer l'issue.
 Heimlock: Je refuse !
 Lambach: Admirable créature. Toujours des recoins de rébellion après toutes ces années de servitude.
 Lambach: Cependant. S'il ne met pas fin à ton existence, le Bras d'Ashtaroth le fera.
-%1: Qu'est ce que c'est que ça ?
+%1: Qu'est-ce que c'est que ça ?
 Lambach: Zaälbezül.
 Nehäreth pta enoss jadarathl!
 Il souhaite acquérir votre masse organique. Je vous invite à coopérer.
@@ -1028,26 +1028,26 @@ P'tiranis sek f'talar gamaron !
 Il réduira votre chair en miettes avant que la véritable moisson ne commence.
 Charmant.
 Dépêchons-nous, on doit courir trouver Heimlock.
-On n'est pas là pour ça. Le Helion est notre priorité !
+On n'est pas là pour ça. L'Hélion est notre priorité !
 Je m'en fous, on doit, soit le sauver, soit le tuer ! Il n'y a pas d'autre moyen !
-On le fera éventuellement, je te le promets !
+On le fera en temps voulu, je te le promets !
 Il t'a presque tuée une fois. Tu n'iras nulle part dans cet état et tu le sais.
 Val, tu peux te battre ?
-L'humaine risque très probablement de mourir sans notre intervention si elle pousse son corps à bout de ses limites plus longtemps.
+L'humaine risque très probablement de mourir sans notre intervention si elle pousse son corps au bout de ses limites plus longtemps.
 Ferme-la...
 Tu peux marcher ?
 Je crois.
 Bon, je te ramène à Gernese. Viens !
 Attends... on n'est pas venu ici pour partir les mains vides. On est à la porte de Cordanon. Va chercher ce putain d'artefact.
-Elle a raison. Si c'est bien l'Helion que vous cherchez, nous savons exactement où il se trouve, au plus profond du cœur de notre domaine.
-Honorez-nous, et acceptez notre invitation. Nous mettrons fin à nos jours près de nous.
+Elle a raison. Si c'est bien l'Hélion que vous cherchez, nous savons exactement où il se trouve, au plus profond du cœur de notre domaine.
+Honorez-nous, et acceptez notre invitation. Nous mettrons fin à vos jours près de nous.
 Je ne vais pas la laisser ici !
 Si elle est la raison de votre refus, nous la verrons rentrée, sauve, inaltérée, faible et mourante. Cela vous plairait-il ?
 Absolument pas, {il|elle} ne va pas entrer {seul|seule} pour l'infime chance que vous ayez ce que nous cherchons !
-Très bien, Lambach. Montrez-moi l'Helion mais ne lui faites pas de mal.
+Très bien, Lambach. Montrez-moi l'Hélion mais ne lui faites pas de mal.
 Quoi ?! Tu n'y penses pas ?
 Elle est beaucoup de choses, mais clairement pas une menteuse.
-Tu t'es ramenée ici sans trop de dégâts ? Merci de m'avoir {protégé|protégée} de Heimlock...
+Tu t'es ramenée ici sans trop de dégâts ? Merci de m'avoir {protégé|protégée} d'Heimlock...
 Tu fais {l'idiot|l'idiote}...
 Ça te fait bizarre de pas être l'idiote pour une fois ?
 Allez...
@@ -1058,7 +1058,7 @@ Bon, ne montre pas que tu as peur.
 Lambach, j'arrive ! Où est-ce que vous vous cachez ?
 Nous cacher ? Mais {cher invité|chère invitée}, nous ne sommes pas cachés... car nous sommes tout autour de vous.
 Nous devons admettre. Vous avez progressé plus vite que prévu. Nous voulions partager quelque chose avec vous, mais ce n'est pas tout à fait prêt.
-La seule chose que vous devriez partager est l'Helion.
+La seule chose que vous devriez partager est l'Hélion.
 C'est... quoi... ça ?
 Charmant. Charmant. Charmant. Charmant. Charmant. Charmant. Charmant. Charmant. Charmant.
 Valeria? Vous clonez Valeria ? Répondez-moi !
@@ -1079,23 +1079,23 @@ Les Exaltés...
 Vous et nous ne sommes pas si différents après tout.
 Nous sommes tous deux innombrables. Votre souche humaine semble se connecter les uns avec les autres, tirant le potentiel de vos camarades pour atteindre de nouveaux sommets de pouvoir.
 Plus forts ensemble. C'est pour ça que vous n'avez pas pu nous copier. Même vous, vous avez des limites, Lambach.
-En effet, {cher invité|chère invitée}. La seule chose que nous puissions répliquer était le tourment de Heimlock.
+En effet, {cher invité|chère invitée}. La seule chose que nous puissions répliquer était le tourment d'Heimlock.
 Une souffrance permanente que les mots ne suffisent pas à décrire.
-Qu'est ce qui le tourmente tant que ça ?
+Qu'est-ce qui le tourmente tant que ça ?
 Il est doté de libre arbitre tant que cela sert les intérêts du Prince Aveugle. Même tenu par une courte laisse, il a la conscience de plus en plus lourde à cause de son impuissance à protéger ce qu'il aime. Nous sommes surpris que son esprit ne se soit pas déjà brisé.
 Mais assez parlé de lui. Avant d'absorber votre masse organique, nous voulons que vous en sachiez plus sur nos succès que sur nos échecs.
 Ne vous donnez pas trop de mal... sérieusement.
 Nous avons progressé énormément sur sa réplique. Voyez donc.
 Oh non...
 Aaaaaaah !
-Tue moi !!!
+Tue-moi !!!
 Tu les as gâchées ! Heureusement que nous avons des rechanges.
-Ceci doit prendre fin Lambach... où est ce satané Helion qu'on puisse en finir ?
+Ceci doit prendre fin Lambach... où est ce satané Hélion qu'on puisse en finir ?
 Très bien. Tu es proche maintenant. Nous te rencontrerons là-bas.
 Un Catalyseur Primordial comme celui en dessous de Stormfall... Il redirige l'énergie de Cordanon vers le conflux. Merde, il est déjà complètement chargé.
 Bienvenue dans notre chambre personnelle, cher convive. C'est ici que notre créateur, Ashtaroth l'Abérrant, nous a créé, pour que nous puissions offrir son cadeau à Cordanon.
 Nous vous prions d'offrir votre masse organique. Votre puissance s'accroîtra comme jamais. Vous deviendrez quelque chose de mieux.
-Ça m'embête de vous décevoir, Lambach, mais c'est non. Vous avez dit savoir où le fragment du Helion se trouvait, et je ne vois rien.
+Ça m'embête de vous décevoir, Lambach, mais c'est non. Vous avez dit savoir où le fragment de l'Hélion se trouvait, et je ne vois rien.
 Nous n'avons pas menti.
 Le porteur précédent de l'artefact a atteint notre chambre et nous a défié.
 La relique que vous cherchez a rejoint le "nous". Vous pouvez entrer en contact avec une fois que vous aurez offert votre masse organique, car elle est en nous.
@@ -1103,33 +1103,33 @@ Vous... l'avez mangée? Bon sang Lambach... j'en ai assez de vos jeux, finissons
 Ne résistez pas, cher convive. Votre destin est d'évoluer.
 Une fois votre souche répliquée, nos armées deviendront irrépressibles !
 La prochaine étape de l'évolution est à portée de main, chair et furie fusionnées en "nous" !
-Réjouissez-vous, convive, nous saisirons peut-être le flux de ta conscience, mais votre masse organique se verra accordée l'immortalité comme partie de "nous" !
+Réjouissez-vous, convive, nous saisirons peut-être le flux de votre conscience, mais votre masse organique se verra accordée l'immortalité comme partie de "nous" !
 Ta résistance est une insulte, sang-mêlé !
-C'est en vain.
+C'est vain.
 Votre chair rejoindra l'innombrable.
 Le cadeau d'Ashtaroth vous fera renaître à nouveau.
 Je devrais dégager d'ici et ramener ceci à Gernese. Il saura quoi faire.
 Raaah, il n'y a pas d'autre moyen ?
 Plus tu résistes à nos prières, plus ta guérison prendra du temps !
 Tu es de retour. Dis-moi que tu as de bonne nouvelles.
-J'ai la première moitié du Helion.
+J'ai la première moitié de l'Hélion.
 Impressionnant. Je te l'ai dit. Tant que l'un d'entre nous se tient debout, il reste de l'espoir. Maintenant tu nous as assuré une chance d'arrêter l'Ascension de la Furie !
 Nous avons presque été tués là-bas... Val, comment tu te sens ?
 Mon état s'améliore... grâce à leur sorcellerie.
-Malheureusement, il n'est pas question de se reposer. Nous devons rejoindre mes Frères en garnison à la Cathédrale de la Vérité où la seconde moitié du Helion nous attend. Quand il sera de nouveau entier, ils marcheront avec nous vers la forteresse républicaine de Fort-Carmin.
-Vous êtes prompt à parler de guerre pour quelqu’un récemment blessé.
+Malheureusement, il n'est pas question de se reposer. Nous devons rejoindre mes Frères en garnison à la Cathédrale de la Vérité où la seconde moitié de l'Hélion nous attend. Quand il sera de nouveau entier, ils marcheront avec nous vers la forteresse républicaine de Fort-Carmin.
+Vous êtes prompt à parler de guerre pour quelqu’un ayant été récemment blessé.
 Nous les Exaltés sommes pourvus d'une endurance innée.
 C'est ce qu'on dit.
 Tout de même, il faudra plus que nous seuls pour se frayer un chemin jusqu'au rituel.
 Comment savez-vous que le conflux d'énergie est au sein de Fort-Carmin ?
 Quand mon ordre a aperçu les signes de l'Ascension de la Furie, nous les avons étudiés et... ils nous ont menés à cette forteresse de la République.
-Vous faisiez partie de l'opération de la Confrérie qui l'a attaqué ?
-Nous ne l'avons pas attaqué, nous voulions approcher l'étrange structure à son centre que les Républicains appellent "Monolithe", et étudier les signes de l'Ascension de la Furie pour mettre fin au rituel avant qu'il ne commence.
+Vous faisiez partie de l'opération de la Confrérie qui l'a attaquée ?
+Nous ne l'avons pas attaquée, nous voulions approcher l'étrange structure à son centre que les Républicains appellent "Monolithe", et étudier les signes de l'Ascension de la Furie pour mettre fin au rituel avant qu'il ne commence.
 Cependant à notre arrivée, le Monolithe s'est activé. Des sûppots démoniaques de la Furie sont apparus, pacifiant les Frères et les Républicains sans distinction et les envoyant après ceux qui avaient résisté.
 J'ai pu m'échapper grâce à mes pouvoirs, mais Fort-Carmin, qui protège désormais le lieu du rituel et de l'arrivée d'Ahriman, est tombée sous le joug de la Pacification.
 Oui c'est logique. Cette forteresse est connue même parmi les Républicains pour les secrets qui l’entourent, ça ne me surprend pas qu'elle ait servi à mettre ce "Monolithe" en quarantaine.
 Oui c'est logique. Cette forteresse est connue même parmi les Républicains pour être voilée dans le secret, ça ne me surprend pas qu'elle serve à mettre ce "Monolithe" en quarantaine.
-Bien, nous savons ce qu'il reste à faire. Donne moi le fragment du Helion, et préparez-vous tous deux à partir: la route qui nous attend ne sera pas agréable.
+Bien, nous savons ce qu'il reste à faire. Donne-moi le fragment de l'Hélion, et préparez-vous tous deux à partir: la route qui nous attend ne sera pas agréable.
 La population est dorénavant autorisée à entrer au palais, par ordre du Prince-Marchand ! Les blessés et les enfants d'abord !
 Merci ! Merci infiniment !
 Ne me remerciez pas, remerciez le Prince-Marchand.
@@ -1137,7 +1137,7 @@ Ce pourrait être sa dernière décision.
 Argh...
 Jessica ?
 Jessica !
-Qu'est ce qu'il lui arrive ?!
+Qu'est-ce qu'il lui arrive ?!
 Je crois qu'elle a des convulsions !
 Ou pire...
 Ne restez pas les bras ballants ! Je lui tiens la tête, prenez-lui les pieds !
@@ -1156,14 +1156,14 @@ Les murmures ! Faites-les taire ! Faites-les taire ! Ils sont dans ma tête ! To
 Ça fait longtemps qu'il est comme ça ?
 Quelques heures.
 Les gens s'agitent, faut qu'il arrête.
-Qu'est ce que tu proposes ?
+Qu'est-ce que tu proposes ?
 Faut lui mettre un bâillon.
 Essaye toi-même, il est fou, j'y ai presque laissé un doigt !
 J'ai faim.
 Tout le monde a faim. Dors, garde tes forces.
 Je ne peux pas mère, quand je le fais, j'entend des sombres murmures.
 Je vois... je vois quelque chose en approche...
-Qu'est ce que c'est?
+Qu'est-ce que c'est?
 Écartez-vous !
 Écartez-vous !
 Des survivants !
@@ -1198,13 +1198,13 @@ S'ils tentent encore de parler, coupez-leur la langue.
 Vous vous pavanez comme si vos titres signifiaient quoi que ce soit par les temps qui courent. Vous fermez l'oeil à la souffrance du peuple, et pourquoi ? Pour que votre précieux conseil puisse régner sur un cimetière ? Ne faites pas erreur, nous sommes à l'aube de notre extinction.
 Vous vous êtes tenus entre moi et mon peuple trop longtemps. Je rendrai le Joyau de la Mer quand nous aurons passé cette épreuve, mais pas à vous, à Stormfall et à son peuple.
 Maintenant dehors ! Tous dehors ! Vous partagerez le destin de cette cité !
-J'aurais du agir bien plus tôt...
-Qu'est ce que tu fixes comme ça ?
-La lumière dans la brûme. Elle part et revient.
+J'aurais dû agir bien plus tôt...
+Qu'est-ce que tu fixes comme ça ?
+La lumière dans la brume. Elle part et revient.
 Et alors ? Il y en a plein, de ces lumières bleues. Elle me font froid dans le dos.
 Non, non, non. Celle-ci est différente. Elle a un rythme, on dirait un signal lumineux.
-Un signal ? Il y a quoi, là bas ?
-L'Arène... je... je pense qu'il y a des survivants là bas !
+Un signal ? Il y a quoi, là-bas ?
+L'Arène... je... je pense qu'il y a des survivants là-bas !
 Mais ça voudrait dire que la brume n'est pas empoisonnée ? Il pourrait y en avoir d'autres plus bas !
 Si tu regardes assez longtemps, tu les verras.
 Verras quoi ?
@@ -1217,10 +1217,10 @@ Que font-ils…
 {Qu'y a t'il?|Qu'y a t'il?}
 Je n'en suis pas sûr.
 {On a atteint la Cathédrale de la Vérité, allons-y.|On a atteint la Cathédrale de la Vérité, allons-y.}
-Bien d'accord, nous avons tous besoins d’un peu de repos.
+Bien d'accord, nous avons tous besoin d’un peu de repos.
 Nous ne trouverons aucun repos ici.
 Que font-ils à attendre en pleine vue ? Et si ça, ça ne vous choque pas, la fumée jaune le devrait.
-Qu'est ce que c'est ? Une sorte de signal ?
+Qu'est-ce que c'est ? Une sorte de signal ?
 Cela signifie que leurs halls sont envahis. Nous prendrons une autre route.
 Nous avons construit un réseau de cavernes dans les fondations de la Cathédrale à l'apogée du conflit avec la République. Des camps de repli au cas où quelque chose arrivait.
 Nous devrions en trouver un près d'ici.
@@ -1232,40 +1232,40 @@ Près... près du feu de camp.
 Gernese ? C'est bien vous ?
 Gendris, tu es vivant mon frère. Tu es le plus haut gradé ?
 Je l'étais, mais vous êtes là maintenant, Eos.
-Que s'est-il passé là haut ?
+Que s'est-il passé là-haut ?
 Il y a quelque semaines, un sûppot démoniaque d'un nouveau genre s'est révélé à nous. Il a dit s'appeler Sinadrahel, Héraut du Prince Aveugle. Mes adelphes ont tenté de le bannir mais... il n'a même pas eu à se défendre... il les a tout simplement changés...
 
 On aurait dit qu'ils avaient perdu la volonté de se battre, subjugués par sa volonté. Assez vite, la plupart d'entre nous sommes tombés devant sa magie...
 
 La Pacification... elle a commencé...
-Qu'est ce que c'est ?
+Qu'est-ce que c'est ?
 
 L'Ascension de la Furie. Tandis que l'invocation d'Ahriman approche, le Culte du Prince Aveugle se renforce et s'enhardit. Sinadrahel mène la première vague de légions à venir.
 Par la Pitié de la Dame... nous devons avertir ce qui reste de nos armées et...
 Et quoi? Nourrir les rangs d'Ahriman plus encore ? Nous n'avons pas le temps pour ça. Agissons maintenant.
-Qu'envisagez vous ?
-Le Sanctuaire Intérieur est-il enfreint ?
+Qu'envisagez-vous ?
+Le Sanctuaire Intérieur est-il profané ?
 Non, je l'ai scellé moi-même avant de mener ceux que je pouvais convaincre ici.
-Bien. Nous assemblerons l'Helion, et utiliserons son pouvoir pour halter l'invocation de Ahriman.
+Bien. Nous assemblerons l'Hélion, et utiliserons son pouvoir pour arrêter l'invocation d'Ahriman.
 Vous n'êtes pas sérieux...
-Oh crois moi je le suis.
-{Qu'est ce que vous entendez par ça?|Qu'est ce que vous entendez par ça?}
-Vous ne leur avez pas dit, n'est ce pas? C'est pour ça qu'ils ont donné leur accord.
-Que se passera-t-il si on utilise l'Helion? Gernese ?
-Anathëa, la Dame de l'Aube elle-même a crée l'Helion en l'imprégnant d'une partie d'elle. Elle l'a offert à nos ancêtres pour que nous ayons une arme qui permette d'invoquer ses pouvoirs pour défendre l'humanité en dernier recours.
+Oh crois-moi je le suis.
+{Qu'est-ce que vous entendez par là?|Qu'est-ce que vous entendez par là?}
+Vous ne leur avez pas dit, n'est-ce pas? C'est pour ça qu'ils ont donné leur accord.
+Que se passera-t-il si on utilise l'Hélion? Gernese ?
+Anathëa, la Dame de l'Aube elle-même a créé l'Hélion en l'imprégnant d'une partie d'elle. Elle l'a offert à nos ancêtres pour que nous ayons une arme qui permette d'invoquer ses pouvoirs pour défendre l'humanité en dernier recours.
 Cette arme n'a servi qu'une fois, il y a des siècles de cela. Elle a bien servi sa fonction et nous a octroyé la victoire, mais quelque chose d'autre s'est passé que nul n'aurait su anticiper.
 Son emploi... a brisé quelque chose, même aujourd'hui nous ne savons pas pourquoi c'est arrivé, mais conjurer les pouvoirs d'Anathëa pour juste quelques secondes a provoqué l'ouverture d'une faille abyssale loin au nord, facilitant le passage d'entités démoniaques dans ce monde.
 En trouvant leur salut, ils ont mis toutes les générations futures en péril.
-Réalisant que le prix à payer était trop lourd, nos ancêtres ont scindé en deux l'Helion et ont caché ses fragments dans deux chambres fortes, interdisant sa reconstruction.
+Réalisant que le prix à payer était trop lourd, nos ancêtres ont scindé en deux l'Hélion et ont caché ses fragments dans deux chambres fortes, interdisant sa reconstruction.
 C'est trop risqué Gernese, il faudrait être fou pour manier tant de pouvoir !
 Je me fiche pas mal du charabia historique. À ce que je vois, la Pacification commence déjà à se répandre, les Républicains y ont succombé à Fort-Carmin, et votre précieuse Cathédrale est déjà corrompue. Et Ahriman n'est même pas encore là ! Nous n'avons pas le luxe de jouer la sécurité.
 {Vous auriez dû nous en parler Gernese. Mais elle a raison, un côté a un plan, l'autre n'a que des doutes. Je choisis le plan.|Vous auriez dû nous en parler Gernese. Mais elle a raison, un côté a un plan, l'autre n'a que des doutes. Je choisis le plan.}
 C'est blasphématoire...
 Nous ferons ce qui doit être fait, mon frère. Nous arrêterons Ahriman. Avec ou sans ton aide.
 Je... je ne sais pas... je ne peux pas prendre cette décision... les risques sont trop grands...
-Nous ne pouvons pas attendre que ta décision soit faite. Je vais préparer une prière pour protéger mes hommes et Valeria contre la Pacification pour la bataille à venir. En attendant tu entreras dans la Chambre pour récupérer le second fragment du Helion.
+Nous ne pouvons pas attendre que ta décision soit faite. Je vais préparer une prière pour protéger mes hommes et Valeria contre la Pacification pour la bataille à venir. En attendant tu entreras dans la Chambre pour récupérer le second fragment de l'Hélion.
 {Attendez, je ne serai pas pacifié moi ?|Attendez, je ne serai pas pacifiée moi ?}
-Tu es {un Exalté|une Exaltée}, montre-toi digne de ce titre. Tu y résisteras et tu prévaudras. Maintenant va, accorde toi à l'autel du Chant Brûlant au bout de chaque aile de la Cathédrale et déverrouille le Sanctuaire Intérieur, là tu trouveras ce que tu cherches.
+Tu es {un Exalté|une Exaltée}, montre-toi digne de ce titre. Tu y résisteras et tu prévaudras. Maintenant va, accorde-toi à l'autel du Chant Brûlant au bout de chaque aile de la Cathédrale et déverrouille le Sanctuaire Intérieur, là tu trouveras ce que tu cherches.
 Bonne chance, {frère|soeur}.
 Tu penses qu'on a pris la bonne décision ? En abandonnant nos adelphes comme ça ?
 Tu l'as vu aussi bien que moi, on n'a pas été entraîné pour combattre de tels maux. Si on était resté, on serait tous devenus leurs esclaves.
@@ -1278,7 +1278,7 @@ Car le Chant Brûlant est avec moi,
 Et je suis avec elle,
 Un avec la lumière !
 Unis dans la lumière !
-Depuis est-ce là ?
+Depuis quand est-ce là ?
 Le rayon ? Il est apparu peu de temps après la chute de Cordanon. Il semble venir de là-bas... Mais je me demande ce qu'il y a de l'autre côté ?
 Rien de bon, c'est sûr. Il est en direction de Fort-Carmin, la forteresse républicaine.
 Si je devais parier là-dessus... je dirais qu'ils se débrouillent aussi bien que nous à l'heure qu'il est.
@@ -1293,22 +1293,22 @@ N'y compte pas. Ces vermines républicaines ne feront pas de compromis avec nous
 {Elle illumine les ténèbres et amène la clarté. Notre voie est la seule qui nous donne tous une chance de survie.|Elle illumine les ténèbres et amène la clarté. Notre voie est la seule qui nous donne tous une chance de survie.}
 {Accordé à la Vérité et à l'Espoir, le Portail de l'Aube devrait s'ouvrir à moi désormais.|Accordée à la Vérité et à l'Espoir, le Portail de l'Aube devrait s'ouvrir à moi désormais.}
 {Il y a quelque chose de louche.|Il y a quelque chose de louche.}
-{Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même fait pacifier.|Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même fait pacifier.}
+{Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même faits pacifier.|Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même faits pacifier.}
 {Je devrais être content qu'aucune entité n'ait pu entrer pour les posséder.|Je devrais être contente qu'aucune entité n'ait pu entrer pour les posséder.}
 Tu pensais vraiment que ma fierté avait une quelconque importance ? T'affronter seul aurait été idiot.
 Si tu avais accepté mon don tu n'aurais pas eu à tuer les tiens !
-Les mortels qui tuent les mortels pour la guerre, la cupidité, la jalousie, nous y mettrons bientôt fin. D'ici là, entretuez vous !
+Les mortels qui tuent les mortels pour la guerre, la cupidité, la jalousie, nous y mettrons bientôt fin. D'ici là, entretuez-vous !
 Leur perte est de ta faute. Tu n'amènes que la mort et la misère où que tu ailles. Tu es une insupportable maladie que nous allons guérir dès aujourd'hui.
 Venez, frères, ressentez la Furie qui martèle en votre poitrine, acceptez-la, DÉCHAÎNEZ-LA !
 Colère, courroux, furie, rage !
-Accepte le ! Tu ne peux plus nous arrêter maintenant ! L'Ascension de la Furie est proche !
+Accepte-le ! Tu ne peux plus nous arrêter maintenant ! L'Ascension de la Furie est proche !
 Nous sauverons ce monde !
 {Retourne voir ton maître, dis-lui qu'il sera le prochain !|Retourne voir ton maître, dis-lui qu'il sera le prochain !}
 {Maintenant, je peux obtenir ce pour quoi je suis venu.|Maintenant, je peux obtenir ce pour quoi je suis venue.}
-{Bon, retournons voir Gernese. L'Helion sera de nouveau complet.|Bon, retournons voir Gernese. L'Helion sera de nouveau complet.}
+{Bon, retournons voir Gernese. L'Hélion sera de nouveau complet.|Bon, retournons voir Gernese. L'Hélion sera de nouveau complet.}
 {Gernese, j'ai fait ma part, voilà le second fragment. C'est à toi d'en faire quelque chose.|Gernese, j'ai fait ma part, voilà le second fragment. C'est à toi d'en faire quelque chose.}
 Avoir le pouvoir du Chant Brûlant à ses ordres…
-Que l'Helion remplisse à nouveau sa fonction ! Anathëa, que ta lumière mette fin à l'Ascension de la Furie !
+Que l'Hélion remplisse à nouveau sa fonction ! Anathëa, que ta lumière mette fin à l'Ascension de la Furie !
 Tant de pouvoir est contenu dedans... une fraction de son énergie…
 {Bien, nous avons l'arme. Maintenant, nous sommes censés avoir une armée de Clairvoyants derrière nous en route vers le Monolithe... Comment faire pour traverser les murs de Fort-Carmin avec si peu d'hommes ?|Bien, nous avons l'arme. Maintenant, nous sommes censés avoir une armée de Clairvoyants derrière nous en route vers le Monolithe... Comment faire pour traverser les murs de Fort-Carmin avec si peu d'hommes ?}
 Pendant que tu obtenais le second fragment, nous nous sommes occupés de trouver une entrée.
@@ -1334,7 +1334,7 @@ Alors ça y est ? On part en guerre ? Contre les Purificateurs, contre le Pacte 
 {On dirait. Tu connais le plan ?|On dirait. Tu connais le plan ?}
 Je connais bien le leur. Et le notre ?
 {Quoi le "notre" ? On ouvre le portail.|Quoi le "notre" ? On ouvre le portail.}
-Je parle de Heimlock. Tu sais qu'il sera là. Ouvrir le portail c'est une chose, mais faut qu'on le retrouve et qu'on en finisse... d'une manière ou d'une autre.
+Je parle d'Heimlock. Tu sais qu'il sera là. Ouvrir le portail c'est une chose, mais faut qu'on le retrouve et qu'on en finisse... d'une manière ou d'une autre.
 {Je sais soeurette. On en finit une bonne fois pour toutes.|Je sais soeurette. On en finit une bonne fois pour toutes.}
 Qu'importe nos chances ?
 {Qu'importe nos chances.|Qu'importe nos chances.}
@@ -1343,8 +1343,8 @@ Qu'importe nos chances ?
 {Si Heimlock est possédé, tu penses qu'on peut encore le sauver ?|Si Heimlock est possédé, tu penses qu'on peut encore le sauver ?}
 Il n'est pas possédé.
 {La différence est subtile.|La différence est subtile.}
-Je ne suis pas d'accord. Il s'est volontairement mis au service de Ahriman... Je ne sais pas pourquoi, mais il l'a fait quand même. On ne peut pas le sauver de lui même, si ?
-Je ne sais pas. On a éveillé sa volonté et il cherche à résister. Il se bat contre le contrôle de Ahriman, quand bien même cela le fait souffrir. Est-ce qu'on ne devrait pas l'aider au lieu de l'abattre ?
+Je ne suis pas d'accord. Il s'est volontairement mis au service d'Ahriman... Je ne sais pas pourquoi, mais il l'a fait quand même. On ne peut pas le sauver de lui-même, si ?
+Je ne sais pas. On a éveillé sa volonté et il cherche à résister. Il se bat contre le contrôle d'Ahriman, quand bien même cela le fait souffrir. Est-ce qu'on ne devrait pas l'aider au lieu de l'abattre ?
 Il a retourné Edric contre nous, il m'a abandonnée alors qu'il aurait pu arrêter Maëlys. Même si on pouvait le ramener, je ne suis pas sûre de pouvoir lui pardonner ce qu'il nous a fait.
 {Tu juges le Grand Inquisiteur. Moi je vois un prisonnier en sa propre tête qui lutte pour quelques instants de liberté. Tu aurais fait mieux toi ? Et moi ?|Tu juges le Grand Inquisiteur. Moi je vois un prisonnier en sa propre tête qui lutte pour quelques instants de liberté. Tu aurais fait mieux toi ? Et moi ?}
 Je n'aurai pas conclu de pacte avec Ahriman en premier lieu. Mais je vois ce que tu veux dire.
@@ -1373,10 +1373,10 @@ Allez allez ! On bouge !
 Allons écraser du Portejour.
 Feu !
 Il ne reste que trois obus ! Où est la ligne d'approvisionnement ?!
-Regardez ! Les renforts partent tous vers la Cellule G ! Mais qu'est ce qu'ils foutent là-bas ?
+Regardez ! Les renforts partent tous vers la Cellule G ! Mais qu'est-ce qu'ils foutent là-bas ?
 On ne peut pas percer une telle magie, il faut avertir la ligne arrière ! Nous devons battre en retraite !
 Où sont nos renforts ? Quels sont les ordres ?
-Nous n'y a aucun ordre ! Nous sommes coupés du commandement ! Nous sommes seuls !
+Il n'y a aucun ordre ! Nous sommes coupés du commandement ! Nous sommes seuls !
 Aaarrgh, je ne sens plus mes jambes !
 Un médecin ! Où est le putain de médecin !
 Reste avec moi !
@@ -1397,7 +1397,7 @@ D'autres arrivent encore !
 {Il faut qu'on l'aide !|Il faut qu'on l'aide !}
 Je ne cèderai pas !
 Il résiste à l'appel d'Ahriman !
-{On doit lui gagner du temps !|On doit lui gagner du temps !}
+{On doit lui faire gagner du temps !|On doit lui faire gagner du temps !}
 Vous ne me briserez pas !
 Le plus il se débat, le plus ils envoient après lui !
 {Ça veut dire qu'il est en bonne voie... Ils sont en train de paniquer !|Ça veut dire qu'il est en bonne voie... Ils sont en train de paniquer !}
@@ -1418,16 +1418,16 @@ Un instant. Père : De quel côté es-tu ?
 Au sein de ce cauchemar, vous m'avez réveillé. Votre bataille a inspiré en moi la volonté de me battre.
 {Ce n'est pas fini, il faut qu'on arrête l'Ascension de la Furie : Ahriman approche.|Ce n'est pas fini, il faut qu'on arrête l'Ascension de la Furie : Ahriman approche.}
 Je sais. Et pourtant nous n'avons pas de quoi stopper le rituel.
-{Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Helion à la porte principale. Avec lui, nous mettrons fin au rituel.|Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Helion à la porte principale. Avec lui, nous mettrons fin au rituel.}
-L'Helion ? Il a été reconstitué ? Alors il n'y a pas une seconde à perdre, ces Portejours se feront massacrer si on ne leur ouvre pas la porte à temps.
+{Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Hélion à la porte principale. Avec lui, nous mettrons fin au rituel.|Nous ne sommes pas seuls. Alors même qu'on parle un groupe de Portejours escortent l'Hélion à la porte principale. Avec lui, nous mettrons fin au rituel.}
+L'Hélion ? Il a été reconstitué ? Alors il n'y a pas une seconde à perdre, ces Portejours se feront massacrer si on ne leur ouvre pas la porte à temps.
 Mais oui, tenons-nous tous les mains !
 Tu as pactisé avec Ahriman ! Comment as-tu pu ?
 Quand mes pouvoirs se sont révélés, je n'étais qu'un jeune Justicar. Mes croyances se sont effritées alors que je m'ouvrais au monde spirituel. Une vie de guerrier ne m'avait pas préparé à la brutalité cachée au sein de ces nouvelles découvertes.
 {Quelles découvertes ?|Quelles découvertes ?}
 Le monde est dérouté, déséquilibré. Abandonné. Nous autres humains ne sommes que des outils délaissés aux nombreux Primordiaux Déchus qui se battent et complotent leur retour de l'Abysse ou se préparent à changer toute la création pour convenir à leur desseins.
 J'ai tenté de nous trouver un gardien. Il semblait évident que certains Primordiaux seraient restés protéger l'humanité contre ces menaces. Si les Portejours pouvaient conjurer la magie de l'Aube, c'est qu'Anathëa elle-même devait veiller sur nous.
-Mais les Portejours eux-même ont confessé qu'il pouvait seulement invoquer son pouvoir : sa voix et ses conseils étaient inexistents.
-Alors que je ressentait la menace croissante aux portes de l'humanité, j'ai parcouru le monde pendants des années tentant de la contacter... En vain.
+Mais les Portejours eux-même ont confessé qu'il pouvait seulement invoquer son pouvoir : sa voix et ses conseils étaient inexistants.
+Alors que je ressentais la menace croissante aux portes de l'humanité, j'ai parcouru le monde pendants des années tentant de la contacter... En vain.
 Au nadir de mon désespoir, ce n'est pas Anathëa, mais Ahriman qui m'est apparu. Il a confirmé ce que je pensais être indéniable : après avoir ravagé le monde à travers leurs conflits, les Primordiaux ont abandonné l'humanité à la guerre, la division, et la peste.
 Il est venu auprès de moi pour corriger cette erreur, proposant la paix aux quatres royaumes par leur union. Une manière pour la République de réaliser sa vision et rassembler toute l'humanité sous un même drapeau. À un prix : je devais renoncer à mon libre arbitre pour qu'il puisse me... "guider".
 Jeune comme je l'étais, j'ai dis oui et j'ai adopté cette vision comme la seule voie du salut. Il m'a dupé : sa poigne s'est refermée. Puis s'en est suivi plus de guerre, de deuil, de souffrances...
@@ -1436,7 +1436,7 @@ Je ne demande pas ton pardon, j'ai fait des choix pour protéger ce que je pouva
 En tant que femme libre, tu auras tout le luxe de nourrir ton coeur de haine à cause de mes actions. Mais pour cela, il faut empêcher que nous soyons pris en esclavage : nous devons arrêter Ahriman.
 On n'a pas terminé. Je vais garder l'oeil sur toi.
 Dépêchons-nous. Il faut activer les deux mécanismes d'ouverture simultanément si on veut que la porte s'ouvre.
-Qui est le porteur du Helion ?
+Qui est le porteur de l'Hélion ?
 {Eos Gernese, il mène ces Portejours.|Eos Gernese, il mène ces Portejours.}
 Gernese ? Le destin ne se trouve jamais à court d'ironie.
 Vous le connaissez ?
@@ -1479,34 +1479,34 @@ En avant, nous prévaudrons.
 Même si maintenant je dois me confronter à tes rancunes, je suis heureux que tu m'aies retrouvé, ma fille.
 Tu ne t'es pas encore racheté.
 Quelqu'un comme moi ne peut pas se racheter. Je ne le veux pas d'ailleurs. Cela dit je m'inquiète de ces ténèbres qui envahissent ton esprit.
-Tu les as crées, nourries. C'est l'effet logique de la trahison.
+Tu les as créées, nourries. C'est l'effet logique de la trahison.
 Est-ce bien vrai ?
 J'ai passé quinze ans à vous enseigner tous les trois pour que vous puissiez survivre à ce monde brutal. La survie est tout ce qui compte.
 J'ai manqué à mon devoir envers Edric, mais pas envers toi Valeria, ou {ton frère Exalté|ta soeur Exaltée}. Mes préceptes existent dans chacun de vos souffles : vous avez repoussé la mort, vous avez survécu.
-Qu'importe ce qui s'est passé et qu'importe ce qui arrive : vous deux serez toujours les Enfants de Heimlock : ma fierté. Le seul héritage que je chérisse encore aujourd'hui.
+Qu'importe ce qui s'est passé et qu'importe ce qui arrive : vous deux serez toujours les Enfants d'Heimlock : ma fierté. Le seul héritage que je chérisse encore aujourd'hui.
 Je... je comprends, père. Il faudra du temps. Mais je comprends.
 {Val, tu vas bien ?|Val, tu vas bien ?}
 Oui.
 Oublions le passé et avançons. Nous avons un Déchu à terrasser.
 {Où est Gernese ?| Où est Gernese ?}
 Il devrait être ici à l'heure qu'il est. Ils ont dû rencontrer des difficultés en chemin.
-Nous perdons du temps. Il nous faut l'Helion !
+Nous perdons du temps. Il nous faut l'Hélion !
 Alors allons-y, on doit aider Gernese !
 Nous sauverons ce que nous pourrons avec Valeria. Mon enfant, peux-tu dégager un chemin jusqu'au rituel ? Chaque seconde que nous gagnons nous rendra la tâche plus facile.
 {Frère|Soeur} ?
-{Je m'en occupe. Trouvez l'Helion.|Je m'en occupe. Trouvez l'Helion.}
+{Je m'en occupe. Trouvez l'Hélion.|Je m'en occupe. Trouvez l'Hélion.}
 Valeria, suis-moi !
 {Je vous retrouve là-haut tous les deux.|Je vous retrouve là-haut tous les deux.}
-{On y est. Maintenant, il faut trouver le conflux.|This is it. Now, to find the conflux.}
+{On y est. Maintenant, il faut trouver le conflux.|On y est. Maintenant, il faut trouver le conflux.}
 Vous... vous êtes {celui|celle} que j'ai senti ?
 {Je le suis ?|Je le suis ?}
 Oui, ce doit être vrai... comment serait-ce autrement ? L'aura qui vous entoure... même ceux qui sont en désharmonie avec la magie du monde doivent s'y sentir attirés...
-{J'ai déjà rencontré quelqu'un comme vous, vous êtes Gardienne Primordiale, n'est ce pas ?|J'ai déjà rencontré quelqu'un comme vous, vous êtes Gardienne Primordiale, n'est ce pas ?}
+{J'ai déjà rencontré quelqu'un comme vous, vous êtes une Gardienne Primordiale, n'est-ce pas ?|J'ai déjà rencontré quelqu'un comme vous, vous êtes une Gardienne Primordiale, n'est-ce pas ?}
 Oui, je suis Anasareth, et je connais votre but ici, {Exalté|Exaltée}. C'est le mien aussi...
 Ahriman effleure les frontières de notre monde. Ce ne sera plus long avant qu'il ne surgisse de l'abysse, sa furie inondant toute création. Si cela se produit, je crains que nous ne pourrons plus l'arrêter.
 {Alors frayons-nous un chemin jusqu'au conflux : ensemble.|Alors frayons-nous un chemin jusqu'au conflux : ensemble.}
 Certainement. Sache que dans notre chemin se tient une barrière magique, nourrie des Instruments de la Furie d'Ahriman. Ce sont trois magiciens puissants qui se sont accordés à la barrière.
-Il nous faudra les éliminer. Alors seulement la barrière sera assez faible pour que je l'écroule. Mes tentatives précédentes étaient... improductives.
+Il nous faudra les éliminer. Alors seulement la barrière sera assez faible pour que je l'écroule. Mes tentatives précédentes furent... infructueuses.
 Gardiens ! Suivez {l'Exalté|l'Exaltée}. Purgeons notre maison.
 Nous y sommes, le passage vers le Conflux...
 {Alors allons-y sans traîner, les Instruments d'Ahriman doivent être près !|Alors allons-y sans traîner, les Instruments d'Ahriman doivent être près !}
@@ -1529,7 +1529,7 @@ N'échouez pas.
 {J'ai joué mon rôle. Gernese ferait mieux de se rappliquer avec l'Helion et jouer le sien.|J'ai joué mon rôle. Gernese ferait mieux de se rappliquer avec l'Helion et jouer le sien.}
 {Les rayons du Dormeur, de l'Abérrant, et du Marionnettiste convergent ici. Le Conflux est proche.|Les rayons du Dormeur, de l'Abérrant, et du Marionnettiste convergent ici. Le Conflux est proche.}
 {Cette aventure touche à sa fin.|Cette aventure touche à sa fin.}
-Même si tu gagnais, elle sombrerait quand même dans l'Abysse. Ta soeur est perdue, l'Helion est perdu. Tout était en vain : l'Ascension de la Furie est proche. Soumets-toi !
+Même si tu gagnais, elle sombrerait quand même dans l'Abysse. Ta soeur est perdue, l'Hélion est perdu. Tout était vain : l'Ascension de la Furie est proche. Soumets-toi !
 {On ne laisse pas tomber sa famille.|On ne laisse pas tomber sa famille.}
 Mon enfant, nous ne pouvons pas en avoir, toi et moi.
 Tu es {Exalté|Exaltée}.

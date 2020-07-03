@@ -388,7 +388,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_MeetValeria_3</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">In your state? Flinging magic and turning into a monstrosity? No no no no no, they’ll burn you alive.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Dans ton état&#160;? En lançant de la magie et te transformant en monstruosités&#160;? Non, non, non, ils vont te brûler vif.|Dans ton état&#160;? En lançant de la magie et te transformant en monstruosités&#160;? Non, non, non, ils vont te brûler vive.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Dans ton état&#160;? En lançant de la magie et te transformant en monstruosité&#160;? Non, non, non, ils vont te brûler vif.|Dans ton état&#160;? En lançant de la magie et te transformant en monstruosité&#160;? Non, non, non, ils vont te brûler vive.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_MeetValeria_4</Data></Cell>
@@ -443,7 +443,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_ApproachingSF_4</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">A demon in the open can only mean that something major is about to happen, but what?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Un démon qui se révéle ne peut que signifier que quelque chose de majeur est sur le point d'arriver, mais quoi&#160;?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Un démon qui se révèle ne peut que signifier que quelque chose de majeur est sur le point d'arriver, mais quoi&#160;?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_HangedTreePanel_1</Data></Cell>
@@ -468,7 +468,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_SFCrowd_1</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Uh folks… they’re getting closer ! Wha- what do we do?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Euh, les gars... Ils s'approchent&#160;! Qu-qu'est-ce qu'on peut faire ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Euh, les gars... Ils s'approchent&#160;! Qu- qu'est-ce qu'on peut faire ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_SFCrowd_2</Data></Cell>
@@ -553,7 +553,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest1_SFBridgeSFGuard_6</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Heh, you are serious my friend? Well, alright then. Go through to the farmlands on the other side of the city! Anyone else want to fight for Stormfall? No? That’s what I thought!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Euh... t'es sérieux, l'ami&#160;? Bon, très bien. Traverses la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall&#160;? Non&#160;? C'est bien ce que je pensais&#160;!|Euh... t'es sérieuse, l'amie&#160;? Bon, très bien. Traverses la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall&#160;? Non&#160;? C'est bien ce que je pensais&#160;!}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Euh... t'es sérieux, l'ami&#160;? Bon, très bien. Traverse la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall&#160;? Non&#160;? C'est bien ce que je pensais&#160;!|Euh... t'es sérieuse, l'amie&#160;? Bon, très bien. Traverse la Cité et rejoint les terres agricoles de l'autre côté ! Quelqu'un d'autre veut se battre pour Stormfall&#160;? Non&#160;? C'est bien ce que je pensais&#160;!}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s18"><Data ss:Type="String">Quest2</Data></Cell>
@@ -603,7 +603,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_ConscriptComment_5</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">But the deads! The deads rose back with the earthquake! We’ve all seen it! The Svriir aren’t the problem! Why won’t you believe us?!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Mais les morts&#160;! Les morts sont remontés avec le tremblement de terre&#160;! Nous l'avons tous vu&#160;! Les Svriirs ne sont pas le problème&#160;! Pourquoi vous ne croyez pas&#160;!</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Mais les morts&#160;! Les morts sont remontés avec le tremblement de terre&#160;! Nous l'avons tous vu&#160;! Les Svriirs ne sont pas le problème&#160;! Pourquoi vous ne me croyez pas&#160;?!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_ConscriptComment_6</Data></Cell>
@@ -648,7 +648,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_PlayerEnteringPlaza</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Mmmh, I will have to fight for Stormfall if I am to stay within the city walls.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Hmm, je devrai me battre pour Stormfall si j'espère rester au sein de ses murs.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Hmm, je devrais me battre pour Stormfall si j'espère rester au sein de ses murs.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_Mohabi</Data></Cell>
@@ -1038,7 +1038,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelGomora_1</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">You better remember this time: the Onyx is for Gomora, Jewel of the Pariahs.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous avez intérêt à vous rappeler cette fois : l'Onyx est pour Gomora, le Joyau des Pariahs.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous avez intérêt à vous rappeler cette fois : l'Onyx est pour Gomora, le Joyau des Parias.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelGomora_2</Data></Cell>
@@ -1063,7 +1063,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_2</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">It merges three mountaintops into a single city. They specialize in spices, incense and spiritual insights.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Elle fusionne trois sommets en une seule Cité. Elle est spécialisée dans les épices, l'insens et le spirituel.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Elle fusionne trois sommets en une seule Cité. Elle est spécialisée dans les épices, l'encens et le spirituel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_3</Data></Cell>
@@ -1088,12 +1088,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelVulcain_2</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Their ruby is as red as the volcano’s pit under the city. The weapons they forge are legendary both in quality and price.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Leur Rubi est aussi rouge que le volcan sous la Cité. Les armes qu'ils y forgent sont  légendaires aussi bien en qualité qu'en prix.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Leur Rubis est aussi rouge que le volcan sous la Cité. Les armes qu'ils y forgent sont légendaires aussi bien en qualité qu'en prix.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelSalander_1</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">An Amethyst, symbol of...</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">L'Améthyste, symbol de….</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">L'Améthyste, symbole de….</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelSalander_2</Data></Cell>
@@ -1103,7 +1103,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelSalander_3</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Yes, of course! An Alexandrite, symbol of Salander, Jewel of the Earth.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Ah oui évidemment! Une Alexandrite, symbol de Salander, Joyau de la Terre.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ah oui évidemment! Une Alexandrite, symbole de Salander, Joyau de la Terre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelSalander_4</Data></Cell>
@@ -1113,7 +1113,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelArchion_1</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Archion! The flying city! A sapphire represents the Jewel of the Clouds!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Archion ! La Cité volante ! Un sapphire représente le Joyau des Nuages !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Archion ! La Cité volante ! Un saphir représente le Joyau des Nuages !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelArchion_2</Data></Cell>
@@ -1128,7 +1128,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelArchion_4</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Their casualties confirm what we already know: the two other continents aren’t meant for humans. A Shame.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Les pertes qu'ils ont confirme ce que l'on sait déjà: les deux autres continents ne sont pas fait pour les humains. Dommage.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Les pertes qu'ils ont confirmées ce que l'on sait déjà: les deux autres continents ne sont pas faits pour les humains. Dommage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelCtul_1</Data></Cell>
@@ -1138,12 +1138,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelCtul_2</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">The city is actually built across the back of two gigantic beasts walking side by side. It is perpetually in movement across vast plains circled by lush jungles!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">La ville est construite sur le dos de deux bêtes gigantesques marchant côte à côte. Elle est perpetuellement en mouvement sur de longues plaines.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">La ville est construite sur le dos de deux bêtes gigantesques marchant côte à côte. Elle est perpétuellement en mouvement sur de longues plaines.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelCtul_3</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">Calm down. What do we trade with them?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Calme toi. Que vendent-t-ils?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Calme-toi. Que vendent-t-ils?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_JewelCtul_4</Data></Cell>
@@ -1173,12 +1173,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_3</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Milord.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Messir.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Messire.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="29.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_4</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">{Milord, I’m glad I could help but I would really, really like to avoid the champion thing and go back to my daily routine.|Milord, I’m glad I could help but I would really, really like to avoid the champion thing and go back to my daily routine.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Messir, je suis heureux d’avoir pu aider mais j’aimerais vraiment éviter le titre de champion et revenir à ma routine quotidienne.…|Messir, je suis heureuse d’avoir pu aider mais j’aimerais vraiment éviter le titre de championne et revenir à ma routine quotidienne.…}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Messire, je suis heureux d’avoir pu aider mais j’aimerais vraiment éviter le titre de champion et revenir à ma routine quotidienne.…|Messire, je suis heureuse d’avoir pu aider mais j’aimerais vraiment éviter le titre de championne et revenir à ma routine quotidienne.…}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="31.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_5</Data></Cell>
@@ -1348,7 +1348,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest3_SF_InnEvent_5</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">You’re acting weird. You okay? Hello?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous êtes bizarre. Tout va bien&#160;? Allo?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous êtes bizarre. Tout va bien&#160;? Allô?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest3_SF_InnEvent_6</Data></Cell>
@@ -1523,7 +1523,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest3_BO_MeetEdric_6</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Nearby. We are packing up and ready to leave. Stormfall wouldn't be too happy if they found a Republican army near their borders.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Proche. On est remballés et prêts à partir. Stormfall ne serait pas heureuse de savoir qu'une armée républicaine approchait ses frontières.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Proche. On a remballé et on est prêt à partir. Stormfall ne serait pas heureuse de savoir qu'une armée républicaine approche ses frontières.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest3_BO_MeetEdric_7</Data></Cell>
@@ -1668,7 +1668,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest3_TC_EdricTalk_4</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">You know as well as I do that Stormfall refused a Republican protectorate more times than I can think of. If they want to fight alone, let them die alone.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu sais très bien que Stormfall a refusé le protectorat de la République multiples fois. S'ils veulent se battre seuls, laisse-les mourir seuls.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu sais très bien que Stormfall a refusé le protectorat de la République de multiples fois. S'ils veulent se battre seuls, laisse-les mourir seuls.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest3_TC_EdricTalk_5</Data></Cell>
@@ -2173,7 +2173,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest5_TPS_YudaiFightIntroTalk1_3</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Hear the sad truth Mizzeonth: none of them are coming. You are alone.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Écoutes la triste vérité Mizzeonth&#160;: personne ne viendra. Tu es toute seule.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Écoute la triste vérité Mizzeonth&#160;: personne ne viendra. Tu es toute seule.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT1_Quest5_TPS_YudaiFightIntroTalk1_4</Data></Cell>
@@ -2508,7 +2508,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_11</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">The three of us are in agreement here, your claim is worth nothing if the three big Houses vouch against you. With starving people littering the streets, you won't even have the population on your side to support you. You've run out of options Damaskus: you lose us, you're through.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous sommes tous trois en accord, votre règne ne vaut rien si les trois grandes maisons se prononcent contre vous. Les gens meurent de faim dans les rues, même la population ne vous soutiendra pas. Vous êtes à court d'options Damaskus: perdez nous, et vous perdez tout.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous sommes tous trois en accord, votre règne ne vaut rien si les trois grandes maisons se prononcent contre vous. Les gens meurent de faim dans les rues, même la population ne vous soutiendra pas. Vous êtes à court d'options Damaskus: perdez-nous, et vous perdrez tout.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_12</Data></Cell>
@@ -2543,7 +2543,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_3</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">What is this?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que c'est que ça ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que c'est que ça ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_4</Data></Cell>
@@ -2713,7 +2713,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_6</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">To hell with the bloody guards! What do you think they will do? Put an old woman in jail for saving someone's life?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">La peste des gardes ! Qu'est ce que tu crois ? Qu'ils mettront une vieille femme au cachot pour avoir sauvé une vie ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">La peste des gardes ! Qu'est-ce que tu crois ? Qu'ils mettront une vieille femme au cachot pour avoir sauvé une vie ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_7</Data></Cell>
@@ -2833,7 +2833,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_15</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">We pulled back... he chose to stay behind to find the vanguards and get them back here.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">On s'est retirés... il a choisi de rester en arrière pour trouver l'avant-garde et la ramener ici.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On s'est retiré... il a choisi de rester en arrière pour trouver l'avant-garde et la ramener ici.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_16</Data></Cell>
@@ -3068,7 +3068,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_15</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Let me guess: this shadow wall is what came out of it? This means trouble.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Laisse moi deviner : ce mur de ténèbres est issu du rituel ? Ça sent mauvais pour nous.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Laisse-moi deviner : ce mur de ténèbres est issu du rituel ? Ça sent mauvais pour nous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_16</Data></Cell>
@@ -3283,7 +3283,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_8</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">That is the purpose of our meeting. You put me back on my path, I put you back on yours.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est pour cette raison que nous nous sommes {rencontrés|rencontrées}. Remettez moi sur mon chemin, je vous remettrai sur le votre.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est pour cette raison que nous nous sommes {rencontrés|rencontrées}. Remettez-moi sur mon chemin, je vous remettrai sur le votre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_9</Data></Cell>
@@ -3298,7 +3298,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_11</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">We will have to fight our way through Mercy's fanatics. Be prepared for anything in our woods.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">On doit se battre au travers les fanatiques de Pitié. Soyez prêts pour n'importe quoi dans les bois.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On doit se frayer un chemin parmi les fanatiques de Pitié. Soyez prêts pour n'importe quoi dans les bois.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_1</Data></Cell>
@@ -3348,12 +3348,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_10</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Why did the Cult of the Sleeper take interest in your tribe? What do they want?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Pourquoi le Culte du Dormeur s'est-il intéressé à votre tribu ? Qu'est ce qu'ils veulent ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Pourquoi le Culte du Dormeur s'est-il intéressé à votre tribu ? Qu'est-ce qu'ils veulent ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_11_A</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Psychics. We raid towns in search for these humans gifted with a superior mind, ideal hosts to be possessed by otherwordly entities.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Des télépathes. Nous sacquons des villes à la quête d'humains aux esprits supérieurs, des hôtes idéaux pour la possession d'entités surnaturelles.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Des télépathes. Nous pillons des villes à la quête d'humains aux esprits supérieurs, des hôtes idéaux pour la possession d'entités surnaturelles.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_11_B</Data></Cell>
@@ -3528,7 +3528,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_1</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">You're such a bore, you can't even die properly. What do you bloody want...?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu m'ennuies, tu ne sais même pas bien mourir. Qu'est ce que tu veux, bon sang...?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu m'ennuies, tu ne sais même pas bien mourir. Qu'est-ce que tu veux, bon sang...?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_2</Data></Cell>
@@ -3633,7 +3633,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaPlan_2</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">What do you think? An endless tide of death, that's what happened... the likes of which I have never seen!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu crois ? Une vague de tuerie sans fin, c'est ça qui s'est passé... comme rien que j'aie jamais vu !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu crois ? Une vague de tuerie sans fin, c'est ça qui s'est passé... comme rien que j'aie jamais vu !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaPlan_3</Data></Cell>
@@ -3718,7 +3718,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaCharge_1</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">The things you do for familly...</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce qu'on ferait pas pour sa famille...</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce qu'on ferait pas pour sa famille...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaCharge_2</Data></Cell>
@@ -3813,7 +3813,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaSadTalk_6</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">What happened?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce qui s'est passé ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce qui s'est passé ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaSadTalk_7</Data></Cell>
@@ -3833,7 +3833,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaSadTalk_10</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">{I don't know, he might be a harsh man, but he took risks so that I could escape alive. He gave me another chance... I know deep down he cares... or cared about us.|I don't know, he might have been a harsh man, but he took risks so that I could escape alive. He gave me another chance... I know deep down he cares... or cared about us.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse rester en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie pour nous... ou se souciait.|Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse m'échapper en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie pour nous... ou se souciait.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse rester en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie de nous... ou se souciait.|Je ne sais pas, il est sévère, mais il a pris des risques pour que je puisse m'échapper en vie. Il m'a donné une seconde chance... Je sais qu'au fond il se soucie de nous... ou se souciait.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaSadTalk_11</Data></Cell>
@@ -3843,7 +3843,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaSadTalk_12</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">I wouldn't be surprised if this is another wicked game of his, testing Edric's unwavering loyalty. Let the stronger of the three survive, discard the weak ones?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Ça ne me surprendrait si c'était encore un de ses jeux tordus, pour tester la loyauté d'Edric. Laisse le plus fort des trois survivre, débarrasse-toi des plus faibles ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ça ne me surprendrait pas si c'était encore un de ses jeux tordus, pour tester la loyauté d'Edric. Laisse le plus fort des trois survivre, débarrasse-toi des plus faibles ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaSadTalk_13</Data></Cell>
@@ -3928,7 +3928,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_EnterSanctum_9</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">What does  {he|she} want?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce {qu'elle|qu'il} veut ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce {qu'elle|qu'il} veut ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_EnterSanctum_10</Data></Cell>
@@ -3948,7 +3948,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_1</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">We have met before. You're the one from the Shadow Wall, aren't you?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous t'avons déjà {vu|vue}. Tu es {le garçon|la fille} du Mur de Ténèbres, n'est ce pas ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous t'avons déjà {vu|vue}. Tu es {le garçon|la fille} du Mur de Ténèbres, n'est-ce pas ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_2</Data></Cell>
@@ -3958,7 +3958,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_3</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Valeria is up there stopping new undead from flooding the Vault, so this is our chance to get everyone out. Let's go!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Valeria est là haut en train d'empêcher que la Chambre soit inondée de nouveaux morts-vivants, alors c'est notre chance d'évacuer tout le monde. Allons y !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Valeria est là-haut en train d'empêcher que la Chambre soit inondée de nouveaux morts-vivants, alors c'est notre chance d'évacuer tout le monde. Allons y !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_4</Data></Cell>
@@ -3968,7 +3968,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_5</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">You're an Ascended, aren't you?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu es {un Exalté|une Exaltée}, n'est ce pas ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu es {un Exalté|une Exaltée}, n'est-ce pas ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_6</Data></Cell>
@@ -3998,7 +3998,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_11</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Yes. I'm sure your head is full of questions. I shall tell you what I know once the situation is secure. If Valeria is up there on her own, we cannot linger down here. We must take the chance she's offering us!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Oui. Je suis sûr que tu as plein de questions en tête. Je te dirais ce que je sais quand nous serons saufs. Si Valeria est là haut toute seule, nous ne pouvons pas traîner ici. Nous devons saisir la chance qu'elle nous offre !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Oui. Je suis sûr que tu as plein de questions en tête. Je te dirais ce que je sais quand nous serons saufs. Si Valeria est là-haut toute seule, nous ne pouvons pas traîner ici. Nous devons saisir la chance qu'elle nous offre !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_GerneseTalk_12</Data></Cell>
@@ -4198,7 +4198,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_SanctumFinale_21</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Rally by the Dawngate, we are moving out in full force!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Rassemblez vous au Portail de l'Aube, nous sortons en force !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Rassemblez-vous au Portail de l'Aube, nous sortons en force !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest3_VOH_SanctumFinale_22</Data></Cell>
@@ -4213,7 +4213,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Gather around the pyre! Her lights shines through it!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Rassemblez vous autour du feu ! Ses lumières y transparaissent !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Rassemblez-vous autour du feu ! Ses lumières y transparaissent !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_2</Data></Cell>
@@ -4238,7 +4238,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_6</Data></Cell>
     <Cell ss:StyleID="s21"><Data ss:Type="String">Get yourself patched up and rest. I'll get us out of this.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Fait panser tes blessures et repose-toi. Je nous sors de tout ça.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Fais panser tes blessures et repose-toi. Je nous sors de tout ça.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_7</Data></Cell>
@@ -4278,7 +4278,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_14</Data></Cell>
     <Cell ss:StyleID="s24"><Data ss:Type="String">But before we could investigate, we got reports of a Wildling army marching our way. While you were fighting them, the Cult of the Sleeper used the riverbed to funnel an undead army toward the weakest point of our walls. That's how the bastards broke in.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Mais avant que nous puissions enquêter, on nous a rapporté une armée de Barbares en marche vers nous. Pendant que nous nous battions contre eux, le Culte du Dormeur à utilisé le lit de la rivière pour envoyer des morts-vivants au point le plus faible de nos murs. C'est ainsi que les impies se sont infiltrés.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Mais avant que nous puissions enquêter, on nous a rapporté une armée de Barbares en marche vers nous. Pendant que nous nous battions contre eux, le Culte du Dormeur a utilisé le lit de la rivière pour envoyer des morts-vivants au point le plus faible de nos murs. C'est ainsi que les impies se sont infiltrés.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_15</Data></Cell>
@@ -4418,7 +4418,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_8</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">We both know that you are not part of the cattle, or you would be Yudaï's vessel by now. So, what are you? An halfbreed? Of whom? Who made you?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous savons bien tous deux que vous n'appartenez pas au bétail commun, ou vous seriez déjà un vaisseau pour Yudaï. Alors, qu'êtes vous ? {Un sang-mêlé|Une sang-mêlée} ? De quoi ? Qui vous a {créé|créée} ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous savons bien tous deux que vous n'appartenez pas au bétail commun, ou vous seriez déjà un vaisseau pour Yudaï. Alors, qu'êtes-vous ? {Un sang-mêlé|Une sang-mêlée} ? De quoi ? Qui vous a {créé|créée} ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_9</Data></Cell>
@@ -4448,7 +4448,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_HS_CultistFight_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Come forth, slave!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Déclare toi, esclave !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Déclare-toi, esclave !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest4_HS_CultistFight_2</Data></Cell>
@@ -4648,7 +4648,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_8</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Val... what do you think?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Val... qu'en penses tu ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Val... qu'en penses-tu ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_GernesePlan_9</Data></Cell>
@@ -4738,12 +4738,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_FleshAmbush_8</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">You are soldiers of the Purifiers, fight to the last! Purity in Sacrifice!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous êtes soldats purificateurs, battez vous jusqu'au dernier moment ! Pureté dans le Sacrifice !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous êtes des soldats purificateurs, battez-vous jusqu'au dernier moment ! Pureté dans le Sacrifice !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_AzenhalAngry_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">The Purifiers got crushed!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Les purificateurs se sont fait écraser !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Les purificateurs se sont faits écraser !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_AzenhalAngry_2</Data></Cell>
@@ -4813,7 +4813,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_AzenhalAngry_15</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">We forgot one. Let me pull its head off.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">On en a râté un. Laisse-moi lui arracher la tête.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On en a raté un. Laisse-moi lui arracher la tête.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_AzenhalAngry_16</Data></Cell>
@@ -4823,7 +4823,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">What are you supposed to be?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu es censée être, exactement ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu es censée être, exactement ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_2</Data></Cell>
@@ -4833,7 +4833,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_3</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">What are you supposed to be?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu es censée être, exactement ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu es censée être, exactement ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_4</Data></Cell>
@@ -4843,7 +4843,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_5</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Learning. We would be honored to have you in our domain to know more about what are you supposed to be.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Ça apprend. Nous serions honorés de vous avoir dans notre domaine pour pour mieux comprendre ce que vous êtes censés être.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Ça apprend. Nous serions honorés de vous avoir dans notre domaine pour mieux comprendre ce que vous êtes censés être.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_VOS_MeetLambach_6</Data></Cell>
@@ -5073,7 +5073,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_FF_EnviroComments_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">What is that?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que c'est que ça ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que c'est que ça ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_FF_EnviroComments_2</Data></Cell>
@@ -5138,7 +5138,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_FuryCrater_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">What are you waiting for? Do it!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu attends ? Fais-le !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu attends ? Fais-le !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_FuryCrater_2</Data></Cell>
@@ -5183,7 +5183,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_FuryCrater_10</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">The Children of Heimlock die this day.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Les Enfants de Heimlock meurent aujourd'hui.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Les Enfants d'Heimlock meurent aujourd'hui.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_HeimlockResist_1</Data></Cell>
@@ -5193,7 +5193,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_HeimlockResist_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Heimlock: The children of Heimlock die this day !</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Heimlock: Les Enfants de Heimlock meurent aujourd'hui !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Heimlock: Les Enfants d'Heimlock meurent aujourd'hui !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_HeimlockResist_3</Data></Cell>
@@ -5253,7 +5253,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_HeimlockResist_14</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">%1: What is that?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">%1: Qu'est ce que c'est que ça ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">%1: Qu'est-ce que c'est que ça ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_HeimlockResist_15</Data></Cell>
@@ -5308,7 +5308,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">That's not what we came here for. We have to find the Helion first!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">On n'est pas là pour ça. Le Hélion est notre priorité !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On n'est pas là pour ça. L'Hélion est notre priorité !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_3</Data></Cell>
@@ -5318,7 +5318,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_3_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">We will in time, I promise!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">On le fera éventuellement, je te le promets !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On le fera en temps voulu, je te le promets !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_4</Data></Cell>
@@ -5333,7 +5333,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_6</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">The human female is highly likely to die without our intervention if she further pushes her body to its limits.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">L'humaine risque très probablement de mourir sans notre intervention si elle pousse son corps à bout de ses limites plus longtemps.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">L'humaine risque très probablement de mourir sans notre intervention si elle pousse son corps au bout de ses limites plus longtemps.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_7</Data></Cell>
@@ -5368,7 +5368,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_13</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Please honor us, and accept our invitation. We shall end your life close to we.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Honorez-nous, et acceptez notre invitation. Nous mettrons fin à nos jours près de nous.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Honorez-nous, et acceptez notre invitation. Nous mettrons fin à vos jours près de nous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_14</Data></Cell>
@@ -5403,7 +5403,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_EnterCordanon_1</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Get your arse back safely alright? Thank you for shielding me against Heimlock...</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu t'es ramenée ici sans trop de dégâts ? Merci de m'avoir {protégé|protégée} de Heimlock...</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu t'es ramenée ici sans trop de dégâts ? Merci de m'avoir {protégé|protégée} d'Heimlock...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_CD_EnterCordanon_2</Data></Cell>
@@ -5563,7 +5563,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_HeimlockClone_16</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Indeed, our honored guest. The only thing we could replicate is Heimlock's pain.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">En effet, {cher invité|chère invitée}. La seule chose que nous puissions répliquer était le tourment de Heimlock.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">En effet, {cher invité|chère invitée}. La seule chose que nous puissions répliquer était le tourment d'Heimlock.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_HeimlockClone_17</Data></Cell>
@@ -5573,7 +5573,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_HeimlockClone_18</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">What's tormenting him so much?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce qui le tourmente tant que ça ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce qui le tourmente tant que ça ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_HeimlockClone_19</Data></Cell>
@@ -5608,7 +5608,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_ValeriaClone_3</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Kill me!!!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Tue moi !!!</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tue-moi !!!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_ValeriaClone_4</Data></Cell>
@@ -5683,7 +5683,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_LambachPhase1_4</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">Rejoice, guest, we might seize your stream of consciousness, but your organic mass will be granted immortality as a part of we!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Réjouissez-vous, convive, nous saisirons peut-être le flux de ta conscience, mais votre masse organique se verra accordée l'immortalité comme partie de &quot;nous&quot; !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Réjouissez-vous, convive, nous saisirons peut-être le flux de votre conscience, mais votre masse organique se verra accordée l'immortalité comme partie de &quot;nous&quot; !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_LambachPhase2_1</Data></Cell>
@@ -5693,7 +5693,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_LambachPhase2_2</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">This is futile.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est en vain.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">C'est vain.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest5_IC_LambachPhase2_3</Data></Cell>
@@ -5758,7 +5758,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_7</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">You're quick to speak of war for a man that was recently wounded.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous êtes prompt à parler de guerre pour quelqu’un récemment blessé.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous êtes prompt à parler de guerre pour quelqu’un ayant été récemment blessé.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_8</Data></Cell>
@@ -5788,12 +5788,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_13</Data></Cell>
     <Cell ss:StyleID="s23"><Data ss:Type="String">You were part of the Brotherhood operation that attacked it?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous faisiez partie de l'opération de la Confrérie qui l'a attaqué ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous faisiez partie de l'opération de la Confrérie qui l'a attaquée ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_14</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">We didn't attack it, we wanted to approach the strange structure in its center that Republicans call &quot;The Monolith&quot;, and study the signs of Fury's Ascent to stop the ritual before it began.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous ne l'avons pas attaqué, nous voulions approcher l'étrange structure à son centre que les Républicains appellent &quot;Monolithe&quot;, et étudier les signes de l'Ascension de la Furie pour mettre fin au rituel avant qu'il ne commence.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous ne l'avons pas attaquée, nous voulions approcher l'étrange structure à son centre que les Républicains appellent &quot;Monolithe&quot;, et étudier les signes de l'Ascension de la Furie pour mettre fin au rituel avant qu'il ne commence.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_15</Data></Cell>
@@ -5818,7 +5818,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT2_Quest6_VOS_GerneseTalk_19</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Well, we know what we have to do. Hand me the piece of the Helion and get ready to depart: the road ahead won't be pleasant.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien, nous savons ce qu'il reste à faire. Donne moi le fragment de l'Hélion, et préparez-vous tous deux à partir: la route qui nous attend ne sera pas agréable.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien, nous savons ce qu'il reste à faire. Donne-moi le fragment de l'Hélion, et préparez-vous tous deux à partir: la route qui nous attend ne sera pas agréable.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s17"><Data ss:Type="String">ACT3 Dialog</Data></Cell>
@@ -5868,7 +5868,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors1_4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What's going on?!&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce qu'il lui arrive ?!</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce qu'il lui arrive ?!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors1_5</Data></Cell>
@@ -5963,7 +5963,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors4_5</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What do you suggest?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu proposes ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu proposes ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors4_6</Data></Cell>
@@ -5998,7 +5998,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors6_2</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What is it?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que c'est?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que c'est?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors6_3</Data></Cell>
@@ -6163,17 +6163,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Damaskus1_18</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I should have acted sooner...</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">J'aurais du agir bien plus tôt...</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">J'aurais dû agir bien plus tôt...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors8_1</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What are you staring at?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que tu fixes comme ça ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que tu fixes comme ça ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors8_2</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">This light in the fog. It comes and goes.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">La lumière dans la brûme. Elle part et revient.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">La lumière dans la brume. Elle part et revient.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors8_3</Data></Cell>
@@ -6188,12 +6188,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors8_5</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A fire? What's out there?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Un signal ? Il y a quoi, là bas ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Un signal ? Il y a quoi, là-bas ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors8_6</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Arena... I... I think there's survivors down there!&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">L'Arène... je... je pense qu'il y a des survivants là bas !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">L'Arène... je... je pense qu'il y a des survivants là-bas !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_SF_Survivors8_7</Data></Cell>
@@ -6258,7 +6258,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk1_4</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Agreed, we all could use some rest.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien d'accord, nous avons tous besoins d’un peu de repos.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien d'accord, nous avons tous besoin d’un peu de repos.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk1_5</Data></Cell>
@@ -6273,7 +6273,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk1_7</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">What is it? Some kind of signal?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que c'est ? Une sorte de signal ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que c'est ? Une sorte de signal ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GerneseTalk1_8</Data></Cell>
@@ -6328,7 +6328,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What happened up there?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Que s'est-il passé là haut ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Que s'est-il passé là-haut ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_5</Data></Cell>
@@ -6348,7 +6348,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_8</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What is that?&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est ce que c'est ?&#10;</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'est-ce que c'est ?&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_9</Data></Cell>
@@ -6368,12 +6368,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_12</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">What's in your mind?&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'envisagez vous ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'envisagez-vous ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_13</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Was the Inner Sanctum breached?&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Le Sanctuaire Intérieur est-il enfreint ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Le Sanctuaire Intérieur est-il profané ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_14</Data></Cell>
@@ -6383,7 +6383,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_15</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Good. We'll assemble the Helion, and use its power to stop Ahriman's conjuring.&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien. Nous assemblerons l'Hélion, et utiliserons son pouvoir pour halter l'invocation de Ahriman.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Bien. Nous assemblerons l'Hélion, et utiliserons son pouvoir pour arrêter l'invocation d'Ahriman.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_16</Data></Cell>
@@ -6393,17 +6393,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_17</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Oh trust me I do.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Oh crois moi je le suis.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Oh crois-moi je le suis.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_18</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{What does that mean?|What does that mean?}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Qu'est ce que vous entendez par ça?|Qu'est ce que vous entendez par ça?}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Qu'est-ce que vous entendez par là?|Qu'est-ce que vous entendez par là?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_19</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">You haven't told them, have you? No wonder they agreed to this.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous ne leur avez pas dit, n'est ce pas? C'est pour ça qu'ils ont donné leur accord.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Vous ne leur avez pas dit, n'est-ce pas? C'est pour ça qu'ils ont donné leur accord.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_20</Data></Cell>
@@ -6413,7 +6413,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_21</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Anathëa, the Lady of Dawn herself created the Helion by imbuing part of herself into it. She gave it to our ancestors so that we would have a weapon to summon her powers to defend mankind if everything else had failed.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Anathëa, la Dame de l'Aube elle-même a crée l'Hélion en l'imprégnant d'une partie d'elle. Elle l'a offert à nos ancêtres pour que nous ayons une arme qui permette d'invoquer ses pouvoirs pour défendre l'humanité en dernier recours.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Anathëa, la Dame de l'Aube elle-même a créé l'Hélion en l'imprégnant d'une partie d'elle. Elle l'a offert à nos ancêtres pour que nous ayons une arme qui permette d'invoquer ses pouvoirs pour défendre l'humanité en dernier recours.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_22</Data></Cell>
@@ -6468,7 +6468,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_31</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">We can't wait for them to make up their mind. I will prepare a prayer to shield my men and Valeria against the Pacification for the battle to come. Meanwhile you move into the Vault and get the Helion's second piece.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous ne pouvons pas attendre que ta décision soit faite. Je vais préparer une prière pour protéger mes hommes et Valeria contre la Pacification pour la bataille à venir. En attendant tu entreras dans la Chambre pour récupérer le second fragment du Helion.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous ne pouvons pas attendre que ta décision soit faite. Je vais préparer une prière pour protéger mes hommes et Valeria contre la Pacification pour la bataille à venir. En attendant tu entreras dans la Chambre pour récupérer le second fragment de l'Hélion.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_32</Data></Cell>
@@ -6478,7 +6478,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_33</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You are an Ascended, act like one. You will resist it and you will prevail. Now go, attune yourself to the Searing Song's altar at the end of each of the Vault's wings and unseal the Inner Sanctum, there you shall find what we seek.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu es {un Exalté|une Exaltée}, montre-toi digne de ce titre. Tu y résisteras et tu prévaudras. Maintenant va, accorde toi à l'autel du Chant Brûlant au bout de chaque aile de la Cathédrale et déverrouille le Sanctuaire Intérieur, là tu trouveras ce que tu cherches.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu es {un Exalté|une Exaltée}, montre-toi digne de ce titre. Tu y résisteras et tu prévaudras. Maintenant va, accorde-toi à l'autel du Chant Brûlant au bout de chaque aile de la Cathédrale et déverrouille le Sanctuaire Intérieur, là tu trouveras ce que tu cherches.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_Valeria1_1</Data></Cell>
@@ -6513,7 +6513,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_CampChatter3_1</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">How long has it been there?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Depuis est-ce là ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Depuis quand est-ce là ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_NW_CampChatter3_2</Data></Cell>
@@ -6588,7 +6588,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_Attuning8_1</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{They locked themselves up in the Inner Sanctum to protect it... but got pacified nonetheless.|They locked themselves up in the Inner Sanctum to protect it... but got pacified nonetheless.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même fait pacifier.|Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même fait pacifier.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même faits pacifier.|Ils se sont enfermés dans le Sanctuaire Intérieur... mais ils se sont quand même faits pacifier.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_Attuning8_2</Data></Cell>
@@ -6608,7 +6608,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_SinadrahelFight3_1</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Mortals killing mortals for war, greed, envy, we will end it all soon. Until then, slaughter each other!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Les mortels qui tuent les mortels pour la guerre, la cupidité, la jalousie, nous y mettrons bientôt fin. D'ici là, entretuez vous !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Les mortels qui tuent les mortels pour la guerre, la cupidité, la jalousie, nous y mettrons bientôt fin. D'ici là, entretuez-vous !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_SinadrahelFight4_1</Data></Cell>
@@ -6628,7 +6628,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_SinadrahelFight7_1</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Accept it! There is no stopping us now! Fury's Ascent is nigh!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Accepte le ! Tu ne peux plus nous arrêter maintenant ! L'Ascension de la Furie est proche !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Accepte-le ! Tu ne peux plus nous arrêter maintenant ! L'Ascension de la Furie est proche !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest1_IS_SinadrahelFight8_1</Data></Cell>
@@ -6798,7 +6798,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_NW_ValeriaTalk1_5</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I'm talking about Heimlock. You know he'll be out there. Opening the gate is one thing, but we have to rat him out and finish this... one way or another.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Je parle de Heimlock. Tu sais qu'il sera là. Ouvrir le portail c'est une chose, mais faut qu'on le retrouve et qu'on en finisse... d'une manière ou d'une autre.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Je parle d'Heimlock. Tu sais qu'il sera là. Ouvrir le portail c'est une chose, mais faut qu'on le retrouve et qu'on en finisse... d'une manière ou d'une autre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_NW_ValeriaTalk1_6</Data></Cell>
@@ -6843,12 +6843,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RW1_Valeria1_4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I disagree. He willfully put himself in the service of Ahriman... I don't see why he would do that, but he did, there is no saving him from himself, is there?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Je ne suis pas d'accord. Il s'est volontairement mis au service de Ahriman... Je ne sais pas pourquoi, mais il l'a fait quand même. On ne peut pas le sauver de lui même, si ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Je ne suis pas d'accord. Il s'est volontairement mis au service d'Ahriman... Je ne sais pas pourquoi, mais il l'a fait quand même. On ne peut pas le sauver de lui-même, si ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RW1_Valeria1_5</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I don't know. We have awakened his will to resist. He's fighting Ahriman's control, even if it brings him immeasurable pain. Maybe we should help him break free rather than put him down?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Je ne sais pas. On a éveillé sa volonté et il cherche à résister. Il se bat contre le contrôle de Ahriman, quand bien même cela le fait souffrir. Est-ce qu'on ne devrait pas l'aider au lieu de l'abattre ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Je ne sais pas. On a éveillé sa volonté et il cherche à résister. Il se bat contre le contrôle d'Ahriman, quand bien même cela le fait souffrir. Est-ce qu'on ne devrait pas l'aider au lieu de l'abattre ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RW1_Valeria1_6</Data></Cell>
@@ -6993,7 +6993,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_TrenchMassacre2_3</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Look! Reinforcements are all leaving toward Cell G! What the hell is going on back there?</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Regardez ! Les renforts partent tous vers la Cellule G ! Mais qu'est ce qu'ils foutent là-bas ?</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Regardez ! Les renforts partent tous vers la Cellule G ! Mais qu'est-ce qu'ils foutent là-bas ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_TrenchMassacre2_4</Data></Cell>
@@ -7008,7 +7008,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_TrenchMassacre2_6</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">There are no orders! We're cut-off from command! We're on our own!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Nous n'y a aucun ordre ! Nous sommes coupés du commandement ! Nous sommes seuls !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Il n'y a aucun ordre ! Nous sommes coupés du commandement ! Nous sommes seuls !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_TrenchMassacre2_7</Data></Cell>
@@ -7113,7 +7113,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_SecondWave1_3</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{We must buy him time!|We must buy him time!}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{On doit lui gagner du temps !|On doit lui gagner du temps !}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{On doit lui faire gagner du temps !|On doit lui faire gagner du temps !}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_ThirdWave1_1</Data></Cell>
@@ -7258,12 +7258,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_12</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">But Daybreakers themselves admitted that summoning her magic was all they could do: her voice, her insights were non existent.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Mais les Portejours eux-même ont confessé qu'il pouvait seulement invoquer son pouvoir : sa voix et ses conseils étaient inexistents.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Mais les Portejours eux-même ont confessé qu'il pouvait seulement invoquer son pouvoir : sa voix et ses conseils étaient inexistants.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_13</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">As I felt the growing threats at the gates of mankind, I scoured the world for years trying to contact her... All in vain.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Alors que je ressentait la menace croissante aux portes de l'humanité, j'ai parcouru le monde pendants des années tentant de la contacter... En vain.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Alors que je ressentais la menace croissante aux portes de l'humanité, j'ai parcouru le monde pendants des années tentant de la contacter... En vain.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_14</Data></Cell>
@@ -7533,7 +7533,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_HeimlockValeria1_4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You created it, nurtured it. Betrayal will do that to people.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu les as crées, nourries. C'est l'effet logique de la trahison.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tu les as créées, nourries. C'est l'effet logique de la trahison.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_HeimlockValeria1_5</Data></Cell>
@@ -7553,7 +7553,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_HeimlockTalk1_3</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">No matter what happened and no matter what happens: the two of you will always be the Children of Heimlock: my pride. The only legacy I cherish to this day.&#10;</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'importe ce qui s'est passé et qu'importe ce qui arrive : vous deux serez toujours les Enfants de Heimlock : ma fierté. Le seul héritage que je chérisse encore aujourd'hui.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Qu'importe ce qui s'est passé et qu'importe ce qui arrive : vous deux serez toujours les Enfants d'Heimlock : ma fierté. Le seul héritage que je chérisse encore aujourd'hui.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_HeimlockTalk1_4</Data></Cell>
@@ -7623,7 +7623,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PMB_MonolithEntry1_1</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">{This is it. Now, to find the conflux.|This is it. Now, to find the conflux.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{On y est. Maintenant, il faut trouver le conflux.|This is it. Now, to find the conflux.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{On y est. Maintenant, il faut trouver le conflux.|On y est. Maintenant, il faut trouver le conflux.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PM2_AnasarethTalk1_1</Data></Cell>
@@ -7643,7 +7643,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PM2_AnasarethTalk1_4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">{I've met your kind before, you're are a Primordial guardian, aren't you?|I've met your kind before, you're a Primordial guardian, aren't you?}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{J'ai déjà rencontré quelqu'un comme vous, vous êtes Gardienne Primordiale, n'est ce pas ?|J'ai déjà rencontré quelqu'un comme vous, vous êtes Gardienne Primordiale, n'est ce pas ?}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{J'ai déjà rencontré quelqu'un comme vous, vous êtes une Gardienne Primordiale, n'est-ce pas ?|J'ai déjà rencontré quelqu'un comme vous, vous êtes une Gardienne Primordiale, n'est-ce pas ?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PM2_AnasarethTalk1_5</Data></Cell>
@@ -7668,7 +7668,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PM2_AnasarethTalk1_9</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">We will need to take care of them first. After that, the barrier should be weak enough for me to break through. My previous attempts were... unsuccessful.</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Il nous faudra les éliminer. Alors seulement la barrière sera assez faible pour que je l'écroule. Mes tentatives précédentes étaient... improductives.</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Il nous faudra les éliminer. Alors seulement la barrière sera assez faible pour que je l'écroule. Mes tentatives précédentes furent... infructueuses.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest4_PM2_AnasarethTalk1_10</Data></Cell>
@@ -7788,7 +7788,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest5_HA_Heimlock1_1</Data></Cell>
     <Cell ss:StyleID="s27"><Data ss:Type="String">Even if you won, she would fall into the abyss. Your sister is gone, the Helion is gone. This is all pointless: Fury's Ascent is nigh. Submit!</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">Même si tu gagnais, elle sombrerait quand même dans l'Abysse. Ta soeur est perdue, l'Hélion est perdu. Tout était en vain : l'Ascension de la Furie est proche. Soumets-toi !</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Même si tu gagnais, elle sombrerait quand même dans l'Abysse. Ta soeur est perdue, l'Hélion est perdu. Tout était vain : l'Ascension de la Furie est proche. Soumets-toi !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.3125">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest5_HA_Heimlock1_2</Data></Cell>

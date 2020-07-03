@@ -1,0 +1,640 @@
+ORIGINAL TEXT
+s
+m
+%1 de Chance de multiplier les Applications d'Afflictions
+%1 Application(s) d'Affliction Infligée
+Inflige %1 Affliction(s) Supplémentaire(s)
+%1 Projectile(s) supplémentaire(s)
+%1 Chances de doubler les Applications d'Afflictions
+%1 Point d'Endurance
+%1 Agilité
+%1 Résistance aux dégâts d'Afflictions
+%1 Chances de multiplier le nombre d'Application d'Affliction par %2
+%1 Chances de multiplier le nombre d'Applications d'Afflictions
+%1 Durée des Applications d'Afflictions
+%1 à tous les Attributs
+%1 Score de Résistances
+%1 Résistances
+%1 Résistances
+%1 Score de Résistances
+%1 Durée des Applications d'Afflictions
+Ajoute %1 de dégâts aux Attaques après avoir jeté un Sort. Ces dégâts sont du même type que le dernier Sort lancé
+%1 Vitesse d'Attaque
+%1 Score de Vitesse d'Attaque
+%1 Score de Vitesse d'Attaque
+%1 de réduction de recharge de Ruée
+%1m de portée à la Ruée
+%1 m de rayon de percée aux Projectiles
+Les Projectiles percent toutes les cibles dans un rayon de %1 m
+%1 au Score de Saignement en infligeant n'importe quel type de dégât
+%1 au Score de Saignement en infligeant des dégâts de Blessures
+%1 aux chances de Bloquer
+%1 de chance additionnelle de Bloquer. Permet à toutes les armes de Bloquer.
+%1 à l'efficacité du Blocage
+%1 Score de Brûlure en infligeant n'importe quel type de dégât
+%1 Score de Brûlure en infligeant des dégâts de Feu
+%1 Score de Brûlure en infligeant des dégâts de Feu
+Permet à son porteur de lancer Torrent de flèches
+Permet à son porteur de lancer Lames fantômes
+Permet à son porteur de lancer Orbe ravageur
+Permet à son porteur de lancer Tourment de l'enclume
+Permet à son porteur de lancer Marque du Tireur
+Permet à son porteur de lancer Choc de foudre
+Permet à son porteur de lancer Appel de la guerre
+Permet à son porteur de lancer Marque des impurs
+Permet à son porteur de lancer Rafale mortelle
+Permet à son porteur de lancer Braises dévorantes
+Permet à son porteur de lancer Larme d'Etheliel
+Permet à son porteur de lancer Lance arctique
+Permet à son porteur de lancer Joug de l'hiver
+Permet à son porteur de lancer Emprise du traqueur
+Permet à son porteur de lancer Tranchant sanguinaire
+Permet à son porteur de lancer Anéantissement
+Permet à son porteur de lancer Ailes d'Ishmir
+Permet à son porteur de lancer Courroux de Baäpheth
+Permet à son porteur de lancer Rempart de l'aube
+Permet à son porteur de lancer Dards de Krearion
+Permet à son porteur de lancer Saut éthéré
+Permet à son porteur de lancer Tourelle « Faucheuse »
+Permet à son porteur de lancer Cri de domination
+Permet à son porteur de lancer Tempête de lames
+Permet à son porteur de lancer Lames de l'Infini
+Permet à son porteur de lancer Éclipse
+Permet à son porteur de lancer Portepeste
+Permet à son porteur d'utiliser Lancer de Gaavanir
+Permet à son porteur d'utiliser Avatar de Lumière
+Permet à son porteur de lancer Mastodonte
+Permet à son porteur de lancer Parasite
+Permet à son porteur de lancer Sang pour Sang
+Permet à son porteur de lancer Linceul Crépusculaire
+Permet à son porteur de lancer Fusil Électromagnétique "Deathgazer"
+Permet à son porteur de lancer Impact Solaire
+Permet à son porteur de lancer Livor Mortis
+Permet à son porteur de lancer Essaim Dévoreur
+Permet à son porteur de lancer Essaim Chasseur
+Permet à son porteur de lancer Évasion
+Permet à son porteur de lancer Anomalie
+Vous ne pouvez plus esquiver (en-dehors de la Roulade)
+Votre Roulade vous permet de passer à travers les ennemis
+Immunité aux contrôles
+%1 Dégâts de Feu convertis en Dégâts de Givre
+%1 Dégâts de Feu convertis en Dégâts de Foudre
+%1 Dégâts de Feu convertis en Dégâts Physiques
+%1 Dégâts de Feu convertis en Dégâts de Blessure
+%1 Dégâts de Feu convertis en Dégâts Sacrés
+%1 Dégâts de Feu convertis en Dégâts d'Ombre
+%1 Dégâts de Feu convertis en Dégâts Toxiques
+%1 Dégâts de Feu convertis en Dégâts d'Éther
+%1 Dégâts de Givre convertis en Dégâts de Feu
+%1 Dégâts de Givre convertis en Dégâts de Foudre
+%1 Dégâts de Givre convertis en Dégâts Physiques
+%1 Dégâts de Givre convertis en Dégâts de Blessure
+%1 Dégâts de Givre convertis en Dégâts Sacrés
+%1 Dégâts de Givre convertis en Dégâts d'Ombre
+%1 Dégâts de Givre convertis en Dégâts Toxiques
+%1 Dégâts de Givre convertis en Dégâts d'Éther
+%1 Dégâts de Foudre convertis en Dégâts de Feu
+%1 Dégâts de Foudre convertis en Dégâts de Givre
+%1 Dégâts de Foudre convertis en Dégâts Physiques
+%1 Dégâts de Foudre convertis en Dégâts de Blessure
+%1 Dégâts de Foudre convertis en Dégâts Sacrés
+%1 Dégâts de Foudre convertis en Dégâts d'Ombre
+%1 Dégâts de Foudre convertis en Dégâts Toxiques
+%1 Dégâts de Foudre convertis en Dégâts d'Éther
+%1 Dégâts Physiques convertis en Dégâts de Givre
+%1 Dégâts Physiques convertis en Dégâts de Feu
+%1 Dégâts Physiques convertis en Dégâts de Foudre
+%1 Dégâts Physiques convertis en Dégâts de Blessure
+%1 Dégâts Physiques convertis en Dégâts Sacrés
+%1 Dégâts Physiques convertis en Dégâts d'Ombre
+%1 Dégâts Physiques convertis en Dégâts Toxiques
+%1 Dégâts Physiques convertis en Dégâts de Givre
+%1 Dégâts de Saignement convertis en Dégâts de Feu
+%1 Dégâts de Saignement convertis en Dégâts de Givre
+%1 Dégâts de Saignement convertis en Dégâts de Foudre
+%1 Dégâts de Saignement convertis en Dégâts Physiques
+%1 Dégâts de Saignement convertis en Dégâts Sacrés
+%1 Dégâts de Saignement convertis en Dégâts d'Ombre
+%1 Dégâts de Saignement convertis en Dégâts Toxiques
+%1 Dégâts de Saignement convertis en Dégâts d'Éther
+%1 Dégâts Sacrés convertis en Dégâts de Feu
+%1 Dégâts Sacrés convertis en Dégâts de Givre
+%1 Dégâts Sacrés convertis en Dégâts de Foudre
+%1 Dégâts Sacrés convertis en Dégâts Physiques
+%1 Dégâts Sacrés convertis en Dégâts de Blessure
+%1 Dégâts Sacrés convertis en Dégâts d'Ombre
+%1 Dégâts Sacrés convertis en Dégâts Toxiques
+%1 Dégâts Sacrés convertis en Dégâts d'Éther
+%1 Dégâts d'Ombre convertis en Dégâts de Feu
+%1 Dégâts d'Ombre convertis en Dégâts de Givre
+%1 Dégâts d'Ombre convertis en Dégâts de Foudre
+%1 Dégâts d'Ombre convertis en Dégâts Physiques
+%1 Dégâts d'Ombre convertis en Dégâts de Blessure
+%1 Dégâts d'Ombre convertis en Dégâts Sacrés
+%1 Dégâts d'Ombre convertis en Dégâts Toxiques
+%1 Dégâts d'Ombre convertis en Dégâts d'Éther
+%1 Dégâts de Poison convertis en Dégâts de Feu
+%1 Dégâts de Poison convertis en Dégâts de Givre
+%1 Dégâts de Poison convertis en Dégâts de Foudre
+%1 Dégâts Toxiques convertis en Dégâts Physiques
+%1 Dégâts Toxiques convertis en Dégâts de Blessure
+%1 Dégâts Toxiques convertis en Dégâts Sacrés
+%1 Dégâts Toxiques convertis en Dégâts d'Ombre
+%1 Dégâts Toxiques convertis en Dégâts d'Éther
+%1 Dégâts d'Éther convertis en Dégâts de Feu
+%1 Dégâts d'Éther convertis en Dégâts de Givre
+%1 Dégâts d'Éther convertis en Dégâts de Foudre
+%1 Dégâts d'Éther convertis en Dégâts Physiques
+%1 dégâts d'Éther convertis en dégâts Toxiques
+%1 Dégâts d'Éther convertis en Dégâts de Blessure
+%1 Dégâts d'Éther convertis en Dégâts Sacrés
+%1 Dégâts d'Éther convertis en Dégâts d'Ombre
+Les Chances de coup Critique de la Ruée sont doublées
+%1 Résistance aux Dégâts Critiques
+%1 Score de coup Critique des Attaques
+%1 Chances de coup Critique des Attaques
+%1 Score de coup Critique des Attaques
+%1 Chances de Coup Critique
+%1 Chances de coup Critique des Sorts
+%1 Score de coup Critique des Sorts
+%1 Score de coup Critique des Sorts
+%1 Chances de coup Critique des Afflictions 
+%1 Score de coup Critique des Afflictions
+%1 Score de coup Critique des Afflictions
+%1 Chances de coup Critique des Projectiles
+%1 Score de coup Critique des Projectiles
+%1 Score de coup Critique des Projectiles
+%1 Score de coup Critique
+%1 Score de coup Critique
+%1 Dégâts Critiques des Attaques
+%1 Dégâts Critiques des Sorts
+%1 dégâts Critiques infligés aux ennemis affectés par une Affliction
+Les dégâts sur la durée des Afflictions générés avec un coup Critique infligent des dégâts Critiques
+%1 Dégâts Critiques des Projectiles
+%1 Dégâts Critiques
+%1 Dégâts Critiques reçus
+%1 Score de coup Critique en infligeant des dégâts de Foudre
+%1 Score de coup Critique des sorts lorsque la Volonté est au-dessus de %2
+%1 durée d'Effets de Contrôle reçus
+%1 Chance de Malédiction par coup
+%1 Score de Malédiction avec les Dégâts d'Ombre
+Votre Ruée applique Malédiction
+%1 Dégâts par pourcentage de Résistance Physique
+%1 Dégâts
+%1 dégâts contre les ennemis affectés par Brûlure
+%1 dégâts supplémentaires aux cibles affectées par Gel
+%1 Dégâts des Attaques
+%1 dégâts supplémentaires infligés en dégâts de Feu
+%1 dégâts supplémentaires infligés en dégâts de Givre
+%1 dégâts supplémentaires infligés en dégâts de Foudre
+%1 dégâts supplémentaires infligés en dégâts Physiques
+%1 dégâts supplémentaires infligés en dégâts de Blessure
+%1 dégâts supplémentaires infligés en dégâts Sacrés
+%1 dégâts supplémentaires infligés en dégâts d'Ombre
+%1 dégâts supplémentaires infligés en dégâts Toxiques
+%1 dégâts supplémentaires infligés en dégâts d'Éther
+%1 aux Dégâts des Attaques
+%1 dégâts quand vous avez tous vos points d'Endurance
+%1 Dégâts des Armes de Mêlée
+%1 dégâts quand il n'y a qu'un ennemi dans un Rayon de %2m
+%1 dégâts quand un seul ennemi est considéré à Proximité
+%2m de rayon supplémentaires pour qu'un ennemi soit considéré à Proximité et subisse les dégâts relatifs à la Proximité
+%1 dégâts aux ennemis subissant une diminution de Mouvement
+Tuer un ennemi octroie %1 aux dégâts correspondants au type de dégâts de chaque Application d'Affliction sur cet ennemi (jusqu'à %2 Applications par type de dégât)
+%1 dégâts pour chaque ennemi à Proximité dans un Rayon de %3m
+%1 Dégâts pour chaque ennemi à Proximité
+%3m de Rayon pour qu'un ennemi soit considéré à Proximité
+%1 Dégâts pour chaque point d'Endurance manquant
+%1 Dégâts par tranche de 100 points de Rage disponibles
+%1 Dégâts des Projectiles
+%1 Dégâts des Armes à Distance
+%1 Dégâts des Sorts
+%1 Dégâts des Armes à Deux Mains
+%1 Dégâts quand vous êtes au moins à %2m de tout ennemi
+%1 Dégâts quand vous êtes Loin de tout ennemi
+%2m au Rayon pour être considéré Loin des ennemis
+%1 Dégâts des Armes à Distance
+%1 Réduction des dégâts quand le Bouclier de Force est plein
+%1 Réduction du temps de recharge de Ruée
+%1 chances d'appliquer la Marque des Impurs par coup
+%1 aux Résistances pour vous et vos alliés après avoir bloqué un coup
+%1 aux Résistances pour vous et vos alliés après avoir ramassé un Globe de Vie
+%1 Score d'Esquive après avoir subi un coup
+%1 Score d'Esquive
+%1 Score d'Esquive
+%1 du Score d'Esquive est converti en Score de Résistances
+%1 Chances d'Esquive
+%1 Dégâts par effet de Saignement
+%1 Dégâts par effet de Brûlure
+%1 Dégâts d'Affliction
+%1 Dégâts d'Affliction pour chaque point de Sagesse (jusqu'à %2)
+%1 Dégâts d'Empoisonnement
+%1 Dégâts d'Affliction réçus
+%1 Dégâts d'Électrocution
+Les Dégâts sur la durée reçus affectent le Bouclier de Force avant vos Points de Vie
+%1 aux dégâts Élémentaires du prochain sort Élémentaire si son Élément de base est différent
+%1 Dégâts Élémentaires
+%1 Score de Résistance à l'Élémentaire
+%1 Résistance à l'Élémentaire
+%1 Résistance à l'Élémentaire
+%1 Score de Résistance à l'Élémentaire
+%1 Protection aux Dégâts Élémentaires
+Les Chances de Gel et de Brûlure deviennent des Chances d'Électrocution
+%1 Férocité
+%1 Dégâts de Feu
+%1 Dégâts de Feu ajoutés aux Sorts
+%1 Dégâts de Feu ajoutés aux Attaques
+%1-%2 Dégâts de Feu ajoutés aux Sorts
+%1-%2 Dégâts de Feu ajoutés aux Attaques
+%1 Protection aux Dégâts de Feu
+%1 Score de Résistance au Feu
+%1 Résistance au Feu
+%1 Résistance au Feu
+%1 Score de Résistance au Feu
+%1 Réduction du délai de Régénération du Bouclier de Force
+%1 Bouclier de Force
+%1 Bouclier de Force
+%1 Rythme de Régénération du Bouclier de Force
+%1 Rythme de Régénération du Bouclier de Force
+Convertit le Bouclier de Force en Vie
+%1 aux chances de Geler en infligeant n'importe quel type de dégât
+Lorsque vous êtes Gelé, la durée de l'effet est augmentée de %1s
+%1 Score de Gel lorsque vous infligez des dégâts de Froid
+%1 Score de Gel lorsque vous infligez des dégâts de Froid
+%1 Dégâts de Givre
+%1 Dégâts de Givre ajoutés aux Sorts
+%1 Dégâts de Givre ajoutés aux Attaques
+%1-%2 Dégâts de Givre ajoutés aux Sorts
+%1-%2 Dégâts de Givre ajoutés aux Attaques
+%1 Protection aux Dégâts de Givre
+%1 Score de Résistance au Givre
+%1 Résistance au Givre
+%1 Résistance au Givre
+%1 Score de Résistance au Givre
+%1 Rayon pour récolter les Globes de Vie
+%1 Soins reçus des Globes de Vie
+%1 Soins reçus des Sorts
+%1 Points de Vie régénérés par point de Rage dépensé
+%1 Vie maximum
+%1 Vie maximum
+%1 Rythme de Régénération de Vie
+Déclenche une Régénération de Vie améliorée lorsque vous avez moins de %2 de vos Points de Vie maximum
+%1 Régénération de Vie
+%1 Régénération de Vie
+%1 Régénération de Vie
+%1 Génération des Globes de Santé
+%1 Quantité d'objet
+%1 Absorption de Vie sur une cible affectée par Brûlure
+%1 Absorption de Vie sur une cible affectée par Gel
+%1 Dégâts de Feu en Absorption de Vie
+%1 d'Absorption de Vie globale
+%1 Absorption de Vie avec les Dégâts de Foudre
+%1 Absorption de Vie sur une cible affectée par Saignement
+%1 Absorption de Vie avec les Dégâts Physiques
+%1 Absorption de Vie avec les Dégâts de Blessure
+%1 Absorption de Vie avec les Dégâts Sacrés
+%1 Absorption de Vie avec les Dégâts d'Ombre
+%1 Absorption de Vie avec les Dégâts des Sorts
+%1 Absorption de Vie avec les Dégâts Toxiques
+%1 Absorption de Vie avec les Dégâts d'Éther
+%1 Absorption de Vie avec les Dégâts de l'Arme
+L'Absorption de Vie affecte le Bouclier de Force au lieu de la Vie
+%1 Dégâts de Foudre
+%1 Dégâts de Foudre ajoutés aux Sorts
+%1 Dégâts de Foudre ajoutés aux Attaques
+%1-%2 Dégâts de Foudre ajoutés aux Sorts
+%1-%2 Dégâts de Foudre ajoutés aux Attaques
+%1 Protection aux Dégâts de Foudre
+%1 Score de Résistance à la Foudre
+%1 Résistance à la Foudre
+%1 Résistance à la Foudre
+%1 Score de Résistance à la Foudre
+Lorsque vous infligez un Coup Critique avec cette Arme, vous avez %1 de chances de lancer un choc de foudre qui inflige des dégâts à vous-même et aux ennemis. Cet Effet a un temps de recharge de %4s.
+%1 Découverte Magique
+Vous ne pouvez infliger que des Dégâts Matériels
+%1 Dégâts Matériels
+%1 Protection aux Dégâts Matériels
+%1 Score de Résistance au Matériel
+%1 Résistance au Matériel
+%1 Résistance au Matériel
+%1 Score de Résistance au Matériel
+%1 max Application d'Affliction
+Les dégâts de Mêlée bénéficient de %1 des bonus sur les Projectiles
+%1 Vitesse de déplacement
+%1 Vitesse de déplacement
+%1 de réduction aux dégâts qui n'infligent pas des dégâts sur la durée
+%1 Dégâts Occultes
+%1 Protection aux Dégâts Occultes
+%1 Score de Résistance à l'Occulte
+%1 Résistance à l'Occulte
+%1 Résistance à l'Occulte
+%1 Score de Résistance à l'Occulte
+%1 Vitesse d'Attaque et d'Incantation
+%1 Score de Vitesse d'Attaque et d'Incantation
+%1 Score de Vitesse d'Attaque et d'Incantation
+Vous ne pouvez infliger que l'Affliction Faiblesse
+%1 Dégâts Physiques
+%1 Dégâts Physiques ajoutés aux Sorts
+%1 Dégâts Physiques ajoutés aux Attaques
+%1-%2 Dégâts Physiques ajoutés aux Sorts
+%1-%2 Dégâts Physiques ajoutés aux Attaques
+%1 Protection aux Dégâts Physiques
+%1 Score de Résistance Physique
+%1 Résistance Physique
+%1 Résistance Physique
+%1 Score de Résistance Physique
+%1 Cibles peuvent être transpercées
+Les ennemis que vous gelez le sont pendant %1 plus longtemps
+%1 Durée du Gel infligé aux ennemis
+%1 aux chances d'Empoisonnement en infligeant n'importe quel type de dégât
+%1 Score d'Empoisonnement avec des dégâts Toxiques
+%1 Durée des Applications d'Empoisonnement
+Augmenté les Dégâts des Projectiles selon la distance jusqu'à %1 à %3 m (commence à %2 m)
+%1 Chance de repousser la cible
+%1 Vitesse des Projectiles
+%1 Temps de conservation de la Rage
+%1 Rage générée après avoir bloqué un coup
+%1 Rage par Coup Reçu
+%1 Rage générée en tuant un ennemi
+%1 Rage par Coup
+%1 Rage par Coup
+%1 Rage par Coup lorsque vous n'avez plus de Rage
+%1 augmentation du temps de transfert de la Rage à la Volonté
+%1-%2 réduction du temps de transfert de la Rage à la Volonté
+%1 de réduction du Coût en Rage et en Volonté
+%1 de réduction coût en Rage
+Gagne %1 points d'Endurance quand vous avez moins de %2 de votre Santé Maximum
+%1 Dégâts des Blessures
+%1 Dégâts de Blessure ajoutés aux Sorts
+%1 Dégâts de Blessure ajoutés aux Attaques
+%1-%2 Dégâts de Blessure ajoutés aux Sorts
+%1-%2 Dégâts de Blessure ajoutés aux Attaques
+%1 Protection aux Dégâts de Blessure
+%1 Score de Résistance aux Blessures
+%1 Résistance aux Blessures
+%1 Résistance aux Blessures
+%1 Score de Résistance aux Blessures
+%1 de Rage et de Volonté maximum
+%1 Dégâts Sacrés
+%1 Dégâts Sacrés ajoutés aux Sorts
+%1 Dégâts Sacrés ajoutés aux Attaques
+%1-%2 Dégâts Sacrés ajoutés aux Sorts
+%1-%2 Dégâts Sacrés ajoutés aux Attaques
+Lorsqu'un ennemi subit 5 Applications de Malédiction, lance Rempart d'Aube sur sa position, offrant des soins en effet de zone pour vous et vos alliés
+%1 Protection aux Dégâts Sacrés
+%1 Score de Résistance au Sacré
+%1 Résistance au Sacré
+%1 Résistance au Sacré
+Les Applications d'Électrocution sont appliquées à la Cible et au Lanceur
+%1 Dégâts d'Ombre
+%1 Dégâts d'Ombre ajoutés aux Sorts
+%1 Dégâts d'Ombre ajoutés aux Attaques
+%1-%2 Dégâts d'Ombre ajoutés aux Sorts
+%1-%2 Dégâts d'Ombre ajoutés aux Attaques
+Lorsqu'un ennemi subit 5 Applications de Faiblesse, lance une zone d'Ombre sur sa position, ce qui lui inflige des dégâts
+Protection aux Dégâts d'Ombre
+%1 Score de Résistance à l'Ombre
+%1 Résistance à l'Ombre
+%1 Résistance à l'Ombre
+Les sorts d'Ombre utilisent de la Rage au lieu de la Volonté
+%1 de Recharge du Bouclier de Force en consommant des Globes de Santé
+%1 Chance d'Électrocution par Coup
+%1 Score d'Électrocution avec des Dégâts de Foudre
+%1 Score d'Électrocution avec des Dégâts de Foudre
+%1 Réduction du temps de recharge pour toutes les Compétences
+Permet à son porteur d'utiliser les Sorts de Feu
+Permet à son porteur d'utiliser les Sorts de Givre
+Permet à son porteur d'utiliser les Sorts de Foudre
+Permet à son porteur d'utiliser les Compétences Physiques
+Permet à son porteur d'utiliser les Sorts de Blessure
+Permet à son porteur d'utiliser les Sorts de Sacré
+Permet à son porteur d'utiliser les Sorts d'Ombre
+Permet à son porteur d'utiliser les Sorts Toxiques
+Permet à son porteur d'utiliser les Sorts d'Éther
+Les bonus donnés par les Compétences sont %1 plus efficaces
+À chaque fois que vous esquivez, vous ralentissez tous les ennemis autour de vous. Cette capacité a un temps de recharge.
+%1 Vitesse d'Incantation
+%1 Score de Vitesse d'Incantation
+%1 Score de Vitesse d'Incantation
+%1 réduction du délai de recharge d'Endurance
+%2 Application de Stase par Attaque
+%1 chance de stase par coup
+%1 Score de Stase avec des Dégâts d'Éther
+%1 Score de Stase avec des Dégâts d'Éther
+%1 Chance d'appliquer une Affliction
+%1 Score d'Afflictions Élémentaires
+%1 Score d'Afflictions Matérielles
+%1 Score d'Afflictions Occultes
+%1 Score d'Application d'Affliction
+%1 Score d'Application d'Affliction
+%1 Score d'Afflictions Élementaires
+%1 Score d'Afflictions Matérielles
+%1 Score d'Afflictions Occultes
+%1 Score de Résistance aux Afflictions
+%1 Score de Résistance aux Afflictions
+Les Attaques de base de votre Bâton sont considérées comme des Sorts
+%1 chance d'étourdissement par coup
+La Ruée inflige Étourdissement aux ennemis
+%1 Score d'Étourdissement avec les Dégâts Physiques
+%1 Score d'Étourdissement avec les Dégâts Physiques
+%1 Robustesse
+%1 Dégâts Toxiques
+%1 Dégâts Toxiques ajoutés aux Sorts
+%1 Dégâts Toxiques ajoutés aux Attaques
+%1-%2 Dégâts Toxiques ajoutés aux Sorts
+%1-%2 Dégâts Toxiques ajoutés aux Attaques
+%1 Protection aux Dégâts Toxiques
+%1 Score de Résistance au Toxique
+%1 Résistance au Toxique
+%1 Résistance au Toxique
+%1 Réduction du temps de Transfert entre la Volonté et la Rage
+%1 Chances de Bloquer lorsque vous avez une Arme à une main équipée
+%1 Chances de Bloquer lorsque vous avez une Arme à deux mains équipée
+%1 Dégâts d'Éther
+%1 Dégâts d'Éther ajoutés aux Sorts
+%1 Dégâts d'Éther ajoutés aux Attaques
+%1-%2 Dégâts d'Éther ajoutés aux Sorts
+%1-%2 Dégâts d'Éther ajoutés aux Attaques
+%1 Volonté par coup
+%1 Protection aux Dégâts d'Éther
+%1 Régénération de Volonté
+%1 Régénération de Volonté
+%1 Score de Résistance à l'Éther
+%1 Résistance à l'Éther
+%1 Résistance à l'Éther
+%1 Augmentation du Temps de transfert de la Volonté à la Rage
+%1-%2 Temps de transfert de la Volonté à la Rage
+%1 Réduction du coût des Sorts
+%1 Réduction Coût en Volonté
+%1 Réduction du Coût des Sorts Élémentaires
+%1 Dégâts reçus
+%1 chance d'affaiblissement par coup
+ +%2 Afflictions de Faiblesse infligés en Bloquant
+Inflige %2 Application de Faiblesse à toutes les cibles dans un rayon de %1m lorsque vous bloquez une attaque
+%1 Score de Faiblesse avec les Dégâts Sacrés
+%1 Score de Faiblesse avec les Dégâts Sacrés
+Vos Attaques appliquent Faiblesse.
+%1 Sagesse
+%1 Chances d'invoquer un allié fantomatique lorsque vous réussissez une attaque de base. L'allié fantomatique inflige %2 des dégâts de votre arme à l'ennemi touché
+%1 Menace générée
++%1 aux Résistances sur cet objet
++%1 aux Résistances sur cet objet
++%1 chance de blocage sur cet objet
++%1 chance de blocage sur cet objet
++%1 efficacité de blocage sur cet objet
++%1 efficacité de blocage sur cet objet
+%1-%2 Dégâts de Feu des Attaques avec cette arme
+%1-%2 Dégâts de Givre des Attaques avec cette arme
+%1-%2 Dégâts de Foudre des Attaques avec cette arme
+%1-%2 Dégâts Physiques des Attaques avec cette arme
+%1-%2 Dégâts de Blessures des Attaques avec cette arme
+%1-%2 Dégâts Sacrés des Attaques avec cette arme
+%1-%2 Dégâts d'Ombre des Attaques avec cette arme
+%1-%2 Dégâts Toxiques des Attaques avec cette arme
+%1-%2 Dégâts d'Éther des attaques avec cette arme
+%1 Dégâts Élémentaires des attaques avec cette arme
+%1 Dégâts Matériels sur les Attaques avec cette arme
+%1 Dégâts Occultes des attaques avec cette arme
+%1 Dégâts des Attaques avec cette arme
++%1 bouclier de force sur cet objet
++%1 bouclier de force sur cet objet
++%1 vie sur cet objet
++%1 vie sur cet objet
++%1 génération de ressources sur cet objet
++%1 génération de ressources sur cet objet
+Régénère passivement de la Rage au lieu de la Volonté
+%1 Vie des Invocations
+%1 Régénération de Vie des Invocations
+%1 dégâts infligés par les Invocations
+%1 à la Vitesse d'Attaque et d'Incantation des Invocations
+Les compétences coûtent %2 Rage quand la Rage est au-dessus de %1, mais infligent des dégâts doublés.
+Lorsque vous touchez un ennemi avec une Attaque, vous avez %1 chances de consommer les Applications de Brûlure si il y en a plus de %2, augmentant les dégâts de %3 par Application consommée
+Les ennemis tués par une attaque qui a consommé des Applications de Brûlures transfèrent %1 Applications de Brûlures aux ennemis considérés à Proximité
+Vos Attaques génèrent des points "Déchaînement Furieux" jusqu'à un maximum de %1. Les points se réinitialisent après %2s hors-combat 
+%1 Score de Vitesse d'Attaque par point de "Déchaînement Furieux"
+%1 Absorption de Vie par point de "Déchaînement Furieux"
+%1 Score de Résistances par point de "Déchaînement Furieux"
+Vous donne accès à deux "Postures": "Exposition Meurtrière" et "Résolution Vaillante". Une "Posture" se change en utilisant la Roulade.
+Lorsque "Exposition Meurtrière" est active, vous avez %1 chances de doubler les dégâts des Attaques de base, au prix de %2 de votre score de Résistances
+Lorsque "Résolution Vaillante" est active, vous avez %1 chances de Bloquer et %2 à l'Efficacité du Blocage, au prix de %3 de vos vitesses d'Attaque et d'Incantation
+Augmente de %1 les chances de doubler les dégâts des Attaques lorsque "Exposition Meurtrière" est active
+Augmente de %1 les chances de Blocage lorsque "Résolution Vaillante" est active
+%1 des dégâts de l'Arme sont infligés à un ennemi dont l'attaque est Bloquée
+Les dégâts infligés à un ennemi dont vous avez Bloqué l'attaque sont des dégâts de Blessure
+Octroie une quatrième attaque alternative à chaque Combo d'Arme de base
+Le quatrième Combo d'Attaque d'un Arc tire des flèches dans toutes les directions
+Le quatrième Combo d'Attaque d'un Bâton tire des Projectiles supplémentaires en direction de la cible
+Le quatrième Combo d'Attaque d'une arme à Deux Mains Étourdit tous les ennemis touchés
+Le quatrième Combo d'Attaque d'une arme à Une Main est toujours un coup Critique
+Le quatrième Combo d'Attaque des armes inflige %1 dégâts supplémentaires
+Lorsque vous restez sur place, vous gagnez 1 Point "Impitoyable" toutes les %1s, jusqu'à un maximum de %2
+%1 Vitesse de Déplacement par Point "Impitoyable"
+%1 dégâts par Point "Impitoyable"
+%1 Régénération de Vie par Point "Impitoyable"
+%1 Score de Résistances par Point "Impitoyable"
+Les Points "Impitoyables" sont gagnés toutes les %1s
+Permet à des Bonus de s'appliquer en fonction du type d'armure de torse équipée
+%1 Régénération de Vie pour chaque point de Vie sur l'armure de torse de Cogneur équipée
+Ajoute à votre Score de Résistances le Score de Résistances de l'armure de torse Lourde équipée
+À chaque fois que vous Esquivez, vous régénérez de la Vie et du Bouclier de Force à hauteur de %1 fois la Vie octroyée par l'armure de torse de Renégat équipée
+%1 Régénération du Bouclier de Force pour chaque point de Bouclier de Force sur l'armure de torse de Sorcier équipée
+Permet à des Bonus de s'appliquer en fonction du type d'armure de tête équipée
+%1 Régénération de Vie pour chaque Point de Vie sur l'armure de tête de Cogneur équipée
+Octroie un bonus au Score de Résistances égal à %1 multiplié par le Score de Résistances de l'armure de tête Lourde équipée
+À chaque fois que vous Esquivez, vous régénérez de la Vie et du Bouclier de Force à hauteur de %1 fois la Vie octroyée par l'armure de tête de Renégat équipée
+%1 Régénération du Bouclier de Force pour chaque point de Bouclier de Force sur l'armure de tête de Sorcier équipée
+%2 Point(s) de "'Fortification" gagnés toutes les %1s, jusqu'à un maximum de %3
+%1 Chances de Blocage par point de "Fortification"
+%1 Point de "Forteresse" gagné chaque seconde. Lorsqu'une attaque est bloquée, le compteur revient à 0
+Infliger des dégâts Sacrés tue instantanément les ennemis qui ont moins de %1 de leur vie maximale (Serviteurs et Spécialistes uniquement)
+Les dégâts Sacrés tuent également instantanément les Champions(en plus des Serviteurs et Lieutenants) dont la vie est en-dessous d'un certain seuil
+Tous les alliés à Proximité se relèvent lorsque votre Vie descend sous %2 de votre maximum de Points de Vie
+Tous les alliés à Proximité gagnent un bonus de %1 à leurs Scores de Résistances lorsque des alliés sont relevés
+%1 au Score de Résistances lorsqu'un allié est relevé
+%1 dégâts des Sorts lorsque le Bouclier de Force est au-dessus de %2 et %1 dégâts aux Attaques lorsque le Bouclier de Force et en-dessous de %2
+%1 augmentation des dégâts des Sorts au-dessus du seuil de Bouclier de Force et %1 augmentation aux dégâts des Attaques en-dessous du seuil de Bouclier de Force
+Les Sorts dont les éléments sont le Feu, le Froid, ou la Foudre octroient des bonus d'"Affinités". Vous pouvez bénéficier de %1 "Affinité(s)" simultanément. Les "Affinités" déclenchées ont un temps de recharge de %2s.
+%1 "Affinités" peuvent être actives simultanément
+L'"Affinité d'Etheliel" est active pendant %3s si elle n'est pas de nouveau déclenchée. Vous avez %1 au Score d'Application des Afflictions lorsque l'"Affinité d'Etheliel" est active.
+L'"Affinité d'Abanazaar" est active pendant %3s si elle n'est pas de nouveau déclenchée. Vous infligez %1 dégâts supplémentaires si l'"Affinité d'Abanazaar" est active.
+L'"Affinité de Beelmalik" est active pendant %3s si elle n'est pas de nouveau déclenchée. Vous avez %1 au Score de Coup Critique lorsque l'"Affinité de Beelmalik" est active.
+%1 chances de lancer un météore sur la position du curseur lorsque vous utilisez une compétence de Feu. Temps de recharge de %4s
+%1 chances de lancer un pic de givre sur la position du curseur lorsque vous utilisez une compétence de Froid. Temps de recharge de %4s
+%1 chances de lancer une chaîne d'éclair sur la position du curseur lorsque vous utilisez une compétence de Foudre. Temps de recharge de %4s
+Lorsque la Volonté est en-dessous de %2 de son maximum, vous avez une chance de lancer une explosion infligeant des dégâts basés sur votre maximum de Bouclier de Force ou de Points de Vie. Cette explosion régénère %1 de Volonté, et a un temps de recharge de %4s.
+L'explosion déclenchée sous le seuil du maximum de Volonté(indiqué dans Déstabilisation Élémentaire) inflige des dégâts supplémentaires basés sur votre maximum de Points de Vie ou Bouclier de Force.
+Lorsque vous touchez des ennemis affectés par Stase, ils subissent %1 des dégâts portés une nouvelle fois après %2s
+Les dégâts infligés après le délai sont augmentés de %3
+Vous gagnez des Points de "Paradoxe Céleste" lorsque vous touchez un ennemi sous Stase avec une Attaque, et des Points de "Paradoxe Corporel" lorsque vous les touchez avec un Sort. Les Points se réinitialisent après %1s. Maximum de %2 Point(s)
+%1 Score de Vitesse d'Attaque par Point de "Paradoxe Corporel"
+%1 Score de Vitesse d'Incantation par Point de "Paradoxe Céleste"
+Vous ne prenez que %1 dégâts des attaques ennemies lorsqu'elles vous touchent, le reste des dégâts est infligé %2s après
+Vos Points de Vie sont fixés à %1 de vos Points de Vie maximum, et votre Bouclier de Force à %2 de votre Bouclier de Force maximum
+Vos maximum de Points de Vie et Bouclier de Force sont respectivement augmentés de %1 et %2 du maximum spécifié dans Jonction Intense
+Les ennemis qui meurent dans un rayon de %1m autour de vous ont %2 chances de laisser tomber des globes verts. Ramasser des globes verts vous octroie %3 dégâts supplémentaires de Poison pendant %4s
+Les Invocations qui meurent dans un rayon de %1m autour de vous ont %2 chances de laisser tomber des globes verts. Ramasser des globes verts vous octroie %3 dégâts supplémentaires de Poison pendant %4s
+Vous perdez %1 Points de Vie et %2 Bouclier de Force, mais toutes vos Invocations subissent %3 dégâts en moins
+Vous perdez %1 Points de Vie et %2 Bouclier de Force supplémentaires, mais toutes vos Invocations subissent %3 dégâts en moins
+Les ennemis dans un rayon de %2m subissent une Application de Poison toutes les %1s
+Les ennemis sont Ralentis de %1 pendant %2s lorsqu'ils se trouvent dans le rayon
+Les dégâts Occultes sont augmentés de %1 pour chaque Malédiction appliquée sur un ennemi
+Double le maximum de Bouclier de Force
+Vos Points de Vie ne peuvent excéder %1 du Bouclier de Force maximum
+Lorsque vous avez plus de %1 Applications de la même Affliction, vous les purgez et octroyez un bonus à vous et vos alliés dans un certain Rayon
+Les Applications d'Afflictions infligées aux ennemis vous sont également infligées. Lorsque vous avez %1 Applications d'une même Affliction, elles sont purgées et vous gagnez des Bonus
+%1 Vitesse de Déplacement pour vous et vos alliés dans un rayon de %2m pendant %3s lorsqu'une Application de Stase est purgée
+%1 au Score de Résistances pour vous et vos alliés dans un rayon de %2m pendant %3s lorsque les Applications de Malédiction sont purgées
+%1 dégâts supplémentaires pour vous et vos alliés dans un rayon de %2m pendant %3s lorsqu'une Application de Faiblesse est purgée.
+Purger les Applications d'Afflictions qui infligent des dégâts sur le temps restaure %1 du maximum de Points de Vie et %1 du maximum de Bouclier de Force pour vous et vos alliés dans un rayon de %2m
+Lorsque vous subissez un renvoi d'Affliction, vous avez %1 chances d'augmenter le nombre d'Applications d'Afflictions infligées de %2
+%1 réduction de dégâts par Point de "Doctrine"
+Vous gagnez 1 Point de "Doctrine" toutes les %1s jusqu'à un maximum de %2 Points de "Doctrine". Lorsque vous êtes touché, vous perdez 1 Point de "Doctrine".
+Vous gagnez 1 Point de "Chasseur de Tête" (et un maximum de %3) à chaque fois qu'un ennemi de type Champion ou supérieur est tué. Vos Points se réinitialisent après %2s. Les Points de "Chasseur de Tête" octroient un bonus de %1 aux dégâts Matériels
+Les Points de "Chasseur de Tête" durent %2s supplémentaires avant d'être réinitialisés
+%2 Point(s) de "Munition Consacrée" consommé(s) à chaque fois que vous utilisez une Compétence de Projectile. 1 point de "Munition Consacrée" rechargé toutes les %1s
+%1 Point(s) de "Munition Consacrée" rechargé(s) lorsque vous terminez une Roulade
+%1 Point(s) de "Munition Consacrée" rechargé(s) lorsque vous infligez un Coup Critique
+%1 aux dégâts des Projectiles pour chaque Point de "Munition Consacrée" dont vous disposez
+%1 aux dégâts en Mêlée pour chaque Point de "Munition Consacrée" manquant
+Les ennemis subissent %1 dégâts par nombre de Percées restantes lorsque le Projectile touche
+Les Attaques de Projectiles de base rebondissent jusqu'à %1 fois sur les ennemis à Proximité dans un rayon de %2m
+Les Projectiles rebondissent sur les ennemis à Proximité %1 fois supplémentaire(s)
+%1 dégâts de Froid aux Projectiles qui ont rebondi
+Lorsque vous êtes en combat, vous gagnez des Points de "Sang Froid" toutes les %1s jusqu'à un maximum de %2
+Vous gagnez des Points de "Sang Froid" toutes les %1s
+%1 dégâts par Point de "Sang Froid"
+%1 Score de Vitesse d'Attaque pendant %3s après un Coup Critique
+Les Attaques de Base vous octroient %1 Points de "Batterie". %2 Points de "Batterie" sont générés toutes les secondes, capés entre -%3 et +%3
+%1 réduction du coût en Points de "Batterie" pour toutes les Compétences d'Utilitaires
+Les Compétences de Foudre et Utilitaires infligent %1 dégâts supplémentaires, multipliés par le nombre actuel de Points de "Batterie"
+%2 dégâts par Point de "Surcharge". Les Attaques de Base génèrent 1 Point de "Surcharge" jusqu'à un maximum de %1. Utiliser une Compétence consomme tous les points de "Surcharge" et double ses dégâts
+Les Points de "Surcharge" sont divisés par deux au lieu d'être remis à 0 lorsqu'ils sont consommés.
+Vous avez %1 Points partagés entre "Emprise de la Lumière" et "Emprise des Ténèbres". Lancer un Sort convertit '"Emprise de la Lumière" en "Emprise des Ténèbres", et lancer une Attaque convertit "Emprise des Ténèbres" en "Emprise de la Lumière". Lorsque "Emprise de la Lumière" et "Emprise des Ténèbres" atteignent 6/4, ils atteignent l'Équilibre.
+Lorsque "Emprise de la Lumière" et "Emprise des Ténèbres" sont en "Équilibre", vos Attaques bénéficient de %1 de votre bonus aux dégâts des Sorts et vos sorts bénéficient de %1 de votre bonus aux dégâts d'Attaques
+Lorsque "Emprise de la Lumière" et "Emprise des Ténèbres" ne sont pas en "Équilibre", vos attaques perdent %1 de votre bonus aux dégâts des Sorts et vos sorts perdent %1 de votre bonus aux dégâts d'Attaques
+Les Points d'"Emprise de la Lumière" et d'"Emprise des Ténèbres" sont maintenant considérés en "Équilibre" lorsque vous atteignez un ratio de 7/3
+La Roulade inflige des dégâts aux ennemis et place un Leurre pendant %1s
+Le Leurre placé par la Roulade explose lorsqu'il est détruit, infligeant des dégâts dans un Rayon de %2m
+Terminer une Roulade vous rend invisible pendant %1s. Lorsque vous êtes invisible, les dégâts de la prochaine Compétence que vous utilisez sont augmentés de %2. Utiliser une compétence dissipe l'invisibilité. Temps de recharge de %3s.
+Durée de l'invisibilité déclenchée par la Roulade augmentée de %1s
+%1 dégâts avec les Armes à une main
+Les dégâts sont augmentés par %1 multiplié par les Chances de Blocage du bouclier équipé
+Vous subissez 1 Application d'Affliction lorsque vous infligez une Affliction à un ennemi
+%1 Soins reçus depuis n'importe quelle source
+Si vous avez des chances de Geler, %1 de ces chances sont ajoutées à vos chances de Coup Critique. Ces coups ne peuvent plus geler les ennemis.
+%1 dégâts reçus par les ennemis affectés par Brûlure
+%1 au Score de Résistances lorsque votre Endurance est pleine
+%1 Points de Vie des Invocations
+%1 dégâts des Invocations
+%1 Chances de Coup Critique contre les ennemis affectés par Saignement
+%1 Chances de Coup Critique contre les ennemis affectés par Poison
+Utiliser une compétence de Mouvement purge tous les Contrôles de Foules qui vous affectent. Temps de recharge de %1s.
+%1 de vos dégâts de Foudre absorbent du Bouclier de Force
+Utiliser un Sort qui inflige des dégâts de Type Élémentaire octroie un Bonus affectant les deux autres Types d'Éléments
+%1 Chances de propager les Afflictions aux ennemis autour de la cible
+%1 Dégâts de Givre en Absorption de Vie
+%1 Génération de Ressource
+%1 durée de Malédiction infligée aux ennemis
+%1 durée de Stase infligée aux ennemis
+%1 durée de Faiblesse infligée aux ennemis
+%1 durée d'Étourdissement infligé aux ennemis

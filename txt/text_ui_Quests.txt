@@ -1,0 +1,298 @@
+ORIGINAL TEXT
+Vous ne pouvez pas remplacer un Objet de Quête
+Vous ne pouvez pas remplacer une Compétence de Quête
+Récompenses de Quête
+Choisissez votre récompense
+Accepter la Quête
+Refuser la Quête
+Vous devez choisir votre récompense
+Objectif Complété !
+L'histoire se termine ici… pour le moment !
+Si vous voyez ce message c'est qu'une coquille s'est glissée, car ui_Quest_warning_content n'est pas supposée être là. Merci de prendre une capture d"écran et de la transmettre aux développeurs afin de nous permettre de la corriger.
+Merci
+(OPTIONNEL) 
+NOUVEAU
+…
+Prologue
+Acte 1
+Acte 2
+Acte 3
+A l'âge de 5 ans, le Grand Inquisiteur Heimlock vous sauva vous et vos amis d'enfance Valeria et Edric. Il vous enrôla tous les trois au sein des Purificateurs, une des armées de la République.
+On vous y enseigna comment traquer tous les adeptes de l'occulte, liés à la sorcellerie.
+Au fil des années, votre trio a reçu le surnom d'Enfants d'Heimlock en raison du mentorat que vous avez reçu de la part du leader emblématique.
+Il y a un mois, un groupe de fanatiques religieux, la Confrérie de l'Aube, s'est infiltré dans un donjon des Purificateurs.
+Suite à ces événements, le Sénat républicain a voté le lancement d'une campagne de représailles contre la Confrérie…
+Les Enfants d'Heimlock
+Suivez Maëlys
+Parlez avec Maëlys
+Atteignez la Corniche
+Libérez la Corniche
+Tuez le Sappeur
+Survivez aux Apparitions
+Atteignez la Corniche à Proximité
+Écoutez les Alentours
+Les Rifts des Profondeurs
+Bannissez les Créatures Damnées
+Questionnez l'Éclaireur
+Protégez Valeria
+Résister à Yudaï
+Sauveurs Inattendus
+Sortez du Garde-Manger
+Écouter les alentours
+Sortez du Garde-Manger
+Échappez de la Grotte des Svriirs
+Parlez avec Valeria
+Parler à Valeria
+Parlez avec le Garde de Stormfall
+Entrer dans Stormfall
+Le Fléau de la Tempête
+Parlez avec Mohabi, le Marchand
+Parlez avec Demetra, l'Archiviste
+Atteindre les Terres Cultivées
+Écouter les Alentours
+Parler avec Lame-Tonnerre Fäarad
+Atteindre le Camp de Sandor
+Parler avec le Garde de Stormfall
+Repousser l'assaut au nord
+Tuer les Tunneleurs
+Résister à l'Attaque des Cracheurs
+Résister à l'invasion des Svriirs
+Faire face à l'Alpha
+Parler avec Lame-Tonnerre Sandor
+Trouvez l'Entrée du Réseau de Cavernes des Svriirs
+Entrer dans le réseau de cavernes des Svriirs
+Trouver l'entrée pour vous enfoncer pour profond dans les cavernes
+Enfoncez vous plus encore dans le réseau de cavernes
+Trouver la tanière
+Entrer dans la tanière
+Trouver la Créature
+Détrôner la Bête
+Le Fléau de l'Orage
+Abattre Sirkis
+Rendre compte à Foudrelame Fäarad dans Stormfall en utillisant Le Portail de Téléportation vers la ville (T)
+Entrer dans le Palais
+Rejoindre le Trône
+Parler au Prince-Marchand Damaskus
+Écouter les alentours
+Rencontrer les Purificateurs
+Un accueil chaleureux
+Atteindre l'Auberge
+Entrer dans l'Auberge
+Chercher Valeria
+Parler avec l'Aubergiste
+Tuer l'Alastor
+Trouver l'avant-poste des Écorcheurs
+Entrer dans l'avant-poste des Écorcheurs
+Nés de la Bataille
+Traverser le territoire des Écorcheurs
+Quitter le territoire des Écorcheurs
+Survivre à l'embuscade des Écorcheurs
+Tuer Naärlog
+Chercher le camp des Purificateurs
+Traverser le camp ravagé de la Fraternité de l'Aube
+Parler avec le Chevalier de l'Aurore blessé
+Sortir du camp ravagé
+Atteindre le camp des Purificateurs
+Entrer dans le camp des Purificateurs
+Parler avec Heimlock
+Quitter la zone
+Entrer dans le Palais
+L'Inconnu
+Atteindre le Trône
+Parler au Prince-Marchand Damaskus
+Atteindre le Sentier des Passeurs
+Entrer dans le Sentier des Passeurs
+Explorer les profondeurs
+Atteindre la Nécropole
+Explorer la Nécropole
+Atteindre le prochain étage
+Séparer le Dôme de sa source d'énergie
+Bannir les Créatures Damnées
+Explorer plus profondément dans la Nécropole
+Chercher un moyen de traverser l'Abîme
+Ouvrir les Ossuaires
+Explorer les profondeurs
+Écouter les alentours
+Les os gelés
+Vaincre Vhegguadh
+Combattre le Dévoreur
+Progresser sur le Chemin Gelé
+Investiguez le Rituel
+Affrontez le Culte du Dormeur
+Les Secrets d'Anankis
+Ouvrir la porte d'Anankis
+Entrez dans le premier niveau d'Anankis
+Explorer le premier niveau
+Poursuivre le Cultiste
+Atteindre la zone surplombant le cœur d'Anankis
+Explorer le deuxième niveau
+Écouter les alentours
+Atteindre la zone surplombant le cœur d'Anankis
+Parler avec le Cultiste
+Ne crains aucun Mal
+Faire taire le Murmureur d'Anameterassü
+Bannir Yudaï
+Parler à la Gardienne Primordiale
+Atteindre le troisième niveau
+Explorer le troisième niveau
+Peu importe nos chances
+Soumettre Edric le Justicar
+Résistez à Edric
+Tuez votre frère
+Atteindre le deuxième niveau de la zone surplombant le cœur d'Anankis
+Explorer le deuxième niveau de la zone surplombant le cœur d'Anankis
+Atteindre le cœur
+Explorer le cœur
+Faire face au jugement
+Parler à l'esprit de la Gardienne Primoridale
+Parler au Prince-Marchand Damaskus
+Faire son rapport au Prince-Marchand Damaskus
+Poursuivre Val
+Retrouver Valeria
+Quitter la zone
+Tuer Janaris et ses sbires
+Parler à Valeria
+Écouter les alentours
+Parler à la shaman mourante
+Ombres perçantes
+Trouver l'entrée du repaire des adorateurs de l'Ombre
+Chercher Zima
+Libérer Zima
+Parler à Zima
+Traverser la forêt de Sadaron et trouver l'arène de Pitié
+Traverser la forêt de Shadaron et trouver l'arène de Pitié
+Parler à Zima
+Entrer dans l'arène de Pitié
+Battre les champions de Pitié
+Parler à Pitié
+Défier Pitié
+Le vengeur
+Tuer Pitié
+Écouter les alentours
+Entrer dans le portail de Zima
+Parler à Zima
+Le plus sombre crépuscule
+Approcher les fortifications de la Confrérie de l'Aube
+Parler à Valeria
+Entrer dans le fort de la Confrérie de l'Aube
+Nettoyer la zone
+Parler à Valeria
+Entrer dans la Cathédrale de l'Espoir
+Chercher les Frères survivants
+Entrer dans le Sanctuaire de l'Espoir
+Écouter les alentours
+Parler à Gernese
+Écouter les alentours
+Parler au Chevalier de l'Aurore
+Résister à l'assaut
+Utiliser l'Aspect de l'Apocalypse pour triompher
+Parler à Gernese
+Porteur de l'Aube
+Parler à Gernese
+Parler à Valeria
+Atteindre Helmshire
+Trouver l'origine nécromantique
+Entrez dans le rituel nécromantique
+Écouter les alentours
+Parler à Nerukaï
+Arrêter le rituel nécromantique
+Chasse aux démons
+Bannir Nerukaï et tuer Pitié... Encore
+Voyage vers la démence
+Retournez voir Gernese dans son camp en utilisant le Voyage Rapide depuis la Carte
+Voyage vers Cordanon
+Voyage vers Cordanon
+Survivre à l'embuscade
+Tuer le Justicar Azenhal
+Parler à la créature
+Explorer la frontière de la Chair
+Parler au Lambach
+Voyagez à travers la frontière de la Chair
+Détruire les cœurs de corruption
+Quitter la frontière de la Chair
+Atteindre la forêt de la Chair
+Voyager à travers la forêt de la Chair
+Détruire les cœurs de corruption
+Quitter la forêt de la Chair
+Entrer dans les mines de Cordanon
+Voyagez à travers les mines de Cordanon
+Atteindre Cordanon
+Chercher les hommes de la Confrérie de l'Aube
+Approcher de Cordanon
+Tuer tous les ennemis
+Bannir Zaalbezül
+Parler à Valeria
+Invitation Cordiale
+Pénétrer dans les chambres d'incubation
+Parler au Lambach
+Tuer les clones de Valéria
+Quitter la zone
+S'enfoncer plus profondément
+Atteindre la zone surplombant le catalyseur corrompu
+Atteindre la Genèse
+Parler au Lambach
+Combattre les créatures de chair
+Charmant
+Tuer Lambach
+Tuer Lambach pour de vrai
+Parler à Gernese
+Donner la première pièce de l'Hélion à Gernese dans son camp grâce au voyage rapide en utilisant la carte
+Illusions de paix
+Parler à Gernese
+Trouver un passage vers le Cathédrale de la Vérité
+Parler au chevalier de l'aube Gendris
+Utiliser le tunnel de sortie pour entrer dans la Cathédrale de la Vérité
+Entrer dans le hall principal de la Cathédrale de la Vérité
+Atteindre la fin d'une aile et s'accorder avec son autel
+Atteindre la fin de l'autre aile et s'accorder avec son autel
+Atteindre le Sanctuaire de la Vérité
+Prendre la seconde partie de l'Hélion
+Bannir Sinadrahel et ses alliés
+Récupérer la seconde partie de l'Hélion
+Parlez à Gernese dans son camp en utilisant le Voyage Rapide depuis la Carte
+Parler à Valeria
+Infiltration
+Voyager à travers les Friches Rouges
+Voyager vers le panorama du champ de bataille
+Voyager à travers la dernière ligne répuclicaine
+Voyager à travers le champ de bataille des Purificateurs
+Atteindre les remparts du Fort Cramoisi
+Entrer sur la tête de pont
+Tuer les républicains pacifiés
+Survivre à la contre attaque
+Tuer Ydrael et ses marionnettes
+Parler à Heimlock
+Utiliser le portail
+La porte de la furie
+Se battre le long des remparts de la cellule H
+Atteindre la tour Est
+Parler à Heimlock
+Se battre le long des remparts de la cellule G
+Entrer dans la tour Ouest
+Atteindre le mécanisme d'ouverture de la porte principale
+Activer le mécanisme d'ouverture de la porte principale
+Atteindre le haut de la tour ouest
+Défendre le générateur du mécanisme de la porte principale
+Tuer Nikölas, la Lance de la Balance
+Atteindre l'entrée du monolithe
+Parler à Heimlock
+Parler à Valeria
+L'Ascension de la Furie
+Entrer dans le monolithe
+Voyager à travers les premières salles du monolithe
+Atteindre les salles hautes du monolithe
+Parler à Anasareth
+Tuer les trois instruments de la furie
+Atteindre le portail du conflux
+Parler à Anasareth
+Utiliser le portail du conflux
+Explorer la zone
+Activer la plateforme d'accès au conflux
+Parler à Heimlock
+Parler à Gernese
+Patricide
+Maitriser Heimlock
+Vaincre Heimlock
+Briser Heimlock
+Prospérer dans le mode Champion de Stormfall
+Prospérer dans le mode Champion de Stormfall

@@ -1,0 +1,280 @@
+ORIGINAL TEXT
+Mohabi
+Tableau des Mandats
+Carte des Expéditions
+Eugène "Le Fringant"
+Foudrelame Zalahir
+Demetra
+Zanafer Stark
+Valeria
+Edric
+Justicar Maëlys
+Foudrelame
+Foudrelame Faärad
+Foudrelame Sandor
+Maraudeur des Écorcheurs
+Chasseur des Écorcheurs
+Saboteur des Écorcheurs
+Yudaï
+Garde de Stormfall
+Conscrit de Stormfall
+Noble de Stormfall
+Réfugié
+Prince-Marchand Damaskus
+Alastor
+Naärlog
+Cultiste du Dormeur
+Chevalier de l'Aurore Calahad
+Grand Inquisiteur Heimlock
+Vhegguad, Gardien d'Anankis
+Neiddrerym
+Nazim
+Mizzeonth
+Le Lambach
+Zima
+Janaris
+Pitié
+Justicier Azenhal
+Soldat Républicain
+Hiérophante du Chant Brûlant
+Chevalier de l'Aurore
+Frère
+Frère
+Nerukaï
+Zaälbezül, Bras d'Ashtaroth
+Gernese
+Devin Morosien Mourant
+Fanatique du Dormeur
+Tabbitha de la Maison Longrivage
+Valense de la Maison Noirmarée
+Annaruz de la Maison Ventevif
+Citoyen de Stormfall
+Chevalier de l'Aurore Gendris
+Ensemble
+Jerryk Eauxnoires
+Ellil Moria
+Emmus Telhis
+Lysandre Coquenuit
+Nicolette Caladon
+Rokitav Ouragan
+Point de passage
+%1 point de passage débloqué
+Intéragir pour générer un nouveau donjon
+Aubergiste
+Dormir
+Se reposer
+Heure actuelle:
+Dormir jusqu'à:
+Coffre personnel
+Entrée de la crypte
+La Côte des Épaves 
+Votre position
+Objectif de quête
+Lieu exploré
+Lieu inexploré
+Point de passage
+Centre-ville
+Zone sûre
+Zone verrouillée
+Grotte des Svriirs
+Hautes-terres
+Stormfall - Quartier du Palais
+Champs de Stormfall
+Cavernes des Svriirs 1
+Chambre des offrandes
+Cavernes des Svriirs 2
+Avant-poste des Écorcheurs
+Camp ravagé de la Confrérie
+Escarpements verdoyants
+Passage du contrebandier
+Nécropole d'Urhan 1
+Nécropole d'Urhan 3
+Porte d'Anankis
+Halls d'Anankis 1 
+Halls d'Anankis 2
+Plateforme du Cœur d'Anankis
+Halls d'Anankis 3
+Plateforme du Cœur d'Anankis 2
+<Font Size="18" Color="#FFFFFF">Des millénaires d'intempéries ont sculpté ces cavernes. C'est ce même climat qui inspira le nom de <b>Mer des Tourments</b> au nord-ouest de ces lieux, où de nombreux bateaux disparurent avant de s'échouer sur la côte. Récemment, les <b>Svriirs des Côtes</b> ont fui les profondeurs pour envahir la zone.</Font>
+<Font Size="18" Color="#FFFFFF">Les <b>Svriirs</b> envahissent les terres environnantes avec une rapidité stupéfiante. Les gardiens de Stormfall sont submergés par la sauvagerie dont ils font preuve et ont ordonné la retraite. Ce passage vers les côtes était autrefois un endroit paisible, désormais il est jonché des corps de réfugiés qui tentent de rejoindre la Cité.</Font>
+<Font Size="18" Color="#FFFFFF">La cité-État de <b>Stormfall</b> est surnommée « Joyau de la Mer ». Sa réputation s'est fondée sur ses légendaires chantiers navals et ses cartographes, et sa richesse vient du très animé commerce de diamants. C'est ce qui lui a permis de conserver sa souveraineté face à l'expansion de la <b>République</b>, et de forger une alliance défensive connue sous le nom de <b>Concordat des Joyaux</b>. De plus, les <b>Déserts de Sel de Morkaï</b> avoisinants font office de barrière naturelle et mortelle qui dissuade particulièrement les envahisseurs.</Font>
+<Font Size="18" Color="#FFFFFF">La Route des Marchands est le passage terrestre officiel qu'empruntent les caravanes pour venir à <b>Stormfall</b>. Elle passe par les <b>Champs de Stormfall</b> avant de se séparer en plusieurs routes menant vers la <b>République</b>, la Cité-État alliée de <b>Vulkaïn</b> et la route septentrionale vers <b>Greyharbour</b> plus loin au Nord. Mais la crise récente a dissuadé toute personne de s'engager dans cette zone de guerre, de crainte d'être attaqué par des Svriirs ou par des Écorcheurs.</Font>
+<Font Size="18" Color="#FFFFFF">Ces cavernes souterraines ont été creusées par les <b>Svriirs</b> jusqu'à atteindre la surface. Elles forment un vaste réseau qui relie de nombreuses tanières, elles-mêmes reliées à une superstructure contrôlée par un seul <b>Svriir mâle Alpha</b>. La présence d’innombrables œufs et le fait qu'il est inhabituel que les <b>Svriirs femelles Bêta</b> s'approchent autant des lignes de front indiquent qu’ils ont été poussés ici par désespoir et qu'ils n'ont aucune intention de revenir en arrière.</Font>
+<Font Size="18" Color="#FFFFFF">Ces lieux contiennent un mélange surprenant d’objets volés à la surface. Et beaucoup de corps. Tout ce qui est perçu comme objet de valeur est susceptible d'être rapporté à la <b>Chambre des offrandes</b>, de la simple fourchette luisante au véritable diamant.</Font>
+<Font Size="18" Color="#FFFFFF"><b>Les Vagues d’Âme</b> venues des profondeurs affaiblissent la structure de ces tunnels. Les <b>Svriirs</b> se déplacent en masse vers la surface, ou s’occupent de défendre les œufs contre les <b>âmes tourmentées</b> qui les attaquent, ce qui peut expliquer pourquoi le cœur du réseau est sous-protégé.</Font>
+<Font Size="18" Color="#FFFFFF">Le littoral a toujours été une zone hostile, parsemé d’épaves qui s'accumulent depuis des années. Mais depuis que les <b>Ruées Spirituelles</b> ont commencé, il atteint un tout autre niveau de dangerosité. On peut se demander pourquoi les <b>Écorcheurs</b> luttent encore pour conserver leur avant-poste tout près d'ici.</Font>
+<Font Size="18" Color="#FFFFFF">La cible de l'Opération Fléau-de-l'Aube. Les <b>Frères de l’Aube</b> ont subi une attaque par le flanc en pleine nuit par les <b>Forces Républicaines</b> venues du littoral. Il ne reste de cette bataille que du sang et des braises.</Font>
+<Font Size="18" Color="#FFFFFF"><b>Les Escarpements verdoyants</b> ont un microclimat, comme on le voit souvent près des côtes. C'est de loin le lieu le plus ensoleillé du territoire de la Cité-État. Peut-être que cela explique pourquoi les <b>Écorcheurs</b> ont choisi ce bois pour se dissimuler, jusqu'à ce qu'une opportunité se présente pour attaquer les <b>Champs de Stormfall</b>.</Font>
+<Font Size="18" Color="#FFFFFF">Un ancien réseau de cavernes naturelles qui relie différents niveaux de <b>Stormfall</b> à la mer. Il fut autrefois un terrain de jeu de cache-cache entre les <b>gardes de Stormfall</b> et les contrebandiers, jusqu'à ce que les <b>Svrirrs des Côtes</b> remontent à la surface.</Font>
+<Font Size="18" Color="#FFFFFF">Les chambres sinistres d’une civilisation éteinte depuis longtemps, morte et enterrée avant même la conception de l’idée de <b>Stormfall</b>. Ces chambres sont restées intactes pendant des siècles, mais après le passage de la procession du <b>Culte du Dormeur</b>, les morts y rôdent.</Font>
+<Font Size="18" Color="#FFFFFF">Des fosses sans fond, une obscurité suffocante, un froid paralysant… Il n'y a aucun doute, ce lieu appartient aux morts.</Font>
+<Font Size="18" Color="#FFFFFF">Cette <b>Nécropole</b> massive est remplie de sculptures et de tablettes dissimulées, comme si ses constructeurs désiraient raconter leur histoire. Parmi ces témoignages cachés, on trouve des illustrations de bêtes terrifiantes faites de lumière et d’ombre, oppressant les bâtisseurs humains de ces lieux. Vérité, ou mythe ? Quoi qu'il en soit, ces artisans ont été réveillés et hantent maintenant la <b>nécropole</b> suite au passage de la procession de profanateurs du <b>Dormeur</b>.</Font>
+<Font Size="18" Color="#FFFFFF">Une porte intemporelle fut mise au jour par les bâtisseurs de la <b>Nécropole</b>. Apparemment, sa découverte sonna la fin de cette construction souterraine, et leur dernier acte fut de remplir les chambres du mausolée avec leurs propres os.</Font>
+<Font Size="18" Color="#FFFFFF">Ces réseaux d'énormes catalyseurs sont à l'origine des plus extraordinaires héritages de la Création. Sans eux, même les <b>Primordiaux</b> auraient été incapables de réaliser leurs plus grands accomplissements. C'est probablement ce type de pouvoir que recherche le <b>Culte du Dormeur</b>.</Font>
+<Font Size="18" Color="#FFFFFF"><b>Les Gardiens Primordiaux</b> qui veillent sur les <b>Salles d’Anankis</b> contre le <b>Culte du Dormeur</b> sont les derniers souvenirs de l'originelle superstructure. Si ils venaient à disparaître, leur connaissance se volatiliserait avec eux.</Font>
+<Font Size="18" Color="#FFFFFF">Le rôle des <b>Superstructures Primordiales</b> était de recueillir la foi et de la canaliser vers le cœur du réseau des catalyseurs. L'invasion du <b>Culte du Dormeur</b> a corrompu cette fonction.</Font>
+<Font Size="18" Color="#FFFFFF">Les <b>superstructures Primordiales</b> ont été construites pour récolter et canaliser la foi, pour la conduire au cœur du réseau des catalyseurs. L'invasion du <b>Culte du Dormeur</b> a corrompu cette fonction.</Font>
+<Font Size="18" Color="#FFFFFF">Des études préliminaires indiquent que les hommes de la Nécropole servaient un être surhumain d'une puissance jamais vue jusqu'ici. Peut-être que l'émergence constante de colonies dans cette zone peut s'expliquer par la proximité de ce pouvoir.</Font>
+<Font Size="18" Color="#FFFFFF">Les phénomènes qui touchent la surface sont causés par la surcharge du cœur d'Anankis, et ce déluge de puissance est renforcé par la terreur de la population, renvoyée sous forme d'énergie vers le cœur. Si cette boucle n'est pas arrêtée, cela s'achèvera par la destruction totale de la cité. Même sans Yudaï, le <b>Culte du Dormeur</b> ne laissera personne approcher du cœur sans combattre.</Font>
+<Font Size="15" Color="#E6C138">"<i>Les marchands du monde parcourent de grandes distances pour éviter la <b>Mer des Tourments</b>, et lorsqu'ils ont besoin d'un équipage pour la traverser, ils se tournent vers nous. Nous connaissons ses courants traîtres sur le bout des doigts.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b> Sataë, 12e Captaine de la Flotte Marchande de Stormfall</b></Font>
+<Font Size="15" Color="#E6C138">"<i>J’ai perdu la main de ma maman devant la ville. Il y avait beaucoup de gens, elle a été poussée dans la foule, tout le monde avait très peur et ils voulaient rentrer. J'ai réussi à trouver les portes mais les gardes ont tout fermé devant nous. Maintenant, j'ai peur, parce que je crois que je vais mourir.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Ebira, Réfugiée à Stormfall</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Fermer les portes de la ville au nez de mon peuple est de loin la décision la plus difficile de mon mandat. Nous avons accueilli le plus de monde possible derrière les murailles, mais les niveaux inférieurs sont maintenant saturés de réfugiés... la famine et les maladies nous guettent; il serait suicidaire d'en accepter davantage.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Prince-Marchand Damaskus de Stormfall, Gardien du Joyau des Mers</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Le Prince-Marchand a autorisé la location de notre flotte de guerre pour une mission bien juteuse de l'autre côté du monde. Et maintenant nous sommes assaillis, et pas préparés... Le guet de Stormfall n'est pas équipé pour un assaut de cette ampleur. Les conscrits n'y changeront rien: nous avons besoin de soldats formés ! Maudit soit-il, lui et sa cupidité. </i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Sandor, Foudrelame de Stormfall</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Un <b>Svriir</b> qui sort d'un œuf ne peut être que deux choses: un mâle ou une femelle. En-dehors de cela, tous les <b>Svriirs</b> sont similaires à leur naissance. Ce n'est que plus tard qu'ils peuvent muter en fonction du besoin du nid... La faculté d'adaptation dans toute sa splendeur. Je ne peux m'empêcher de comparer cela aux élèves qui sortent des écoles, transformés en ce dont la communauté a besoin... ou presque.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Achemid, Conseiller du Prince-Marchand Damaskus sur la crise des Svriirs</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>La société <b>Svriir</b> est fascinante pour de nombreuses raisons. Les <b>mâles oméga</b> sont des animaux lâches qui s'organisent en meute pour voler, ou enlever des victimes. Ils offrent leurs tributs aux <b>femelles bêta</b> qui les couvrent de crachats si elles acceptent leur cadeau. La théorie dominante est que le crachat est rempli de mutagènes qui s'activent lorsqu'il entre en contact avec la peau d’autres <b>Svriirs</b>. C'est ainsi que les <b>mâles oméga</b> méritants vont gagner en grade, en devenant des <b>mâles béta</b> spécifiques. Un processus de sélection vertueux.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Achemid, Conseiller au Prince-Marchand Damaskus sur la crise des Svriirs</b></Font>
+<Font Size="15" Color="#E6C138">"<i>C'est une erreur commune de confondre les <b>Svriirs</b> avec des reptiliens. En réalité, ils sont plus comparables à une société primitive: pour quelle autre raison cacheraient-ils leurs attributs génitaux ? Les animaux ne s'encombrent pas d'une telle modestie.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Achemid, Conseiller au Prince-Marchand Damaskus sur la crise des Svriirs</b></Font>
+<Font Size="15" Color="#E6C138"> "<i><b>Les <b>Écorcheurs</b> ont sauté sur l'occasion d'attaquer lorsque les <b>Svriirs</b> ont pris d'assaut les <b>Fermes de Stormfall</b>. Et maintenant, c'est à leur tour d'être pris en chasse par ces <b>âmes</b>. Quelle ironie. Qui sait ? Peut-être que les fantômes des innocents qu'ils ont massacrés en profitent prendre leur revanche.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Edric, Purificateur Vétéran de la République</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Le <b>Fort Carmin</b> a succombé à la corruption occulte de la <b>Fraternité de l’Aube</b>.<br/><br/>Nous ne serons pas souillés.<br/>Nous résisterons.<br/><br/>Une armée de <b>Purificateurs</b> va être déployée au nord pour reprendre ce qui nous appartient. Toutes les localisations connues de la <b>Fraternité de l’Aube</b> seront attaquées en représailles, et purifiées immédiatement.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Édit 3.3.3.4.6. du Sénat de la République Unifiée de l'Humanité</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>C'était un bel endroit pour les balades romantiques, pour les mariages. Mais avec les derniers événements, je réalise que même si nous survivons, il n'y aura plus jamais de célébrations, il n'y aura plus que deuil et chagrin.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Prince-Marchand Damaskus de Stormfall, Gardien du Joyau des Mers</b> </Font>
+<Font Size="15" Color="#E6C138"> "<i>Le  <b>Foudrelame Odao</b> a demandé au <b>Prince-Marchand</b> de faire exploser les cavernes sous <b>Stormfall</b>, afin d'aider le guet à faire face au marché noir qui ébranle notre économie. J'ai dû intervenir pour expliquer que si nous faisions cela, la cité entière s'effondrerait sur elle-même. Odao ne m'adresse plus la parole depuis...</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Seigneur Arkan, Conseiller d'Ingénierie à la cour du Prince-Marchand Damaskus</Font>
+<Font Size="15" Color="#E6C138">"<i>On a localisé la procession du <b>Culte du Dormeur</b>. Il semble qu'ils connaissaient l’existence et la localisation de la <b>Nécropole</b>… Je crains qu’ils soient menés par une entité d’un autre âge. Que le <b>Chant Brûlant</b> ait pitié de nous.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Calahad, Chevalier de l'Aurore de la Fraternité de l'Aube</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Il y a des <b>Nécropoles</b> semblables enterrées profondément sous terre à travers les quatre royaumes. Elles abritent toutes des ossements humains au même niveau de conservation, et partagent une iconographie identique. C'est à se demander ce qui a pu se passer simultanément à travers le monde, il y a si longtemps.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Xil'Sarei, historien de renom</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Nous, humains, nous oublions. Notre histoire est parsemée d'avènements et de chutes de civilisations. Nous sommes tellement centrés sur nous-mêmes que nous pensons que nos petits drames quotidiens ont une importance dans le grand plan. Mais le <b>Dormeur</b> a nous ouvert les yeux, pour toujours.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Vhegguad, Gardien d'Anankis</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Le pouvoir d’<b>Anankis</b> sommeille dans les profondeurs de la terre, oublié par la plupart des mortels. Mais le <b>Dormeur</b> connaît son emplacement et me l'a confié. Je convertirai ce catalyseur à notre cause, et j'exploiterai son pouvoir pour servir ses ambitions.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Yudaï, Murmure d'Anameterassü</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Les tremblements de terre et les <b>Ruées Spirituelles</b> se répandent à travers le territoire. Ceci est une réalité pour beaucoup de monde : nous pouvions surmonter la menace des <b>Svriirs</b>, mais qu’est-ce on peut faire contre ça ? Si on quitte la ville, le massacre est assuré. Si on reste ici, nous contemplerons une mort lente et douloureuse.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Faärad, Foudrelame de Stormfall</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Le désespoir avait conduit de nombreux <b>Primordiaux</b> à convoiter de plus grands niveaux de pouvoirs, et les mesures extrêmes qu'ils ont prises les conduiraient plus tard à leur chute. Ils furent si nombreux à devenir des <b>Abbathus</b>, des ombres déformées de leur gloire passée.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Mizzeonth, Gardienne Primordiale d'Anankis</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Une nouvelle ère nous attend. Une ère de paix, libérée des conflits triviaux des <b>Primoridiaux</b> qui tourmentent la Création depuis toujours. <b>Le Pacte de l'Aveugle</b> s'en assurera.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Yudaï, Murmure d'Anameterassü</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Je me bats pour mon devoir divin : Je suis la douce manille qui retient la cupidité des <b>Abbathus</b>. Je suis la main guidante qui retient l'humanité de son oblitération totale.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Mizzeonth, Gardienne Primordiale</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Les humains rêvent d'un âge d'innocence perdue, comme s'ils avaient autrefois été les enfants obéissants de créateurs bienfaisants. Si leur fondateurs Primordiaux étaient si bienfaisants que ça, alors pourquoi cette structure se délecte-t-elle de leur peur ?</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Yudaï, Murmure d'Anameterassü</b></Font>
+<Font Size="15" Color="#E6C138"> "<i>Lorsque tu auras goûté à la foi récoltée par la peur, tu ne pourras plus revenir en arrière. La puissance générée est incomparable. <b>Stormfall</b> tremblera de peur, et nous nous en repaîtrons.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Yudaï, Murmure d'Anameterassü</b></Font>
+Cercle Matrimonial
+Cœur d'Anankis
+Périphérie du Camp Républicain
+Stormfall - La Mouette Rieuse
+Stormfall - Palais
+Repaire de Sirkis
+Périphérie du Camp des Purificateurs
+Vallée de Galathä
+Forêt de Shadaron
+Helmshire
+Stormfall - Quartier du Palais
+Sanctuaire de l'Espoir
+Lac de Galathä
+Fort en Brèche des Portejours
+Plateforme Corrompue du Catalyseur
+Frontière Charnelle
+Forêt de Chair
+Périphérie de Cordanon
+Cathédrale de l'Espoir
+Chambres d'Incubation 1
+Chambres d'Incubation 2
+Chemin de l'Écho
+Salle d'Expérimentation
+Vallée des Portejours
+Cordanon
+Foyer Municipal de Helmshire
+Genèse
+<Font Size="18" Color="#FFFFFF">Des totems et des cadavres encombrent la forteresse des <b>Chacals du Crépuscule</b>, où des sacrifices humains sont utilisés pour alimenter la magie pénombrale la plus intense. Des rugissements et hurlements résonnent depuis l'arène barbare de <b>Pitié</b>, où des candidats pleins d'espoir se battent à mort pour la chance de récolter richesses et gloire.</Font>
+<Font Size="18" Color="#FFFFFF">Cette cité autrefois pittoresque, connue pour sa menuiserie, se tient maintenant comme la base des opérations d'un culte néfaste de nécromanciers. La <b>Rivière Galatha</b> ne coule plus et la terre repose humide, jalonnée des débris d'une armée en décomposition.</Font>
+<Font Size="18" Color="#FFFFFF">Tandis qu'un brouillard mystérieux enveloppe les bas quartiers de <b>Stormfall</b>, les citoyens et réfugiés sont effrayés et désespérés. Mais les portes du quartier supérieur restent fermées et les nobles protègent leurs propres vivres tandis que le désordre menace de devenir chaos.</Font>
+<Font Size="18" Color="#FFFFFF">Le coeur de la <b>Cathédrale de l'Espoir</b>, ce coffre sûr détenait un fragment du <b>Hélion</b>, une arme légendaire qui invoque le pouvoir d'<b>Anathëa, Dame de l'Aube</b>, elle-même. Dotée d'autres objets religieux, cette pièce a été le lieu de bien des cérémonies religieuses importantes.</Font>
+<Font Size="18" Color="#FFFFFF">Les <b>Chacals du Crépuscule</b> se sont installés dans cette zone après avoir été bannis de <b>C'tul</b>. Verdoyante et fertile, cette implantation est située au dessus d'une rivière, avec des maisons rudimentaires bâties dans les arbres ou sur des pilotis. Des cages d'esclaves reposent dans les environs, en majorité vides après de très lucratifs accords avec le <b>Culte du Dormeur</b>.</Font>
+<Font Size="18" Color="#FFFFFF">Un camp improvisé de la Confrérie à l'extérieur de la <b>Cathédrale de l'Espoir</b> dévastée, les survivants de l'embuscade du <b>Culte du Dormeur</b> tentent de rassembler leurs forces. Les Hiérophantes soignent des chevaliers blessés, tandis que ceux qui sont encore debouts dégagent les morts-vivants restants de la zone.</Font>
+<Font Size="18" Color="#FFFFFF">La structure Primordiale qui alimentait autrefois les Primordiaux nourrit maintenant le <b>Pacte de l'Aveugle</b> et leurs Seigneurs Déchus. Tandis qu'ils gagnent en pouvoir, l'espoir s'échappe petit à petit du cœur des humains.</Font>
+<Font Size="18" Color="#FFFFFF">Aux bords du domaine de la chair, la corruption s'infiltre dans l'ancienne forêt. Des brins d'herbe développent des veines, les arbres se couvrent de furoncles, la terre se voit lentement convertir en un enfer rouge et corpulent.</Font>
+<Font Size="18" Color="#FFFFFF">Le feuillage charnu est épais par ici, la corruption organique est presque complète ; des bassins d'eau souillée, des fruits qui saignent si touchés. Une voie qui connectait <b>Cordanon</b> au reste du monde, autrefois pleine de monde, repose maintenant inutilisée, couverte d'une couche de poussière.</Font>
+<Font Size="18" Color="#FFFFFF">Là où tout a commencé, le cercle d'invocation qui a amené <b>Lambach</b> au monde des mortels, maintenant un gouffre de muscles secoués de spasmes. En élargissant l'empire de chair corrompue, <b>Lambach</b> s'est transformé de multiples fois, chaque incarnation étant plus macabre et meurtrière que la précédente.</Font>
+<Font Size="18" Color="#FFFFFF">Une cité presque insonore, corrompue par la chair et habitée par un seul être vivant, le <b>Lambach</b>. Des veines ornent le long des bâtiments, les mauvaises herbes sont rouge sang, les résidents de la chair marchent au travers des rues pour étendre les frontières de la corruption.</Font>
+<Font Size="18" Color="#FFFFFF">Un temple remarquable, la <b>Cathédrale de l'Espoir</b> a été construite par la <b>Confrérie de l'Aube</b> pour héberger une artéfact exceptionnel. Maintenant, elle est assaillie par une armée de morts, ses sacrements profanés par la magie immonde du <b>Culte du Dormeur</b>.</Font>
+<Font Size="18" Color="#FFFFFF">Des créatures de chair se déversent des murs, créées à partir de la matière charnelle recyclée de la population de <b>Cordanon</b>. Des expériences échouées reposent ici, suppurantes et se décomposant dans l'atmosphère. Les murs spasment et râlent comme des machines, créant un flot sans fin de monstres déformés.</Font>
+<Font Size="18" Color="#FFFFFF">Des clones ratés de <b>Valeria</b> reposent le long des murs de cette chambre souterraine. Un atelier suppurant et putride, l'odeur de la chair forgée domine l'atmosphère ; de nouveaux essais sortent des murs et s'écroulent de douleur sur le sol de chair.</Font>
+<Font Size="18" Color="#FFFFFF">Cette caverne demeure assez peu affectée par la corruption de la chair, apportant un refuge temporaire à la supervision de <b>Lambach</b>. Les créatures qui ont évité la chair jusqu'ici s'y sont rassemblées, mais leur assimilation est inévitable.</Font>
+<Font Size="18" Color="#FFFFFF">Un laboratoire perverti, ici le <b>Lambach</b> construit ses dernières créations fétides. Les murs sont couverts d'échecs, des animaux hybrides qui n'ont jamais pris de seconde respiration, des abominations déformées et des clones de 'spécimens intéressants'.</Font>
+<Font Size="18" Color="#FFFFFF">Une horde de morts-vivants a déferlé sur cette terre, prenant en embuscade la <b>Confrérie de l'Aube</b> au passage. Maintenant, les corps réanimés des guerriers sacrés errent cette terre imprégnée de sang aux côtés de leurs agresseurs.</Font>
+<Font Size="15" Color="#E6C138">"<i>Qui sera le prochain à affronter mes champions ? Un esclave pour chaque victoire ! Vous aimez pas ce que je fais, je vous fais demander pitié ! Ça c'est moi, et je vous tuerai !</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Mercy, Sombre Parangon des Chacals du Crépuscule</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Les humains ne sont que du bétail, affluant vers des chefs ignorants qui les font travailler à mort. Retirer leur conscience est une manière de les libérer de leurs obligations mortelles, être mort-vivant est l'évolution ultime de l'humanité.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Nerukaï, Démon des Âmes</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Il faut avoir pitié des paysans à les voir affluer désespérément vers nos maisons des hauts quartiers. Cependant, les laisser entrer serait la ruine de toute la cité. Il vaut mieux que nous seuls survivions que personne du tout.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Salomë Vengd de la Maison Courtruisseau</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Le Hélion a sauvé l'humanité quand nous en avions besoin, invoquant la Dame de l'Aube pour dissiper le mal avec sa lumière dévorante. Ce pouvoir ne peut pas tomber entre de mauvaises mains, même s'il faut sacrifier nos vies pour le protéger.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Gernese, Eos de la Confrérie de l'Aube</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Pour déchaîner le véritable pouvoir des ténèbres, il faut contribuer une âme fraiche à leur obscurité. Dans un monde plein de traitres et d'hérétiques, cela rend les exécutions efficaces.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Janaris, Émissaire du Dormeur</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Même si la <b>Cathédrale de l'Espoir</b> est tombée, nous tenons debout pour <b>Anathëa</b>. Même si nous ne sommes pas en sécurité, ce camp est assez stable pour que nous puissions regagner nos forces et nous préparer pour les défis à venir.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Gernese, Eos de la Confrérie de l'Aube</b></Font>
+<Font Size="15" Color="#E6C138">"<i>La coopération est une vertu, nous devrions le savoir. Le Pacte de l'Aveugle portera assistance à l'expansion de notre chair et nous réunira avec notre seigneur, Ashtaroth. À ce stade, nous n'avons plus qu'à l'accueillir.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Le Lambach</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Ils ont chargé dans la forêt avec un tel courage, armés d'une relique sacrée, comment pouvaient-ils échouer ? Leurs lumières ont été étouffées, mais leur chair vit encore comme partie d'une abomination impie.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Ilan, Chevalier de l'Aurore</b></Font>
+<Font Size="15" Color="#E6C138">"<i>C'était un voyage normal, nous n'avons même pas vu que les feuilles saignaient. Mon chien s'est mis à aboyer, puis un tentacule est venu de nulle part et a essayé de saisir ma cheville. <b>Cordanon</b> est mon plus grand marché, mais je ne vais pas risquer ma vie pour du commerce.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Olyffe Théobor, Marchande Itinérante</b></Font>
+<Font Size="15" Color="#E6C138">"<i>L'idée mortelle de l'enrichissement individuel est l'une des forces de l'humanité que nous avons adopté. Notre forme continuera d'évoluer jusqu'à ce que nous soyons imbattable, le champion ultime d'Ashtaroth.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Le Lambach</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Tout le monde a commencé à agir bizarrement. Les gens devenaient forts, avec les veines qui gonflaient et les yeux rougeoyants. De grands groupes ont commencé à se rencontrer pendant la nuit, sortant dans les champs pendant des heures. Heureusement que je me suis enfui tant que je le pouvais encore.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Robin, migrant de Cordanon</b></Font>
+<Font Size="15" Color="#E6C138">"<i>La Cathédrale a servi de temple comme de lieu de repos pour <b>Anathëa</b> elle-même. Nous sommes devenus les gardiens de l'humanité, et nos rituels ont été bénis par la volonté de la Dame de l'Aube.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Lucinda, Hiérophante du Chant Brûlant</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Le <b>Culte de l'Aberrant</b> est connu pour la manière dont il transforme ses fidèles. Des cultistes ont été changés en bêtes imposantes ou déchirés en morceaux pour alimenter d'autres créations. Heureusement, ils n'ont pas été vus en grands nombres depuis le désastre de <b>Fellerton</b> il y a des dizaines d'années.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Xil'Sarei, historien reconnu</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Celle-ci est une perle rare. Ah, ce que nous pourrions faire avec elle. Ce caractère féroce, cette volonté incorruptible, ce sont les caractéristiques que nous recherchons dans notre armée de conquête.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Le Lambach</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Il y a eu un grand tremblement de terre, et cette créature énorme à tentacules est apparue de la fissure. Elles se sont étirées dans la cité, et certaines personnes se sont rangées du côté du monstre, exécutant leurs voisins. Je me suis cachée ici jusqu'à ce que les hurlements s'arrêtent, et j'ai pu m'échapper.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Carmine, réfugiée de Cordanon</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Nous voyons la valeur de l'expérimentation. Nous cherchons la perfection au travers la chair, pour que notre royaume puisse être peuplé de créatures parfaites. Les mortels intéressants peuvent améliorer nos concepts, qui appellent à l'assimilation.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Le Lambach</b></Font>
+<Font Size="15" Color="#E6C138">"<i>Ce terrain était utilisé pour les rites spirituels et les festins. Ma tribu a été influencée par l'appel des dompteurs de démons et nécromanciens. Ils ont oublié les vieilles coutumes, telle que la communion avec le crépuscule. J'espère restaurer les valeurs anciennes dans les coeurs de mon peuple.</i>"</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Zima, Celle Qui Escorte les Perdus</b></Font>
+Friche Septentrionale des Bannis
+Plateforme sur le Champ de Bataille
+Conflux
+Portail de la Cathédrale de la Vérité
+Conflux
+Monolithe - Couloirs Inférieurs
+Monolithe - Couloirs Supérieurs
+Portail du Monolithe
+Camp du Blason de l'Aube
+Remparts Cellule-H
+Remparts Cellule-F
+Désolation Écarlate
+Dernière Ligne Républicaine
+Cellule-H
+Stormfall - Quartier du Palais
+Tour Ouest
+Tour Ouest 1
+Tour Ouest 2
+Tour Ouest 3
+Tour Ouest 4
+Tour Ouest 5
+Mécanisme de la Tour Ouest
+Sommet de la Tour Ouest
+Stormfall - Palais
+Aile de la Foi
+Aile de la Lumière
+Sanctuaire de la Vérité
+Rituel de l'Ascension de la Furie
+Plateforme de la Cathédrale de la Vérité
+Tour Est
+Périphérie du Camp des Purificateurs
+<Font Size="18" Color="#FFFFFF">Bien loin est la splendeur du Joyau de la Mer. Ses rues brillaient il y a peu du feu d'une centaines de lanternes colorées, maintenant remplacées par les Lumières Mortes qui illuminent le brouillard, semblant se porter jusque dans l'esprit des habitants avec des murmures séduisants. Même les nobles ne sont plus en sécurité, leurs cercles imprégnés de la même terreur que les bas quartiers.</Font>
+<Font Size="18" Color="#FFFFFF">Quand le <b>Royaume d'Alia</b> est tombé, devenant la <b>République Unie de l'Humanité</b>, la <b>Confrérie de l'Aube</b> est aussi tombée en disgrâce et s'est cachée dans des havres tels que celui-ci. Fuyant la persécution de la République, ils ont creusé un réseau de refuges pour leurs guerriers en dessous de la <b>Cathédrale de l'Espoir</b>.</Font>
+<Font Size="18" Color="#FFFFFF">La <b>Confrérie de l'Aube</b> a construit ce temple pour protéger un fragment de l'Hélion caché en son sein. Maintenant, une fumée jaune s'élève devant les grandes murailles pour signaler une chose : leur violation. Le <b>Pacte de l'Aveugle</b> est ici.</Font>
+<Font Size="18" Color="#FFFFFF">Le Portail de l'Aube ne s'ouvre pas pour n'importe qui. Dans l'aile destinée à la lumière, les fidèles d'Anathëa trouvent la clarté et le devoir, et combiné à l'aile opposée, ils se montrent dignes de l'attention d'Anathëa.</Font>
+<Font Size="18" Color="#FFFFFF">Cette aile du temple était, jusqu'à il y a encore quelques semaines, une ode à l'espoir, un des attributs d'Anathëa. On pouvait s'accorder à un sentiment de conviction supérieure dans ces couloirs. Maintenants, il y repose, désertés, des livres de théologie abandonnés en désordre par les Hiérophantes. Des hommes au coeurs d'acier marchaient ici, et errent maintenant comme les esclaves de la Furie.</Font>
+<Font Size="18" Color="#FFFFFF">La <b>Désolation Écarlate du Sud</b> regorge d'ossements humains, d'oeufs de monstres insectoïdes, et d'une population Svriir entêtée. Le voyageur blessé qui s'y bat contre les bêtes pourrait lever l'oeil et apercevoir les étendues glacées du nord à cent kilomètres de là, et ainsi se rappeler que le sud n'est qu'un vulgaire seuil pour les terres sans vie du nord.</Font>
+<Font Size="18" Color="#FFFFFF">La République passe à l'action, envoyant des unités de Purificateurs. Ils emploient leur stratégie habituelle, divisant le terrain en grille et y assignant les Justiciers pour mener les troupes de cellule en cellule. Mais là où ils auraient aisément manipulé l'ennemi jusqu'à ce qu'il adopte la position idéale, devant Fort-Carmin ils sont accablés par la diversion des Portejours, et aussi les forces de la Furie qui leur volent des hommes Pacifiés.</Font>
+<Font Size="18" Color="#FFFFFF">Une valse sanglante s'est consolidée au coeur de la bataille. Les forces Purificatrices reculent tandis que les Instigateurs pacifient leurs hommes, et s'arrêtent au bout d'une voie de ravitaillement venant du territoire Républicain. Le Sénat nourrit le combat d'acier trempé et de Canons Fédérateurs, qui maintiennent un feu constant sur le Fort.</Font>
+<Font Size="18" Color="#FFFFFF">Le cri d'un autre humain provoque un étrange effet sur le corps. Une traction profonde dans l'estomac. Une punition physique pour ceux qui résistent à l'instinct de venir en aide. Quand l'ennemi vient en portant le visage d'un ami, s'appuyer de cette douleur peut-être salvateur.</Font>
+<Font Size="18" Color="#FFFFFF">L'emplacement de Fort-Carmin serait considéré par beaucoup comme un cauchemar, aride et éloigné de tout poste marchand. Mais le Fort n'était jamais tourné vers l'extérieur. Il s'incline sur lui-même, pas digne d'être remarqué, et contenant une chose qui défie toute contrainte.</Font>
+<Font Size="18" Color="#FFFFFF">Les forces Républicaines qui ont construit <b>Fort-Carmin</b> avaient un but différent à l'esprit au premier abord. Elles avaient rencontré le Monolithe, une construction étrange d'où semblait émaner le pouvoir de la Furie. Les forces ont testé toutes sortes d'armes conventionnelles contre cette entité, mais suite à l'échec de cette méthode, ont choisi de la mettre en quarantaine.</Font>
+<Font Size="18" Color="#FFFFFF">Le mécanisme de verrouillage qui barre le passage vers le <b>Monolithe</b> était pensé comme empêchant quelque chose de sortir. Les Républicains ont négligé l'idée que quelque chose puisse vouloir <i>entrer</i>. <b>La Confrérie de l'Aube</b> s'est infiltrée, tentant d'étudier le <b>Monolithe</b>, alors que le flux de Démons de Furie autour de Fort-Carmin commençait. Cette funeste coïncidence viendrait à définir le conflit.</Font>
+<Font Size="18" Color="#FFFFFF">Ce pont est la seule entrée ou sortie du cloître du <b>Monolithe</b>. L'accès est très restreint, avec seuls quelques intellectuels Républicains entrant de temps à autre pour tester de nouveaux plans pour sa destruction. Il y a eu peu de découvertes quant à cette question, mais une trouvaille jette l'ombre sur le reste de leurs recherches : le <b>Monolithe</b> avait dormi sous le sable depuis des éons, attendant qu'on le trouve.</Font>
+<Font Size="18" Color="#FFFFFF">Des perspectives concentriques et cristallines dominent l'intérieur du <b>Monolithe</b>. Toute cette combinaison de mouvement sert un but ésotérique et inconnu : la structure est si ancienne que les desseins du créateur sont inconnus. Une vague d'énergie fait vibrer l'oreille interne, qui semble un moment devenir totalement sourde : L'Abysse ronge les bords du monde.</Font>
+<Font Size="18" Color="#FFFFFF">Un conflux d'énergie fait rage au sommet du <b>Monolithe</b>, et chaque pas qui vous en rapproche amène un sentiment d'horreur. Quelque chose comme des coups de tonnerre résonne du sommet de la structure, étouffant tout son pour un instant. Des apparitions à peine visibles glissent sous la peau des invités tel une lumière irisée.</Font>
+<Font Size="18" Color="#FFFFFF">Les trois rayons qui déchirent un chemin au travers la terre, trouvent leur origine à <b>Cordanon</b>, <b>Gehenna</b>, et <b>Stormfall</b>, fusionnent ici. L'énergie et la terreur de milliers se fait nourrir au <b>Monolithe</b>, et le monde attend.</Font>
+<Font Size="15" Color="#E6C138">"Je ne peux pas expliquer ces convulsions. Quelques uns de mes patients ont souffert de tels symptômes auparavant ; les yeux qui se révulsent, une pâleur au visage, les muscles qui se contractent. Mais quelque chose est différent. Un mot unique ne peut pas le décrire : un choc électrique entre leur peau et la mienne, un murmure qui semble disparaître avant que je ne l'entende vraiment. Suis-je touchée par un esprit maléfique ? Dois-je m'éloigner de mes propres enfants quand ils ont le plus besoin de moi ?"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Artemy Beckraft, Docteur</b></Font>
+<Font Size="15" Color="#E6C138">"On n'aurait pas dû fuir. On peut encore ramener Cymbel de la Pacification, je me fous de ce que dit Gendris. Ces lâches m'ont menottée quand j'ai essayé d'aller la chercher. Pour 'ma propre sécurité'. Comment a-t-on pu abandonner si facilement ? Nous avons fait un serment. Nous sommes tous censés être frères et soeurs."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Imogen, Initiée de la Confrérie de l'Aube</b></Font>
+<Font Size="15" Color="#E6C138">"Je suis venu offrir la paix aux vénérateurs de l'Aube, et ils répondent en scellant la porte de leur <b>Sanctuaire Intérieur</b>. Allons, si leur dame brille si fort, elle peut sûrement tolérer la venue de la paix."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Sinadrahel, Héraut du Prince Aveugle</b></Font>
+<Font Size="15" Color="#E6C138">"Nos plus grands guerriers reposent finalement au sein de ces couloirs. Songer qu'ils sont en train d'être souillés et vandalisés par nos propres hommes m'est insupportable. Nous devons agir vite pour préserver l'héritage de nos frères."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Gernese, Eos de la Confrérie de l'Aube</b></Font>
+<Font Size="15" Color="#E6C138">"Une grande fraction de l'éducation d'un Frère de l'Aube se fait dans de tels temples. Après tout, il serait irresponsable de placer une épée dans la main de n'importe quel enfant capricieux. D'abord, nous devons faire taire le tourbillon en nos initiés, de manière telle qu'ils n'auront peut-être pas besoin de tirer leur arme, en fin de compte. Avant de manier nos épées, chantez nos chansons."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Lucinda, Hiérophante du Chant Brûlant</b></Font>
+<Font Size="15" Color="#E6C138">"Les éditeurs à Archion ont toute une économie fondée sur des livres concernant la <b>Désolation Écarlate du Nord</b>. Ils clament que les <b>Rôdeurs Transhumants</b> sont leur source. C'est du baratin. Trois d'entre nous sommes partis vers cette frontière. J'étais la seule à parvenir à mi-chemin. J'en suis témoin : personne n'y parviendra jamais."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Djohariah, Rôdeuse Transhumante</b></Font>
+<Font Size="15" Color="#E6C138">"Je refuse de céder à ces jeux d'intimidation. Battre en retraite maintenant ? Alors que les démons marchent en somnambules sur le champ de bataille ? Je préférerais livrer ma démission à l'Inquisiteur en personne. Restez sur eux !"</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Talrog, Justicier de l'Armée Purificatrice</b></Font>
+<Font Size="15" Color="#E6C138">"J'ai traversé notre inventaire, j'ai placé tous les ordres dont nous pourrions avoir besoin, mais rien de tout ça ne nous aidera sans les forces pour défendre ce camp. On se bat sur deux fronts, et aucune arme ne va changer ça. Si on ne nous fait pas parvenir de renforts d'ici demain, cette bataille est terminée."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Gerta Hollis, Officière de Logistique dans l'Armée des Purificateurs</b></Font>
+<Font Size="15" Color="#E6C138">"Ne me laisse pas. Attends que je sois mort, pitié, je t'en prie. Mes doigts sont engourdis."</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Soldat Sans Nom de l'Armée des Purificateurs</b></Font>
+<Font Size="15" Color="#E6C138">"Notre plus grande faiblesse repose dans les maux que nous devons accepter. Ceux que nous ne pouvons pas purger, et que nous sommes forcés de tolérer. <b>Fort-Carmin</b> est, et a toujours été, une blessure saignante dans notre corps.</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Johan Bereich, Sénateur de la République Unie de l'Humanité</b></Font>
+<Font Size="15" Color="#E6C138">"Le Sénat est insatisfait du progrès des Purificateurs. Le <b>Monolithe</b> a été déterré il y a des mois, et reste encore debout. Si le Grand Inquisiteur Otranto est incapable de superviser sa destruction, le Sénat supervisera sa quarantaine.\n\nNous envoyons nos experts à la <b>Désolation Écarlate</b> pour analyser la situation et ébaucher des plans pour une installation qui isolera l'artéfact.\n\nNous ne céderons rien aux hérétiques."</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Décret 3.3.3.6.7. du Sénat de la République Unie de l'Humanité</b></Font>
+<Font Size="15" Color="#E6C138">"<b>Fort-Carmin</b> a été construit avec une colonne vertébrale, des veines, des nerfs. Le système de traction électrique est un noyau vivant, fait pour retenir un mal sans nom."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Argon Valkner, Ingénieur Républicain</b></Font>
+<Font Size="15" Color="#E6C138">"Nous espérions étudier le <b>Monolithe</b> et finir ce que les Purificateurs avaient commencé. Tous les indices suggèrent que c'est une structure bien plus ancienne que les fragments de l'Hélion eux-mêmes. Nous aurions pu clarifier tout ça, s'il n'y avait la République et sa fierté."</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Calahad, Chevalier de l'Aurore de la Confrérie de l'Aube</b></Font>
+<Font Size="15" Color="#E6C138">"Parfois, je me demande si je protège vraiment les structures Primordiales, ou si je protège la création de ces structures."</Font><br/><br/><Font Size="17" Color="#E6C138"><b>Anasareth, Gardienne Primordiale</b></Font>
+<Font Size="15" Color="#E6C138">"Les humains s'inquiètent, ils se demandent si leurs créateurs les écoutent ou non, quand ils pourraient passer leur vie à n'importe quelle autre tâche. Mais nous les Gardiens qui vouons notre existence aux Primordiaux ne trouvons pas le temps pour douter, alors que nous gardons des logis vides."</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Anasareth, Gardienne Primordiale</b></Font>
+<Font Size="15" Color="#E6C138"><b>"Ahriman</b> m'a susurré quelque chose à l'esprit. Il m'a nourri l'idée qu'<b>Anathëa</b> nous avait abandonnés. J'y ai cru pendant longtemps. Maintenant que j'ai vu sur quels pouvoirs se fonde le monde que nous occupons, je me demande si Anathëa a la moindre influence. Les Portejours tiennent l'Hélion entre leurs mains. Si la Dame est tout ce que l'on nous a promis, aussi tiennent-il certainement ma foi."</Font><br/><br/><Font Size="17" Color="#E6C138"> <b>Heimlock, Grand Inquisiteur des Purificateurs</b></Font>
+Couloirs d'Anankis
+Emprise des Portejours
+Chapelle de l'Aube de Cordanon
+Sanctuaire Abandonné des Portejours
+Ruche de Svriirs
+Caves du Dormeur
+Territoire Républicain - Désolation Écarlate du Sud
+Désolation Écarlate du Sud
+Catalyseur Primordial
+Nécropole Urhan Enfreinte
+Nécropole Urhan Profanée
+Nécropole Urhan
+Restes du Lambach
+Réseau de Cavernes
+Bois du Profanateur
+Forêt Républicaine
+Falaises Verdoyantes - Bosquet Profond

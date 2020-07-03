@@ -1,0 +1,22 @@
+ORIGINAL TEXT
+Étourdi
+L'Étourdissement interrompt les cibles et les empêche de se déplacer pendant quelques instants.
+Empoisonné
+Le Poison inflige des dégâts Toxiques sur le temps à la cible.
+Brûle
+Les Brûlures inflige des dégâts sur le temps à la cible et autour de la cible.
+Gelé
+Le Gel empêche la cible d'agir et de se déplacer.
+Saigne
+Le Saignement inflige des dégâts sur la durée.
+Électrocuté
+L'Électrocution inflige des dégâts au fil du temps. Des dégâts supplémentaires peuvent se produire si plusieurs ennemis subissant l'Électrocution restent proches.
+Affaibli
+Faiblesse réduit les dégâts infligés par la cible.
+Stase
+La Stase ralentit tous les mouvements de la cible.
+Malédiction
+Malédiction augmente les dégâts subis par la cible.
+Maintenez Espace pour activer second souffle\n%1/%2 Chance(s) restante(s)
+Cliquez pour l'aider
+Maintenez la touche X pour abandonner

@@ -275,7 +275,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Children of Heimlock</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Enfants de Heimlock</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Les Enfants d'Heimlock</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabel</Data></Cell>

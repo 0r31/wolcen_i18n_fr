@@ -1,0 +1,396 @@
+ORIGINAL TEXT
+Création de personnage
+Corps
+Visage
+Couleur de peau
+Type de corps
+Musclé
+Chétif
+Gros
+Mince
+Cheveux
+Coupe de cheveux
+Couleur des cheveux
+Yeux
+Œil gauche
+Œil droit
+Barbe
+Style de barbe
+Couleur de barbe
+Saturation
+Couleur
+Correspondance des couleurs
+Coffre
+Nom indisponible
+Supprimer le personnage
+Désolé, le nom %1 est déjà pris. Veuillez choisir un autre nom.
+Êtes-vous sûr de vouloir supprimer %1 ? Tous vos objets et votre progression seront perdus.
+Votre liste de personnage est pleine.
+Vous ne pouvez pas avoir plus de %1 personnages actifs.
+Œil 1
+Œil 2
+Œil 3
+Œil 4
+Œil 5
+Œil 6
+Œil 7
+Œil 8
+Œil 9
+Œil 10
+Œil 11
+Coupe 1
+Coupe 2
+Coupe 3
+Coupe 4
+Coupe 5
+Coupe 6
+Coupe 7
+Coupe 8
+Coupe 9
+Coupe 10
+Barbe 1
+Barbe 2
+Barbe 3
+Barbe 4
+Barbe 5
+Barbe 6
+Barbe 7
+Barbe 8
+Barbe 9
+Barbe 10
+Agilité
+Bonus aux dégâts d'Agilité
+Saignement
+Brûlure
+Malédiction
+Gel
+Empoisonnement 
+Afflictions
+Choc
+Stase
+Étourdissement
+Faiblesse
+Chances d'Affliction
+Bonus de dégâts apporté par les Attributs
+Score de Coup Critique des Attaques
+Score de Résistances Globales
+Vitesse d'Attaque (Mêlée)
+Score de Vitesse d'Attaque
+Bonus de Vitesse d'Attaque
+Primaire
+Secondaire
+Tertiaire
+Quaternaire
+Bessure Ouverte
+Score d'application
+Chances d’infliger Saignement
+Dégâts de Saignement
+Durée de Saignement
+Modificateur de durée de Saignement
+Fréquence de Saignement
+Chances de Blocage
+Efficacité du Blocage
+Résistance au Renversement
+Score d'application
+Chance d'infliger Brûlure
+Dégâts de Brûlure
+Durée de Brûlure
+Modificateur de durée de Brûlure
+Fréquence de Brûlure
+Chances de Coup Critique (Armes)
+Dégâts Critiques (Armes)
+Score d'Application de Malédiction
+Chances d'infliger Malédiction
+Durée de Malédiction
+Modificateur de durée de Malédiction
+Efficacité de Malédiction
+Diffusion de Malédiction
+Rayon de Malédiction
+Fréquence de Malédiction
+Dégâts
+Portée de Ruée
+Bouclier de Force
+Délai de Régénération
+Montant de Régénération
+Survivabilité
+Chances d'Esquive
+Score d'Esquive
+Score d'Affliction avec les Attaques
+Score d'Affliction avec les Sorts
+Score de Résistance aux Afflictions
+Dégâts moyens
+Expérience
+Modificateur de durée de Peur
+Férocité
+Bonus aux dégâts de Férocité
+Feu
+Score de Gel
+Chances d'infliger Gel
+Durée de Gel
+Modificateur de durée de Gel
+Modificateur de durée de Frénésie
+Givre
+Rayon de récupération de Globes
+Chances de trouver de l'Or
+Rayon de récupération de l'Or
+Vie
+Montant de Régénération
+Fréquence de Régénération de Vie
+Résistance au Renversement
+Absorption de Vie des Attaques
+Absorption de Vie des Sorts
+Foudre
+Découverte Magique
+Max. Application d'Affliction
+Divers
+Vitesse de Déplacement
+Combat
+Physique
+Toxique
+Score d'Empoisonnement
+Chances d'Empoisonnement
+Dégâts d'Empoisonnement
+Durée d'Empoisonnement
+Modificateur de durée d'Empoisonnement
+Fréquence d'Empoisonnement
+Potions
+Présence
+Conservation de Rage
+Rage par Coup
+Rage par coup
+Rage par Coup Fatal
+Rage
+Points d'Attributs restants
+Types de Résistances
+Résistances
+Élémentaire
+Matérielle
+Occulte
+Ressource
+%1 par coup : %2
+Ressources totales
+Sacré
+Ombre
+Score d'Electrocution
+Chances d’Électrocution
+Dégâts d’Électrocution
+Durée d’Électrocution
+Modificateur de durée d'Électrocution
+Fréquence d’Électrocution
+Modificateur de durée du Ralentissement
+Score de Vitesse d'Incantation
+Score de Coup Critique des Sorts
+Endurance
+Régénération d'Endurance
+Score d'application
+Chances d'infliger Stase
+Stasis Duration modifier
+Durée de Stase
+Efficacité de Stase
+Score d'Étourdissement
+Chances d'Étourdissement
+Durée d'Étourdissement
+Modificateur de durée d'Étourdissement
+Résistance à l'Étourdissement
+Résistance à l'Étourdissement
+Robustesse
+Bonus aux dégâts de Robustesse
+Éther
+Volonté générée par coup
+Régénération de Volonté
+Score d'application
+Chances d'Affaiblissement
+Durée d'Affaiblissement
+Modificateur de durée d'Affaiblissement
+Efficacité d'Affaiblissement
+Dégâts de l'Arme
+Sagesse
+Volonté
+Bonus aux dégâts de Sagesse
+Masquer les détails
+Réinitialiser Attributs %1
+Réinitialiser Passifs %1
+Réinitialiser Attributs
+Pas assez d'Affinité Primordiale
+Êtes-vous sûr de vouloir réinitialiser vos Points d'Attribut ?
+Réinitialiser la Roue des Destins
+Êtes-vous sûr de vouloir réinitialiser vos Points de Compétence Passives ?
+Vous n'avez pas assigné de Point de Passif.
+Aucun point d'attribut n'a été assigné.
+Cette action ne peux être réalisée qu'en ville.
+Afficher les détails
+Votre Agilité. La jauge représente votre avancement avec cet Attribut par rapport à la valeur moyenne attendue à votre niveau.
+Les dégâts bonus gagnés avec les points d'Attributs en Agilité
+Votre Agilité totale. Affecte les la Vitesse d'Attaque et la Vitesse d'Incantation.
+Affliction de Type Saignement. Cette Affliction inflige des dégâts de Type Blessure à vos cibles sur la durée, et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles Saignent tant qu'elles sont affectées par Saignement.
+Affliction de Type Brûlure. Cette Affliction inflige des dégâts de Feu sur la durée à votre cible principale et à un maximum de 5 cibles à proximité de votre cible principale. Vos cibles Brûlent tant qu'elles sont affectées par Brûlure.
+Affliction de Type Malédiction. Cette Affliction augmente les dégâts reçus par vos cibles et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Maudites tant qu'elles sont affectées par Malédiction.
+Affliction de Type Gel. Cette Affliction empêche vos cibles de bouger ou d'agir pendant un court laps de temps. Les cibles sont Gelées tant qu'elles sont affectées par Gel.
+Affliction de Type Poison. Cette Affliction inflige des dégâts Toxiques à vos cibles sur la durée, et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Empoisonnées tant qu'elles sont affectées par Poison.
+Vos chances d'infliger des Afflictions avec les armes équipées.
+Vos capacités d'application des Afflictions. Représente votre aptitude à infliger des dégâts et afflictions supplémentaires sur le temps.
+Affliction de Type Choc. Cette Affliction inflige des dégâts de Type Foudre à la cible initiale sur la durée, et inflige des dégats Foudre additionnels aux Cibles Choquées autour d'elle. Cette Affliction peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Choquées tant qu'elles sont affectées par Choc.
+Affliction de Type Stase. Cette Affliction diminue le Mouvement, l'Attaque, et la Vitesse d'Incantation de la Cible, et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Lentes tant qu'elles sont affectées par Stase. 
+Affliction de Type Étourdissement. Cette Affliction empêche votre cible de bouger ou d'attaquer pendant un court laps de temps. Les cibles sont Étourdies tant qu'elles sont affectées par Étourdissement.
+Affliction de Type Faiblesse. Cette Affliction diminue les dégâts infligés par la Cible et peut être appliquée jusqu'à votre valeur maximum d'Application d'Affliction. Vos cibles sont Affaiblies tant qu'elles sont affectées par Faiblesse.
+Bonus de Dégâts acquis grâce aux points d'Attributs. Votre Attribut Primaire(celui dans lequel vous avez le plus de points) vous donne un bonus de Dégâts supérieur à votre Attribut Secondaire, qui donne lui-même un bonus de Dégâts supérieur à l'Attribut Tertiaire.
+Votre modificateur global de Chances de Coup Critique d'Attaques et Compétences.
+Votre modificateur global des dégâts Critiques d'Attaques et Compétences.
+Votre modificateur global de Résistance contre les principaux Types de Dégâts.
+Modificateur appliqué au score de Coup Critique des Attaques.
+Modificateur de Vitesse d'Attaque.
+Modificateur global de Vitesse d'Attaque avec les armes de mêlée.
+Le Bonus de Vitesse d'Attaque est ajouté à votre Vitesse d'Attaque de base, ce qui augmente votre Vitesse d'Attaque Globale. Votre Vitesse d'Attaque de base dépend des armes équipées.
+Modificateur global de vos trois Attributs ayant les scores les plus élevés. Ce modificateur s'applique aux Attaques et aux Sorts.
+Dégâts de Blessure, offre une Chance d'infliger Saignement à la cible.
+Vos chances globales d'infliger Saignement avec des dégâts de Blessure.
+Les Dégâts infligés par Saignement à chaque itération. La première valeur correspond à une seule Affliction de Saignement. La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions de Saignement sur une cible.
+Détermine la durée de base de l'Affliction de Saignement sur la cible avant une itération. Cette durée est réinitialisée si vous appliquez un nouveau Saignement sur la cible.
+Le modificateur global de la durée de Saignement.
+Le Score de Saignement modifie vos Chances d'Application de Saignement.
+Le délai entre chaque itération de Saignement.
+Détermine vos Chances de Blocage d'un coup qui vous est porté. Lorsqu'un coup est Bloqué, cela réduit les dégâts d'une attaque en se basant sur l'Efficacité du Blocage. Vous obtenez généralement des Chances de Blocage en portant un Bouclier.
+Votre Efficacité de Blocage. Elle représente le pourcentage de dégâts ignorés lorsque vous Bloquez.
+Vos chances globales d'infliger Brûlure avec des dégâts de Feu.
+Les Dégâts de Feu infligés par Brûlure à chaque itération. La première valeur correspond à une seule Affliction de Brûlure. La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions de Brûlure sur une cible.
+Détermine la durée de base de l'Affliction de Brûlure sur la cible avant une itération. Cette durée est réinitialisée si vous appliquez une nouvelle Brûlure sur la cible.
+Modificateur global de la durée de Brûlure.
+Le Score de Brûlure modifie vos Chances d'Application de Brûlure.
+Le délai entre chaque itération de Brûlure.
+Vos Chances de Coup Critique. Les Coups Critiques infligent des Dégâts Critiques en plus des dégâts infligés par vos Armes.
+Votre multiplicateur de Dégâts Critiques. Représente le montant de Dégâts Critiques infligés par les Coups Critiques.
+Vos Chances d'infliger Malédiction avec des dégâts d'Ombre de toutes les sources.
+Détermine la durée de base de l'Affliction de Malédiction sur la cible avant son expiration.
+Modificateur global de la durée de Malédiction.
+Votre Efficacité de Malédiction détermine les Dégats additionnels subis par un Enemi Maudit par Application de l'Affliction Malédiction que vous leur avez infligé. La première valeur affichée correspond aux Dégats additionnels qui seront subis par un ennemi avec une application de Malédiction, et la deuxième représentera les Dégats additionnels qu'un Ennemi subira avec la quantité d'applications maximum.
+Cette ligne ne s'applique plus. Merci de nous le signaler si vous la voyez en jeu.
+Cette ligne ne s'applique plus. Merci de nous le signaler si vous la voyez en jeu.
+Le Score d'Application de Malédiction est le modificateur principal pour vos Chances d'infliger Malédiction.
+Délai entre chaque itération de la Malédiction.
+Vos Dégâts de base avec les armes équipées.
+La portée maximum de votre Ruée. Une grande portée signifie que vous pourrez utiliser Ruée sur les ennemis de plus loin.
+Le temps de transfert de la Rage vers la Volonté, et vice versa.
+Valeur totale du Bouclier de Force. Protège votre Vie de la plupart des dégâts jusqu'à ce qu'il soit vide. À la fin du Délai de Régénération du Bouclier de Force, il est progressivement rétabli à la fréquence de votre Régénération de Bouclier de Force.
+Temps nécessaire sans subir de dégâts pour que la Régénération de Bouclier de Force s'active. Lorsque vous subissez des dégâts, le Délai de Régénération du Bouclier de Force est réinitialisé.
+Quantité de Bouclier de Force que vous restaurez par seconde grâce à la Régénération du Bouclier de Force.
+Vos capacités Défensives de base, représentant votre faculté à réduire les dégâts et à éviter les attaques.
+Modificateur appliqué à vos Chances d'Esquive.
+Votre total de Chances d'Esquive. Esquiver ignore complètement les dégâts, quel que soit leur Type.
+Modificateur appliqué à vos Chances d'Affliction avec toutes les Attaques.
+Modificateur appliqué à votre Résistance aux Afflictions.
+Modificateur appliqué à vos Chances d'Affliction avec tous les Sorts.
+Votre Taux de Dégâts moyens avec les armes équipées. Prend en compte leurs dégâts et leur Vitesse d'Attaque.
+Votre Expérience au niveau actuel de votre personnage. Atteindre les prérequis d'Expérience pour le prochain niveau fera passer votre Personnage au prochain Niveau. Vous pouvez gagner de l'expérience en tuant des ennemis et en terminant des Quêtes.
+Modificateur global de la durée de Peur.
+Votre valeur de Férocité. La jauge représente votre avancement avec cet attribut par rapport à ce qui est attendu à votre niveau.
+Les dégâts bonus gagnés avec les points d'Attributs en Férocité
+Votre Férocité totale. Affecte votre Régénération de Vie et le Score de Coup Critique des Attaques et des Sorts.
+Les Dégâts de Feu ont une chance de base d'infliger Brûlure à la cible.
+Vos chances d'infliger Gel avec les dégâts de Givre.
+Durée de base du Gel.
+Modificateur de durée globale du Gel.
+Le Score de Gel est le modificateur principal pour vos Chances d'infliger Gel.
+Modificateur de durée globale appliqué à Frénésie.
+Les Dégâts de Givre ont une chance de base d'infliger Gel à la cible.
+Le rayon total de récupération des globes autour de vous.
+Votre modificateur de chance de trouver de l'or. Augmente le montant d'or obtenu sur les créatures.
+Le rayon total de récupération de l'or autour de vous.
+Vos Points de Vie actuels. Vous en perdrez si les ennemis vous frappent, vous mourrez si ils tombent à 0.
+Le montant de Points de Vie que vous récupérez à chaque itération de Régénération de Vie.
+Le temps écoulé entre chaque itération de votre Régénération de Vie ou de l'Absorption de Vie.
+Le pourcentage de Dégâts absorbés par les Sorts pour remplir votre jauge d'Absorption de Vie. La Jauge d'Absorption de Vie est utilisée pour vous soigner quand votre Régénération de Vie se déclenche.
+Le pourcentage de Dégâts absorbés par les Sorts pour remplir votre jauge d'Absorption de Vie. La Jauge d'Absorption de Vie est utilisée pour vous soigner quand votre Régénération de Vie se déclenche.
+Les Dégâts de Foudre ont une chance de base d'infliger Électrocution à la cible.
+Modificateur de Découverte Magique. Augmente les chances de trouver des objets magiques.
+Votre valeur maximum d'Application d'Affliction représente le nombre maximum d'Applications de chaque Affliction que pouvez infliger à chaque Cible. Chaque Affliction s'applique de manière indépendante jusqu'à cette valeur maximale.
+Autre informations ne correspondant à aucune autre catégorie.
+Votre Vitesse de Déplacement.
+Vos capacités Offensives de base, représentant votre faculté à attaquer et infliger des Dégâts.
+Les Dégâts Physiques sont les dégâts de base pour tout type d'Arme.
+Les Dégâts Toxiques ont une chance de base d'infliger Empoisonnement à la cible, infligeant des dégâts d'Empoisonnement sur la durée.
+Vos chances d'infliger Empoisonnement avec des dégâts Toxiques.
+Les Dégâts infligés par Empoisonnement à chaque itération. La première valeur correspond à une seule Affliction d'Empoisonnement . La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions d'Empoisonnement sur une cible.
+La durée de base d'Empoisonnement.
+Modificateur global de durée d'Empoisonnement.
+Le Score d'Empoisonnement est le modificateur principal pour vos Chances d'infliger Empoisonnement.
+Le délai entre chaque itération d'Empoisonnement.
+Votre niveau de Présence. Affecte la vitesse à laquelle les ennemis vous repèrent. Une valeur normale de Présence est 100%: en-dessous, vous devenez plus difficile à détecter. À 0%, vous êtes invisible. Au-dessus de 100%, vous êtes très facile à repérer et à traquer.
+Le délai avant que la Régénération de Volonté s'active après avoir gagné de la Rage. La Conservation de Rage n'est pas déclenchée par la dépense de Volonté ou de Rage.
+Le montant de Points de Rage générés à chaque fois que vous frappez un ennemi avec une Arme (Bâtons exclus)
+Le montant de Points de Rage générés à chaque coup porté à un ennemi avec votre arme (sauf Bâtons).
+Le montant de Points de Rage générés à chaque fois que vous tuez un ennemi (sauf avec un Bâton).
+Vos points d'Attributs restants. Vous gagnez des points en prenant des niveaux et vous pouvez les dépenser en Férocité, Robustesse, Agilité et Sagesse.
+Vos Résistances aux types principaux de Dégâts. Une Résistance positive atténuera les dégâts que vous recevrez de ce type, selon la valeur des Dégâts et le niveau de l'ennemi.
+Les Résistances Élémentaires affectent les Résistances au Feu, au Givre, à la Foudre et à leurs Afflictions associées.
+Les Résistances Matérielles affectent les Résistances Physiques, Toxiques, aux Blessures et à leurs Afflictions associées.
+Les Résistances Occultes affectent les Résistances à l'Éther, au Sacré, à l'Ombre et à leurs Afflictions associées.
+Vos Résistances passives à un type spécifique de Dégât. Une Résistance négative signifie que vous prendrez plus de dégâts de cette source.
+Vos capacités de Ressources, représente la façon dont vous générez toutes les Ressources: Rage, Volonté, Endurance.
+Vos Ressources maximum disponibles en Volonté et en Rage.
+Les Dégats Sacrés ont une Chance d'infliger l'Affliction Faiblesse à leur Cible.
+Les Dégats d'Ombre offrent une Chance d'infliger l'Affliction Malédiction à leur Cible.
+Vos chances globales d'infliger Électrocution avec les dégâts de Foudre.
+Les Dégâts infligés par Électrocution à chaque itération. La première valeur correspond à une seule Affliction d'Électrocution. La seconde correspond aux dégâts que vous pouvez faire avec votre maximum d'Afflictions d'Électrocutions sur une cible.
+Durée de base d'Électrocution.
+Modificateur global de durée appliqué à Électrocution.
+Le Score d'Électrocution est le modificateur principal pour vos Chances d'infliger Électrocution.
+Le délai entre chaque itération d'Électrocution.
+Modificateur de durée des pièges et enchevêtrements.
+Modificateur appliqué à votre Vitesse d'Incantation.
+Modificateur appliqué à vos Chances de Coup Critique des Sorts.
+Le montant maximum d'Endurance disponible. Les points d'Endurance vous permettent d'utiliser la Roulade.
+Votre Régénération d'Endurance représente le temps qu'il faut pour qu'un Point d'Endurance se regénère après une Roulade.
+Vos Chances d'infliger Stase avec les Dégâts d'Éther.
+Durée de base de la Stase.
+Votre Efficacité de Stase détermine à quel point le Mouvement, l'Attaque, et la Vitesse d'Incantation de l'Ennemi Ralenti sont diminuées par application de Stase. La première valeur affichée correspond à la valeur de Ralentissement d'un Enemi avec une Application de Stase, et la deuxième représente la valeur de Ralentissement d'un Ennemi avec le nombre maximum d'Applications de Stase.
+Le Score de Stase est le modificateur principal pour vos Chances d'infliger Stase.
+Vos Chances d'infliger Étourdissement.
+Durée de base de l'Étourdissement.
+Modificateur de durée globale d'Étourdissement.
+Votre Résistance aux Étourdissements. Peut vous donner une chance d'ignorer complètement un Étourdissement.
+Le Score d'Étourdissement est le modificateur principal pour vos Chances d'infliger Étourdissement.
+ui_cs_thorndamage_tooltip n'est plus utilisé. Merci de signaler sa présence à Wolcen Studio si vous tombez dessus.
+ui_cs_thorndamagemod_tooltip n'est plus utilisé. Merci de signaler sa présence à Wolcen Studio si vous tombez dessus.
+Chances de Saignement
+Chances de Brûlure
+Chances de Gel
+Chances d'Électrocution
+Chances d'Étourdissement
+Chances d'Empoisonnement
+Chances de Faiblesse
+Chances de Malédiction
+Chances de Stase
+Chances de Coup Critique d'Attaque
+Chances de Coup Critique de Sort
+Résistances
+Chances d'Esquive
+Vitesse d'Attaque
+Vitesse d'Incantation
+Résistance aux Afflictions
+Chances d'Affliction sur une Attaque
+Chances d'Affliction sur un Sort
+Résistance Physique
+Résistance au Toxique
+Résistance aux Blessures
+Résistance au Feu
+Résistance au Givre
+Résistance à la Foudre
+Résistance à l'Éther
+Résistance au Sacré
+Résistance à l'Ombre
+Votre montant de Robustesse. La jauge représente votre avancement avec cet attribut par rapport à ce qui est attendu à votre niveau.
+Les dégâts bonus gagnés avec les points d'Attributs en Robustesse
+Votre Robustesse totale. Affecte votre Vie Maximum et toutes vos Résistances.
+Les dégâts d'Éther ont une chance d'infliger Stase à la cible.
+Modificateur global du coût en Volonté de vos Sorts. La réduction de coût réduit également la génération de Rage.
+Le nombre de Points de Volonté généré à chaque fois que vous touchez un ennemi avec un bâton.
+Votre Régénération de Volonté par seconde. Représente également la Rage que vous perdez chaque seconde après le Délai de Conservation de Rage.
+Vos Chances d'infliger Faiblesse avec des dégâts de Sacré.
+La durée de base de Faiblesse.
+Modificateur de durée globale appliqué à Faiblesse.
+L'efficacité globale de Faiblesse. La première valeur correspond à une seule Affliction de Faiblesse, la seconde représente l'efficacité que vous pouvez obtenir avec votre maximum d'Afflictions de Faiblesse.
+Le Score de Faiblesse est le modificateur principal pour vos Chances d'infliger Faiblesse.
+Les dégâts moyens que vous infligez en un coup avec les armes équipées.
+Votre score de Sagesse. La jauge représente votre avancement avec cet attribut par rapport à ce qui est attendu à votre niveau.
+Les dégâts bonus gagnés avec les points d'Attributs de Sagesse
+Votre Sagesse totale. Affecte votre Score de Résistance aux Afflictions et vos capacités à infliger des Afflictions avec les Attaques et les Sorts.
