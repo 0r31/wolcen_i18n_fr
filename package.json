@@ -4,6 +4,7 @@
   "description": "Util scripts to work with wolcen localization files",
   "main": "wolcen.js",
   "scripts": {
+    "unpack": "node wolcen.js unpack",
     "extract": "node wolcen.js extract",
     "pack": "node wolcen.js pack"
   },
@@ -11,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "adm-zip": "^0.4.16",
+    "dotenv": "^8.2.0",
     "xml2js": "^0.4.23"
   }
 }

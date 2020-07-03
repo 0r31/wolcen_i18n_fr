@@ -12,6 +12,8 @@ const TXT_EXT = '.txt';
 const DIST_FOLDER = `${__dirname}/dist`;
 const DIST_PACKAGE = 'french_xml.pak';
 
+require('dotenv').config();
+
 function parse_xml(input_file, output_file) {
   var parser = new xml2js.Parser();
   fs.readFile(input_file, (err, data) => {
@@ -47,6 +49,11 @@ function extract_translations() {
   });
 }
 
+function unpack() {
+  var zip = new AdmZip(path.join(process.env.WOLCEN_I18N_FR_FOLDER, DIST_PACKAGE));
+  zip.extractAllTo(XML_FOLDER, true);
+}
+
 function pack() {
   fs.access(DIST_FOLDER, (err) => {
     if(err) {
@@ -72,6 +79,10 @@ const args = process.argv.slice(2);
 
 if(args.length > 0) {
   switch(args[0]) {
+    case 'unpack':
+      console.log('Unpacking default localization file...');
+      unpack();
+      break;
     case 'extract':
       console.log('Extracting translations from xml files...');
       extract_translations();
