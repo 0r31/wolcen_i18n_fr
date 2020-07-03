@@ -50,7 +50,7 @@ function extract_translations() {
 }
 
 function unpack() {
-  var zip = new AdmZip(path.join(process.env.WOLCEN_I18N_FR_FOLDER, DIST_PACKAGE));
+  var zip = new AdmZip(path.join(process.env.WOLCEN_INSTALL_FOLDER, 'localization', DIST_PACKAGE));
   zip.extractAllTo(XML_FOLDER, true);
 }
 
