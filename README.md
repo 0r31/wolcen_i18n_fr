@@ -13,8 +13,6 @@ It is been done against nodejs v12.16.1 but could work with previous versions...
 
 Three commands are available :
 
-#### Unpack
-
 - `npm run unpack` to unpack the default localization file to the *xml* folder
 - `npm run extract` to extract all localized texts into the *txt* folder
 - `npm run pack` to produce the pak file from xml
