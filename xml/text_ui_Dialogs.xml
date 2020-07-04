@@ -6803,7 +6803,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_NW_ValeriaTalk1_6</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">{I know sister. We end everything this time.|I know sister. We end everything this time.}</Data></Cell>
-    <Cell ss:StyleID="s29"><Data ss:Type="String">{Je sais soeurette. On en finit une bonne fois pour toutes.|Je sais soeurette. On en finit une bonne fois pour toutes.}</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">{Je sais soeurette. On en finit une bonne fois pour toute.|Je sais soeurette. On en finit une bonne fois pour toute.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s19"><Data ss:Type="String">ACT3_Quest2_NW_ValeriaTalk1_7</Data></Cell>

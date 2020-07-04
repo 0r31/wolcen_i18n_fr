@@ -1500,7 +1500,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s22"><Data ss:Type="String">Journey through the Republican Backline</Data></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers la dernière ligne répuclicaine</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Voyager à travers la dernière ligne républicaine</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s18"><Data ss:Type="String">ui_A3_Q2_S4_StepNameLabel</Data></Cell>
